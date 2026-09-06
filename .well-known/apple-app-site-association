@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["TEAMID.com.example.app"],
+        "components": [
+          {
+            "/": "*",
+            "comment": "Ganti TEAMID.com.example.app dengan App ID asli. Tambah batasan path bila perlu."
+          }
+        ]
+      }
+    ]
+  }
+}
