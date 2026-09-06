@@ -3,8 +3,11 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.app",
-      "sha256_cert_fingerprints": ["AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99"]
+      "package_name": "com.enhypen.lyrics",
+      "sha256_cert_fingerprints": [
+        "23:76:77:61:7F:64:08:27:67:09:8F:69:22:51:7E:D5:5E:BF:BA:A9:F6:9F:30:19:30:A9:33:B7:D4:B0:A7:04",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
     }
   }
 ]
