@@ -1,12 +1,16 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.enhypen.lyrics",
       "sha256_cert_fingerprints": [
         "23:76:77:61:7F:64:08:27:67:09:8F:69:22:51:7E:D5:5E:BF:BA:A9:F6:9F:30:19:30:A9:33:B7:D4:B0:A7:04",
-        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "41:68:EE:57:A2:F6:1F:44:96:75:34:4F:68:22:39:EE:18:CB:9F:13:E8:79:4E:7C:32:08:85:AC:D0:79:33:48"
       ]
     }
   }
