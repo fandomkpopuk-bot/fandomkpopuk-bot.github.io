@@ -44,7 +44,7 @@
 <span>Explore All 17 Fan Apps</span>
 <span class="material-symbols-outlined text-lg">arrow_downward</span>
 </a>
-<button class="w-full inline-flex items-center justify-center gap-2 px-space-lg py-3 rounded-full bg-surface-elevated/70 backdrop-blur-md text-on-surface font-label-lg text-label-lg shadow-sm hover:bg-surface-elevated active:scale-95 transition-all" onclick="document.getElementById('suggestModal').classList.remove('hidden')">
+<button class="w-full inline-flex items-center justify-center gap-2 px-space-lg py-3 rounded-full bg-surface-elevated/70 backdrop-blur-md text-on-surface font-label-lg text-label-lg shadow-sm hover:bg-surface-elevated active:scale-95 transition-all" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSeN7DwOrfmbzJ_NJ7r-Qpu3komeohRhJMtqGQhulPGB8dRSKg/viewform?usp=dialog','_blank')">
 <span class="material-symbols-outlined text-accent-cyan-laser text-lg">hotel_class</span>
 <span>Suggest Your Bias Group</span>
 </button>
@@ -643,7 +643,7 @@
 </div>
 <h4 class="font-headline-sm text-headline-sm text-text-primary">Group Not Found Yet!</h4>
 <p class="font-body-sm text-body-sm text-text-secondary mt-1">We haven't launched this dedicated app yet. Tap below to suggest it to the dev team!</p>
-<button class="mt-4 px-5 py-2.5 rounded-full bg-accent-purple-core text-text-primary font-label-md text-label-md shadow-sm" onclick="document.getElementById('suggestModal').classList.remove('hidden')">
+<button class="mt-4 px-5 py-2.5 rounded-full bg-accent-purple-core text-text-primary font-label-md text-label-md shadow-sm" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSeN7DwOrfmbzJ_NJ7r-Qpu3komeohRhJMtqGQhulPGB8dRSKg/viewform?usp=dialog','_blank')">
       Request Group Launch 🚀
     </button>
 </div>
@@ -732,7 +732,7 @@
 <button class="w-full py-3 rounded-full bg-gradient-to-r from-accent-purple-core to-accent-pink-neon text-text-primary font-label-lg text-label-lg shadow-md active:scale-95 transition-transform" onclick="bookmarkAlert()">
           ⭐ Bookmark Hub (Add to Home)
         </button>
-<button class="w-full py-2.5 rounded-full bg-surface-container-high text-on-surface font-label-md text-label-md active:bg-surface-variant transition-colors" onclick="document.getElementById('suggestModal').classList.remove('hidden')">
+<button class="w-full py-2.5 rounded-full bg-surface-container-high text-on-surface font-label-md text-label-md active:bg-surface-variant transition-colors" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSeN7DwOrfmbzJ_NJ7r-Qpu3komeohRhJMtqGQhulPGB8dRSKg/viewform?usp=dialog','_blank')">
           Suggest a Group / Fandom
         </button>
 </div>
@@ -854,18 +854,6 @@
   }
 
   function submitSuggestion() {
-    const group = document.getElementById('suggestGroupInput').value.trim();
-    if (!group) return;
-    document.getElementById('suggestModal').classList.add('hidden');
-    document.getElementById('suggestGroupInput').value = '';
-    document.getElementById('suggestFandomInput').value = '';
-    
-    const toast = document.getElementById('toastNotification');
-    const toastMsg = document.getElementById('toastMsg');
-    toastMsg.innerText = 'Vote logged for ' + group + '! Thank you stan!';
-    toast.classList.remove('hidden');
-    setTimeout(() => {
-      toast.classList.add('hidden');
-    }, 3500);
+    window.open('https://docs.google.com/forms/d/e/1FAIpQLSeN7DwOrfmbzJ_NJ7r-Qpu3komeohRhJMtqGQhulPGB8dRSKg/viewform?usp=dialog', '_blank');
   }
 </script></main></body></html>

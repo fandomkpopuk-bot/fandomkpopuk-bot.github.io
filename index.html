@@ -906,12 +906,12 @@
     const suggestForm = document.getElementById('suggest-form');
     const suggestSuccess = document.getElementById('suggest-success');
 
+    const SUGGEST_FORM_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSeN7DwOrfmbzJ_NJ7r-Qpu3komeohRhJMtqGQhulPGB8dRSKg/viewform?usp=dialog';
     openModalBtns.forEach(btn => {
       if (btn) {
         btn.addEventListener('click', (e) => {
           e.preventDefault();
-          modal.classList.remove('hidden');
-          modal.classList.add('flex');
+          window.open(SUGGEST_FORM_URL, '_blank', 'noopener');
         });
       }
     });
@@ -930,15 +930,7 @@
 
     suggestForm.addEventListener('submit', (e) => {
       e.preventDefault();
-      suggestForm.classList.add('hidden');
-      suggestSuccess.classList.remove('hidden');
-      setTimeout(() => {
-        modal.classList.add('hidden');
-        modal.classList.remove('flex');
-        suggestForm.reset();
-        suggestForm.classList.remove('hidden');
-        suggestSuccess.classList.add('hidden');
-      }, 2500);
+      window.open(SUGGEST_FORM_URL, '_blank', 'noopener');
     });
 
     // Bookmark Toast
