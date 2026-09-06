@@ -1,1 +1,13 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>404 - K-Pop Fandom Hub</title><link rel="icon" href="assets/logo.svg"/><script src="https://cdn.tailwindcss.com"></script></head><body style="background:#0B0819;color:#e6dff8;font-family:sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;margin:0"><div style="text-align:center"><h1>404</h1><p>Page not found. Back to <a href="./" style="color:#EC4899">Fandom Hub</a> | <a href="./mobile.html" style="color:#06B6D4">Mobile</a></p></div></body></html>
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>404 - K-Pop Fandom Hub</title><link rel="icon" href="/assets/logo.svg"/><script>
+// Redirect semua URL yang diawali /bts-stand ke Play Store.
+// GitHub Pages tidak punya redirect server-side, jadi deep link
+// seperti /bts-stand/song/:id dan /bts-stand/member/:nama jatuh ke 404.html.
+// Script ini memindahkan user secara instan via location.replace().
+(function () {
+  var PLAY_URL = "https://play.google.com/store/apps/details?id=com.enhypen.lyrics";
+  var path = window.location.pathname || "";
+  if (path === "/bts-stand" || path.indexOf("/bts-stand/") === 0) {
+    window.location.replace(PLAY_URL);
+  }
+})();
+</script><script src="https://cdn.tailwindcss.com"></script></head><body style="background:#0B0819;color:#e6dff8;font-family:sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;margin:0"><div style="text-align:center"><h1>404</h1><p>Page not found. Back to <a href="/" style="color:#EC4899">Fandom Hub</a> | <a href="/mobile.html" style="color:#06B6D4">Mobile</a></p></div></body></html>
