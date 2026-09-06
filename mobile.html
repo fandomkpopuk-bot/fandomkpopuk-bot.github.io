@@ -11,7 +11,7 @@
       min-height: max(884px, 100dvh);
     }
   </style>
-  </head><body class="bg-surface text-on-surface font-body-md text-body-md flex flex-col min-h-screen pt-safe pb-safe"><main class="flex flex-col relative w-full bg-surface min-h-screen"><div class="flex flex-col w-full text-on-surface">
+  <style>html{scroll-behavior:smooth;}.header-nav-link.active-nav{background:#9333EA!important;color:#fff!important;}</style></head><body class="bg-surface text-on-surface font-body-md text-body-md flex flex-col min-h-screen pt-safe pb-safe"><main class="flex flex-col relative w-full bg-surface min-h-screen"><header class="sticky top-0 z-50 bg-surface-stage/90 backdrop-blur-lg shadow-md"><div class="flex items-center justify-between gap-2 px-margin-mobile py-3"><a href="#top" class="header-nav-link flex items-center gap-2" data-target="top"><span class="w-8 h-8 rounded-full bg-gradient-to-r from-accent-purple-core to-accent-pink-neon flex items-center justify-center text-text-primary shrink-0"><span class="material-symbols-outlined text-lg">graphic_eq</span></span><span class="font-label-lg text-label-lg text-text-primary tracking-wider uppercase">K-Pop Hub</span></a><nav class="hidden sm:flex items-center gap-1" id="header-nav"><a href="#catalog" class="header-nav-link px-3 py-1.5 rounded-full font-label-md text-label-md text-text-secondary hover:text-text-primary hover:bg-surface-elevated transition-colors">Apps</a><a href="#features" class="header-nav-link px-3 py-1.5 rounded-full font-label-md text-label-md text-text-secondary hover:text-text-primary hover:bg-surface-elevated transition-colors">Features</a><a href="#join" class="header-nav-link px-3 py-1.5 rounded-full font-label-md text-label-md text-text-secondary hover:text-text-primary hover:bg-surface-elevated transition-colors">Join</a></nav><button id="header-menu-btn" class="sm:hidden w-10 h-10 rounded-full bg-surface-elevated flex items-center justify-center text-text-primary" aria-label="Open menu" aria-expanded="false"><span class="material-symbols-outlined">menu</span></button></div><div class="px-margin-mobile pb-3"><div class="bg-surface-container-low/80 backdrop-blur-md px-3 py-2 rounded-full flex items-center gap-2 shadow-inner focus-within:ring-1 focus-within:ring-accent-purple-core"><span class="material-symbols-outlined text-text-secondary">search</span><input id="headerSearchInput" class="w-full bg-transparent font-body-sm text-body-sm text-text-primary placeholder-text-muted focus:outline-none" placeholder="Search idol groups, fandoms..." type="text" autocomplete="off"/><button id="headerClearBtn" class="hidden pr-1 text-text-muted hover:text-text-primary" aria-label="Clear search"><span class="material-symbols-outlined text-sm">close</span></button></div></div><div id="mobile-nav-menu" class="hidden sm:hidden mx-margin-mobile mb-3 rounded-2xl bg-surface-elevated/95 p-2 shadow-2xl"><a href="#catalog" class="header-nav-link flex items-center gap-2 px-3 py-2.5 rounded-xl font-label-md text-label-md text-text-primary hover:bg-surface-container-high"><span class="material-symbols-outlined text-accent-pink-neon">apps</span>Explore Apps</a><a href="#features" class="header-nav-link flex items-center gap-2 px-3 py-2.5 rounded-xl font-label-md text-label-md text-text-primary hover:bg-surface-container-high"><span class="material-symbols-outlined text-accent-cyan-laser">stars</span>Features</a><a href="#join" class="header-nav-link flex items-center gap-2 px-3 py-2.5 rounded-xl font-label-md text-label-md text-text-primary hover:bg-surface-container-high"><span class="material-symbols-outlined text-fandom-atiny-gold">group</span>Join Movement</a></div></header><div class="flex flex-col w-full text-on-surface" id="top">
 <!-- TOP AMBIENT GLOW DECORATION -->
 <div class="relative w-full overflow-hidden px-margin-mobile pt-space-md pb-space-lg">
 <div class="absolute -top-24 left-1/2 -translate-x-1/2 w-80 h-80 bg-accent-purple-core/25 rounded-full blur-3xl pointer-events-none"></div>
@@ -109,7 +109,7 @@
 <!-- COMPLETE 17 FANDOM HUBS LIST -->
 <div class="px-margin-mobile flex flex-col gap-3.5" id="appsContainer">
 <!-- 1. ATEEZ -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="bg trending" data-title="ateez atiny kq entertainment">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="bg trending" data-title="ateez atiny kq entertainment hongjoong seonghwa yunho yeosang san mingi wooyoung jongho connect">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-fandom-atiny-gold">
@@ -140,7 +140,7 @@
 </div>
 </div>
 <!-- 2. NMIXX -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg" data-title="nmixx nswer jyp entertainment">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg" data-title="nmixx nswer jyp entertainment lily haewon sullyoon bae jiwoo kyujin connect">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-accent-cyan-laser">
@@ -171,7 +171,7 @@
 </div>
 </div>
 <!-- 3. AESPA -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg trending" data-title="aespa my sm entertainment karina winter giselle ningning">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg trending" data-title="aespa my sm entertainment karina winter giselle ningning update">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-accent-purple-core">
@@ -202,7 +202,7 @@
 </div>
 </div>
 <!-- 4. BTS / ARIRANG ARMY -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="bg trending" data-title="bts arirang army bighit hybe rm jin suga jhope jimin v jungkook">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="bg trending" data-title="bts arirang army bighit hybe rm jin suga j-hope jhope jimin v jungkook bangtan">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-fandom-army-purple">
@@ -233,7 +233,7 @@
 </div>
 </div>
 <!-- 5. BLACKPINK -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg trending" data-title="blackpink blink yg entertainment jisoo jennie rose lisa">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg trending" data-title="blackpink blink yg entertainment jisoo jennie rose lisa rosé">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-fandom-blink-pink">
@@ -264,7 +264,7 @@
 </div>
 </div>
 <!-- 6. BABYMONSTER -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg" data-title="babymonster monstiez yg entertainment">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg" data-title="babymonster monstiez yg entertainment ruka pharita asa ahyeon rami rora chiquita update">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-accent-pink-neon">
@@ -295,7 +295,7 @@
 </div>
 </div>
 <!-- 7. CORTIS -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="bg" data-title="cortis cortis fandom global collective">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="bg" data-title="cortis fandom global collective update">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-tertiary">
@@ -326,7 +326,7 @@
 </div>
 </div>
 <!-- 8. ENHYPEN -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="bg trending" data-title="enhypen engene belift lab hybe">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="bg trending" data-title="enhypen engene belift lab hybe jungwon heeseung jay jake sunghoon sunoo ni-ki niki update">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-accent-cyan-laser">
@@ -357,7 +357,7 @@
 </div>
 </div>
 <!-- 9. Hearts2Hearts -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg" data-title="hearts2hearts h2h community">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg" data-title="hearts2hearts h2h community update">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-secondary">
@@ -388,7 +388,7 @@
 </div>
 </div>
 <!-- 10. ILLIT -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg trending" data-title="illit illuminate gllit belift hybe magnetic">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg trending" data-title="illit illuminate gllit belift hybe magnetic yunah minju moka wonhee iroha update">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-accent-pink-neon">
@@ -419,7 +419,7 @@
 </div>
 </div>
 <!-- 11. IVE -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg trending" data-title="ive dive starship entertainment wonyoung yujin">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg trending" data-title="ive dive starship entertainment wonyoung yujin gaeul rei jang liz leeseo update">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-fandom-dive-blue">
@@ -450,7 +450,7 @@
 </div>
 </div>
 <!-- 12. KATSEYE -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg" data-title="katseye eyekons hybe x geffen">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg" data-title="katseye eyekons hybe geffen daniela lara manon megan sophia yoonchae update">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-accent-purple-core">
@@ -481,7 +481,7 @@
 </div>
 </div>
 <!-- 13. LE SSERAFIM -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg trending" data-title="le sserafim fearnot source hybe chaewon sakura yunjin kazuha eunchae">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg trending" data-title="le sserafim fearnot source hybe chaewon sakura yunjin kazuha eunchae lesserafim update">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-text-primary">
@@ -512,7 +512,7 @@
 </div>
 </div>
 <!-- 14. NEWJEANS -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg trending" data-title="newjeans bunnies ador minji hanni danielle haerin hyein">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="gg trending" data-title="newjeans new jeans bunnies ador minji hanni danielle haerin hyein update">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-fandom-dive-blue">
@@ -543,7 +543,7 @@
 </div>
 </div>
 <!-- 15. STRAY KIDS -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="bg trending" data-title="stray kids skz stay jyp entertainment bang chan felix hyunjin">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="bg trending" data-title="stray kids skz stay jyp entertainment bang chan lee know changbin hyunjin han felix seungmin i.n update">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-fandom-blink-pink">
@@ -574,7 +574,7 @@
 </div>
 </div>
 <!-- 16. TXT -->
-<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="bg" data-title="txt tomorrow x together moa bighit hybe soobin yeonjun beomgyu taehyun hueningkai">
+<div class="app-card bg-surface-stage/80 backdrop-blur-md rounded-2xl p-4 shadow-sm" data-category="bg" data-title="txt tomorrow x together moa bighit hybe soobin yeonjun beomgyu taehyun hueningkai update">
 <div class="flex items-start justify-between gap-2">
 <div class="flex items-center gap-3">
 <div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0 text-accent-cyan-laser">
@@ -648,7 +648,7 @@
     </button>
 </div>
 <!-- FEATURES SECTION: BUILT BY STANS FOR STANS -->
-<div class="mt-space-2xl px-margin-mobile">
+<div class="mt-space-2xl px-margin-mobile scroll-mt-36" id="features">
 <div class="mb-space-md">
 <span class="font-label-sm text-label-sm text-accent-cyan-laser uppercase tracking-wider">FAN-FIRST ECOSYSTEM</span>
 <h2 class="font-headline-md text-headline-md text-text-primary mt-1">Built by Stans, for Stans. Zero Noise.</h2>
@@ -718,7 +718,7 @@
 </div>
 </div>
 <!-- JOIN THE MOVEMENT CTA BANNER -->
-<div class="mt-space-2xl px-margin-mobile">
+<div class="mt-space-2xl px-margin-mobile scroll-mt-36" id="join">
 <div class="bg-gradient-to-br from-surface-stage via-surface-elevated to-surface-stage p-space-lg rounded-2xl shadow-xl relative overflow-hidden text-center">
 <div class="absolute -right-8 -bottom-8 w-32 h-32 bg-accent-pink-neon/20 rounded-full blur-2xl pointer-events-none"></div>
 <div class="w-12 h-12 rounded-full bg-surface-container mx-auto flex items-center justify-center text-accent-pink-neon mb-3">
@@ -790,58 +790,151 @@
 <script>
   let currentFilter = 'all';
 
+  function cardSearchText(card) {
+    // Search across title attr + visible text (group names, members, fandom) — previously data-title only, so member names failed
+    const attr = (card.getAttribute('data-title') || '').toLowerCase();
+    const text = (card.textContent || '').toLowerCase();
+    return attr + ' ' + text;
+  }
+
+  function syncInputs(value, source) {
+    const main = document.getElementById('biasSearchInput');
+    const head = document.getElementById('headerSearchInput');
+    if (main && source !== main) main.value = value;
+    if (head && source !== head) head.value = value;
+  }
+
   function filterApps() {
-    const query = document.getElementById('biasSearchInput').value.toLowerCase().trim();
+    const mainInput = document.getElementById('biasSearchInput');
+    const headInput = document.getElementById('headerSearchInput');
+    const activeEl = document.activeElement;
+    const query = ((activeEl === headInput && headInput ? headInput.value : (mainInput ? mainInput.value : '')) || (mainInput ? mainInput.value : '') || (headInput ? headInput.value : '')).toLowerCase().trim();
     const cards = document.querySelectorAll('.app-card');
     const clearBtn = document.getElementById('clearSearchBtn');
+    const headerClear = document.getElementById('headerClearBtn');
     const emptyState = document.getElementById('noResultsState');
 
-    if (query.length > 0) {
-      clearBtn.classList.remove('hidden');
-    } else {
-      clearBtn.classList.add('hidden');
-    }
+    const hasText = query.length > 0;
+    if (clearBtn) clearBtn.classList.toggle('hidden', !hasText);
+    if (headerClear) headerClear.classList.toggle('hidden', !hasText);
 
     let visibleCount = 0;
 
     cards.forEach(card => {
-      const title = card.getAttribute('data-title') || '';
-      const category = card.getAttribute('data-category') || '';
-      const matchesSearch = query === '' || title.includes(query);
-      const matchesFilter = currentFilter === 'all' || category.includes(currentFilter);
+      const haystack = cardSearchText(card);
+      const category = (card.getAttribute('data-category') || '').toLowerCase();
+      const matchesSearch = query === '' || haystack.includes(query);
+      const matchesFilter = currentFilter === 'all' || category.split(/\s+/).includes(currentFilter);
 
       if (matchesSearch && matchesFilter) {
-        card.style.display = 'block';
+        card.style.display = '';
+        card.classList.remove('hidden');
         visibleCount++;
       } else {
         card.style.display = 'none';
       }
     });
 
-    if (visibleCount === 0) {
-      emptyState.classList.remove('hidden');
-    } else {
-      emptyState.classList.add('hidden');
-    }
+    if (emptyState) emptyState.classList.toggle('hidden', visibleCount !== 0);
+    const badge = document.getElementById('mobile-count-badge');
+    if (badge) badge.textContent = visibleCount + ' / ' + cards.length + ' apps';
   }
 
   function clearSearch() {
     const input = document.getElementById('biasSearchInput');
-    input.value = '';
+    if (input) input.value = '';
+    const head = document.getElementById('headerSearchInput');
+    if (head) head.value = '';
     filterApps();
-    input.focus();
+    if (input) input.focus();
+  }
+
+  function clearHeaderSearch() {
+    const head = document.getElementById('headerSearchInput');
+    if (head) head.value = '';
+    const input = document.getElementById('biasSearchInput');
+    if (input) input.value = '';
+    filterApps();
+    if (head) head.focus();
   }
 
   function setFilter(filterType, elem) {
-    currentFilter = filterType;
+    currentFilter = filterType === 'boy' ? 'bg' : filterType === 'girl' ? 'gg' : filterType;
     document.querySelectorAll('.filter-chip').forEach(chip => {
       chip.classList.remove('bg-accent-purple-core', 'text-text-primary');
       chip.classList.add('bg-surface-stage', 'text-text-secondary');
+      chip.setAttribute('aria-selected', 'false');
     });
-    elem.classList.remove('bg-surface-stage', 'text-text-secondary');
-    elem.classList.add('bg-accent-purple-core', 'text-text-primary');
+    if (elem) {
+      elem.classList.remove('bg-surface-stage', 'text-text-secondary');
+      elem.classList.add('bg-accent-purple-core', 'text-text-primary');
+      elem.setAttribute('aria-selected', 'true');
+    }
     filterApps();
   }
+
+  (function initMobileHeader() {
+    const head = document.getElementById('headerSearchInput');
+    const main = document.getElementById('biasSearchInput');
+    const catalog = document.getElementById('catalog');
+    let navScroll = false;
+    function goCatalog() {
+      if (catalog && !navScroll) {
+        navScroll = true;
+        catalog.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        setTimeout(() => { navScroll = false; }, 900);
+      }
+    }
+    if (head) {
+      head.addEventListener('input', (e) => { syncInputs(e.target.value, head); filterApps(); goCatalog(); });
+      head.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') { head.value = ''; if (main) main.value = ''; filterApps(); head.blur(); }
+        if (e.key === 'Enter') { e.preventDefault(); goCatalog(); }
+      });
+    }
+    if (main) {
+      main.addEventListener('input', (e) => { syncInputs(e.target.value, main); filterApps(); });
+      main.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') { clearSearch(); main.blur(); }
+      });
+    }
+    const menuBtn = document.getElementById('header-menu-btn');
+    const menu = document.getElementById('mobile-nav-menu');
+    function closeMenu() {
+      if (!menu || !menuBtn) return;
+      menu.classList.add('hidden');
+      menuBtn.setAttribute('aria-expanded', 'false');
+      const ic = menuBtn.querySelector('.material-symbols-outlined');
+      if (ic) ic.textContent = 'menu';
+    }
+    if (menuBtn && menu) {
+      menuBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const open = menu.classList.toggle('hidden') === false;
+        menuBtn.setAttribute('aria-expanded', String(open));
+        const ic = menuBtn.querySelector('.material-symbols-outlined');
+        if (ic) ic.textContent = open ? 'close' : 'menu';
+      });
+      document.addEventListener('click', (e) => {
+        if (!menu.classList.contains('hidden') && !menu.contains(e.target) && !menuBtn.contains(e.target)) closeMenu();
+      });
+      document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeMenu(); });
+    }
+    document.querySelectorAll('.header-nav-link[href^="#"]').forEach(link => {
+      link.addEventListener('click', (e) => {
+        const id = link.getAttribute('href');
+        const t = id && id.length > 1 ? document.querySelector(id) : null;
+        if (t) {
+          e.preventDefault();
+          closeMenu();
+          t.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          history.replaceState(null, '', id);
+        }
+      });
+    });
+    document.querySelectorAll('.filter-chip').forEach(chip => chip.setAttribute('aria-selected', chip.textContent.includes('All') ? 'true' : 'false'));
+    filterApps();
+  })();
 
   function bookmarkAlert() {
     const toast = document.getElementById('toastNotification');
