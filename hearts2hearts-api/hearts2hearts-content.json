@@ -1,0 +1,217 @@
+{
+  "band_detail": {
+    "logoLine1": "HEARTS",
+    "logoLine2": "2HEARTS",
+    "agencyLabel": "SM ENTERTAINMENT",
+    "verifiedText": "Verified Artist",
+    "name": "Hearts2Hearts (하츠투하츠)",
+    "tagline": "The Chase • SM New Girl Group",
+    "bio": "Debuted under SM Entertainment on Feb 24, 2025. 8-member K-pop girl group with dreamy sound and vocal melodies, first SM girl group since aespa, uniting global S2U fandom from Seoul to worldwide.",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Feb 24, 2025"
+      },
+      {
+        "label": "Fandom:",
+        "value": "S2U",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "SM ENTERTAINMENT"
+      },
+      {
+        "label": "",
+        "value": "FOCUS EP Tour",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (8)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Jiwoo",
+        "initials": "JW",
+        "role": "Leader • Vocal",
+        "unit": "VOCAL LINE",
+        "featured": true,
+        "tags": "jiwoo",
+        "birthDate": "Sep 7, 2006",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Ballet",
+          "Japanese Tongue-twisters",
+          "Singing"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Carmen",
+        "initials": "CM",
+        "role": "Vocal",
+        "unit": "VOCAL LINE",
+        "tags": "carmen",
+        "birthDate": "Mar 28, 2006",
+        "birthPlace": "Denpasar, Bali, Indonesia",
+        "nationality": "Indonesian",
+        "hobbies": [
+          "Piano",
+          "Singing",
+          "Reading"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Yuha",
+        "initials": "YH",
+        "role": "Vocal • All-rounder",
+        "unit": "VOCAL LINE",
+        "tags": "yuha",
+        "birthDate": "Apr 12, 2007",
+        "birthPlace": "Wonju, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Piano",
+          "Disney",
+          "Singing"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Stella",
+        "initials": "ST",
+        "role": "Vocal",
+        "unit": "VOCAL LINE",
+        "tags": "stella",
+        "birthDate": "Jun 18, 2007",
+        "birthPlace": "Vancouver, Canada",
+        "nationality": "Korean-Canadian",
+        "hobbies": [
+          "Guitar",
+          "Drums",
+          "Skiing"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Juun",
+        "initials": "JN",
+        "role": "Vocal",
+        "unit": "VOCAL LINE",
+        "tags": "juun",
+        "birthDate": "Dec 3, 2008",
+        "birthPlace": "Icheon, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Imitating NPC",
+          "Singing",
+          "Dancing"
+        ],
+        "image": ""
+      },
+      {
+        "name": "A-na",
+        "initials": "AN",
+        "role": "Vocal • MC",
+        "unit": "VOCAL LINE",
+        "tags": "a-na",
+        "birthDate": "Dec 20, 2008",
+        "birthPlace": "Suwon, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "MC",
+          "Singing",
+          "Dancing"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ian",
+        "initials": "IN",
+        "role": "Vocal • Mood Maker",
+        "unit": "VOCAL LINE",
+        "tags": "ian",
+        "birthDate": "Oct 9, 2009",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Modeling",
+          "Singing",
+          "Musicals"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Ye-on",
+        "initials": "YO",
+        "role": "Vocal • Maknae",
+        "unit": "VOCAL LINE",
+        "tags": "ye-on",
+        "birthDate": "Apr 19, 2010",
+        "birthPlace": "Yangsan, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Musicals",
+          "Singing",
+          "Dancing"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "hearts2hearts-debut-the-chase",
+      "category": "DEBUT",
+      "cardBadge": "NEW GROUP",
+      "date": "Feb 24, 2025",
+      "monthLabel": "FEB 2025",
+      "source": "SM ENTERTAINMENT / Hearts2Hearts Official",
+      "title": "Hearts2Hearts Debut With Single Album 'The Chase'!",
+      "excerpt": "8-member SM girl group debut. Title track The Chase plus B-side Butterflies inside.",
+      "quote": "Chase your choice — Hearts2Hearts is here!",
+      "image": "https://i.ytimg.com/vi/kxUA2wwYiME/maxresdefault.jpg",
+      "body": [
+        "Hearts2Hearts have officially debuted on Feb 24, 2025 with single album The Chase, first SM girl group since aespa.",
+        "Album contains title track The Chase and B-side Butterflies, with dreamy soundscapes and vocal melodies.",
+        "Group held debut showcase at Yes24 Live Hall in Seoul and revealed fandom name S2U.",
+        "Physical album certified Platinum by KMCA."
+      ]
+    },
+    {
+      "id": "hearts2hearts-focus-ep",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Oct 20, 2025",
+      "monthLabel": "OCT 2025",
+      "source": "SM ENTERTAINMENT / Hearts2Hearts Official",
+      "title": "Hearts2Hearts Release First EP 'FOCUS'!",
+      "excerpt": "Pre-release Pretty Please plus title track FOCUS. Apple Pie, Flutter, Blue Moon inside.",
+      "quote": "Focus on Hearts2Hearts!",
+      "image": "https://i.ytimg.com/vi/Ur7aK4FvK-U/maxresdefault.jpg",
+      "body": [
+        "Hearts2Hearts released first EP FOCUS on Oct 20, 2025 after pre-release Pretty Please on Sep 24.",
+        "EP holds FOCUS, Apple Pie, Flutter, Blue Moon and peaked at No.3 on albums chart.",
+        "Title track FOCUS peaked at No.14 on singles chart.",
+        "Group named best new artist at MAMA, Melon, Seoul Music Awards 2025."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 4,
+    "maxDownloadCount": 2,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 3,
+    "freeAdsSessionVideosRequired": 3,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": true,
+    "isMembersEnabled": true,
+    "adBannerInterval": 7
+  }
+}
