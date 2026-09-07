@@ -1,0 +1,182 @@
+{
+  "band_detail": {
+    "agencyLabel": "BIGHIT MUSIC",
+    "bio": "Debuted under Big Hit Entertainment in 2013. 7-member K-pop boy group with record-breaking albums and stadium tours, uniting the global ARMY fandom from Seoul to worldwide.",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Jun 13, 2013"
+      },
+      {
+        "label": "Fandom:",
+        "highlight": "rose",
+        "value": "ARMY"
+      },
+      {
+        "label": "Agency:",
+        "value": "BIGHIT MUSIC"
+      },
+      {
+        "label": "",
+        "highlight": "amber",
+        "value": "ARIRANG World Tour"
+      }
+    ],
+    "logoLine1": "BTS",
+    "logoLine2": "STAN",
+    "members": [
+      {
+        "birthDate": "Sep 12, 1994",
+        "birthPlace": "Ilsan, South Korea",
+        "featured": true,
+        "hobbies": [
+          "Writing",
+          "Reading",
+          "Art"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkKS-0o_ITuRJwbNj_z0j__8n0CWf9MSJ8NQ",
+        "initials": "RM",
+        "name": "RM",
+        "nationality": "South Korean",
+        "role": "Leader • Main Rapper",
+        "tags": "rm",
+        "unit": "RAP LINE"
+      },
+      {
+        "birthDate": "Dec 4, 1992",
+        "birthPlace": "Gwacheon, South Korea",
+        "hobbies": [
+          "Cooking",
+          "Gaming",
+          "Photography"
+        ],
+        "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2024/02/20/3890309237.png",
+        "initials": "JN",
+        "name": "Jin",
+        "nationality": "South Korean",
+        "role": "Vocal • Visual",
+        "tags": "jin",
+        "unit": "VOCAL LINE"
+      },
+      {
+        "birthDate": "Mar 9, 1993",
+        "birthPlace": "Daegu, South Korea",
+        "hobbies": [
+          "Producing",
+          "Piano",
+          "Basketball"
+        ],
+        "image": "https://cdn.antaranews.com/cache/1200x800/2020/06/04/agusd.jpg",
+        "initials": "SG",
+        "name": "Suga",
+        "nationality": "South Korean",
+        "role": "Lead Rapper",
+        "tags": "suga",
+        "unit": "RAP LINE"
+      },
+      {
+        "birthDate": "Feb 18, 1994",
+        "birthPlace": "Gwangju, South Korea",
+        "hobbies": [
+          "Dancing",
+          "Shopping",
+          "Photography"
+        ],
+        "image": "https://www.rollingstone.com/wp-content/uploads/2026/04/JHope-LEAD.jpg",
+        "initials": "JH",
+        "name": "j-hope",
+        "nationality": "South Korean",
+        "role": "Main Dancer • Rap",
+        "tags": "j-hope",
+        "unit": "DANCE LINE"
+      },
+      {
+        "birthDate": "Oct 13, 1995",
+        "birthPlace": "Busan, South Korea",
+        "hobbies": [
+          "Dancing",
+          "Travel",
+          "Reading"
+        ],
+        "image": "https://i.scdn.co/image/ab6761610000e5ebcf3a9c35db52ba44f3b921e3",
+        "initials": "JM",
+        "name": "Jimin",
+        "nationality": "South Korean",
+        "role": "Lead Vocal • Main Dancer",
+        "tags": "jimin",
+        "unit": "DANCE LINE"
+      },
+      {
+        "birthDate": "Dec 30, 1995",
+        "birthPlace": "Daegu, South Korea",
+        "hobbies": [
+          "Photography",
+          "Painting",
+          "Jazz"
+        ],
+        "image": "https://assets.promediateknologi.id/crop/0x88:1080x1167/1200x0/webp/photo/2023/07/20/Snapinstaapp_337400522_1038736717088042_3215090154363438470_n_1080-3056506263.jpg",
+        "initials": "V",
+        "name": "V",
+        "nationality": "South Korean",
+        "role": "Vocal",
+        "tags": "kim tae-hyung",
+        "unit": "VOCAL LINE"
+      },
+      {
+        "birthDate": "Sep 1, 1997",
+        "birthPlace": "Busan, South Korea",
+        "hobbies": [
+          "Gaming",
+          "Drawing",
+          "Filming"
+        ],
+        "image": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/150/2024/03/29/1711651053-1786892306.jpg",
+        "initials": "JK",
+        "name": "Jungkook",
+        "nationality": "South Korean",
+        "role": "Main Vocal • Maknae",
+        "tags": "jungkook",
+        "unit": "VOCAL LINE"
+      }
+    ],
+    "membersHint": "Scroll for roles & profiles",
+    "membersTitle": "Members (7)",
+    "name": "BTS (방탄소년단)",
+    "tagline": "Yet To Come • Global Pop Icons",
+    "verifiedText": "Verified Artist"
+  },
+  "config": {
+    "adBannerInterval": 7,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 3,
+    "freeAdsSessionVideosRequired": 3,
+    "isAdsEnabled": true,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isMembersEnabled": true,
+    "isNewsEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isSongRequestEnabled": true,
+    "maxDownloadCount": 2,
+    "maxPlayCount": 3
+  },
+  "news_list": [
+    {
+      "body": [
+        "BTS have officially begun teasing their long-awaited group comeback with the ARIRANG album era, with concept photos dropping across official channels.",
+        "BIGHIT MUSIC confirms new music recorded together by all seven members, with a stadium world tour to follow.",
+        "The new era arrives as ARMY celebrates the group's return to full-group activities.",
+        "Pre-save links are open now on all major streaming platforms."
+      ],
+      "cardBadge": "NEW RELEASE",
+      "category": "COMEBACK",
+      "date": "Mar 20, 2026",
+      "excerpt": "ARIRANG era begins. New group music and world tour dates inside.",
+      "image": "https://upload.wikimedia.org/wikipedia/id/a/a2/BTS_-_Be_Cover.png",
+      "monthLabel": "MAR 2026",
+      "quote": "APOBANGPO — BTS is back!",
+      "source": "BIGHIT MUSIC / BTS Official",
+      "title": "BTS Open ARIRANG Era With New Group Music!"
+    }
+  ]
+}
