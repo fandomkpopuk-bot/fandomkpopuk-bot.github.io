@@ -1,0 +1,176 @@
+{
+  "band_detail": {
+    "logoLine1": "ENHYPEN",
+    "logoLine2": "엔하이픈",
+    "agencyLabel": "BELIFT LAB",
+    "verifiedText": "Verified Artist",
+    "name": "ENHYPEN (엔하이픈)",
+    "tagline": "BORDER : DAY ONE • Global K-Pop Icons",
+    "bio": "Formed through the Mnet survival show 'I-LAND' in 2020 under BELIFT LAB. 7-member K-pop boy group with record-breaking albums and world tours, uniting the global ENGENE fandom from Seoul to worldwide.",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Nov 30, 2020"
+      },
+      {
+        "label": "Fandom:",
+        "value": "ENGENE",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "BELIFT LAB"
+      },
+      {
+        "label": "",
+        "value": "THE SIN : BLISS Era",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (7)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Jungwon",
+        "initials": "JW",
+        "role": "Leader • Vocal • Dance",
+        "unit": "LEADER LINE",
+        "featured": true,
+        "tags": "jungwon",
+        "birthDate": "Feb 9, 2004",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Taekwondo",
+          "Gaming",
+          "Vlogging"
+        ]
+      },
+      {
+        "name": "Heeseung",
+        "initials": "HS",
+        "role": "Main Vocal • Dance",
+        "unit": "VOCAL LINE",
+        "tags": "heeseung",
+        "birthDate": "Oct 15, 2001",
+        "birthPlace": "Namyangju, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Songwriting",
+          "Gaming",
+          "Basketball"
+        ]
+      },
+      {
+        "name": "Jay",
+        "initials": "JY",
+        "role": "Rap • Vocal",
+        "unit": "RAP LINE",
+        "tags": "jay",
+        "birthDate": "Apr 20, 2002",
+        "birthPlace": "Seattle, USA",
+        "nationality": "Korean-American",
+        "hobbies": [
+          "Guitar",
+          "Fashion",
+          "Cooking"
+        ]
+      },
+      {
+        "name": "Jake",
+        "initials": "JK",
+        "role": "Vocal • Rap",
+        "unit": "VOCAL LINE",
+        "tags": "jake",
+        "birthDate": "Nov 15, 2002",
+        "birthPlace": "Brisbane, Australia",
+        "nationality": "Korean-Australian",
+        "hobbies": [
+          "Soccer",
+          "Violin",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Sunghoon",
+        "initials": "SH",
+        "role": "Vocal • Visual",
+        "unit": "VOCAL LINE",
+        "tags": "sunghoon",
+        "birthDate": "Dec 8, 2002",
+        "birthPlace": "Suwon, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Figure Skating",
+          "Pilates",
+          "Reading"
+        ]
+      },
+      {
+        "name": "Sunoo",
+        "initials": "SN",
+        "role": "Vocal • Variety",
+        "unit": "VOCAL LINE",
+        "tags": "sunoo",
+        "birthDate": "Jun 24, 2003",
+        "birthPlace": "Suwon, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Selfies",
+          "Cooking",
+          "Movies"
+        ]
+      },
+      {
+        "name": "Ni-ki",
+        "initials": "NK",
+        "role": "Main Dancer • Maknae",
+        "unit": "DANCE LINE",
+        "tags": "ni-ki",
+        "birthDate": "Dec 9, 2005",
+        "birthPlace": "Okayama, Japan",
+        "nationality": "Japanese",
+        "hobbies": [
+          "Dancing",
+          "Soccer",
+          "Video Editing"
+        ]
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "enhypen-the-sin-bliss-2026",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Aug 22, 2026",
+      "monthLabel": "AUG 2026",
+      "source": "BELIFT LAB / ENHYPEN Official",
+      "title": "ENHYPEN Open THE SIN : BLISS Era With New Music!",
+      "excerpt": "THE SIN : BLISS era begins. New tracks and concept films inside.",
+      "quote": "ENGENE, welcome to our bloody paradise!",
+      "image": "https://i.ytimg.com/vi/IRzjTyvWK4E/maxresdefault.jpg",
+      "body": [
+        "ENHYPEN have officially begun their long-awaited comeback with THE SIN : BLISS album era, with concept films dropping across official channels.",
+        "BELIFT LAB confirms new music recorded together by all seven members, including titles 'Bloody Paradise', 'Two Fools', 'Stuck' and 'Bad For You'.",
+        "The new era arrives as ENGENE celebrates the group's continued world tour momentum.",
+        "Pre-save links are open now on all major streaming platforms."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 4,
+    "maxDownloadCount": 2,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 3,
+    "freeAdsSessionVideosRequired": 3,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": true,
+    "isMembersEnabled": true,
+    "adBannerInterval": 7
+  }
+}
