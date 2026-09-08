@@ -1,13 +1,22 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>404 - K-Pop Fandom Hub</title><link rel="icon" href="/assets/logo.svg"/><script>
-// Redirect path vanity /bts-stand dan /hearts2hearts-stan ke Play Store.
+<!DOCTYPE html>
+<html class="dark" lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>404 - K-Pop Fandom Hub</title>
+<meta name="description" content="Page not found. Back to K-Pop Fandom Hub." />
+<link rel="icon" type="image/svg+xml" href="assets/logo.svg" />
+<script>
+// Redirect path vanity /bts-stand, /hearts2hearts-stan, /enhypen-stan ke Play Store.
 // GitHub Pages tidak punya redirect server-side, jadi deep link
-// seperti /bts-stand/song/:id dan /hearts2hearts-stan/song/:id jatuh ke 404.html.
+// seperti /bts-stand/song/:id jatuh ke 404.html.
 // Script ini memindahkan user secara instan via location.replace().
 // Bekerja baik di user site root (/) maupun project site (/repo-name/).
 (function () {
   var REDIRECTS = {
     "/bts-stand/": "https://play.google.com/store/apps/details?id=com.enhypen.lyrics",
-    "/hearts2hearts-stan/": "https://play.google.com/store/apps/details?id=com.hearts2hearts.uk"
+    "/hearts2hearts-stan/": "https://play.google.com/store/apps/details?id=com.hearts2hearts.uk",
+    "/enhypen-stan/": "https://play.google.com/store/apps/details?id=com.enhypen.song.uk"
   };
   var path = window.location.pathname || "";
   var normalized = path.charAt(path.length - 1) === "/" ? path : path + "/";
@@ -18,4 +27,70 @@
     }
   }
 })();
-</script><script src="https://cdn.tailwindcss.com"></script></head><body style="background:#0B0819;color:#e6dff8;font-family:sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;margin:0"><div style="text-align:center"><h1>404</h1><p>Page not found. Back to <a href="/" style="color:#EC4899">Fandom Hub</a> | <a href="/mobile.html" style="color:#06B6D4">Mobile</a></p></div></body></html>
+</script>
+<link href="https://fonts.googleapis.com" rel="preconnect" />
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&amp;family=Space+Grotesk:wght@600;700&amp;display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet" />
+<script src="https://cdn.tailwindcss.com"></script>
+<script id="tailwind-config">
+tailwind.config = { darkMode: "class", theme: { extend: { colors: {
+  "surface-deep": "#0B0819", "surface-stage": "#130E2E", "surface-elevated": "#1E1747",
+  "accent-purple-core": "#9333EA", "accent-pink-neon": "#EC4899", "accent-cyan-laser": "#06B6D4",
+  "text-primary": "#F8FAFC", "text-secondary": "#94A3B8", "on-surface": "#e6dff8",
+  "primary": "#d0bcff", "secondary": "#ffb0cd"
+}, fontFamily: {
+  sans: ["Plus Jakarta Sans", "sans-serif"],
+  display: ["Space Grotesk", "sans-serif"]
+}}}};
+</script>
+<style>html,body{margin:0;padding:0;background:#0B0819;}body{overscroll-behavior:none;}</style>
+</head>
+<body class="text-on-surface font-sans flex flex-col min-h-screen" style="background:#0B0819">
+<main class="relative flex-1 w-full overflow-hidden flex items-center justify-center px-6 py-16">
+  <div class="absolute -top-32 left-1/2 -translate-x-1/2 w-[720px] h-[360px] bg-accent-purple-core/20 rounded-full blur-[120px] pointer-events-none"></div>
+  <div class="absolute top-48 right-10 w-[420px] h-[300px] bg-accent-pink-neon/15 rounded-full blur-[100px] pointer-events-none"></div>
+  <div class="absolute bottom-0 left-12 w-[380px] h-[260px] bg-accent-cyan-laser/10 rounded-full blur-[90px] pointer-events-none"></div>
+
+  <div class="relative z-10 max-w-xl w-full text-center bg-surface-stage/80 backdrop-blur-md rounded-3xl px-8 py-12 shadow-2xl shadow-accent-purple-core/20 border border-white/5">
+    <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-surface-elevated/80 shadow-sm mb-6">
+      <span class="relative flex h-2 w-2">
+        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent-pink-neon opacity-75"></span>
+        <span class="relative inline-flex rounded-full h-2 w-2 bg-accent-pink-neon"></span>
+      </span>
+      <span class="text-xs tracking-widest uppercase text-primary font-semibold">Lost in the fandom universe</span>
+    </div>
+
+    <h1 class="font-display font-bold text-7xl md:text-8xl bg-clip-text text-transparent bg-gradient-to-r from-accent-purple-core via-secondary to-accent-pink-neon leading-none">404</h1>
+    <p class="mt-4 text-lg text-text-primary font-semibold">Oops! Stage ini tidak ditemukan.</p>
+    <p class="mt-2 text-sm text-text-secondary leading-relaxed">Halaman <span id="missing-path" class="text-primary font-mono break-all">—</span> tidak ada.<br />Yuk balik ke Fandom Hub dan lanjut dukung bias kamu.</p>
+
+    <div class="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3">
+      <a href="./" class="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-r from-accent-purple-core to-accent-pink-neon px-6 py-3 text-sm font-bold text-white shadow-[0_0_24px_rgba(236,72,153,0.45)] hover:shadow-[0_0_36px_rgba(236,72,153,0.7)] hover:scale-[1.02] transition-all">
+        <span class="material-symbols-outlined text-[20px]">home</span><span>Back to Fandom Hub</span>
+      </a>
+      <a href="./mobile.html" class="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-full bg-surface-elevated/70 hover:bg-surface-elevated px-6 py-3 text-sm font-bold text-text-primary transition-all">
+        <span class="material-symbols-outlined text-accent-cyan-laser text-[20px]">smartphone</span><span>Mobile version</span>
+      </a>
+    </div>
+
+    <div class="mt-8 pt-6 border-t border-white/10">
+      <p class="text-xs uppercase tracking-widest text-text-secondary mb-3">Atau buka aplikasi fandom</p>
+      <div class="flex flex-wrap items-center justify-center gap-2">
+        <a href="https://play.google.com/store/apps/details?id=com.enhypen.lyrics" class="px-4 py-2 rounded-full bg-white/5 hover:bg-white/10 text-xs font-semibold text-primary transition-colors">BTS Stand</a>
+        <a href="https://play.google.com/store/apps/details?id=com.hearts2hearts.uk" class="px-4 py-2 rounded-full bg-white/5 hover:bg-white/10 text-xs font-semibold text-primary transition-colors">Hearts2Hearts Stan</a>
+        <a href="https://play.google.com/store/apps/details?id=com.enhypen.song.uk" class="px-4 py-2 rounded-full bg-white/5 hover:bg-white/10 text-xs font-semibold text-primary transition-colors">ENHYPEN Stan</a>
+      </div>
+    </div>
+  </div>
+</main>
+<script>
+(function () {
+  try {
+    var el = document.getElementById("missing-path");
+    if (el) el.textContent = window.location.pathname || "/";
+  } catch (e) {}
+})();
+</script>
+</body>
+</html>
