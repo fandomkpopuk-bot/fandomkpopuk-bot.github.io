@@ -160,7 +160,7 @@
   ],
   "config": {
     "isAdsEnabled": true,
-    "maxPlayCount": 4,
+    "maxPlayCount": 3,
     "maxDownloadCount": 2,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,
