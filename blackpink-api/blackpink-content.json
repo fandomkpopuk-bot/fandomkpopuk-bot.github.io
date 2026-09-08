@@ -1,0 +1,135 @@
+{
+  "band_detail": {
+    "logoLine1": "BLACK",
+    "logoLine2": "PINK",
+    "agencyLabel": "YG ENTERTAINMENT",
+    "verifiedText": "Verified Artist",
+    "name": "BLACKPINK (블랙핑크)",
+    "tagline": "How You Like That • Global Pop Icons",
+    "bio": "Formed by YG Entertainment in 2016. 4-member K-pop girl group with record-breaking tours and chart-topping hits, uniting the global BLINK fandom from Seoul to Coachella and beyond.",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Aug 8, 2016"
+      },
+      {
+        "label": "Fandom:",
+        "value": "BLINK",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "YG ENTERTAINMENT"
+      },
+      {
+        "label": "",
+        "value": "Born Pink World Tour",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (4)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Jisoo",
+        "initials": "JS",
+        "role": "Lead Vocal • Visual",
+        "unit": "VOCAL LINE",
+        "featured": true,
+        "tags": "jisoo",
+        "birthDate": "Jan 3, 1995",
+        "birthPlace": "Gunpo, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Gaming",
+          "Reading",
+          "Photography"
+        ],
+        "image": "https://i.ytimg.com/vi/sf02ugzPFE4/maxresdefault.jpg"
+      },
+      {
+        "name": "Jennie",
+        "initials": "JN",
+        "role": "Main Rapper • Vocal",
+        "unit": "RAP LINE",
+        "tags": "jennie",
+        "birthDate": "Jan 16, 1996",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Photography",
+          "Fashion",
+          "Cooking"
+        ],
+        "image": "https://i.ytimg.com/vi/dkMPft1y21Y/maxresdefault.jpg"
+      },
+      {
+        "name": "Rosé",
+        "initials": "RS",
+        "role": "Main Vocal",
+        "unit": "VOCAL LINE",
+        "tags": "rose",
+        "birthDate": "Feb 11, 1997",
+        "birthPlace": "Auckland, New Zealand",
+        "nationality": "Korean-New Zealander",
+        "hobbies": [
+          "Guitar",
+          "Drawing",
+          "Skateboarding"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_UQhiH1BZ93ztHOC1R35VqyvuGnTj1nlGMPzrKjfvkIJLTjEfyO1sDb4&s=10"
+      },
+      {
+        "name": "Lisa",
+        "initials": "LS",
+        "role": "Main Dancer • Rap",
+        "unit": "DANCE LINE",
+        "tags": "lisa",
+        "birthDate": "Mar 27, 1997",
+        "birthPlace": "Buriram, Thailand",
+        "nationality": "Thai",
+        "hobbies": [
+          "Dancing",
+          "Photography",
+          "Boxing"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWhiMn5Qmtl22EGt0LcdDi6-p5slCk6V1ip01v5sPPva18vypVZo4lA8&s=10"
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "blackpink-comeback-single",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Aug 05, 2026",
+      "monthLabel": "AUG 2026",
+      "source": "YG ENTERTAINMENT / BLACKPINK Official",
+      "title": "BLACKPINK Tease New Group Single 'JUMP'!",
+      "excerpt": "First group release in years. Teaser schedule and concept photos inside.",
+      "quote": "BLACKPINK in your area — new music is coming!",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXIuU-hGufDvPRenhj8t7-Y65Ir6I2XJ8g1HJthwCf3w&s=10",
+      "body": [
+        "BLACKPINK have officially begun teasing their long-awaited group comeback single, with concept photos dropping daily across official channels this week.",
+        "YG ENTERTAINMENT confirms the track was recorded together by all four members, with a music video filmed across Seoul and Los Angeles.",
+        "The single arrives ahead of the stadium world tour, where BLINK will hear it live for the first time.",
+        "Pre-save links are open now on all major streaming platforms."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 3,
+    "maxDownloadCount": 2,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 3,
+    "freeAdsSessionVideosRequired": 3,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": true,
+    "isMembersEnabled": true,
+    "adBannerInterval": 7
+  }
+}
