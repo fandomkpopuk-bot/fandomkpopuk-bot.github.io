@@ -52,5 +52,18 @@
         "DF:95:51:7A:CE:FB:9A:70:2B:38:2D:B8:F7:70:1D:A2:7F:A5:B6:58:7F:07:7F:5A:0E:60:90:16:DE:F0:F6:6E"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.blackpink.deadline.tour",
+      "sha256_cert_fingerprints": [
+        "47:CD:AB:64:92:DF:4D:22:BF:CC:DB:78:5C:2B:62:E7:EC:57:21:D8:7A:C0:5E:A2:8A:4C:92:D7:21:9C:D6:F4"
+      ]
+    }
   }
 ]
