@@ -1,0 +1,146 @@
+{
+  "band_detail": {
+    "logoLine1": "CORTIS",
+    "logoLine2": "코르티스",
+    "agencyLabel": "BIGHIT MUSIC",
+    "verifiedText": "Verified Artist",
+    "name": "CORTIS (코르티스)",
+    "tagline": "COLOR OUTSIDE THE LINES • Young Creator Crew",
+    "bio": "Formed by BIGHIT MUSIC in 2025 under HYBE. 5-member K-pop boy group of self-producing young creators who write, produce and choreograph their own music, uniting the global COER fandom from Seoul to worldwide.",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Aug 18, 2025"
+      },
+      {
+        "label": "Fandom:",
+        "value": "COER",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "BIGHIT MUSIC"
+      },
+      {
+        "label": "",
+        "value": "COLOR OUTSIDE THE LINES Era",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (5)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Martin",
+        "initials": "MT",
+        "role": "Leader • Vocal • Producer",
+        "unit": "LEADER LINE",
+        "featured": true,
+        "tags": "martin",
+        "birthDate": "Mar 20, 2008",
+        "birthPlace": "Songpa-gu, Seoul, South Korea",
+        "nationality": "Korean-Canadian",
+        "hobbies": [
+          "Songwriting",
+          "Choreography",
+          "Gaming"
+        ]
+      },
+      {
+        "name": "James",
+        "initials": "JA",
+        "role": "Main Dancer • Rap • Vocal",
+        "unit": "DANCE LINE",
+        "tags": "james",
+        "birthDate": "Oct 14, 2005",
+        "birthPlace": "Hong Kong",
+        "nationality": "Thai-Taiwanese",
+        "hobbies": [
+          "Languages",
+          "Choreography",
+          "Cooking"
+        ]
+      },
+      {
+        "name": "Juhoon",
+        "initials": "JH",
+        "role": "Rap • Vocal",
+        "unit": "RAP LINE",
+        "tags": "juhoon",
+        "birthDate": "Jan 3, 2008",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Basketball",
+          "Movies",
+          "Ramen"
+        ]
+      },
+      {
+        "name": "Seonghyeon",
+        "initials": "SH",
+        "role": "Vocal • Dancer",
+        "unit": "VOCAL LINE",
+        "tags": "seonghyeon",
+        "birthDate": "Jan 13, 2009",
+        "birthPlace": "Seo-gu, Daejeon, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Movies",
+          "Basketball",
+          "Skateboarding"
+        ]
+      },
+      {
+        "name": "Keonho",
+        "initials": "KH",
+        "role": "Dancer • Vocal • Maknae",
+        "unit": "MAKNAE LINE",
+        "tags": "keonho",
+        "birthDate": "Feb 14, 2009",
+        "birthPlace": "Suwon, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Swimming",
+          "Movies",
+          "Gaming"
+        ]
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "cortis-motion-2026",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Aug 31, 2026",
+      "monthLabel": "AUG 2026",
+      "source": "BIGHIT MUSIC / CORTIS Official",
+      "title": "CORTIS Team Up With Juicy J On New Single 'MOTION'!",
+      "excerpt": "Young creator crew era continues. New single and GreenGreen tracks inside.",
+      "quote": "COER, keep up with this motion!",
+      "image": "https://i.ytimg.com/vi/h7ITAdTxdxM/maxresdefault.jpg",
+      "body": [
+        "CORTIS have officially continued their GreenGreen era with the new single 'MOTION (feat. Juicy J)', with concept films dropping across official channels.",
+        "BIGHIT MUSIC confirms new music written and produced together by all five members, including titles 'RedRed', 'TNT', 'What You Want' and 'GO!'.",
+        "The new era arrives as COER celebrates the group's debut EP Color Outside the Lines and rapid global rise.",
+        "Pre-save links are open now on all major streaming platforms."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 4,
+    "maxDownloadCount": 2,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 3,
+    "freeAdsSessionVideosRequired": 3,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": true,
+    "isMembersEnabled": true,
+    "adBannerInterval": 7
+  }
+}
