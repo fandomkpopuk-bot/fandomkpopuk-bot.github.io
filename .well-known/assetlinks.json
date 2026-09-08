@@ -26,5 +26,18 @@
         "AD:01:6C:05:ED:45:DC:58:44:C8:E9:3F:1D:E1:EC:B1:24:8B:1B:36:42:60:1E:75:A3:29:38:00:63:42:B8:D7"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.enhypen.song.uk",
+      "sha256_cert_fingerprints": [
+        "88:85:D4:FD:CD:F3:37:F9:B1:B2:CC:70:02:AA:33:FB:C2:71:6D:C1:A7:C9:E8:FF:5F:99:81:BE:75:4E:58:3B"
+      ]
+    }
   }
 ]
