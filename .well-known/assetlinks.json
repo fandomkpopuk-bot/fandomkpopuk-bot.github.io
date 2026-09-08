@@ -39,5 +39,18 @@
         "88:85:D4:FD:CD:F3:37:F9:B1:B2:CC:70:02:AA:33:FB:C2:71:6D:C1:A7:C9:E8:FF:5F:99:81:BE:75:4E:58:3B"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cortis.uk",
+      "sha256_cert_fingerprints": [
+        "DF:95:51:7A:CE:FB:9A:70:2B:38:2D:B8:F7:70:1D:A2:7F:A5:B6:58:7F:07:7F:5A:0E:60:90:16:DE:F0:F6:6E"
+      ]
+    }
   }
 ]
