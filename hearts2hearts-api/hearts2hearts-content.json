@@ -212,6 +212,7 @@
     "isOtherAppsEnabled": true,
     "isNewsEnabled": false,
     "isMembersEnabled": true,
-    "adBannerInterval": 7
+    "adBannerInterval": 7,
+    "androidUpdateType": "immediate"
   }
 }
