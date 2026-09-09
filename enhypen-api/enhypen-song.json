@@ -1,5 +1,19 @@
 {
   "song_list": [
+     {
+      "title": "Death of Me'",
+      "release_date": "2026-09-7",
+      "album": "-",
+      "artist": "EVAN (에반)",
+      "tags": [
+        "enhypen",
+        "ex-enhypen"
+      ],
+      "popularity": 90000,
+      "youtube_id": "iNMvUYjaieA",
+      "urlMp3": "https://wekaryatech.github.io/song/evan-deathofme.mp3",
+      "image": "https://i.ytimg.com/vi/iNMvUYjaieA/maxresdefault.jpg"
+    },
     {
       "title": "Two Fools",
       "release_date": "2026-08-22",
