@@ -1,7 +1,7 @@
 {
   "band_detail": {
-    "logoLine1": "HEARTS",
-    "logoLine2": "2HEARTS",
+    "logoLine1": "H2H",
+    "logoLine2": "STAN",
     "agencyLabel": "SM ENTERTAINMENT",
     "verifiedText": "Verified Artist",
     "name": "Hearts2Hearts (하츠투하츠)",
@@ -210,7 +210,7 @@
     "isLyricsEnabled": true,
     "isSongRequestEnabled": true,
     "isOtherAppsEnabled": true,
-    "isNewsEnabled": true,
+    "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 7
   }
