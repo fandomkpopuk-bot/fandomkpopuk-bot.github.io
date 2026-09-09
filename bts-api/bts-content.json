@@ -154,7 +154,7 @@
     "isDownloadEnabled": true,
     "isLyricsEnabled": true,
     "isMembersEnabled": true,
-    "isNewsEnabled": true,
+    "isNewsEnabled": false,
     "isOtherAppsEnabled": true,
     "isSongRequestEnabled": true,
     "maxDownloadCount": 2,
