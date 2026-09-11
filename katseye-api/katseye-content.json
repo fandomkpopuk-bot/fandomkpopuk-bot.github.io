@@ -1,0 +1,167 @@
+{
+  "band_detail": {
+    "logoLine1": "KAT",
+    "logoLine2": "SEYE",
+    "agencyLabel": "HYBE X GEFFEN RECORDS",
+    "verifiedText": "Verified Artist",
+    "name": "KATSEYE (캣츠아이)",
+    "tagline": "Gabriela • Global Pop Icons",
+    "bio": "Formed through HYBE and Geffen Records' Dream Academy in 2023. 6-member global girl group with genre-blending pop hits, uniting the EYEKONS fandom from Los Angeles to Seoul and beyond.",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Jun 28, 2024"
+      },
+      {
+        "label": "Fandom:",
+        "value": "EYEKONS",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "HYBE X GEFFEN RECORDS"
+      },
+      {
+        "label": "",
+        "value": "Beautiful Chaos World Tour",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (6)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Sophia",
+        "initials": "SP",
+        "role": "Leader • Vocal",
+        "unit": "VOCAL LINE",
+        "featured": true,
+        "tags": "sophia",
+        "birthDate": "Dec 31, 2002",
+        "birthPlace": "Manila, Philippines",
+        "nationality": "Filipino",
+        "hobbies": [
+          "Singing",
+          "Songwriting",
+          "Reading"
+        ],
+        "image": "https://i.ytimg.com/vi/CjnB56tSCQI/maxresdefault.jpg"
+      },
+      {
+        "name": "Manon",
+        "initials": "MN",
+        "role": "Vocal • Visual",
+        "unit": "VOCAL LINE",
+        "tags": "manon",
+        "birthDate": "Jun 26, 2002",
+        "birthPlace": "Zurich, Switzerland",
+        "nationality": "Swiss",
+        "hobbies": [
+          "Photography",
+          "Fashion",
+          "Painting"
+        ],
+        "image": "https://i.ytimg.com/vi/R2-yomhYAj4/maxresdefault.jpg"
+      },
+      {
+        "name": "Daniela",
+        "initials": "DN",
+        "role": "Main Dancer • Vocal",
+        "unit": "DANCE LINE",
+        "tags": "daniela",
+        "birthDate": "Jul 1, 2004",
+        "birthPlace": "Atlanta, United States",
+        "nationality": "American",
+        "hobbies": [
+          "Dancing",
+          "Choreography",
+          "Singing"
+        ],
+        "image": "https://i.ytimg.com/vi/l9CZykYZkOQ/maxresdefault.jpg"
+      },
+      {
+        "name": "Lara",
+        "initials": "LR",
+        "role": "Main Vocal • Rap",
+        "unit": "VOCAL LINE",
+        "tags": "lara",
+        "birthDate": "Nov 3, 2005",
+        "birthPlace": "Los Angeles, United States",
+        "nationality": "American",
+        "hobbies": [
+          "Singing",
+          "Cooking",
+          "Fashion"
+        ],
+        "image": "https://i.ytimg.com/vi/hKo59kh-WBA/maxresdefault.jpg"
+      },
+      {
+        "name": "Megan",
+        "initials": "MG",
+        "role": "Main Dancer • Rap",
+        "unit": "DANCE LINE",
+        "tags": "megan",
+        "birthDate": "Feb 10, 2006",
+        "birthPlace": "Honolulu, United States",
+        "nationality": "American",
+        "hobbies": [
+          "Dancing",
+          "Photography",
+          "Gaming"
+        ],
+        "image": "https://i.ytimg.com/vi/MGcPpYhuq-8/maxresdefault.jpg"
+      },
+      {
+        "name": "Yoonchae",
+        "initials": "YC",
+        "role": "Maknae • Dance",
+        "unit": "DANCE LINE",
+        "tags": "yoonchae",
+        "birthDate": "Dec 6, 2007",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Dancing",
+          "Drawing",
+          "Guitar"
+        ],
+        "image": "https://i.ytimg.com/vi/bYg6aMDQ_TA/maxresdefault.jpg"
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "katseye-wild-ep",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Aug 14, 2026",
+      "monthLabel": "AUG 2026",
+      "source": "HYBE X GEFFEN / KATSEYE Official",
+      "title": "KATSEYE Unveil New EP 'WILD' With 'Unloveu' & 'That Way'!",
+      "excerpt": "Six tracks including Bel Air and Hootie Frutti. Concept films and tour dates inside.",
+      "quote": "EYEKONS — our wildest era is here!",
+      "image": "https://i.ytimg.com/vi/fE8qh1-UvVA/maxresdefault.jpg",
+      "body": [
+        "KATSEYE have officially released their new EP 'WILD', led by tracks 'Unloveu', 'Bel Air', 'That Way' and 'Hootie Frutti' across official channels this week.",
+        "HYBE X GEFFEN RECORDS confirms the project was recorded together by all six members, with music videos filmed across Los Angeles and Seoul.",
+        "The EP arrives ahead of the Beautiful Chaos world tour extension, where EYEKONS will hear the new songs live for the first time.",
+        "Pre-save links and exclusive merch drops are open now on all major streaming platforms."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 4,
+    "maxDownloadCount": 2,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 3,
+    "freeAdsSessionVideosRequired": 3,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": true,
+    "isMembersEnabled": true,
+    "adBannerInterval": 7
+  }
+}
