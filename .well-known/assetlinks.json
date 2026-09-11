@@ -78,5 +78,18 @@
         "5C:A5:26:44:35:07:07:4D:4E:67:A7:31:89:86:76:A6:B0:19:7A:A6:11:67:B8:D3:EE:EE:D2:B3:18:D9:4B:54"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.stray.kids.connect",
+      "sha256_cert_fingerprints": [
+        "47:D6:33:60:FD:57:3A:29:8C:0A:F9:06:AF:C2:E9:3F:C2:5C:E1:1E:9E:F7:5F:30:66:AC:CB:61:99:ED:58:DF"
+      ]
+    }
   }
 ]
