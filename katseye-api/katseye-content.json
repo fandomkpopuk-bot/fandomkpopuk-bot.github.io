@@ -45,7 +45,7 @@
           "Songwriting",
           "Reading"
         ],
-        "image": "https://i.ytimg.com/vi/CjnB56tSCQI/maxresdefault.jpg"
+        "image": "https://image.idn.media/post/20260808/s4mo5hk76vcpjnrmo39gh6m9x_05f02bc6-8a16-4d3d-b801-ecd36ab759a6.jpg"
       },
       {
         "name": "Manon",
@@ -61,7 +61,7 @@
           "Fashion",
           "Painting"
         ],
-        "image": "https://i.ytimg.com/vi/R2-yomhYAj4/maxresdefault.jpg"
+        "image": "https://image.idntimes.com/post/20260221/upload_3b1293d8a908c43dcd9432e28c2aa7bb_98378633-387e-4371-bf0d-db0434cba8ab.jpg"
       },
       {
         "name": "Daniela",
@@ -77,7 +77,7 @@
           "Choreography",
           "Singing"
         ],
-        "image": "https://i.ytimg.com/vi/l9CZykYZkOQ/maxresdefault.jpg"
+        "image": "https://assets.teenvogue.com/photos/68375fc1223107616576ff99/1:1/w_2018,h_2018,c_limit/FINAL-KATSEYE-TEENVOGUE-WM-8.jpg"
       },
       {
         "name": "Lara",
@@ -93,7 +93,7 @@
           "Cooking",
           "Fashion"
         ],
-        "image": "https://i.ytimg.com/vi/hKo59kh-WBA/maxresdefault.jpg"
+        "image": "https://i.pinimg.com/736x/6d/70/9c/6d709c8e25e31f73de2c8ac99d3de9be.jpg"
       },
       {
         "name": "Megan",
@@ -109,7 +109,7 @@
           "Photography",
           "Gaming"
         ],
-        "image": "https://i.ytimg.com/vi/MGcPpYhuq-8/maxresdefault.jpg"
+        "image": "https://pbs.twimg.com/media/HAzlztmaAAAyTEr.jpg"
       },
       {
         "name": "Yoonchae",
@@ -125,7 +125,7 @@
           "Drawing",
           "Guitar"
         ],
-        "image": "https://i.ytimg.com/vi/bYg6aMDQ_TA/maxresdefault.jpg"
+        "image": "https://i.pinimg.com/736x/68/fb/e4/68fbe46d45abdce1ce649496679646c3.jpg"
       }
     ]
   },
@@ -151,7 +151,7 @@
   ],
   "config": {
     "isAdsEnabled": true,
-    "maxPlayCount": 4,
+    "maxPlayCount": 3,
     "maxDownloadCount": 2,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,
@@ -162,6 +162,6 @@
     "isOtherAppsEnabled": true,
     "isNewsEnabled": true,
     "isMembersEnabled": true,
-    "adBannerInterval": 7
+    "adBannerInterval": 10
   }
 }
