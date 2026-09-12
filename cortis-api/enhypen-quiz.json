@@ -1,0 +1,551 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "two-fools-01",
+      "youtube_id": "IRzjTyvWK4E",
+      "title": "Two Fools",
+      "clue": "Ne pumeseon wae?",
+      "answer": "On sesangi cheongugin deuthande ireoke",
+      "options": [
+        "On sesangi cheongugin deuthande ireoke",
+        "Baby girl, hwaksine chan nunbit",
+        "Yeongwoneul mitge han ne sonui ongi",
+        "Beokchage jabeun du son, geu eotteon geotdo uril"
+      ]
+    },
+    {
+      "id": "stuck-01",
+      "youtube_id": "kXSXPB6plrs",
+      "title": "Stuck",
+      "clue": "I sesangi anin naran geol ara",
+      "answer": "Jami deureun sunganjocha",
+      "options": [
+        "Jami deureun sunganjocha",
+        "Jidokage dalkomhaetdeon chakgak",
+        "Sindo uri pyeonilgeoran oman",
+        "Cheongugeul sone geomeojwin deuthan"
+      ]
+    },
+    {
+      "id": "bloody-paradise-01",
+      "youtube_id": "MT-4Bk1Lw8g",
+      "title": "Bloody Paradise",
+      "clue": "Neoui modeun geol gajigo",
+      "answer": "I bameul gieokae, oh",
+      "options": [
+        "I bameul gieokae, oh",
+        "We're going M.I.A, oh",
+        "Dalbichi jeo wiro",
+        "They fell like dominoes"
+      ]
+    },
+    {
+      "id": "bad-for-you-01",
+      "youtube_id": "TZfO7dXYjVU",
+      "title": "Bad For You",
+      "clue": "Meonjeo malhamyeon jineun geot gata, burin jajonsim",
+      "answer": "Da bujireopji",
+      "options": [
+        "Da bujireopji",
+        "Ooh, woah, ooh",
+        "I got it, I got it bad for you",
+        "Gyeolguk tto ireoke back to you"
+      ]
+    },
+    {
+      "id": "we-ll-be-fine-01",
+      "youtube_id": "n2bzA-ksXZI",
+      "title": "We'll Be Fine",
+      "clue": "Futo hibiita nakama no koe ni",
+      "answer": "Sukuwa rete ita nda",
+      "options": [
+        "Sukuwa rete ita nda",
+        "Yeah, let's go, buddy",
+        "Woo, woo, yeah",
+        "Woo, let's go"
+      ]
+    },
+    {
+      "id": "ride-or-die-01",
+      "youtube_id": "CsGENgLpyaw",
+      "title": "Ride or Die",
+      "clue": "Drive 'til the end of time",
+      "answer": "Ip matchun i sungan",
+      "options": [
+        "Ip matchun i sungan",
+        "Say something, grab my hands, oh",
+        "Ajik neol nochi ana",
+        "Sen cheok anin cheok but"
+      ]
+    },
+    {
+      "id": "stealer-01",
+      "youtube_id": "Mds7WAYiAck",
+      "title": "Stealer",
+      "clue": "Sesang wireul balba Stealer",
+      "answer": "Sesang wireul balba Stealer",
+      "options": [
+        "Sesang wireul balba Stealer",
+        "Neol ppeonppeonhage humchyeo Like a movie star",
+        "Geumgi wireul dallyeo No wire",
+        "Jjochaoneun hyeonsil My extra"
+      ]
+    },
+    {
+      "id": "no-way-back-feat-so-yoon-01",
+      "youtube_id": "3s3BVG798aU",
+      "title": "No Way Back (Feat. So!YoON!)",
+      "clue": "Sick of, sick of, sick of being like this",
+      "answer": "Oemyeonhaedo jeonbu All for nothing",
+      "options": [
+        "Oemyeonhaedo jeonbu All for nothing",
+        "Ja ije maeumui junbireul hae",
+        "Neoraneun unmyeongeul nan taekae",
+        "Geu eotteon gyeolmarirado"
+      ]
+    },
+    {
+      "id": "knife-01",
+      "youtube_id": "R6e4tBWxIxE",
+      "title": "Knife",
+      "clue": "(I-I-It's a knife) jusawireul gullyeo, now we roll",
+      "answer": "It's a knife, knife, knife, knife (It's a knife)",
+      "options": [
+        "It's a knife, knife, knife, knife (It's a knife)",
+        "What's behind your back?",
+        "It's a, it's a knife",
+        "(It's a knife) seoseul peoreon kallal wieseo"
+      ]
+    },
+    {
+      "id": "big-girls-don-t-cry-01",
+      "youtube_id": "01R62JW9X6Y",
+      "title": "Big Girls Don't Cry",
+      "clue": "Ah, woo mutji yeogin eodi",
+      "answer": "The roof eunhasu arae itji",
+      "options": [
+        "The roof eunhasu arae itji",
+        "Nuga uri geurimjareul balbatji",
+        "Susanghae jeo geurimjaga keojyeotji",
+        "Changmun teum sai yeppeun nuni keojyeotji"
+      ]
+    },
+    {
+      "id": "shine-on-me-01",
+      "youtube_id": "HmAtJr0Mhh4",
+      "title": "Shine On Me",
+      "clue": "Tsunagari o kanji atte mo",
+      "answer": "Bokura amarini mo chigau sekai ni iru",
+      "options": [
+        "Bokura amarini mo chigau sekai ni iru",
+        "Yozora de ichiban kagayaku yōna",
+        "Hoshi o mita nda ne",
+        "Ano hi deatta kimi wa marude star"
+      ]
+    },
+    {
+      "id": "echoes-01",
+      "youtube_id": "L_Ll_NzHMFw",
+      "title": "Echoes",
+      "clue": "I'm going up, up, up, yozora ni mau",
+      "answer": "Never stop this love, kun ni chikau",
+      "options": [
+        "Never stop this love, kun ni chikau",
+        "Every word you say is on repeat",
+        "I keep dreaming of the nights where",
+        "Kun to sugoshita kono sekai wa mō forever (Forever)"
+      ]
+    },
+    {
+      "id": "demons-01",
+      "youtube_id": "DiPTtayLBdc",
+      "title": "Demons",
+      "clue": "Don't wanna let you down",
+      "answer": "But I am hell-bound",
+      "options": [
+        "But I am hell-bound",
+        "When the days are cold",
+        "And the cards all fold",
+        "And the saints we see"
+      ]
+    },
+    {
+      "id": "too-close-01",
+      "youtube_id": "zIDx6GBuoCc",
+      "title": "Too Close",
+      "clue": "Sare daaoneun your breath",
+      "answer": "Eojireowo nan, I'm so into you",
+      "options": [
+        "Eojireowo nan, I'm so into you",
+        "Neomu witaeroun distance",
+        "You so bad, I gotta move back",
+        "Neomu tami na, I'm so into you (You-ooh)"
+      ]
+    },
+    {
+      "id": "outside-01",
+      "youtube_id": "cX0SEuQP_JY",
+      "title": "Outside",
+      "clue": "Donghwa sogeun sweet, neowa seun dream world",
+      "answer": "Maengsewa dajim, wait, when the night comes",
+      "options": [
+        "Maengsewa dajim, wait, when the night comes",
+        "Yeah, drivin' hard, I'm tired with that question mark",
+        "Pretty boy? No, I'm not ullyeo red alert",
+        "Bonneungi nuneul tteotji machi Dracula"
+      ]
+    },
+    {
+      "id": "helium-01",
+      "youtube_id": "DgbNXt5Er2w",
+      "title": "Helium",
+      "clue": "Neoreul mannan sungan bomb, jeonbu bomb, bomb",
+      "answer": "I sarangeun first and the last (First), neoro gadeukan (Woah)",
+      "options": [
+        "I sarangeun first and the last (First), neoro gadeukan (Woah)",
+        "Neoneun naui sumija saragage haneun air",
+        "Gadeuk deurikyeo, your love is helium (Ha)",
+        "Neoreul sum swil ttaemada ajjilhage naraga"
+      ]
+    },
+    {
+      "id": "flashover-01",
+      "youtube_id": "S5Eesy9hGLM",
+      "title": "Flashover",
+      "clue": "Neoran sansol taewo, let it burn",
+      "answer": "Geumgil kkaego hwayeomi doeeo nan",
+      "options": [
+        "Geumgil kkaego hwayeomi doeeo nan",
+        "I can't stop me, stop me",
+        "Stop me anymore",
+        "Dodalhaesseo nae simjangui balhwajeom"
+      ]
+    },
+    {
+      "id": "bad-desire-with-or-without-you-01",
+      "youtube_id": "a2Zqdo9RbNs",
+      "title": "Bad Desire (With or Without You)",
+      "clue": "Ireom andwae don't touch, don't do it",
+      "answer": "Neol hyanghan nae soneul magado",
+      "options": [
+        "Neol hyanghan nae soneul magado",
+        "With or without you",
+        "With or without you (ENHYPEN)",
+        "Jikigo sipeo tumyeonghan neol"
+      ]
+    },
+    {
+      "id": "loose-01",
+      "youtube_id": "dkpgxb58-jM",
+      "title": "Loose",
+      "clue": "Let it down, girl, don't be shy",
+      "answer": "I'm just glad we broke that ice",
+      "options": [
+        "I'm just glad we broke that ice",
+        "I can feel my heart racing",
+        "It's so hard to keep cool",
+        "Am I being too patient?"
+      ]
+    },
+    {
+      "id": "royalty-01",
+      "youtube_id": "pCDN5FLQ0bw",
+      "title": "Royalty",
+      "clue": "Caught in the middle",
+      "answer": "Eoriseogeume gatin chae omanhaetdeon naege",
+      "options": [
+        "Eoriseogeume gatin chae omanhaetdeon naege",
+        "Nan ije neoui wangguge gatyeobeorin deuthae",
+        "It's not little by little",
+        "Cheonnune sarojapin chae muryeokaejyeo gane Baby"
+      ]
+    },
+    {
+      "id": "paranormal-01",
+      "youtube_id": "vTc-5O9agPs",
+      "title": "Paranormal",
+      "clue": "Sarang geu isang Love",
+      "answer": "This is our paranormal love",
+      "options": [
+        "This is our paranormal love",
+        "Gijeok isangui Love",
+        "Sarang isangui More",
+        "You are my paranormal love"
+      ]
+    },
+    {
+      "id": "brought-the-heat-back-01",
+      "youtube_id": "yjxLMzeV76Q",
+      "title": "Brought The Heat Back",
+      "clue": "Don't test me",
+      "answer": "Aesseo chamda chamda",
+      "options": [
+        "Aesseo chamda chamda",
+        "Yeah, I brought the heat back",
+        "Deil deut Hotter",
+        "Geochin Madness galsurok Stronger"
+      ]
+    },
+    {
+      "id": "sweet-venom-01",
+      "youtube_id": "qedonJosQ3g",
+      "title": "Sweet Venom",
+      "clue": "Ipsureun yeojeonhi neol bulleo",
+      "answer": "Gikkeoi neol wihae nal bachyeo",
+      "options": [
+        "Gikkeoi neol wihae nal bachyeo",
+        "Nae ane beonjyeoganeun Something",
+        "Gammiropge nareul ikkeune",
+        "Dalkomhan Poison in my blood veins"
+      ]
+    },
+    {
+      "id": "bite-me-01",
+      "youtube_id": "wXFLzODIdUI",
+      "title": "Bite Me",
+      "clue": "It's you and me in this world",
+      "answer": "I eodum sogeseo light me (Woo-ooh)",
+      "options": [
+        "I eodum sogeseo light me (Woo-ooh)",
+        "Naegero dasi wa tie me",
+        "Nal guwonhal georamyeon",
+        "Just come kiss me and bite me (Oh, babe)"
+      ]
+    },
+    {
+      "id": "shout-out-01",
+      "youtube_id": "UmkDWafuxhM",
+      "title": "SHOUT OUT",
+      "clue": "Nunchi ttawi bol geot eopsi",
+      "answer": "Geujeo jayuroun i sungan",
+      "options": [
+        "Geujeo jayuroun i sungan",
+        "We go and shout, yeah-eh",
+        "Oh, oh-oh, oh-oh",
+        "Maeil hwipsseullideut harureul saldaga"
+      ]
+    },
+    {
+      "id": "xo-only-if-you-say-yes-01",
+      "youtube_id": "FPDYeRk2PO8",
+      "title": "XO (Only If You Say Yes)",
+      "clue": "Can I kiss you?",
+      "answer": "Can I hug you?",
+      "options": [
+        "Can I hug you?",
+        "(XO XO Kiss me Don't say no)",
+        "Don't say no",
+        "Ojik neoman jul su inneun heorage mal"
+      ]
+    },
+    {
+      "id": "upper-side-dreamin-01",
+      "youtube_id": "EUskig59Xe8",
+      "title": "Upper Side Dreamin",
+      "clue": "Eosaekajiman nan waenji",
+      "answer": "Isseoya hal goseul chajeun geot gata",
+      "options": [
+        "Isseoya hal goseul chajeun geot gata",
+        "Hanyeoreum bamui dream",
+        "Addicted to the summer nights",
+        "Eodum sogeul mikkeureojyeo dallyeogago isseo"
+      ]
+    },
+    {
+      "id": "polaroid-love-01",
+      "youtube_id": "msralQA5Lp8",
+      "title": "Polaroid Love",
+      "clue": "Jeomjeom ttoryeothaejyeo gaji",
+      "answer": "I mameun sesang dan han jang ppuniya",
+      "options": [
+        "I mameun sesang dan han jang ppuniya",
+        "It's like a polaroid love",
+        "Sarang, chonseureon geu gamjeong",
+        "Geunde nae gaseumi ttwieo"
+      ]
+    },
+    {
+      "id": "no-doubt-01",
+      "youtube_id": "rDolt3jJRsM",
+      "title": "No Doubt",
+      "clue": "Yeah, no doubt",
+      "answer": "Yeah, baby no doubt",
+      "options": [
+        "Yeah, baby no doubt",
+        "Girl, where you at?",
+        "Haega tteoseo jil ttaekkaji",
+        "Nan gyesok buranhae"
+      ]
+    },
+    {
+      "id": "just-a-little-bit-01",
+      "youtube_id": "VXt9yhx2d3k",
+      "title": "Just A Little Bit",
+      "clue": "Kkumin miso dwie sumgin nae mameul ilgeo (Always know)",
+      "answer": "Itorok muhaehan eolgullo",
+      "options": [
+        "Itorok muhaehan eolgullo",
+        "Nae son wie noin deusi",
+        "Nae ujureul tongjehaetji",
+        "Da ppeonhae boyeotji yeah"
+      ]
+    },
+    {
+      "id": "go-big-or-go-home-01",
+      "youtube_id": "n4erXpHxmcQ",
+      "title": "Go Big or Go Home",
+      "clue": "I need a diamond ring",
+      "answer": "Momani naui gil",
+      "options": [
+        "Momani naui gil",
+        "Don't get away, don't get away",
+        "I gotta make I'm the one",
+        "Mo animyeon do animyeon mo animyeon dorago"
+      ]
+    },
+    {
+      "id": "blockbuster-01",
+      "youtube_id": "zr3c4jgdqjY",
+      "title": "Blockbuster",
+      "clue": "Geop eopsi salgopa (Yeah)",
+      "answer": "Gaseumi ttwigopa",
+      "options": [
+        "Gaseumi ttwigopa",
+        "Hop in, big thrills, jeoljeonge ollata",
+        "Adrenaline, nal kkaewo in this boring life",
+        "Dap eopseo i segyeneun hyeonsil, gasang da unify"
+      ]
+    },
+    {
+      "id": "blessed-cursed-01",
+      "youtube_id": "osmHArcf_aE",
+      "title": "Blessed-Cursed",
+      "clue": "Wake up, ije nuneul tteo",
+      "answer": "Gatja chukbok sogeseo",
+      "options": [
+        "Gatja chukbok sogeseo",
+        "I wanna be wanna be on my way, I bet",
+        "Nal gaduneun gyeonggyeseon",
+        "Ne rul ttawin jibeochiweo"
+      ]
+    },
+    {
+      "id": "attention-please-01",
+      "youtube_id": "cHiCnM9QnE8",
+      "title": "Attention, please!",
+      "clue": "Moduga nal barabwa jwo",
+      "answer": "Ingiwa sarang nan jeonbu da gatgo sipeo",
+      "options": [
+        "Ingiwa sarang nan jeonbu da gatgo sipeo",
+        "Say what you want nal barabwa",
+        "Nan mugwansimeun sayanghae",
+        "Modu nal wonhagil wonhae"
+      ]
+    },
+    {
+      "id": "tamed-dashed-01",
+      "youtube_id": "6IRsW_TkyVA",
+      "title": "Tamed-Dashed",
+      "clue": "Ildan ttwieo (Na, na, na)",
+      "answer": "Idaero dallinda haedo meomchunda haedo",
+      "options": [
+        "Idaero dallinda haedo meomchunda haedo",
+        "Nal maeryohan yongmangui geu seomgwang",
+        "Kkumeun areumdapge tto chuhage",
+        "Moseubeul bakkwo mak"
+      ]
+    },
+    {
+      "id": "not-for-sale-01",
+      "youtube_id": "wPevsbgX3SQ",
+      "title": "Not For Sale",
+      "clue": "Cheoeum neukkineun feeling",
+      "answer": "Neol mannago jakkuman simjangi isanghae, isanghae",
+      "options": [
+        "Neol mannago jakkuman simjangi isanghae, isanghae",
+        "Silchineun aneun feeling",
+        "Neol mannagoseo dallajin moseubi nan eosaekae, oh, baby",
+        "Plasticeuro mandeun sesangen"
+      ]
+    },
+    {
+      "id": "mixed-up-01",
+      "youtube_id": "bS8rD1z_PaA",
+      "title": "Mixed Up",
+      "clue": "I don't understand, don't understand",
+      "answer": "Gamanhi isseodo naege jilmuni ieojyeo machi",
+      "options": [
+        "Gamanhi isseodo naege jilmuni ieojyeo machi",
+        "Nal gaman mot duji",
+        "Mak sikkeureopge ullin allimeum",
+        "Goyohagil baran sesangi"
+      ]
+    },
+    {
+      "id": "fever-01",
+      "youtube_id": "X7d6Dt17yHk",
+      "title": "FEVER",
+      "clue": "Naui taeyangiyeo geuman Baby, oh baby (Ooo)",
+      "answer": "Ireon nal eotteoke jom haejwo eotteoke jom nal",
+      "options": [
+        "Ireon nal eotteoke jom haejwo eotteoke jom nal",
+        "Give me fever",
+        "Eoreum gateun nun, geu bulgeun nunbit",
+        "Breaking me in two, nareul heundeulji"
+      ]
+    },
+    {
+      "id": "drunk-dazed-01",
+      "youtube_id": "Fc7-Oe0tj5k",
+      "title": "Drunk-Dazed",
+      "clue": "Geoul sogui naega natseolgiman hae",
+      "answer": "I gamyeon dwi chorahan jinsil",
+      "options": [
+        "I gamyeon dwi chorahan jinsil",
+        "Banjjagineun nae gangmageun daiamondeu",
+        "Gyuchik eomneun segyeneun",
+        "Jeonbu dwijipyeo dwijipyeo seoisseo"
+      ]
+    },
+    {
+      "id": "let-me-in-20-cube-01",
+      "youtube_id": "FKG48r9Wl8o",
+      "title": "Let Me In (20 CUBE)",
+      "clue": "Urin machi like a moonlight",
+      "answer": "Hamkkeramyeon have a good time",
+      "options": [
+        "Hamkkeramyeon have a good time",
+        "I'll be your boyfriend",
+        "(I'll be your boyfriend)",
+        "Yeah baby let's go"
+      ]
+    },
+    {
+      "id": "given-taken-01",
+      "youtube_id": "nQ6wLuYvGd4",
+      "title": "Given-Taken",
+      "clue": "Nae dwien suman gaeye bulshin",
+      "answer": "But I go now kkumeul jocha",
+      "options": [
+        "But I go now kkumeul jocha",
+        "Wake up in day one",
+        "Geu bicheun nal bultaeweotji",
+        "Geu bicheun naye nun garyeotji"
+      ]
+    },
+    {
+      "id": "flicker-01",
+      "youtube_id": "bmOtxHX-zAw",
+      "title": "Flicker",
+      "clue": "Seoro dachi anado neowa nan machi hanain geonman gata (babe)",
+      "answer": "Meolli isseodo eolkyeojyeo ssangeul iruneun yangja gata",
+      "options": [
+        "Meolli isseodo eolkyeojyeo ssangeul iruneun yangja gata",
+        "Urin maeil gachi seororeul chaja hemaeeo on geot gata",
+        "Jeonhyeo dareun gonggan neomeo seoro maju bwa on geot gata",
+        "Adeuki meonameon goseseo (yeah ye)"
+      ]
+    }
+  ]
+}
