@@ -172,6 +172,6 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 10,
-    "isMinigameEnabled": true
+    "isMinigameEnabled": false
   }
 }
