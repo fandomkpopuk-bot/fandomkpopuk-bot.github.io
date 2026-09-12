@@ -7,7 +7,7 @@
 <meta name="description" content="Page not found. Back to K-Pop Fandom Hub." />
 <link rel="icon" type="image/svg+xml" href="assets/logo.svg" />
 <script>
-// Redirect path vanity /bts-stand, /hearts2hearts-stan, /enhypen-stan, /babymonster-stan, /katseye-stan, /cortis-stan, /straykids-stan ke Play Store.
+// Redirect path vanity /bts-stand, /blackpink-stan, /hearts2hearts-stan, /enhypen-stan, /babymonster-stan, /katseye-stan, /cortis-stan, /straykids-stan ke Play Store.
 // GitHub Pages tidak punya redirect server-side, jadi deep link
 // seperti /bts-stand/song/:id jatuh ke 404.html.
 // Script ini memindahkan user secara instan via location.replace().
@@ -15,6 +15,7 @@
 (function () {
   var REDIRECTS = {
     "/bts-stand/": "https://play.google.com/store/apps/details?id=com.enhypen.lyrics",
+    "/blackpink-stan/": "https://play.google.com/store/apps/details?id=com.blackpink.deadline.tour",
     "/hearts2hearts-stan/": "https://play.google.com/store/apps/details?id=com.hearts2hearts.uk",
     "/enhypen-stan/": "https://play.google.com/store/apps/details?id=com.enhypen.song.uk",
     "/babymonster-stan/": "https://play.google.com/store/apps/details?id=com.babymonster.lyrics",
@@ -82,6 +83,7 @@ tailwind.config = { darkMode: "class", theme: { extend: { colors: {
       <p class="text-xs uppercase tracking-widest text-text-secondary mb-3">Atau buka aplikasi fandom</p>
       <div class="flex flex-wrap items-center justify-center gap-2">
         <a href="https://play.google.com/store/apps/details?id=com.enhypen.lyrics" class="px-4 py-2 rounded-full bg-white/5 hover:bg-white/10 text-xs font-semibold text-primary transition-colors">BTS Stand</a>
+        <a href="https://play.google.com/store/apps/details?id=com.blackpink.deadline.tour" class="px-4 py-2 rounded-full bg-white/5 hover:bg-white/10 text-xs font-semibold text-primary transition-colors">BLACKPINK Stan</a>
         <a href="https://play.google.com/store/apps/details?id=com.hearts2hearts.uk" class="px-4 py-2 rounded-full bg-white/5 hover:bg-white/10 text-xs font-semibold text-primary transition-colors">Hearts2Hearts Stan</a>
         <a href="https://play.google.com/store/apps/details?id=com.enhypen.song.uk" class="px-4 py-2 rounded-full bg-white/5 hover:bg-white/10 text-xs font-semibold text-primary transition-colors">ENHYPEN Stan</a>
         <a href="https://play.google.com/store/apps/details?id=com.babymonster.lyrics" class="px-4 py-2 rounded-full bg-white/5 hover:bg-white/10 text-xs font-semibold text-primary transition-colors">BABYMONSTER Stan</a>
