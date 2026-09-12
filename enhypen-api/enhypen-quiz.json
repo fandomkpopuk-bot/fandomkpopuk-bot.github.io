@@ -549,13 +549,94 @@
     }
   ],
   "leaderboard": [
-    { "name": "Sofia", "score": 2450, "country": "Indonesia" },
-    { "name": "Minho", "score": 2100, "country": "South Korea" },
-    { "name": "Aiko", "score": 1875, "country": "Japan" },
-    { "name": "Liam", "score": 1500, "country": "United States" },
-    { "name": "Putri", "score": 1275, "country": "Indonesia" },
-    { "name": "Chen", "score": 950, "country": "China" },
-    { "name": "Maria", "score": 700, "country": "Philippines" },
-    { "name": "Alex", "score": 450, "country": "Germany" }
+    {
+      "name": "Sofia",
+      "score": 2450,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Minho",
+      "score": 2100,
+      "country": "South Korea"
+    },
+    {
+      "name": "Aiko",
+      "score": 1875,
+      "country": "Japan"
+    },
+    {
+      "name": "Liam",
+      "score": 1500,
+      "country": "United States"
+    },
+    {
+      "name": "Putri",
+      "score": 1275,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Chen",
+      "score": 950,
+      "country": "China"
+    },
+    {
+      "name": "Maria",
+      "score": 700,
+      "country": "Philippines"
+    },
+    {
+      "name": "Alex",
+      "score": 450,
+      "country": "Germany"
+    }
+  ],
+  "event_list": [
+    {
+      "id": "ev-comeback-race",
+      "title": "Comeback Race: Best Score Wins",
+      "description": "Push your highest single-run score during the comeback week. Top scorer takes home the merch!",
+      "image": "https://i.ytimg.com/vi/IRzjTyvWK4E/maxresdefault.jpg",
+      "prize": "Signed ENHYPEN Album + Photocard Set",
+      "prize_image": "https://i.ytimg.com/vi/Mds7WAYiAck/maxresdefault.jpg",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-30",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "One winner per device"
+      ],
+      "min_score": 500
+    },
+    {
+      "id": "ev-october-lyric-fest",
+      "title": "October Lyric Fest",
+      "description": "Warm up your lyrics knowledge before the October stage!",
+      "image": "https://i.ytimg.com/vi/R6e4tBWxIxE/maxresdefault.jpg",
+      "prize": "Official ENHYPEN Lightstick",
+      "prize_image": "https://i.ytimg.com/vi/01R62JW9X6Y/maxresdefault.jpg",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-20",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "Winner announced in-app"
+      ],
+      "min_score": 1000
+    },
+    {
+      "id": "ev-debut-cup",
+      "title": "Debut Anniversary Cup",
+      "description": "Our first score race — thank you to everyone who joined!",
+      "image": "https://i.ytimg.com/vi/n2bzA-ksXZI/maxresdefault.jpg",
+      "prize": "Poster Set",
+      "prize_image": "https://i.ytimg.com/vi/CsGENgLpyaw/maxresdefault.jpg",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-15",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins"
+      ],
+      "min_score": 500
+    }
   ]
 }
