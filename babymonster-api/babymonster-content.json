@@ -1,0 +1,176 @@
+{
+  "band_detail": {
+    "logoLine1": "BABY",
+    "logoLine2": "MONSTER",
+    "agencyLabel": "YG ENTERTAINMENT",
+    "verifiedText": "Verified Artist",
+    "name": "BABYMONSTER (베이비몬스터)",
+    "tagline": "SHEESH • YG's Next Global Girl Group",
+    "bio": "Formed by YG Entertainment in 2023 through the 'Last Evaluation' show. 7-member K-pop girl group with powerful vocals, rap, and performance, uniting the global MONSTIEZ fandom from Seoul to world stages and beyond.",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Nov 27, 2023"
+      },
+      {
+        "label": "Fandom:",
+        "value": "MONSTIEZ",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "YG ENTERTAINMENT"
+      },
+      {
+        "label": "",
+        "value": "WE GO UP World Tour",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (7)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Ruka",
+        "initials": "RK",
+        "role": "Leader • Main Dancer • Rapper",
+        "unit": "DANCE LINE",
+        "featured": true,
+        "tags": "ruka",
+        "birthDate": "Mar 20, 2002",
+        "birthPlace": "Shizuoka, Japan",
+        "nationality": "Japanese",
+        "hobbies": [
+          "Dance",
+          "Fashion",
+          "Cooking"
+        ]
+      },
+      {
+        "name": "Pharita",
+        "initials": "PR",
+        "role": "Lead Vocal",
+        "unit": "VOCAL LINE",
+        "tags": "pharita",
+        "birthDate": "Aug 26, 2005",
+        "birthPlace": "Thailand",
+        "nationality": "Thai",
+        "hobbies": [
+          "Singing",
+          "Guitar",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Asa",
+        "initials": "AS",
+        "role": "Main Rapper • Vocal",
+        "unit": "RAP LINE",
+        "tags": "asa",
+        "birthDate": "Apr 17, 2006",
+        "birthPlace": "Okinawa, Japan",
+        "nationality": "Japanese",
+        "hobbies": [
+          "Songwriting",
+          "Dance",
+          "Gaming"
+        ]
+      },
+      {
+        "name": "Ahyeon",
+        "initials": "AH",
+        "role": "Center • All-Rounder",
+        "unit": "CENTER",
+        "tags": "ahyeon",
+        "birthDate": "Apr 11, 2007",
+        "birthPlace": "Chuncheon, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Singing",
+          "Rap",
+          "Gym"
+        ]
+      },
+      {
+        "name": "Rami",
+        "initials": "RM",
+        "role": "Main Vocal",
+        "unit": "VOCAL LINE",
+        "tags": "rami",
+        "birthDate": "Oct 17, 2007",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Singing",
+          "Piano",
+          "Reading"
+        ]
+      },
+      {
+        "name": "Rora",
+        "initials": "RR",
+        "role": "Lead Vocal",
+        "unit": "VOCAL LINE",
+        "tags": "rora",
+        "birthDate": "Aug 14, 2008",
+        "birthPlace": "Gangneung, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Singing",
+          "Drawing",
+          "Movies"
+        ]
+      },
+      {
+        "name": "Chiquita",
+        "initials": "CQ",
+        "role": "Vocal • Maknae",
+        "unit": "DANCE LINE",
+        "tags": "chiquita",
+        "birthDate": "Feb 17, 2009",
+        "birthPlace": "Nakhon Ratchasima, Thailand",
+        "nationality": "Thai",
+        "hobbies": [
+          "Dancing",
+          "Singing",
+          "Shopping"
+        ]
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "babymonster-we-go-up-comeback",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Oct 10, 2025",
+      "monthLabel": "OCT 2025",
+      "source": "YG ENTERTAINMENT / BABYMONSTER Official",
+      "title": "BABYMONSTER Drop Mini Album 'WE GO UP'!",
+      "excerpt": "Title track 'WE GO UP' with 'PSYCHO', 'SUPA DUPA LUV', and 'WILD'. Concept films and tour dates inside.",
+      "quote": "MONSTIEZ, we go up — new music is here!",
+      "image": "https://i.ytimg.com/vi/TqWNFVAEmwU/maxresdefault.jpg",
+      "body": [
+        "BABYMONSTER have officially kicked off their latest comeback with mini album 'WE GO UP', led by the title track of the same name alongside 'PSYCHO', 'SUPA DUPA LUV', and 'WILD'.",
+        "YG ENTERTAINMENT confirms the album showcases all seven members — Ruka, Pharita, Asa, Ahyeon, Rami, Rora, and Chiquita — with a music video filmed across Seoul and Los Angeles.",
+        "The release arrives ahead of the world tour, where MONSTIEZ will hear the new songs live for the first time.",
+        "Pre-save links are open now on all major streaming platforms."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 3,
+    "maxDownloadCount": 2,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 3,
+    "freeAdsSessionVideosRequired": 3,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": true,
+    "isMembersEnabled": true,
+    "adBannerInterval": 7
+  }
+}
