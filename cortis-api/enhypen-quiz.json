@@ -547,5 +547,15 @@
         "Adeuki meonameon goseseo (yeah ye)"
       ]
     }
+  ],
+  "leaderboard": [
+    { "name": "Sofia", "score": 2450, "country": "Indonesia" },
+    { "name": "Minho", "score": 2100, "country": "South Korea" },
+    { "name": "Aiko", "score": 1875, "country": "Japan" },
+    { "name": "Liam", "score": 1500, "country": "United States" },
+    { "name": "Putri", "score": 1275, "country": "Indonesia" },
+    { "name": "Chen", "score": 950, "country": "China" },
+    { "name": "Maria", "score": 700, "country": "Philippines" },
+    { "name": "Alex", "score": 450, "country": "Germany" }
   ]
 }
