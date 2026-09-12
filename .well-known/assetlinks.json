@@ -91,5 +91,18 @@
         "47:D6:33:60:FD:57:3A:29:8C:0A:F9:06:AF:C2:E9:3F:C2:5C:E1:1E:9E:F7:5F:30:66:AC:CB:61:99:ED:58:DF"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.babymonster.lyrics",
+      "sha256_cert_fingerprints": [
+        "47:EB:E9:C3:68:29:49:03:24:5B:FA:27:B1:E4:16:5B:C5:7B:D6:91:F2:0E:63:C4:1D:5A:76:E5:9F:14:BC:B5"
+      ]
+    }
   }
 ]

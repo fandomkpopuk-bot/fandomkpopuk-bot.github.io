@@ -1,7 +1,7 @@
 {
   "band_detail": {
-    "logoLine1": "BABY",
-    "logoLine2": "MONSTER",
+    "logoLine1": "BAE",
+    "logoLine2": "MONS",
     "agencyLabel": "YG ENTERTAINMENT",
     "verifiedText": "Verified Artist",
     "name": "BABYMONSTER (베이비몬스터)",
@@ -33,7 +33,7 @@
       {
         "name": "Ruka",
         "initials": "RK",
-        "role": "Leader • Main Dancer • Rapper",
+        "role": "Main Dancer • Rapper",
         "unit": "DANCE LINE",
         "featured": true,
         "tags": "ruka",
@@ -169,7 +169,7 @@
     "isLyricsEnabled": true,
     "isSongRequestEnabled": true,
     "isOtherAppsEnabled": true,
-    "isNewsEnabled": true,
+    "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 7
   }
