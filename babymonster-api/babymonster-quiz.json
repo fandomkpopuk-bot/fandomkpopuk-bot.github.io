@@ -1,0 +1,512 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "sugar-honey-ice-tea-01",
+      "youtube_id": "naoGk-Zjc1s",
+      "title": "SUGAR HONEY ICE TEA",
+      "clue": "I’m the sugar honey ice tea and you know it",
+      "answer": "Ain’t no other baddie like me, yeah you know it",
+      "options": [
+        "Ain’t no other baddie like me, yeah you know it",
+        "I’m the sugar honey ice tea and you know it",
+        "Ice, ice, ice and you know that I’m the coldest",
+        "I’m the sugar honey"
+      ]
+    },
+    {
+      "id": "sugar-honey-ice-tea-02",
+      "youtube_id": "naoGk-Zjc1s",
+      "title": "SUGAR HONEY ICE TEA",
+      "clue": "I’m sweet just like some ice cream",
+      "answer": "Milk chocolate icing",
+      "options": [
+        "Milk chocolate icing",
+        "My life look like a pipe dream",
+        "Temperature rising",
+        "Let’s go, let’s go, let’s go"
+      ]
+    },
+    {
+      "id": "choom-01",
+      "youtube_id": "x3eqqoZPV_E",
+      "title": "CHOOM",
+      "clue": "Three, four, BABYMON",
+      "answer": "We gon' get this party started",
+      "options": [
+        "We gon' get this party started",
+        "One, two, heat is on",
+        "Own it, burn it, kick it, flip that",
+        "Walk in, stomping like we own the place (Place)"
+      ]
+    },
+    {
+      "id": "choom-02",
+      "youtube_id": "x3eqqoZPV_E",
+      "title": "CHOOM",
+      "clue": "We wanna ride this vibe",
+      "answer": "Get out the way like, \"Vroom, vroom\"",
+      "options": [
+        "Get out the way like, \"Vroom, vroom\"",
+        "We only got tonight",
+        "You better dance like, \"chum, chum\"",
+        "Let's chum"
+      ]
+    },
+    {
+      "id": "hot-sauce-01",
+      "youtube_id": "xn8mQqz2xmM",
+      "title": "HOT SAUCE",
+      "clue": "Hot sauce, hot sauce",
+      "answer": "Everybody want some but can't handle what I brought 'em",
+      "options": [
+        "Everybody want some but can't handle what I brought 'em",
+        "Fire go higher wherever we are",
+        "BABYMONSTER girls got that woo-woo, ah",
+        "I'm like hot sauce, hot sauce"
+      ]
+    },
+    {
+      "id": "hot-sauce-02",
+      "youtube_id": "xn8mQqz2xmM",
+      "title": "HOT SAUCE",
+      "clue": "B-A-B-Y-M-O-N",
+      "answer": "About to blow your mind",
+      "options": [
+        "About to blow your mind",
+        "Feeling deadly tonight",
+        "I don't think you're ready",
+        "We about to leave you breathless"
+      ]
+    },
+    {
+      "id": "clik-clak-01",
+      "youtube_id": "o0oW3lPoOXM",
+      "title": "CLIK CLAK",
+      "clue": "Click-clack, heels tap",
+      "answer": "Walkin' with my hips back",
+      "options": [
+        "Walkin' with my hips back",
+        "Money, click-clack",
+        "Click-clack, click-clack, click-clack",
+        "We make 'em talk, talk, talk, talk"
+      ]
+    },
+    {
+      "id": "clik-clak-02",
+      "youtube_id": "o0oW3lPoOXM",
+      "title": "CLIK CLAK",
+      "clue": "Spending money, charge, charge, charge",
+      "answer": "Who be livin' large, large, large",
+      "options": [
+        "Who be livin' large, large, large",
+        "Walking like a boss, boss, boss",
+        "Yeah, I need a van to hold all my bags",
+        "Always the first and never the last"
+      ]
+    },
+    {
+      "id": "drip-01",
+      "youtube_id": "Zp-Jhuhq0bQ",
+      "title": "DRIP",
+      "clue": "Baby, got passion, ambition, nan boran deusi",
+      "answer": "Look at that, onmomeuro neukkineun nae momjit",
+      "options": [
+        "Look at that, onmomeuro neukkineun nae momjit",
+        "Baby, got drip (Drip), drip (Drip), drip (Drip), drip",
+        "Are you ready? Set, turn on the lights",
+        "Kkeuteomneun gachi, you know it's all me"
+      ]
+    },
+    {
+      "id": "drip-02",
+      "youtube_id": "Zp-Jhuhq0bQ",
+      "title": "DRIP",
+      "clue": "Mmm, what you say? (What you say?)",
+      "answer": "Kkeuteomneun gachi, you know it's all me",
+      "options": [
+        "Kkeuteomneun gachi, you know it's all me",
+        "Are you ready? Set, turn on the lights",
+        "But you don't know 'bout me",
+        "Yeah, yeah, you gon' know 'bout me, boy"
+      ]
+    },
+    {
+      "id": "billionaire-01",
+      "youtube_id": "Gz_yRl6703c",
+      "title": "BILLIONAIRE",
+      "clue": "Oh (Oh), look at me (Look at me), I woke up (I woke up)",
+      "answer": "Feeling like a billionaire, woah",
+      "options": [
+        "Feeling like a billionaire, woah",
+        "World is mine, yeah, life is so unfair",
+        "Money don't compare, I got something rare",
+        "Feeling like a billionaire"
+      ]
+    },
+    {
+      "id": "billionaire-02",
+      "youtube_id": "Gz_yRl6703c",
+      "title": "BILLIONAIRE",
+      "clue": "World is mine, yeah, life is so unfair",
+      "answer": "Money don't compare, I got something rare",
+      "options": [
+        "Money don't compare, I got something rare",
+        "Feeling like a billionaire, woah",
+        "BABYMONSTER got me feeling like a billionaire",
+        "I got rules here to break"
+      ]
+    },
+    {
+      "id": "love-in-my-heart-01",
+      "youtube_id": "1kXLsrun51s",
+      "title": "Love In My Heart",
+      "clue": "Ije deo isang chamgo sipji ana",
+      "answer": "Give you all of the love in my heart (Heart, heart)",
+      "options": [
+        "Give you all of the love in my heart (Heart, heart)",
+        "Ije on sesangi da nae geot gata",
+        "We will be beautiful",
+        "And we'll stay together for all time"
+      ]
+    },
+    {
+      "id": "love-in-my-heart-02",
+      "youtube_id": "1kXLsrun51s",
+      "title": "Love In My Heart",
+      "clue": "Give you, ah-ya-ya-ya-ya, ah-ya-ya",
+      "answer": "Give you all of the love in my heart",
+      "options": [
+        "Give you all of the love in my heart",
+        "Give you all of the love in my heart (Heart, heart)",
+        "We will be beautiful",
+        "I can't live without you"
+      ]
+    },
+    {
+      "id": "really-like-you-01",
+      "youtube_id": "XShaIZs7J7M",
+      "title": "Really Like You",
+      "clue": "Malhago sipeo",
+      "answer": "To say I love you",
+      "options": [
+        "To say I love you",
+        "But, boy, I like you",
+        "Really, really like you",
+        "And in this moonlight, we're reaching new highs"
+      ]
+    },
+    {
+      "id": "really-like-you-02",
+      "youtube_id": "XShaIZs7J7M",
+      "title": "Really Like You",
+      "clue": "But, boy, I like you",
+      "answer": "Really, really like you",
+      "options": [
+        "Really, really like you",
+        "To say I love you",
+        "And in this moonlight, we're reaching new highs",
+        "Malhago sipeo"
+      ]
+    },
+    {
+      "id": "love-maybe-01",
+      "youtube_id": "_MlIlA1RJwg",
+      "title": "Love, Maybe",
+      "clue": "This must be love, baby",
+      "answer": "'Cause I've never felt quite this way",
+      "options": [
+        "'Cause I've never felt quite this way",
+        "I think this is love, baby",
+        "Get weak when you callin' my name",
+        "This must be love, love, love"
+      ]
+    },
+    {
+      "id": "love-maybe-02",
+      "youtube_id": "_MlIlA1RJwg",
+      "title": "Love, Maybe",
+      "clue": "I think this is love, baby",
+      "answer": "Get weak when you callin' my name",
+      "options": [
+        "Get weak when you callin' my name",
+        "'Cause I've never felt quite this way",
+        "This must be love, love, love",
+        "I think this is love, maybe?"
+      ]
+    },
+    {
+      "id": "woke-up-in-tokyo-01",
+      "youtube_id": "Xf8l6J6hF-w",
+      "title": "Woke Up In Tokyo (RUKA & ASA)",
+      "clue": "I woke up in Tokyo, Tokyo, Tokyo",
+      "answer": "I woke up in Tokyo, I'm like, oh, oh, oh (Hey)",
+      "options": [
+        "I woke up in Tokyo, I'm like, oh, oh, oh (Hey)",
+        "I woke up in Tokyo, this be loco-co (Loco)",
+        "Everybody rock and roll, lost in Tokyo",
+        "I woke up in Tokyo (In Tokyo)"
+      ]
+    },
+    {
+      "id": "woke-up-in-tokyo-02",
+      "youtube_id": "Xf8l6J6hF-w",
+      "title": "Woke Up In Tokyo (RUKA & ASA)",
+      "clue": "Ding-dong, ding-dong",
+      "answer": "I swear I'm seeing King Kong",
+      "options": [
+        "I swear I'm seeing King Kong",
+        "Head bouncing like a ping-pong",
+        "We poppin' out, it's on",
+        "\"Ohayōgozaimasu\""
+      ]
+    },
+    {
+      "id": "forever-01",
+      "youtube_id": "eJCHKjt0MPw",
+      "title": "FOREVER",
+      "clue": "Baby, it was all a dream",
+      "answer": "You thought I was yours",
+      "options": [
+        "You thought I was yours",
+        "Meotdaero chakgakajineun ma",
+        "It's bitter, it's sweet",
+        "I'm spreading my wings"
+      ]
+    },
+    {
+      "id": "forever-02",
+      "youtube_id": "eJCHKjt0MPw",
+      "title": "FOREVER",
+      "clue": "It's bitter, it's sweet",
+      "answer": "Jeo haneul nopi",
+      "options": [
+        "Jeo haneul nopi",
+        "I'm spreading my wings",
+        "Like I'ma live forever",
+        "I'm dancing in the moonlight"
+      ]
+    },
+    {
+      "id": "sheesh-01",
+      "youtube_id": "2wA_b6YHjqQ",
+      "title": "SHEESH",
+      "clue": "Got them all going",
+      "answer": "Sheesh, sheesh",
+      "options": [
+        "Sheesh, sheesh",
+        "Sheesh, sheesh, sheesh, yeah",
+        "B-A-B-Y-M-O-N",
+        "Baby, I'ma monster"
+      ]
+    },
+    {
+      "id": "sheesh-02",
+      "youtube_id": "2wA_b6YHjqQ",
+      "title": "SHEESH",
+      "clue": "B-A-B-Y-M-O-N",
+      "answer": "Tell a friend, tell a friend, tell a friend",
+      "options": [
+        "Tell a friend, tell a friend, tell a friend",
+        "Sheesh, sheesh",
+        "Baby, I'ma monster",
+        "Jump, jump and let it go"
+      ]
+    },
+    {
+      "id": "like-that-01",
+      "youtube_id": "M8r3x4Re8-I",
+      "title": "LIKE THAT",
+      "clue": "If I come close, baby, would you like that?",
+      "answer": "If I give some, would you give it right back?",
+      "options": [
+        "If I give some, would you give it right back?",
+        "If I show you that I know where it's at",
+        "Baby, would you like that?",
+        "Say you want love, boy, I know what that means"
+      ]
+    },
+    {
+      "id": "like-that-02",
+      "youtube_id": "M8r3x4Re8-I",
+      "title": "LIKE THAT",
+      "clue": "If I show you that I know where it's at",
+      "answer": "Baby, would you like that?",
+      "options": [
+        "Baby, would you like that?",
+        "Baby, would you like that? (Baby, would you like that?)",
+        "If I give some, would you give it right back?",
+        "Make you feel way better than in your dreams"
+      ]
+    },
+    {
+      "id": "stuck-in-the-middle-01",
+      "youtube_id": "GsV1i0QHi-o",
+      "title": "Stuck In The Middle",
+      "clue": "You tell me that you need me",
+      "answer": "Then you walk away",
+      "options": [
+        "Then you walk away",
+        "Keep promising forever",
+        "With the words you say",
+        "I'm stuck in the middle with you"
+      ]
+    },
+    {
+      "id": "stuck-in-the-middle-02",
+      "youtube_id": "GsV1i0QHi-o",
+      "title": "Stuck In The Middle",
+      "clue": "I'm stuck in the middle with you, you, you",
+      "answer": "With you, you",
+      "options": [
+        "With you, you",
+        "Oh boy, you got me really confused",
+        "Don't know what I'm supposed to do",
+        "I'm stuck in the middle with you"
+      ]
+    },
+    {
+      "id": "batter-up-01",
+      "youtube_id": "olDWm2veCrM",
+      "title": "BATTER UP",
+      "clue": "Batter, batter, batter up",
+      "answer": "Batter up, batter up, batter up",
+      "options": [
+        "Batter up, batter up, batter up",
+        "Batter, batter, batter up",
+        "We are the monsters of the world",
+        "Let me show you who we are"
+      ]
+    },
+    {
+      "id": "batter-up-02",
+      "youtube_id": "olDWm2veCrM",
+      "title": "BATTER UP",
+      "clue": "Remember me (Me)",
+      "answer": "Sting like a bee (Bee)",
+      "options": [
+        "Sting like a bee (Bee)",
+        "Remember me (Me)",
+        "I'm on a mission",
+        "Don't need permission"
+      ]
+    },
+    {
+      "id": "dream-01",
+      "youtube_id": "CLxJgF8Cgkg",
+      "title": "DREAM",
+      "clue": "Sometimes, I don't know who I am",
+      "answer": "Doubting myself again",
+      "options": [
+        "Doubting myself again",
+        "Can't find a light in the dark",
+        "And I'm finding myself in the rain",
+        "I made a promise, I'll never run and hide"
+      ]
+    },
+    {
+      "id": "dream-02",
+      "youtube_id": "CLxJgF8Cgkg",
+      "title": "DREAM",
+      "clue": "Now I finally found my wings",
+      "answer": "I let go of everything",
+      "options": [
+        "I let go of everything",
+        "Decided to follow my heart",
+        "And I'm finally able to breathe",
+        "I'm waking up in my dream"
+      ]
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "Aisha",
+      "score": 2470,
+      "country": "Malaysia"
+    },
+    {
+      "name": "Taeyong",
+      "score": 2140,
+      "country": "South Korea"
+    },
+    {
+      "name": "Olivia",
+      "score": 1880,
+      "country": "United States"
+    },
+    {
+      "name": "Kenji",
+      "score": 1550,
+      "country": "Japan"
+    },
+    {
+      "name": "Dewi",
+      "score": 1300,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Marco",
+      "score": 990,
+      "country": "Italy"
+    },
+    {
+      "name": "Linh",
+      "score": 830,
+      "country": "Vietnam"
+    },
+    {
+      "name": "Grace",
+      "score": 680,
+      "country": "Philippines"
+    }
+  ],
+  "event_list": [
+    {
+      "id": "ev-comeback-race",
+      "title": "Comeback Race: Best Score Wins",
+      "description": "Push your highest single-run score during the comeback week. Top scorer takes home the merch!",
+      "image": "https://i.ytimg.com/vi/2wA_b6YHjqQ/maxresdefault.jpg",
+      "prize": "Signed BABYMONSTER Album + Photocard Set",
+      "prize_image": "https://i.ytimg.com/vi/Zp-Jhuhq0bQ/maxresdefault.jpg",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-30",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "One winner per device"
+      ],
+      "min_score": 500
+    },
+    {
+      "id": "ev-october-lyric-fest",
+      "title": "October Lyric Fest",
+      "description": "Warm up your lyrics knowledge before the October stage!",
+      "image": "https://i.ytimg.com/vi/olDWm2veCrM/maxresdefault.jpg",
+      "prize": "Official BABYMONSTER Lightstick",
+      "prize_image": "https://i.ytimg.com/vi/xn8mQqz2xmM/maxresdefault.jpg",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-20",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "Winner announced in-app"
+      ],
+      "min_score": 1000
+    },
+    {
+      "id": "ev-debut-cup",
+      "title": "Debut Anniversary Cup",
+      "description": "Our first score race — thank you to everyone who joined!",
+      "image": "https://i.ytimg.com/vi/eJCHKjt0MPw/maxresdefault.jpg",
+      "prize": "Poster Set",
+      "prize_image": "https://i.ytimg.com/vi/M8r3x4Re8-I/maxresdefault.jpg",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-15",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins"
+      ],
+      "min_score": 500
+    }
+  ]
+}
