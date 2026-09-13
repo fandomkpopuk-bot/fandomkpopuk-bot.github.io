@@ -461,6 +461,52 @@
     }
   ],
   "event_list": [
-   
+    {
+      "id": "ev-comeback-race",
+      "title": "Comeback Race: Best Score Wins",
+      "description": "Push your highest single-run score during the comeback week. Top scorer takes home the merch!",
+      "image": "https://i.ytimg.com/vi/2wA_b6YHjqQ/maxresdefault.jpg",
+      "prize": "Signed BABYMONSTER Album + Photocard Set",
+      "prize_image": "https://i.ytimg.com/vi/Zp-Jhuhq0bQ/maxresdefault.jpg",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-30",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "One winner per device"
+      ],
+      "min_score": 500
+    },
+    {
+      "id": "ev-october-lyric-fest",
+      "title": "October Lyric Fest",
+      "description": "Warm up your lyrics knowledge before the October stage!",
+      "image": "https://i.ytimg.com/vi/olDWm2veCrM/maxresdefault.jpg",
+      "prize": "Official BABYMONSTER Lightstick",
+      "prize_image": "https://i.ytimg.com/vi/xn8mQqz2xmM/maxresdefault.jpg",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-20",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "Winner announced in-app"
+      ],
+      "min_score": 1000
+    },
+    {
+      "id": "ev-debut-cup",
+      "title": "Debut Anniversary Cup",
+      "description": "Our first score race — thank you to everyone who joined!",
+      "image": "https://i.ytimg.com/vi/eJCHKjt0MPw/maxresdefault.jpg",
+      "prize": "Poster Set",
+      "prize_image": "https://i.ytimg.com/vi/M8r3x4Re8-I/maxresdefault.jpg",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-15",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins"
+      ],
+      "min_score": 500
+    }
   ]
 }
