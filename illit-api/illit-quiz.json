@@ -1,0 +1,248 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "magnetic-01",
+      "youtube_id": "Vk5dgGbw5a8",
+      "title": "Magnetic",
+      "clue": "This time I want you you you you like it's magnetic",
+      "answer": "Super attraction",
+      "options": [
+        "Super attraction",
+        "Lucky lucky, every day",
+        "Dancing till the day is done",
+        "Hold on, don't let go of me"
+      ]
+    },
+    {
+      "id": "magnetic-02",
+      "youtube_id": "Vk5dgGbw5a8",
+      "title": "Magnetic",
+      "clue": "Super attraction",
+      "answer": "Baby, I'm just drawn to you",
+      "options": [
+        "Smile bright like the morning sun",
+        "Baby, I'm just drawn to you",
+        "Super real me, feeling fine",
+        "You and me, we're shining on"
+      ]
+    },
+    {
+      "id": "lucky-girl-syndrome-01",
+      "youtube_id": "rELx8KqTo8Q",
+      "title": "Lucky Girl Syndrome",
+      "clue": "I'm a lucky girl, watch me shine",
+      "answer": "Super real me, feeling fine",
+      "options": [
+        "Super real me, feeling fine",
+        "Super attraction",
+        "Heart keeps pulling closer to you",
+        "Running to you like gravity"
+      ]
+    },
+    {
+      "id": "lucky-girl-syndrome-02",
+      "youtube_id": "rELx8KqTo8Q",
+      "title": "Lucky Girl Syndrome",
+      "clue": "Every little thing goes my way",
+      "answer": "Lucky lucky, every day",
+      "options": [
+        "Hold on, don't let go of me",
+        "One look and I know it's true",
+        "Lucky lucky, every day",
+        "You you you, my magnetic you"
+      ]
+    },
+    {
+      "id": "cherish-01",
+      "youtube_id": "730VZOJ12Sk",
+      "title": "Cherish (My Love)",
+      "clue": "Cherish is from which ILLIT mini album?",
+      "answer": "I'LL LIKE YOU",
+      "options": [
+        "SUPER REAL ME",
+        "I'LL LIKE YOU",
+        "GLIT WORLD",
+        "MAGNETIC LOVE"
+      ]
+    },
+    {
+      "id": "cherish-02",
+      "youtube_id": "730VZOJ12Sk",
+      "title": "Cherish (My Love)",
+      "clue": "Cherish (My Love) was released on?",
+      "answer": "Oct 21, 2024",
+      "options": [
+        "Mar 25, 2024",
+        "Oct 21, 2024",
+        "Sep 09, 2026",
+        "Jan 15, 2004"
+      ]
+    },
+    {
+      "id": "tick-tack-01",
+      "youtube_id": "ATKXvR6yKt4",
+      "title": "Tick-Tack",
+      "clue": "Tick-Tack was released in the same era as?",
+      "answer": "Cherish (My Love)",
+      "options": [
+        "Magnetic",
+        "Cherish (My Love)",
+        "Lucky Girl Syndrome",
+        "My World"
+      ]
+    },
+    {
+      "id": "tick-tack-02",
+      "youtube_id": "ATKXvR6yKt4",
+      "title": "Tick-Tack",
+      "clue": "Tick-Tack release date?",
+      "answer": "Oct 21, 2024",
+      "options": [
+        "Mar 25, 2024",
+        "Oct 8, 2004",
+        "Oct 21, 2024",
+        "Jun 26, 2007"
+      ]
+    },
+    {
+      "id": "my-world-01",
+      "youtube_id": "N9Z0yoeklTs",
+      "title": "My World",
+      "clue": "My World was released on?",
+      "answer": "Mar 25, 2024",
+      "options": [
+        "Mar 25, 2024",
+        "Oct 21, 2024",
+        "Sep 09, 2026",
+        "Feb 4, 2008"
+      ]
+    },
+    {
+      "id": "my-world-02",
+      "youtube_id": "N9Z0yoeklTs",
+      "title": "My World",
+      "clue": "My World belongs to which debut era?",
+      "answer": "SUPER REAL ME",
+      "options": [
+        "I'LL LIKE YOU",
+        "SUPER REAL ME",
+        "GLIT WORLD",
+        "CHERISH ERA"
+      ]
+    },
+    {
+      "id": "pimple-01",
+      "youtube_id": "q7k4OiHU50U",
+      "title": "Pimple",
+      "clue": "Pimple was released on?",
+      "answer": "Oct 21, 2024",
+      "options": [
+        "Mar 25, 2024",
+        "May 11, 2004",
+        "Oct 21, 2024",
+        "Sep 09, 2026"
+      ]
+    },
+    {
+      "id": "pimple-02",
+      "youtube_id": "q7k4OiHU50U",
+      "title": "Pimple",
+      "clue": "Pimple shares its release era with?",
+      "answer": "Cherish (My Love)",
+      "options": [
+        "Cherish (My Love)",
+        "Magnetic",
+        "Lucky Girl Syndrome",
+        "My World"
+      ]
+    },
+    {
+      "id": "magnetic-03",
+      "youtube_id": "Vk5dgGbw5a8",
+      "title": "Magnetic",
+      "clue": "Baby, I'm just drawn to you",
+      "answer": "Heart keeps pulling closer to you",
+      "options": [
+        "Heart keeps pulling closer to you",
+        "Smile bright like the morning sun",
+        "Lucky girl, we carry on",
+        "Super real me, feeling fine"
+      ]
+    },
+    {
+      "id": "magnetic-04",
+      "youtube_id": "Vk5dgGbw5a8",
+      "title": "Magnetic",
+      "clue": "Magnetic is the debut title of which mini album?",
+      "answer": "SUPER REAL ME",
+      "options": [
+        "SUPER REAL ME",
+        "I'LL LIKE YOU",
+        "GLIT WORLD",
+        "R U NEXT"
+      ]
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "Clara",
+      "score": 1071,
+      "country": "Germany"
+    },
+    {
+      "name": "Dian",
+      "score": 1062,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Micah",
+      "score": 1053,
+      "country": "USA"
+    },
+    {
+      "name": "Hana",
+      "score": 1044,
+      "country": "South Korea"
+    },
+    {
+      "name": "Lionel",
+      "score": 1035,
+      "country": "France"
+    },
+    {
+      "name": "Qiana",
+      "score": 1026,
+      "country": "USA"
+    },
+    {
+      "name": "Troy",
+      "score": 1017,
+      "country": "Canada"
+    },
+    {
+      "name": "Sasha",
+      "score": 1008,
+      "country": "Russia"
+    }
+  ],
+  "event_list": [
+    {
+      "id": "ev-illit-photocard-2026",
+      "title": "ILLIT Photocard Set Race: Best Score Wins",
+      "description": "Collect your best score from September to December 2026! The highest best score during the event period will be the winner and take home the ILLIT Photocard Set.",
+      "image": "https://play-lh.googleusercontent.com/zt1ATdMoFMwc4rEarX-7XLIBc1pIdWokrX9talv5ArUNsYaqaoAe7uShyk9rRZJwYooxdvHljkHV-3rcmdqB6A=w480-h960-rw",
+      "prize": "Photocard Set ILLIT",
+      "prize_image": "https://play-lh.googleusercontent.com/zt1ATdMoFMwc4rEarX-7XLIBc1pIdWokrX9talv5ArUNsYaqaoAe7uShyk9rRZJwYooxdvHljkHV-3rcmdqB6A=w480-h960-rw",
+      "start_date": "2026-09-01",
+      "end_date": "2026-12-31",
+      "rules": [
+        "The highest best score during the event period will be the winner",
+        "Unlimited runs during the event period September 1 - December 31, 2026",
+        "Min score 500 to qualify",
+        "One winner per device"
+      ],
+      "min_score": 500
+    }
+  ]
+}

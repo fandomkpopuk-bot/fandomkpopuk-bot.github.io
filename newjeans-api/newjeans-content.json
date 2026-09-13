@@ -1,0 +1,147 @@
+{
+  "band_detail": {
+    "logoLine1": "NEW",
+    "logoLine2": "JEANS",
+    "agencyLabel": "ADOR X HYBE",
+    "verifiedText": "Verified Artist",
+    "name": "NewJeans (뉴진스)",
+    "tagline": "Attention • Global Y2K Icons",
+    "bio": "Debuted on Jul 22, 2022 under ADOR. 5-member girl group with fresh Y2K sound and record-breaking EPs, uniting the BUNNIES fandom from Seoul to the world and beyond.",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Jul 22, 2022"
+      },
+      {
+        "label": "Fandom:",
+        "value": "BUNNIES",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "ADOR X HYBE"
+      },
+      {
+        "label": "",
+        "value": "Get Up 2nd EP Tour",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (5)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Minji",
+        "initials": "MJ",
+        "role": "Leader • Vocal",
+        "unit": "LEADER LINE",
+        "featured": true,
+        "tags": "minji",
+        "birthDate": "May 7, 2004",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Dancing",
+          "Singing",
+          "Reading"
+        ]
+      },
+      {
+        "name": "Hanni",
+        "initials": "HN",
+        "role": "Vocal • Dance",
+        "unit": "VOCAL LINE",
+        "tags": "hanni",
+        "birthDate": "Oct 6, 2004",
+        "birthPlace": "Melbourne, Australia",
+        "nationality": "Vietnamese-Australian",
+        "hobbies": [
+          "Singing",
+          "Dancing",
+          "Cooking"
+        ]
+      },
+      {
+        "name": "Danielle",
+        "initials": "DT",
+        "role": "Vocal • Variety",
+        "unit": "VOCAL LINE",
+        "tags": "danielle",
+        "birthDate": "Apr 11, 2005",
+        "birthPlace": "Newcastle, Australia",
+        "nationality": "Korean-Australian",
+        "hobbies": [
+          "Surfing",
+          "Singing",
+          "Painting"
+        ]
+      },
+      {
+        "name": "Haerin",
+        "initials": "HR",
+        "role": "Vocal • Dance",
+        "unit": "VOCAL LINE",
+        "tags": "haerin",
+        "birthDate": "May 15, 2006",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Dancing",
+          "Photography",
+          "Cats"
+        ]
+      },
+      {
+        "name": "Hyein",
+        "initials": "HI",
+        "role": "Maknae • Vocal",
+        "unit": "DANCE LINE",
+        "tags": "hyein",
+        "birthDate": "Apr 21, 2008",
+        "birthPlace": "Incheon, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Singing",
+          "Drawing",
+          "Fashion"
+        ]
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "newjeans-supershy-2026",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Sep 10, 2026",
+      "monthLabel": "SEP 2026",
+      "source": "ADOR / NewJeans Official",
+      "title": "NewJeans Keep Super Shy Era Alive With Festival Dates!",
+      "excerpt": "ETA and Super Shy fever continues. Festival stages and fan events inside.",
+      "quote": "Bunnies, let's get up!",
+      "image": "https://i.ytimg.com/vi/ArmDp-zijuc/maxresdefault.jpg",
+      "body": [
+        "NewJeans have officially extended their Super Shy era with new festival dates announced this week.",
+        "ADOR confirms all five members will perform ETA and Super Shy on festival stages across Seoul and Tokyo.",
+        "The festival run arrives as BUNNIES celebrate the group's Get Up 2nd EP tour momentum.",
+        "Tickets and exclusive merch drops are open now on all major ticketing platforms."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 3,
+    "maxDownloadCount": 2,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 3,
+    "freeAdsSessionVideosRequired": 3,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": false,
+    "isMembersEnabled": true,
+    "adBannerInterval": 10,
+    "isMinigameEnabled": true
+  }
+}

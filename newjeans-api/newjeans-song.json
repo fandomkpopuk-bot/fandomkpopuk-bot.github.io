@@ -1,0 +1,135 @@
+{
+  "song_list": [
+    {
+      "title": "Attention",
+      "release_date": "2022-08-01",
+      "album": "-",
+      "artist": "NewJeans",
+      "tags": [
+        "newjeans"
+      ],
+      "image": "https://i.ytimg.com/vi/UIOe9qnglyQ/maxresdefault.jpg",
+      "popularity": 1500000,
+      "urlMp3": "https://wekaryatech.github.io/song/newjeans-attention.mp3",
+      "youtube_id": "UIOe9qnglyQ",
+      "latin_lyric": null
+    },
+    {
+      "title": "Hype Boy",
+      "release_date": "2022-08-01",
+      "album": "-",
+      "artist": "NewJeans",
+      "tags": [
+        "newjeans"
+      ],
+      "image": "https://i.ytimg.com/vi/11cta61wi0g/maxresdefault.jpg",
+      "popularity": 1800000,
+      "urlMp3": "https://wekaryatech.github.io/song/newjeans-hypeboy.mp3",
+      "youtube_id": "11cta61wi0g",
+      "latin_lyric": [
+        "Cause I know what you like boy",
+        "You're my chemical hype boy",
+        "Nae mameun soljiki you ought to know",
+        "Sumsorodo tteoolla",
+        "Jamdeun saebyeok neoro kkaeulla",
+        "Cause I know what you like boy",
+        "You're my chemical hype boy",
+        "Kkok jabeun du son nohji ma",
+        "Neowa nae fantasy",
+        "Can't you see that I need you, baby"
+      ]
+    },
+    {
+      "title": "Ditto",
+      "release_date": "2022-12-19",
+      "album": "-",
+      "artist": "NewJeans",
+      "tags": [
+        "newjeans"
+      ],
+      "image": "https://i.ytimg.com/vi/pSUydWEqKw4/maxresdefault.jpg",
+      "popularity": 1700000,
+      "urlMp3": "https://wekaryatech.github.io/song/newjeans-ditto.mp3",
+      "youtube_id": "pSUydWEqKw4",
+      "latin_lyric": [
+        "Stay in the middle",
+        "Like you a little",
+        "Don't want no riddle",
+        "Malhaejwo say it back",
+        "Oh say it ditto",
+        "Achimedo bamedo",
+        "Neol gidaryeo all day",
+        "Got me feeling sentimental",
+        "Neodo nawa gateulkka",
+        "Say it ditto"
+      ]
+    },
+    {
+      "title": "OMG",
+      "release_date": "2023-01-02",
+      "album": "-",
+      "artist": "NewJeans",
+      "tags": [
+        "newjeans"
+      ],
+      "image": "https://i.ytimg.com/vi/_ZAgIHmHL7Q/maxresdefault.jpg",
+      "popularity": 1600000,
+      "urlMp3": "https://wekaryatech.github.io/song/newjeans-omg.mp3",
+      "youtube_id": "_ZAgIHmHL7Q",
+      "latin_lyric": null
+    },
+    {
+      "title": "Super Shy",
+      "release_date": "2023-07-07",
+      "album": "Get Up",
+      "artist": "NewJeans",
+      "tags": [
+        "newjeans"
+      ],
+      "image": "https://i.ytimg.com/vi/ArmDp-zijuc/maxresdefault.jpg",
+      "popularity": 1750000,
+      "urlMp3": "https://wekaryatech.github.io/song/newjeans-supershy.mp3",
+      "youtube_id": "ArmDp-zijuc",
+      "latin_lyric": [
+        "I'm super shy super shy",
+        "But wait a minute while I make you mine",
+        "Make you mine tteolline",
+        "Nae mameun geujeori you ought to know",
+        "Nuni majuchin sungan",
+        "You make me wanna dance",
+        "Geoul soge bichin nae nunbit",
+        "And I wanna go out with you",
+        "Hoo baby, I'm super shy",
+        "You make me wanna make you mine"
+      ]
+    },
+    {
+      "title": "ETA",
+      "release_date": "2023-07-21",
+      "album": "Get Up",
+      "artist": "NewJeans",
+      "tags": [
+        "newjeans"
+      ],
+      "image": "https://i.ytimg.com/vi/UjvK0m1d4Yc/maxresdefault.jpg",
+      "popularity": 1400000,
+      "urlMp3": "https://wekaryatech.github.io/song/newjeans-eta.mp3",
+      "youtube_id": "UjvK0m1d4Yc",
+      "latin_lyric": null
+    },
+    {
+      "title": "Cool With You",
+      "release_date": "2023-07-21",
+      "album": "Get Up",
+      "artist": "NewJeans",
+      "tags": [
+        "newjeans"
+      ],
+      "image": "https://i.ytimg.com/vi/Y8aVPDN7yVw/maxresdefault.jpg",
+      "popularity": 90000,
+      "urlMp3": "https://wekaryatech.github.io/song/newjeans-coolwithyou.mp3",
+      "youtube_id": "Y8aVPDN7yVw",
+      "latin_lyric": null
+    }
+  ]
+}

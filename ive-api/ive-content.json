@@ -1,0 +1,162 @@
+{
+  "band_detail": {
+    "logoLine1": "I-",
+    "logoLine2": "VE",
+    "agencyLabel": "STARSHIP ENT.",
+    "verifiedText": "Verified Artist",
+    "name": "IVE (아이브)",
+    "tagline": "LOVE DIVE • Global Girl Icons",
+    "bio": "Debuted under Starship Entertainment on Dec 1, 2021. 6-member girl group behind ELEVEN, LOVE DIVE and After LIKE, uniting the DIVE fandom from Seoul to the world and beyond.",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Dec 1, 2021"
+      },
+      {
+        "label": "Fandom:",
+        "value": "DIVE",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "STARSHIP ENT."
+      },
+      {
+        "label": "",
+        "value": "SHOW WHAT I HAVE Tour",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (6)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "An Yujin",
+        "initials": "AY",
+        "role": "Leader • Vocal",
+        "unit": "LEADER LINE",
+        "featured": true,
+        "tags": "yujin",
+        "birthDate": "Sep 1, 2003",
+        "birthPlace": "Cheongju, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "MCing",
+          "Dancing",
+          "Photography"
+        ]
+      },
+      {
+        "name": "Gaeul",
+        "initials": "GL",
+        "role": "Rap • Dance",
+        "unit": "RAP LINE",
+        "tags": "gaeul",
+        "birthDate": "Sep 24, 2002",
+        "birthPlace": "Incheon, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Rapping",
+          "Dance",
+          "Movies"
+        ]
+      },
+      {
+        "name": "Rei",
+        "initials": "RI",
+        "role": "Rap • Vocal",
+        "unit": "RAP LINE",
+        "tags": "rei",
+        "birthDate": "Feb 3, 2004",
+        "birthPlace": "Nagoya, Japan",
+        "nationality": "Japanese",
+        "hobbies": [
+          "Songwriting",
+          "Reading",
+          "Cooking"
+        ]
+      },
+      {
+        "name": "Jang Wonyoung",
+        "initials": "WY",
+        "role": "Vocal • Visual",
+        "unit": "VOCAL LINE",
+        "tags": "wonyoung",
+        "birthDate": "Aug 31, 2004",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Fashion",
+          "MCing",
+          "Piano"
+        ]
+      },
+      {
+        "name": "Liz",
+        "initials": "LZ",
+        "role": "Main Vocal",
+        "unit": "VOCAL LINE",
+        "tags": "liz",
+        "birthDate": "Nov 21, 2004",
+        "birthPlace": "Jeju, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Singing",
+          "Baking",
+          "Cats"
+        ]
+      },
+      {
+        "name": "Leeseo",
+        "initials": "LS",
+        "role": "Maknae • Vocal",
+        "unit": "DANCE LINE",
+        "tags": "leeseo",
+        "birthDate": "Feb 21, 2007",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Dancing",
+          "Drawing",
+          "Swimming"
+        ]
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "ive-heya-2026",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Sep 08, 2026",
+      "monthLabel": "SEP 2026",
+      "source": "Starship / IVE Official",
+      "title": "IVE Light Up Heya Era With World Tour Dates!",
+      "excerpt": "After LIKE, I AM and Heya — IVE keep the streak alive. Concept films and tour dates inside.",
+      "quote": "DIVE, love dive with us!",
+      "image": "https://i.ytimg.com/vi/Y8JFxS1HlDo/maxresdefault.jpg",
+      "body": [
+        "IVE have officially opened a new chapter of the Heya era with fresh world tour dates announced across official channels this week.",
+        "Starship Entertainment confirms all six members recorded new stages together, following the run of LIKE, I AM and Heya.",
+        "The announcement arrives ahead of the SHOW WHAT I HAVE tour extension, where DIVE will hear the new setlist live for the first time.",
+        "Pre-save links and exclusive merch drops are open now on all major streaming platforms."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 3,
+    "maxDownloadCount": 2,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 3,
+    "freeAdsSessionVideosRequired": 3,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": false,
+    "isMembersEnabled": true,
+    "adBannerInterval": 10,
+    "isMinigameEnabled": true
+  }
+}

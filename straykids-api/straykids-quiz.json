@@ -524,44 +524,44 @@
   ],
   "leaderboard": [
     {
-      "name": "Sofia",
-      "score": 2450,
+      "name": "Pixel",
+      "score": 713,
+      "country": "USA"
+    },
+    {
+      "name": "Qori",
+      "score": 704,
       "country": "Indonesia"
     },
     {
-      "name": "Minho",
-      "score": 2100,
-      "country": "South Korea"
+      "name": "Rex",
+      "score": 695,
+      "country": "Canada"
     },
     {
-      "name": "Aiko",
-      "score": 1875,
-      "country": "Japan"
-    },
-    {
-      "name": "Liam",
-      "score": 1500,
-      "country": "United States"
-    },
-    {
-      "name": "Putri",
-      "score": 1275,
+      "name": "Sella",
+      "score": 686,
       "country": "Indonesia"
     },
     {
-      "name": "Chen",
-      "score": 950,
-      "country": "China"
+      "name": "Topher",
+      "score": 677,
+      "country": "UK"
     },
     {
-      "name": "Maria",
-      "score": 700,
-      "country": "Philippines"
+      "name": "Ulfa",
+      "score": 668,
+      "country": "Indonesia"
     },
     {
-      "name": "Alex",
-      "score": 450,
-      "country": "Germany"
+      "name": "Vicky",
+      "score": 659,
+      "country": "Hong Kong"
+    },
+    {
+      "name": "Wibi",
+      "score": 650,
+      "country": "Indonesia"
     }
   ],
   "event_list": [

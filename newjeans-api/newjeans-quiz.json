@@ -1,0 +1,274 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "attention-01",
+      "youtube_id": "UIOe9qnglyQ",
+      "title": "Attention",
+      "clue": "You got me looking for attention",
+      "answer": "Neol chaja hemaeeo all day",
+      "options": [
+        "Neol chaja hemaeeo all day",
+        "You're my chemical hype boy",
+        "Stay in the middle",
+        "I'm super shy super shy"
+      ]
+    },
+    {
+      "id": "attention-02",
+      "youtube_id": "UIOe9qnglyQ",
+      "title": "Attention",
+      "clue": "Neol chaja hemaeeo all day",
+      "answer": "Drop the question, drop the question",
+      "options": [
+        "Make you mine tteolline",
+        "Malhaejwo say it back",
+        "Drop the question, drop the question",
+        "Nobody understands, I know"
+      ]
+    },
+    {
+      "id": "hype-boy-01",
+      "youtube_id": "11cta61wi0g",
+      "title": "Hype Boy",
+      "clue": "Cause I know what you like boy",
+      "answer": "You're my chemical hype boy",
+      "options": [
+        "Hey, saero taeeonan neowa nal wihae",
+        "You're my chemical hype boy",
+        "Stay in the middle",
+        "I'm super shy super shy"
+      ]
+    },
+    {
+      "id": "hype-boy-02",
+      "youtube_id": "11cta61wi0g",
+      "title": "Hype Boy",
+      "clue": "You're my chemical hype boy",
+      "answer": "Nae mameun soljiki you ought to know",
+      "options": [
+        "Nae mameun soljiki you ought to know",
+        "You got me looking for attention",
+        "Malhaejwo say it back",
+        "Make you mine tteolline"
+      ]
+    },
+    {
+      "id": "ditto-01",
+      "youtube_id": "pSUydWEqKw4",
+      "title": "Ditto",
+      "clue": "Stay in the middle",
+      "answer": "Like you a little",
+      "options": [
+        "Like you a little",
+        "You're my chemical hype boy",
+        "But wait a minute while I make you mine",
+        "Neol chaja hemaeeo all day"
+      ]
+    },
+    {
+      "id": "ditto-02",
+      "youtube_id": "pSUydWEqKw4",
+      "title": "Ditto",
+      "clue": "Like you a little",
+      "answer": "Don't want no riddle",
+      "options": [
+        "Nae mameun soljiki you ought to know",
+        "Don't want no riddle",
+        "You make me wanna dance",
+        "Drop the question, drop the question"
+      ]
+    },
+    {
+      "id": "omg-01",
+      "youtube_id": "_ZAgIHmHL7Q",
+      "title": "OMG",
+      "clue": "Oh my oh my God",
+      "answer": "Yeonghon eomneun nunbicheuro nal bone",
+      "options": [
+        "Yeonghon eomneun nunbicheuro nal bone",
+        "Stay in the middle",
+        "I'm super shy super shy",
+        "Cause I know what you like boy"
+      ]
+    },
+    {
+      "id": "omg-02",
+      "youtube_id": "_ZAgIHmHL7Q",
+      "title": "OMG",
+      "clue": "Yeonghon eomneun nunbicheuro nal bone",
+      "answer": "Nan jeongmal alla ne mameul",
+      "options": [
+        "Like you a little",
+        "Nan jeongmal alla ne mameul",
+        "Make you mine tteolline",
+        "Neol chaja hemaeeo all day"
+      ]
+    },
+    {
+      "id": "super-shy-01",
+      "youtube_id": "ArmDp-zijuc",
+      "title": "Super Shy",
+      "clue": "I'm super shy super shy",
+      "answer": "But wait a minute while I make you mine",
+      "options": [
+        "Don't want no riddle",
+        "But wait a minute while I make you mine",
+        "You're my chemical hype boy",
+        "Stay in the middle"
+      ]
+    },
+    {
+      "id": "super-shy-02",
+      "youtube_id": "ArmDp-zijuc",
+      "title": "Super Shy",
+      "clue": "But wait a minute while I make you mine",
+      "answer": "Make you mine tteolline",
+      "options": [
+        "Make you mine tteolline",
+        "Like you a little",
+        "Neol chaja hemaeeo all day",
+        "Nan jeongmal alla ne mameul"
+      ]
+    },
+    {
+      "id": "eta-01",
+      "youtube_id": "UjvK0m1d4Yc",
+      "title": "ETA",
+      "clue": "What's your ETA, what's your ETA",
+      "answer": "Neon nae mameul ara all day",
+      "options": [
+        "Neon nae mameul ara all day",
+        "I'm super shy super shy",
+        "Stay in the middle",
+        "Oh my oh my God"
+      ]
+    },
+    {
+      "id": "eta-02",
+      "youtube_id": "UjvK0m1d4Yc",
+      "title": "ETA",
+      "clue": "Neon nae mameul ara all day",
+      "answer": "Call me as soon as you arrive",
+      "options": [
+        "Make you mine tteolline",
+        "Don't want no riddle",
+        "Call me as soon as you arrive",
+        "You're my chemical hype boy"
+      ]
+    },
+    {
+      "id": "cool-with-you-01",
+      "youtube_id": "Y8aVPDN7yVw",
+      "title": "Cool With You",
+      "clue": "I'd be cool with you",
+      "answer": "Eodideun hamkke gal su isseumyeon",
+      "options": [
+        "Eodideun hamkke gal su isseumyeon",
+        "But wait a minute while I make you mine",
+        "What's your ETA, what's your ETA",
+        "Oh my oh my God"
+      ]
+    },
+    {
+      "id": "cool-with-you-02",
+      "youtube_id": "Y8aVPDN7yVw",
+      "title": "Cool With You",
+      "clue": "Eodideun hamkke gal su isseumyeon",
+      "answer": "Neowa naman isseumyeon dwae",
+      "options": [
+        "Like you a little",
+        "Neon nae mameul ara all day",
+        "Neowa naman isseumyeon dwae",
+        "You got me looking for attention"
+      ]
+    },
+    {
+      "id": "hype-boy-03",
+      "youtube_id": "11cta61wi0g",
+      "title": "Hype Boy",
+      "clue": "Nae mameun soljiki you ought to know",
+      "answer": "Sumsorodo tteoolla",
+      "options": [
+        "Sumsorodo tteoolla",
+        "Don't want no riddle",
+        "Eodideun hamkke gal su isseumyeon",
+        "Nan jeongmal alla ne mameul"
+      ]
+    },
+    {
+      "id": "super-shy-03",
+      "youtube_id": "ArmDp-zijuc",
+      "title": "Super Shy",
+      "clue": "Nuni majuchin sungan",
+      "answer": "You make me wanna dance",
+      "options": [
+        "Call me as soon as you arrive",
+        "Neowa naman isseumyeon dwae",
+        "You make me wanna dance",
+        "Sumsorodo tteoolla"
+      ]
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "Mochi",
+      "score": 784,
+      "country": "Japan"
+    },
+    {
+      "name": "Sunny",
+      "score": 775,
+      "country": "South Korea"
+    },
+    {
+      "name": "Yuto",
+      "score": 766,
+      "country": "Japan"
+    },
+    {
+      "name": "Ara",
+      "score": 757,
+      "country": "South Korea"
+    },
+    {
+      "name": "Cody",
+      "score": 748,
+      "country": "USA"
+    },
+    {
+      "name": "Lulu",
+      "score": 739,
+      "country": "China"
+    },
+    {
+      "name": "Nando",
+      "score": 731,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Pia",
+      "score": 722,
+      "country": "Germany"
+    }
+  ],
+  "event_list": [
+    {
+      "id": "ev-photocard-set-2026",
+      "title": "NewJeans Photocard Set Race: Best Score Wins",
+      "description": "Collect your best score from September to December 2026! The highest best score during the event period will be the winner and take home the NewJeans Photocard Set.",
+      "image": "https://play-lh.googleusercontent.com/aiuLqwywFroHJKykCNGaCds2XtOn0_mi3Au3I2SzcaPFrcLcWujsFD4ygQru3X5Ba35BC9IrRO7Jlu1UjfxDdw=w480-h960-rw",
+      "prize": "Photocard Set NewJeans",
+      "prize_image": "https://play-lh.googleusercontent.com/aiuLqwywFroHJKykCNGaCds2XtOn0_mi3Au3I2SzcaPFrcLcWujsFD4ygQru3X5Ba35BC9IrRO7Jlu1UjfxDdw=w480-h960-rw",
+      "start_date": "2026-09-01",
+      "end_date": "2026-12-31",
+      "rules": [
+        "The highest best score during the event period will be the winner",
+        "Unlimited runs during the event period September 1 - December 31, 2026",
+        "Min score 500 to qualify",
+        "One winner per device"
+      ],
+      "min_score": 500
+    }
+  ]
+}

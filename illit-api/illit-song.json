@@ -1,0 +1,108 @@
+{
+  "song_list": [
+    {
+      "title": "Magnetic",
+      "release_date": "2024-03-25",
+      "album": "SUPER REAL ME",
+      "artist": "ILLIT",
+      "tags": [
+        "illit"
+      ],
+      "image": "https://i.ytimg.com/vi/Vk5dgGbw5a8/maxresdefault.jpg",
+      "popularity": 1800000,
+      "urlMp3": "https://wekaryatech.github.io/song/illit-magnetic.mp3",
+      "youtube_id": "Vk5dgGbw5a8",
+      "latin_lyric": [
+        "This time I want you you you you like it's magnetic",
+        "Super attraction",
+        "Baby, I'm just drawn to you",
+        "Heart keeps pulling closer to you",
+        "One look and I know it's true",
+        "Dashing through my super real dream",
+        "You you you, my magnetic you",
+        "Running to you like gravity",
+        "Hold on, don't let go of me",
+        "Super attraction, you and me"
+      ]
+    },
+    {
+      "title": "Lucky Girl Syndrome",
+      "release_date": "2024-03-25",
+      "album": "-",
+      "artist": "ILLIT",
+      "tags": [
+        "illit"
+      ],
+      "image": "https://i.ytimg.com/vi/rELx8KqTo8Q/maxresdefault.jpg",
+      "popularity": 1200000,
+      "urlMp3": "https://wekaryatech.github.io/song/illit-lucky.mp3",
+      "youtube_id": "rELx8KqTo8Q",
+      "latin_lyric": [
+        "I'm a lucky girl, watch me shine",
+        "Super real me, feeling fine",
+        "Every little thing goes my way",
+        "Lucky lucky, every day",
+        "Smile bright like the morning sun",
+        "Dancing till the day is done",
+        "You and me, we're shining on",
+        "Lucky girl, we carry on"
+      ]
+    },
+    {
+      "title": "Cherish (My Love)",
+      "release_date": "2024-10-21",
+      "album": "I'LL LIKE YOU",
+      "artist": "ILLIT",
+      "tags": [
+        "illit"
+      ],
+      "image": "https://i.ytimg.com/vi/730VZOJ12Sk/maxresdefault.jpg",
+      "popularity": 1300000,
+      "urlMp3": "https://wekaryatech.github.io/song/illit-cherish.mp3",
+      "youtube_id": "730VZOJ12Sk",
+      "latin_lyric": null
+    },
+    {
+      "title": "Tick-Tack",
+      "release_date": "2024-10-21",
+      "album": "-",
+      "artist": "ILLIT",
+      "tags": [
+        "illit"
+      ],
+      "image": "https://i.ytimg.com/vi/ATKXvR6yKt4/maxresdefault.jpg",
+      "popularity": 900000,
+      "urlMp3": "https://wekaryatech.github.io/song/illit-ticktack.mp3",
+      "youtube_id": "ATKXvR6yKt4",
+      "latin_lyric": null
+    },
+    {
+      "title": "My World",
+      "release_date": "2024-03-25",
+      "album": "-",
+      "artist": "ILLIT",
+      "tags": [
+        "illit"
+      ],
+      "image": "https://i.ytimg.com/vi/N9Z0yoeklTs/maxresdefault.jpg",
+      "popularity": 80000,
+      "urlMp3": "https://wekaryatech.github.io/song/illit-myworld.mp3",
+      "youtube_id": "N9Z0yoeklTs",
+      "latin_lyric": null
+    },
+    {
+      "title": "Pimple",
+      "release_date": "2024-10-21",
+      "album": "-",
+      "artist": "ILLIT",
+      "tags": [
+        "illit"
+      ],
+      "image": "https://i.ytimg.com/vi/q7k4OiHU50U/maxresdefault.jpg",
+      "popularity": 80000,
+      "urlMp3": "https://wekaryatech.github.io/song/illit-pimple.mp3",
+      "youtube_id": "q7k4OiHU50U",
+      "latin_lyric": null
+    }
+  ]
+}

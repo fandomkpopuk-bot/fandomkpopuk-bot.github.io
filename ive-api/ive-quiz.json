@@ -1,0 +1,300 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "ive-eleven-01",
+      "youtube_id": "9pdJ1owe9GY",
+      "title": "Eleven",
+      "clue": "Ttaeron nunmuri na",
+      "answer": "Nal utge haneun neoye",
+      "options": [
+        "Nal utge haneun neoye",
+        "Neowa naega mandeureogane",
+        "Tto moreuji nae mami",
+        "Mangseoriji malgo dive"
+      ]
+    },
+    {
+      "id": "ive-eleven-02",
+      "youtube_id": "9pdJ1owe9GY",
+      "title": "Eleven",
+      "clue": "You make me feel like eleven",
+      "answer": "Eleven I'm in heaven",
+      "options": [
+        "Ooh ooh love dive",
+        "Eleven I'm in heaven",
+        "Try to love me now",
+        "What's after like?"
+      ]
+    },
+    {
+      "id": "ive-lovedive-01",
+      "youtube_id": "Y8JFxS1HlDo",
+      "title": "LOVE DIVE",
+      "clue": "Narcissistic my god I love it",
+      "answer": "Neowa naega mandeureogane",
+      "options": [
+        "Neowa naega mandeureogane",
+        "Geu misoe nan fall in love",
+        "Joa boineun geol",
+        "Nae mami dagaganeun geol"
+      ]
+    },
+    {
+      "id": "ive-lovedive-02",
+      "youtube_id": "Y8JFxS1HlDo",
+      "title": "LOVE DIVE",
+      "clue": "Mangseoriji malgo dive",
+      "answer": "Ooh ooh love dive",
+      "options": [
+        "Try to love me now",
+        "Nal utge haneun neoye",
+        "Ooh ooh love dive",
+        "Eojjeomyeon love"
+      ]
+    },
+    {
+      "id": "ive-afterlike-01",
+      "youtube_id": "F0pmagviGyU",
+      "title": "After LIKE",
+      "clue": "What's after like?",
+      "answer": "Tto moreuji nae mami",
+      "options": [
+        "Tto moreuji nae mami",
+        "Neowa naega mandeureogane",
+        "Nae ape dagawa jwo",
+        "Geu bich sogeuro dive"
+      ]
+    },
+    {
+      "id": "ive-afterlike-02",
+      "youtube_id": "F0pmagviGyU",
+      "title": "After LIKE",
+      "clue": "Tto moreuji nae mami",
+      "answer": "Eojjeomyeon love",
+      "options": [
+        "Ooh ooh love dive",
+        "Eojjeomyeon love",
+        "Eleven I'm in heaven",
+        "Simjangeun kungkungdae"
+      ]
+    },
+    {
+      "id": "ive-kitsch-01",
+      "youtube_id": "pG6IaBM9X4E",
+      "title": "Kitsch",
+      "clue": "Which album features the track Kitsch?",
+      "answer": "I'VE IVE",
+      "options": [
+        "ELEVEN",
+        "LOVE DIVE",
+        "I'VE IVE",
+        "IVE SWITCH"
+      ]
+    },
+    {
+      "id": "ive-kitsch-02",
+      "youtube_id": "pG6IaBM9X4E",
+      "title": "Kitsch",
+      "clue": "Kitsch was released in which year?",
+      "answer": "2023",
+      "options": [
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    {
+      "id": "ive-iam-01",
+      "youtube_id": "6ZUIwj3FgUY",
+      "title": "I AM",
+      "clue": "Which album features the track I AM?",
+      "answer": "I'VE IVE",
+      "options": [
+        "I'VE IVE",
+        "AFTER LIKE",
+        "I'VE MINE",
+        "IVE SWITCH"
+      ]
+    },
+    {
+      "id": "ive-iam-02",
+      "youtube_id": "6ZUIwj3FgUY",
+      "title": "I AM",
+      "clue": "I AM was released in which month and year?",
+      "answer": "April 2023",
+      "options": [
+        "December 2021",
+        "August 2022",
+        "April 2023",
+        "April 2024"
+      ]
+    },
+    {
+      "id": "ive-baddie-01",
+      "youtube_id": "Da4P2xT4mHw",
+      "title": "Baddie",
+      "clue": "Which EP features the track Baddie?",
+      "answer": "I'VE MINE",
+      "options": [
+        "ELEVEN",
+        "I'VE MINE",
+        "LOVE DIVE",
+        "IVE SWITCH"
+      ]
+    },
+    {
+      "id": "ive-baddie-02",
+      "youtube_id": "Da4P2xT4mHw",
+      "title": "Baddie",
+      "clue": "Baddie was released in which month and year?",
+      "answer": "October 2023",
+      "options": [
+        "March 2023",
+        "October 2023",
+        "August 2022",
+        "April 2024"
+      ]
+    },
+    {
+      "id": "ive-heya-01",
+      "youtube_id": "07WvsW8f8b0",
+      "title": "Heya",
+      "clue": "Which EP features the track Heya?",
+      "answer": "IVE SWITCH",
+      "options": [
+        "I'VE IVE",
+        "AFTER LIKE",
+        "I'VE MINE",
+        "IVE SWITCH"
+      ]
+    },
+    {
+      "id": "ive-heya-02",
+      "youtube_id": "07WvsW8f8b0",
+      "title": "Heya",
+      "clue": "Heya was released in which month and year?",
+      "answer": "April 2024",
+      "options": [
+        "April 2022",
+        "October 2023",
+        "April 2024",
+        "December 2021"
+      ]
+    },
+    {
+      "id": "ive-accendio-01",
+      "youtube_id": "0vYxS5IqkTs",
+      "title": "Accendio",
+      "clue": "Which EP features the track Accendio?",
+      "answer": "IVE SWITCH",
+      "options": [
+        "ELEVEN",
+        "LOVE DIVE",
+        "IVE SWITCH",
+        "I'VE MINE"
+      ]
+    },
+    {
+      "id": "ive-accendio-02",
+      "youtube_id": "0vYxS5IqkTs",
+      "title": "Accendio",
+      "clue": "Accendio was released in which year?",
+      "answer": "2024",
+      "options": [
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    {
+      "id": "ive-eleven-03",
+      "youtube_id": "9pdJ1owe9GY",
+      "title": "Eleven",
+      "clue": "Eleven is the debut single of which group?",
+      "answer": "IVE",
+      "options": [
+        "IVE",
+        "LE SSERAFIM",
+        "ENHYPEN",
+        "NewJeans"
+      ]
+    },
+    {
+      "id": "ive-lovedive-03",
+      "youtube_id": "Y8JFxS1HlDo",
+      "title": "LOVE DIVE",
+      "clue": "What is the official fandom name of IVE?",
+      "answer": "DIVE",
+      "options": [
+        "FEARNOT",
+        "ENGENE",
+        "DIVE",
+        "Once"
+      ]
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "Olive",
+      "score": 999,
+      "country": "UK"
+    },
+    {
+      "name": "Farhan",
+      "score": 990,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Gwyn",
+      "score": 981,
+      "country": "Wales"
+    },
+    {
+      "name": "Hendra",
+      "score": 972,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Isla",
+      "score": 963,
+      "country": "Scotland"
+    },
+    {
+      "name": "Jordi",
+      "score": 954,
+      "country": "Spain"
+    },
+    {
+      "name": "Kirana",
+      "score": 945,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Luthfi",
+      "score": 936,
+      "country": "Malaysia"
+    }
+  ],
+  "event_list": [
+    {
+      "id": "ev-photocard-set-2026",
+      "title": "IVE Photocard Set Race: Best Score Wins",
+      "description": "Collect your best score from September to December 2026! The highest best score during the event period will be the winner and take home the IVE Photocard Set.",
+      "image": "https://play-lh.googleusercontent.com/D-AJ26MJP2EpsxkKvgVNF36qfjk-TIbyzoDcoI-tofsedUroDT_xqAtSp3mg8OxerXgdhxiUJZIq5dqi3hmtQg=w480-h960-rw",
+      "prize": "Photocard Set IVE",
+      "prize_image": "https://play-lh.googleusercontent.com/D-AJ26MJP2EpsxkKvgVNF36qfjk-TIbyzoDcoI-tofsedUroDT_xqAtSp3mg8OxerXgdhxiUJZIq5dqi3hmtQg=w480-h960-rw",
+      "start_date": "2026-09-01",
+      "end_date": "2026-12-31",
+      "rules": [
+        "The highest best score during the event period will be the winner",
+        "Unlimited runs during the event period September 1 - December 31, 2026",
+        "Min score 500 to qualify",
+        "One winner per device"
+      ],
+      "min_score": 500
+    }
+  ]
+}

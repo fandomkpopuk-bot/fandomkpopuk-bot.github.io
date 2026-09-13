@@ -1,0 +1,147 @@
+{
+  "song_list": [
+    {
+      "title": "Eleven",
+      "release_date": "2021-12-01",
+      "album": "ELEVEN",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "image": "https://i.ytimg.com/vi/9pdJ1owe9GY/maxresdefault.jpg",
+      "popularity": 1600000,
+      "urlMp3": "https://wekaryatech.github.io/song/ive-eleven.mp3",
+      "youtube_id": "9pdJ1owe9GY",
+      "latin_lyric": [
+        "Ttaeron nunmuri na",
+        "Nal utge haneun neoye",
+        "Geu misoe nan fall in love",
+        "Nae mami dagaganeun geol",
+        "One two three four five six seven",
+        "You make me feel like eleven",
+        "Eleven I'm in heaven",
+        "Sarangiran geon moreugesseo",
+        "Ajik seotun nae mam",
+        "Nae ape dagawa jwo"
+      ]
+    },
+    {
+      "title": "LOVE DIVE",
+      "release_date": "2022-04-05",
+      "album": "LOVE DIVE",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "image": "https://i.ytimg.com/vi/Y8JFxS1HlDo/maxresdefault.jpg",
+      "popularity": 1800000,
+      "urlMp3": "https://wekaryatech.github.io/song/ive-lovedive.mp3",
+      "youtube_id": "Y8JFxS1HlDo",
+      "latin_lyric": [
+        "Narcissistic my god I love it",
+        "Neowa naega mandeureogane",
+        "Geu bich sogeuro dive",
+        "Mangseoriji malgo dive",
+        "Ooh ooh love dive",
+        "Eodum sok neowa na",
+        "Simjangeun kungkungdae",
+        "Ooh ooh love dive",
+        "Jigeum nae mami ttwineun geol",
+        "Neoege ppajyeodeuneun jung"
+      ]
+    },
+    {
+      "title": "After LIKE",
+      "release_date": "2022-08-22",
+      "album": "AFTER LIKE",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "image": "https://i.ytimg.com/vi/F0pmagviGyU/maxresdefault.jpg",
+      "popularity": 1750000,
+      "urlMp3": "https://wekaryatech.github.io/song/ive-afterlike.mp3",
+      "youtube_id": "F0pmagviGyU",
+      "latin_lyric": [
+        "What's after like?",
+        "Tto moreuji nae mami",
+        "Eojjeomyeon love",
+        "Geuge baro love dive",
+        "Jigeum neowa na",
+        "Joa boineun geol",
+        "What's after like?",
+        "Try to love me now"
+      ]
+    },
+    {
+      "title": "Kitsch",
+      "release_date": "2023-03-27",
+      "album": "I'VE IVE",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "image": "https://i.ytimg.com/vi/pG6IaBM9X4E/maxresdefault.jpg",
+      "popularity": 1400000,
+      "urlMp3": "https://wekaryatech.github.io/song/ive-kitsch.mp3",
+      "youtube_id": "pG6IaBM9X4E",
+      "latin_lyric": null
+    },
+    {
+      "title": "I AM",
+      "release_date": "2023-04-10",
+      "album": "I'VE IVE",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "image": "https://i.ytimg.com/vi/6ZUIwj3FgUY/maxresdefault.jpg",
+      "popularity": 1650000,
+      "urlMp3": "https://wekaryatech.github.io/song/ive-iam.mp3",
+      "youtube_id": "6ZUIwj3FgUY",
+      "latin_lyric": null
+    },
+    {
+      "title": "Baddie",
+      "release_date": "2023-10-13",
+      "album": "I'VE MINE",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "image": "https://i.ytimg.com/vi/Da4P2xT4mHw/maxresdefault.jpg",
+      "popularity": 1500000,
+      "urlMp3": "https://wekaryatech.github.io/song/ive-baddie.mp3",
+      "youtube_id": "Da4P2xT4mHw",
+      "latin_lyric": null
+    },
+    {
+      "title": "Heya",
+      "release_date": "2024-04-29",
+      "album": "IVE SWITCH",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "image": "https://i.ytimg.com/vi/07WvsW8f8b0/maxresdefault.jpg",
+      "popularity": 1450000,
+      "urlMp3": "https://wekaryatech.github.io/song/ive-heya.mp3",
+      "youtube_id": "07WvsW8f8b0",
+      "latin_lyric": null
+    },
+    {
+      "title": "Accendio",
+      "release_date": "2024-04-29",
+      "album": "IVE SWITCH",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "image": "https://i.ytimg.com/vi/0vYxS5IqkTs/maxresdefault.jpg",
+      "popularity": 90000,
+      "urlMp3": "https://wekaryatech.github.io/song/ive-accendio.mp3",
+      "youtube_id": "0vYxS5IqkTs",
+      "latin_lyric": null
+    }
+  ]
+}

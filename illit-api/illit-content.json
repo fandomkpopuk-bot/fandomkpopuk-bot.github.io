@@ -1,0 +1,147 @@
+{
+  "band_detail": {
+    "logoLine1": "IL-",
+    "logoLine2": "LIT",
+    "agencyLabel": "BELIFT LAB X HYBE",
+    "verifiedText": "Verified Artist",
+    "name": "ILLIT (아일릿)",
+    "tagline": "Magnetic • Super Real Me",
+    "bio": "Debuted on March 25, 2024 through the JTBC survival show R U Next? under BELIFT LAB. 5-member girl group with the viral hit Magnetic, uniting the GLIT fandom with a fresh super real charm.",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Mar 25, 2024"
+      },
+      {
+        "label": "Fandom:",
+        "value": "GLIT",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "BELIFT LAB X HYBE"
+      },
+      {
+        "label": "",
+        "value": "Cherish Fan Showcase",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (5)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Yunah",
+        "initials": "YN",
+        "role": "Leader • Vocal",
+        "unit": "LEADER LINE",
+        "featured": true,
+        "tags": "yunah",
+        "birthDate": "Jan 15, 2004",
+        "birthPlace": "Chungju, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Singing",
+          "Dancing",
+          "Cooking"
+        ]
+      },
+      {
+        "name": "Minju",
+        "initials": "MJ",
+        "role": "Vocal • Visual",
+        "unit": "VOCAL LINE",
+        "tags": "minju",
+        "birthDate": "May 11, 2004",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Piano",
+          "Photography",
+          "Fashion"
+        ]
+      },
+      {
+        "name": "Moka",
+        "initials": "MK",
+        "role": "Dance • Vocal",
+        "unit": "DANCE LINE",
+        "tags": "moka",
+        "birthDate": "Oct 8, 2004",
+        "birthPlace": "Fukuoka, Japan",
+        "nationality": "Japanese",
+        "hobbies": [
+          "Dancing",
+          "Ballet",
+          "Reading"
+        ]
+      },
+      {
+        "name": "Wonhee",
+        "initials": "WH",
+        "role": "Vocal • Variety",
+        "unit": "VOCAL LINE",
+        "tags": "wonhee",
+        "birthDate": "Jun 26, 2007",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Singing",
+          "Selfies",
+          "Movies"
+        ]
+      },
+      {
+        "name": "Iroha",
+        "initials": "IR",
+        "role": "Maknae • Dance",
+        "unit": "DANCE LINE",
+        "tags": "iroha",
+        "birthDate": "Feb 4, 2008",
+        "birthPlace": "Tokyo, Japan",
+        "nationality": "Japanese",
+        "hobbies": [
+          "Hip-hop",
+          "Drawing",
+          "Gaming"
+        ]
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "illit-magnetic-2026",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Sep 09, 2026",
+      "monthLabel": "SEP 2026",
+      "source": "BELIFT LAB / ILLIT Official",
+      "title": "ILLIT Extend Magnetic Fever With New Single!",
+      "excerpt": "Lucky Girl Syndrome and Cherish era continues. Dance challenge and showcase details inside.",
+      "quote": "GLIT, stay magnetic!",
+      "image": "https://i.ytimg.com/vi/Vk5dgGbw5a8/maxresdefault.jpg",
+      "body": [
+        "ILLIT have officially extended their Magnetic fever with a new single release across official channels this week.",
+        "BELIFT LAB confirms the track celebrates the Lucky Girl Syndrome and Cherish eras, with a new dance challenge led by all five members.",
+        "The release arrives ahead of the Cherish fan showcase, where GLIT will hear the new song live for the first time.",
+        "Pre-save links and exclusive merch drops are open now on all major streaming platforms."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 3,
+    "maxDownloadCount": 2,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 3,
+    "freeAdsSessionVideosRequired": 3,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": false,
+    "isMembersEnabled": true,
+    "adBannerInterval": 10,
+    "isMinigameEnabled": true
+  }
+}
