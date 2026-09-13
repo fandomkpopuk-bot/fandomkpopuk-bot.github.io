@@ -523,60 +523,62 @@
     }
   ],
   "leaderboard": [
-    { "name": "Sofia", "score": 2450, "country": "Indonesia" },
-    { "name": "Minho", "score": 2100, "country": "South Korea" },
-    { "name": "Aiko", "score": 1875, "country": "Japan" },
-    { "name": "Liam", "score": 1500, "country": "United States" },
-    { "name": "Putri", "score": 1275, "country": "Indonesia" },
-    { "name": "Chen", "score": 950, "country": "China" },
-    { "name": "Maria", "score": 700, "country": "Philippines" },
-    { "name": "Alex", "score": 450, "country": "Germany" }
+    {
+      "name": "Sofia",
+      "score": 2450,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Minho",
+      "score": 2100,
+      "country": "South Korea"
+    },
+    {
+      "name": "Aiko",
+      "score": 1875,
+      "country": "Japan"
+    },
+    {
+      "name": "Liam",
+      "score": 1500,
+      "country": "United States"
+    },
+    {
+      "name": "Putri",
+      "score": 1275,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Chen",
+      "score": 950,
+      "country": "China"
+    },
+    {
+      "name": "Maria",
+      "score": 700,
+      "country": "Philippines"
+    },
+    {
+      "name": "Alex",
+      "score": 450,
+      "country": "Germany"
+    }
   ],
   "event_list": [
     {
-      "id": "ev-comeback-race",
-      "title": "Comeback Race: Best Score Wins",
-      "description": "Push your highest single-run score during the comeback week. Top scorer takes home the merch!",
-      "image": "https://i.ytimg.com/vi/NED7nev2ywQ/maxresdefault.jpg",
-      "prize": "Signed Stray Kids Album + Photocard Set",
-      "prize_image": "https://i.ytimg.com/vi/VMoFfQIQEqs/maxresdefault.jpg",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-30",
+      "id": "ev-photocard-set-2026",
+      "title": "Stray Kids Photocard Set Race: Best Score Wins",
+      "description": "Collect your best score from September to December 2026! The highest best score during the event period will be the winner and take home the Stray Kids Photocard Set.",
+      "image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
+      "prize": "Photocard Set Stray Kids",
+      "prize_image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
+      "start_date": "2026-09-01",
+      "end_date": "2026-12-31",
       "rules": [
-        "Unlimited runs during the event period",
-        "Highest single-run score wins",
+        "The highest best score during the event period will be the winner",
+        "Unlimited runs during the event period September 1 - December 31, 2026",
+        "Min score 500 to qualify",
         "One winner per device"
-      ],
-      "min_score": 500
-    },
-    {
-      "id": "ev-october-lyric-fest",
-      "title": "October Lyric Fest",
-      "description": "Warm up your lyrics knowledge before the October stage!",
-      "image": "https://i.ytimg.com/vi/E8i32NXMxnc/maxresdefault.jpg",
-      "prize": "Official Stray Kids Lightstick",
-      "prize_image": "https://i.ytimg.com/vi/wkr1JO1Q5FE/maxresdefault.jpg",
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-20",
-      "rules": [
-        "Unlimited runs during the event period",
-        "Highest single-run score wins",
-        "Winner announced in-app"
-      ],
-      "min_score": 1000
-    },
-    {
-      "id": "ev-debut-cup",
-      "title": "Debut Anniversary Cup",
-      "description": "Our first score race — thank you to everyone who joined!",
-      "image": "https://i.ytimg.com/vi/TQTlCHxyuu8/maxresdefault.jpg",
-      "prize": "Poster Set",
-      "prize_image": "https://i.ytimg.com/vi/EaswWiwMVs8/maxresdefault.jpg",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-15",
-      "rules": [
-        "Unlimited runs during the event period",
-        "Highest single-run score wins"
       ],
       "min_score": 500
     }

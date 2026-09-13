@@ -813,49 +813,19 @@
   ],
   "event_list": [
     {
-      "id": "ev-comeback-race",
-      "title": "Comeback Race: Best Score Wins",
-      "description": "Push your highest single-run score during the comeback week. Top scorer takes home the merch!",
-      "image": "https://i.ytimg.com/vi/605K8QigOAk/maxresdefault.jpg",
-      "prize": "Signed BLACKPINK Album + Photocard Set",
-      "prize_image": "https://i.ytimg.com/vi/gQlMMD8auMs/maxresdefault.jpg",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-30",
+      "id": "ev-photocard-set-2026",
+      "title": "BLACKPINK Photocard Set Race: Best Score Wins",
+      "description": "Collect your best score from September to December 2026! The highest best score during the event period will be the winner and take home the BLACKPINK Photocard Set.",
+      "image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
+      "prize": "Photocard Set BLACKPINK",
+      "prize_image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
+      "start_date": "2026-09-01",
+      "end_date": "2026-12-31",
       "rules": [
-        "Unlimited runs during the event period",
-        "Highest single-run score wins",
+        "The highest best score during the event period will be the winner",
+        "Unlimited runs during the event period September 1 - December 31, 2026",
+        "Min score 500 to qualify",
         "One winner per device"
-      ],
-      "min_score": 500
-    },
-    {
-      "id": "ev-october-lyric-fest",
-      "title": "October Lyric Fest",
-      "description": "Warm up your lyrics knowledge before the October stage!",
-      "image": "https://i.ytimg.com/vi/2S24-y0Ij3Y/maxresdefault.jpg",
-      "prize": "Official BLACKPINK Lightstick",
-      "prize_image": "https://i.ytimg.com/vi/ioNng23DkIM/maxresdefault.jpg",
-      "start_date": "2026-12-05",
-      "end_date": "2026-12-20",
-      "rules": [
-        "Unlimited runs during the event period",
-        "Highest single-run score wins",
-        "Winner announced in-app"
-      ],
-      "min_score": 1000
-    },
-    {
-      "id": "ev-debut-cup",
-      "title": "Debut Anniversary Cup",
-      "description": "Our first score race — thank you to everyone who joined!",
-      "image": "https://i.ytimg.com/vi/bwmSjve9cYQ/maxresdefault.jpg",
-      "prize": "Poster Set",
-      "prize_image": "https://i.ytimg.com/vi/Amq-qlqbjYA/maxresdefault.jpg",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-15",
-      "rules": [
-        "Unlimited runs during the event period",
-        "Highest single-run score wins"
       ],
       "min_score": 500
     }
