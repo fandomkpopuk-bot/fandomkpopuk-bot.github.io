@@ -213,6 +213,7 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 10,
-    "androidUpdateType": "un-immediate"
+    "androidUpdateType": "un-immediate",
+    "isMinigameEnabled": true
   }
 }

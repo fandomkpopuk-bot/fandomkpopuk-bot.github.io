@@ -1,0 +1,850 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "come-over-01",
+      "youtube_id": "MEoxtFRfPoc",
+      "title": "Come Over",
+      "clue": "Teong bin deuthan bami omyeon",
+      "answer": "Ireoke tto neoreul bulleo",
+      "options": [
+        "Seven days a week (Oh)",
+        "Ireoke tto neoreul bulleo",
+        "I'll be the same",
+        "Sunrise, but we don't go home"
+      ]
+    },
+    {
+      "id": "come-over-02",
+      "youtube_id": "MEoxtFRfPoc",
+      "title": "Come Over",
+      "clue": "Yeah, I'm lost, can I come over?",
+      "answer": "I just wanna say I'm sorry",
+      "options": [
+        "Hating you's the only way it doesn't hurt",
+        "Kerosene, dopamine, what I gotta do?",
+        "I just wanna say I'm sorry",
+        "Momi tabeoridorok all night (all night)"
+      ]
+    },
+    {
+      "id": "hooligan-01",
+      "youtube_id": "diBO0gMuTXo",
+      "title": "Hooligan",
+      "clue": "Watch this, watch this beat goin' hooligan",
+      "answer": "We pop out, we actin' a fool again",
+      "options": [
+        "I wish that I could walk away from pain",
+        "We pop out, we actin' a fool again",
+        "Ujuga saenggin geu nalbuteo gyesok",
+        "Haneuri paraeseo haessari bitnaseo"
+      ]
+    },
+    {
+      "id": "hooligan-02",
+      "youtube_id": "diBO0gMuTXo",
+      "title": "Hooligan",
+      "clue": "Haha, hooligan",
+      "answer": "Watch this, watch this beat goin' hooligan",
+      "options": [
+        "Watch this, watch this beat goin' hooligan",
+        "So don't go getting me started",
+        "Closer to you",
+        "Lookin' like a goody goody in this bad world, bad world"
+      ]
+    },
+    {
+      "id": "2-0-01",
+      "youtube_id": "_gyultVTesk",
+      "title": "2.0",
+      "clue": "Geurae bangtancheoreom geuge mareun swipji",
+      "answer": "Urin ttwimteul nuga maennal ttwieoneomni",
+      "options": [
+        "(Oh) gakkeum geunarui kkum kkwo (kkum kkwo)",
+        "So I called up my pops last night",
+        "Everything gas, it's fire",
+        "Urin ttwimteul nuga maennal ttwieoneomni"
+      ]
+    },
+    {
+      "id": "2-0-02",
+      "youtube_id": "_gyultVTesk",
+      "title": "2.0",
+      "clue": "Utgigineun hande sasil an utgiji",
+      "answer": "10nyeoneun mallya eorim ban puneochi",
+      "options": [
+        "10nyeoneun mallya eorim ban puneochi",
+        "Byeol jineun got",
+        "You and me just all day, all night",
+        "You got me drinking that potion"
+      ]
+    },
+    {
+      "id": "swim-live-studio-netflix-01",
+      "youtube_id": "YkUfnufGOB0",
+      "title": "SWIM - Live Studio Netflix",
+      "clue": "Swim, swim",
+      "answer": "Water falling off your skin",
+      "options": [
+        "I wish that I could tell you that it's over",
+        "Wind it back, I'll take it slow",
+        "Let me, honey, talk about the business",
+        "Water falling off your skin"
+      ]
+    },
+    {
+      "id": "swim-live-studio-netflix-02",
+      "youtube_id": "YkUfnufGOB0",
+      "title": "SWIM - Live Studio Netflix",
+      "clue": "Swim, swim",
+      "answer": "I could spend a lifetime watching you",
+      "options": [
+        "I could spend a lifetime watching you",
+        "I'm on my knees",
+        "Dabi eomneun jilmun, migung sogeseoui jilju",
+        "Nights like these, I just wanna get lost"
+      ]
+    },
+    {
+      "id": "swim-01",
+      "youtube_id": "b4iVv91Z6lY",
+      "title": "SWIM",
+      "clue": "Swim, swim",
+      "answer": "Water falling off your skin",
+      "options": [
+        "Taesaengbuteo dareun seven aliens",
+        "They can't divide us we'll survive the test of time",
+        "Splash, drip",
+        "Water falling off your skin"
+      ]
+    },
+    {
+      "id": "swim-02",
+      "youtube_id": "b4iVv91Z6lY",
+      "title": "SWIM",
+      "clue": "Swim, swim",
+      "answer": "I could spend a lifetime watching you",
+      "options": [
+        "I could spend a lifetime watching you",
+        "B-T-uh, from everywhere to Korea",
+        "Beolsseo sigani mani jinanne",
+        "How much more do I gotta drink for the pain"
+      ]
+    },
+    {
+      "id": "body-to-body-01",
+      "youtube_id": "YvIpDU4IFRc",
+      "title": "Body to Body",
+      "clue": "I need the whole stadium to jump",
+      "answer": "Put your phone down, let's get all the fun",
+      "options": [
+        "10nyeoneun mallya eorim ban puneochi",
+        "Put your phone down, let's get all the fun",
+        "You won't regret me (Won't regret me)",
+        "Utgigineun hande sasil an utgiji"
+      ]
+    },
+    {
+      "id": "body-to-body-02",
+      "youtube_id": "YvIpDU4IFRc",
+      "title": "Body to Body",
+      "clue": "I got my eyes on the row in the front",
+      "answer": "The vibe is high, if we bein' blunt",
+      "options": [
+        "The vibe is high, if we bein' blunt",
+        "It's the way that we can ride",
+        "Rain, rain, rain, you can't fake it",
+        "I'm gonna blame you"
+      ]
+    },
+    {
+      "id": "into-the-sun-01",
+      "youtube_id": "m1UgMfxpYsM",
+      "title": "Into the Sun",
+      "clue": "Baby, you remind me",
+      "answer": "I want someone like you",
+      "options": [
+        "I want someone like you",
+        "I'm in the deep, tell me where the hell you at, girl?",
+        "Ttwineun nom wie naneun nom wie",
+        "Nalkarowo tto beyeodo geugeotdo naui page"
+      ]
+    },
+    {
+      "id": "into-the-sun-02",
+      "youtube_id": "m1UgMfxpYsM",
+      "title": "Into the Sun",
+      "clue": "Fires are never dying",
+      "answer": "I want someone like you",
+      "options": [
+        "Three girls, damn, dude's horny",
+        "Hit 'em with the truth like rah",
+        "Neol jikimyeo into the sun",
+        "I want someone like you"
+      ]
+    },
+    {
+      "id": "merry-go-round-01",
+      "youtube_id": "skVrhdkjmlk",
+      "title": "Merry Go Round",
+      "clue": "I wish that I could tell you that it's over",
+      "answer": "I wish that I could walk away from pain",
+      "options": [
+        "I wish that I could walk away from pain",
+        "Jonjae jachero seonmuriya",
+        "Or kiss you through the universe",
+        "Even if your stars collide and you're light years away"
+      ]
+    },
+    {
+      "id": "merry-go-round-02",
+      "youtube_id": "skVrhdkjmlk",
+      "title": "Merry Go Round",
+      "clue": "My life is like a broken roller coaster",
+      "answer": "But maybe I'm the only one to blame",
+      "options": [
+        "Eonrongwa eoreundeureun uijiga eopsdamyeo",
+        "Everything (You're my)",
+        "I can't touch you through the phone",
+        "But maybe I'm the only one to blame"
+      ]
+    },
+    {
+      "id": "they-don-t-know-bout-us-01",
+      "youtube_id": "TfzU9XOEnkk",
+      "title": "They don't know 'bout us",
+      "clue": "They don't know about us",
+      "answer": "How your voice can come to see, they know",
+      "options": [
+        "Even if your stars collide and you're light years away",
+        "Somebody like you",
+        "How your voice can come to see, they know",
+        "(Now all I think about)"
+      ]
+    },
+    {
+      "id": "they-don-t-know-bout-us-02",
+      "youtube_id": "TfzU9XOEnkk",
+      "title": "They don't know 'bout us",
+      "clue": "I can show you love, I can show you",
+      "answer": "If you wanna know me, what can I do for you?",
+      "options": [
+        "If you wanna know me, what can I do for you?",
+        "Tell me what we gonna do?",
+        "When I seen that body you would think it was a dead body",
+        "Tell me what you wanna, woah"
+      ]
+    },
+    {
+      "id": "aliens-01",
+      "youtube_id": "EC9_h_elSAY",
+      "title": "Aliens",
+      "clue": "This gon' be the jam of the year",
+      "answer": "Jiruhago ttabunhae modeun ge",
+      "options": [
+        "Oh my god, do I look too funny?",
+        "Dodaeche mwol deo gominhae?",
+        "Jiruhago ttabunhae modeun ge",
+        "Jijo, got them (Got them)"
+      ]
+    },
+    {
+      "id": "aliens-02",
+      "youtube_id": "EC9_h_elSAY",
+      "title": "Aliens",
+      "clue": "Siganeun cham ppalla tick-tock",
+      "answer": "Stadiumeuro jipap",
+      "options": [
+        "Uri bogo baewonwa",
+        "Be about it, be about it, be about it",
+        "Geujeo gyeoteman isseojwo",
+        "Stadiumeuro jipap"
+      ]
+    },
+    {
+      "id": "fya-01",
+      "youtube_id": "QWDayFgPDjQ",
+      "title": "FYA",
+      "clue": "Everything lit, it's fire",
+      "answer": "Everything big, it's fire",
+      "options": [
+        "Do I really deserve all this?",
+        "Urideuri modu saeppajige dallin geoji",
+        "Bangtanui seonggong iyu? nado molla geuttan ge eodisseo",
+        "Everything big, it's fire"
+      ]
+    },
+    {
+      "id": "fya-02",
+      "youtube_id": "QWDayFgPDjQ",
+      "title": "FYA",
+      "clue": "Everything lit, it's fire",
+      "answer": "Everything big, it's fire",
+      "options": [
+        "Everything big, it's fire",
+        "Sidaega uril wonhae",
+        "We just big boys, a.k.a. chonnom",
+        "Say wo... wo..."
+      ]
+    },
+    {
+      "id": "normal-01",
+      "youtube_id": "Qye9VHIv6qM",
+      "title": "NORMAL",
+      "clue": "Kerosene, dopamine, chemical induced",
+      "answer": "Fantasy and fame, yeah the things we choose",
+      "options": [
+        "Be about it, be about it, be about it",
+        "Will you do the same?",
+        "Nae chumi daphae",
+        "Fantasy and fame, yeah the things we choose"
+      ]
+    },
+    {
+      "id": "normal-02",
+      "youtube_id": "Qye9VHIv6qM",
+      "title": "NORMAL",
+      "clue": "Show me hate, show me love, make me bulletproof",
+      "answer": "Yeah, we call this thing normal",
+      "options": [
+        "Museowo museowo hangyeouredo eongtteu pillyo eopseo",
+        "Hae jil ttaeui baram",
+        "Did ya know you're the one that got away",
+        "Yeah, we call this thing normal"
+      ]
+    },
+    {
+      "id": "like-animals-01",
+      "youtube_id": "1BiWkZDiY7s",
+      "title": "Like Animals",
+      "clue": "Take me into your deep",
+      "answer": "I wanna lay in your world",
+      "options": [
+        "Splash, drift",
+        "No one like you",
+        "Play me slow",
+        "I wanna lay in your world"
+      ]
+    },
+    {
+      "id": "like-animals-02",
+      "youtube_id": "1BiWkZDiY7s",
+      "title": "Like Animals",
+      "clue": "So what, your shadow's a mess",
+      "answer": "I'm walkin' with my own dirt",
+      "options": [
+        "I'm walkin' with my own dirt",
+        "I swear that I'll be right here",
+        "Byeoldeulgwa neoreul",
+        "You at the side, at the back, at the front"
+      ]
+    },
+    {
+      "id": "one-more-night-01",
+      "youtube_id": "471JvbFq1Mw",
+      "title": "One More Night",
+      "clue": "Eonjenga neoro inhae",
+      "answer": "Hanchameul ulge doegetji",
+      "options": [
+        "I just wanna say I'm sorry",
+        "Hanchameul ulge doegetji",
+        "There's creatures that made a hole",
+        "Splash, drip"
+      ]
+    },
+    {
+      "id": "one-more-night-02",
+      "youtube_id": "471JvbFq1Mw",
+      "title": "One More Night",
+      "clue": "Nan geu golmokgire seo isseosseo",
+      "answer": "Fallin' back to me",
+      "options": [
+        "Cuz nan huimangi jjeoreo haha",
+        "I'm past the pain, maeil nawa ssaun iyuinji (Ah)",
+        "Fallin' back to me",
+        "Are the nights we were tangled up in your bed"
+      ]
+    },
+    {
+      "id": "please-01",
+      "youtube_id": "3N1k6ir55-Y",
+      "title": "Please",
+      "clue": "If you wanna, if you wanna",
+      "answer": "I'll do that thing for ya",
+      "options": [
+        "And if you feel alone",
+        "I'll do that thing for ya",
+        "Jjeoreo",
+        "Right here with the moon and the sharks"
+      ]
+    },
+    {
+      "id": "please-02",
+      "youtube_id": "3N1k6ir55-Y",
+      "title": "Please",
+      "clue": "If you wanna, if you wanna",
+      "answer": "Baby, oh please",
+      "options": [
+        "Baby, oh please",
+        "Hamkkenikka",
+        "I wanna see it in motion, in 3D (Uh uh)",
+        "I don't wanna say yes"
+      ]
+    },
+    {
+      "id": "left-and-right-01",
+      "youtube_id": "a7GITgqwDVg",
+      "title": "Left And Right",
+      "clue": "Memories follow me left and right",
+      "answer": "I can feel you over here, I can feel you over here",
+      "options": [
+        "But maybe I'm the only one to blame",
+        "Geureom nan yukpoga joheunikka 6posedae",
+        "I can feel you over here, I can feel you over here",
+        "I need you girl (I need you girl)"
+      ]
+    },
+    {
+      "id": "left-and-right-02",
+      "youtube_id": "a7GITgqwDVg",
+      "title": "Left And Right",
+      "clue": "You take up every corner of my mind",
+      "answer": "(Whatcha gon' do now?)",
+      "options": [
+        "Naegen geureol yonggigaeobseo",
+        "Every one o' you a muse",
+        "(Whatcha gon' do now?)",
+        "Chimdaeneun naui gwan"
+      ]
+    },
+    {
+      "id": "standing-next-to-you-01",
+      "youtube_id": "UNo0TG9LwwI",
+      "title": "Standing Next to You",
+      "clue": "Standing next to you",
+      "answer": "Play me slow",
+      "options": [
+        "Play me slow",
+        "Just checkin' on your door",
+        "Urin jeonsaengedo ama daeum saengedo",
+        "Devil always tempting"
+      ]
+    },
+    {
+      "id": "standing-next-to-you-02",
+      "youtube_id": "UNo0TG9LwwI",
+      "title": "Standing Next to You",
+      "clue": "I push up on this funk and give me miracles",
+      "answer": "Let ya body know",
+      "options": [
+        "Singihage jakkuman sumi meojneun ge cham isanghae seolma",
+        "Let ya body know",
+        "Devil always tempting",
+        "Taesaengbuteo dareun seven aliens"
+      ]
+    },
+    {
+      "id": "closer-to-you-feat-major-lazer-01",
+      "youtube_id": "tUq_ksOiuxo",
+      "title": "Closer to You (feat. Major Lazer)",
+      "clue": "Feeling like I'm floating",
+      "answer": "Something's in the air tonight",
+      "options": [
+        "Hit a lick",
+        "No one like you",
+        "Something's in the air tonight",
+        "All I want is you"
+      ]
+    },
+    {
+      "id": "closer-to-you-feat-major-lazer-02",
+      "youtube_id": "tUq_ksOiuxo",
+      "title": "Closer to You (feat. Major Lazer)",
+      "clue": "We're speaking with emotions",
+      "answer": "Won't look away",
+      "options": [
+        "(You take up every corner of my mind)",
+        "Won't look away",
+        "And we both know you're the reason",
+        "From the gana to the ha"
+      ]
+    },
+    {
+      "id": "yes-or-no-01",
+      "youtube_id": "uOFIcm-L0po",
+      "title": "Yes or No",
+      "clue": "This ain't another love song, baby",
+      "answer": "It's my way of putting feelers out",
+      "options": [
+        "It's my way of putting feelers out",
+        "Binggeul tto binggeul haengbokani",
+        "Mwo eojjeollae just move for me",
+        "Weight of the world on your shoulders"
+      ]
+    },
+    {
+      "id": "yes-or-no-02",
+      "youtube_id": "uOFIcm-L0po",
+      "title": "Yes or No",
+      "clue": "All the traffic in my head's going crazy",
+      "answer": "I'm gonna trust my heart right now",
+      "options": [
+        "No, we, no, we, no, we call this thing normal",
+        "Every hour, every minute, every second (Oh-oh-oh)",
+        "I'm gonna trust my heart right now",
+        "Come and get a sip"
+      ]
+    },
+    {
+      "id": "please-don-t-change-feat-dj-snake-01",
+      "youtube_id": "Shz9iLeE6i4",
+      "title": "Please Don't Change (feat. DJ Snake)",
+      "clue": "Lights on camera",
+      "answer": "Fast life stamina",
+      "options": [
+        "I can show you love, I can show you",
+        "We weren't perfect but we came close",
+        "Standing next to you",
+        "Fast life stamina"
+      ]
+    },
+    {
+      "id": "please-don-t-change-feat-dj-snake-02",
+      "youtube_id": "Shz9iLeE6i4",
+      "title": "Please Don't Change (feat. DJ Snake)",
+      "clue": "Nowhere to hide on a satellite",
+      "answer": "Life on camera",
+      "options": [
+        "Life on camera",
+        "There's only one I'm missing",
+        "None of us are tameable",
+        "Seven days a week"
+      ]
+    },
+    {
+      "id": "hate-you-01",
+      "youtube_id": "tAcKfnf0zv4",
+      "title": "Hate You",
+      "clue": "I wish you went behind my back",
+      "answer": "And told me lies and stuff like that",
+      "options": [
+        "Hello this your, hello this your new honey",
+        "And told me lies and stuff like that",
+        "Fear me or fear me not",
+        "I don't care"
+      ]
+    },
+    {
+      "id": "hate-you-02",
+      "youtube_id": "tAcKfnf0zv4",
+      "title": "Hate You",
+      "clue": "I wish you kissed someone I know",
+      "answer": "And did the unforgivable",
+      "options": [
+        "It's not the cure",
+        "Neoege ojik",
+        "And did the unforgivable",
+        "Hit a lick"
+      ]
+    },
+    {
+      "id": "too-sad-to-dance-01",
+      "youtube_id": "uQ9A0xF7lAM",
+      "title": "Too Sad to Dance",
+      "clue": "Last week I found a message in a bottle",
+      "answer": "It said, \"Go home. Ain't nobody love you no more.\"",
+      "options": [
+        "Bamsae ilhaettji everyday",
+        "It said, \"Go home. Ain't nobody love you no more.\"",
+        "Kerosene, dopamine, what I gotta do?",
+        "I wanna see it in motion, in 3D (Just show it to me girl now)"
+      ]
+    },
+    {
+      "id": "too-sad-to-dance-02",
+      "youtube_id": "uQ9A0xF7lAM",
+      "title": "Too Sad to Dance",
+      "clue": "I can't disagree",
+      "answer": "So last night, I went to the club",
+      "options": [
+        "Got you skippin' work and meetings",
+        "So last night, I went to the club",
+        "Musikan mideumeuro",
+        "I'll fly you from Korea to Kentucky"
+      ]
+    },
+    {
+      "id": "shot-glass-of-tears-01",
+      "youtube_id": "vpnQilFlc_4",
+      "title": "Shot Glass of Tears",
+      "clue": "Tell me, am I ever gonna feel again?",
+      "answer": "Tell me, am I ever gonna heal again?",
+      "options": [
+        "Maeil neol jugeureo ga",
+        "Just to admit my flaws",
+        "Tell me, am I ever gonna heal again?",
+        "Right here with the moon and the sharks"
+      ]
+    },
+    {
+      "id": "shot-glass-of-tears-02",
+      "youtube_id": "vpnQilFlc_4",
+      "title": "Shot Glass of Tears",
+      "clue": "Got a shot glass full of tears",
+      "answer": "Drink, drink, drink, say cheers",
+      "options": [
+        "(Over) Over, over, over, over",
+        "Yeongeoneun tto nabakke mot hae but that is how we kill",
+        "You know how I like it girl",
+        "Drink, drink, drink, say cheers"
+      ]
+    },
+    {
+      "id": "3d-feat-jack-harlow-01",
+      "youtube_id": "mHNCM-YALSA",
+      "title": "3D (feat. Jack Harlow)",
+      "clue": "1, 2, 3D",
+      "answer": "I can't touch you through the phone",
+      "options": [
+        "Nan jibe gagopa",
+        "I can't touch you through the phone",
+        "Took me that's the first step",
+        "Give me, right at your time"
+      ]
+    },
+    {
+      "id": "3d-feat-jack-harlow-02",
+      "youtube_id": "mHNCM-YALSA",
+      "title": "3D (feat. Jack Harlow)",
+      "clue": "Or kiss you through the universe",
+      "answer": "In another time zone",
+      "options": [
+        "Sorichyeobwa all right",
+        "If I knocked on your door?",
+        "Wiro, got them (Got them)",
+        "In another time zone"
+      ]
+    },
+    {
+      "id": "seven-feat-latto-01",
+      "youtube_id": "QU9c0053UAU",
+      "title": "Seven (feat. Latto)",
+      "clue": "Weight of the world on your shoulders",
+      "answer": "I kiss your waist and ease your mind",
+      "options": [
+        "Maeil gateun ilsang sok hoejeonmongmana chetbakwina maehangaji",
+        "I kiss your waist and ease your mind",
+        "Yeah yeomwonhamyeo yeongwonhi",
+        "Got you in the wild"
+      ]
+    },
+    {
+      "id": "seven-feat-latto-02",
+      "youtube_id": "QU9c0053UAU",
+      "title": "Seven (feat. Latto)",
+      "clue": "I must be favored to know ya",
+      "answer": "I take my hands and trace your lines",
+      "options": [
+        "He jump in it both feet",
+        "I take my hands and trace your lines",
+        "Eodikkaji gani ireon jegil",
+        "A jjeoreo jjeoreo jjeoreo uri yeonseupsil ttamnae"
+      ]
+    },
+    {
+      "id": "dna-01",
+      "youtube_id": "MBdVXkSdhwU",
+      "title": "DNA",
+      "clue": "Cheotnune neol araboge dwaesseo",
+      "answer": "Seorol bulleowassdeon geotcheoreom",
+      "options": [
+        "Seorol bulleowassdeon geotcheoreom",
+        "I just wanna see you like that",
+        "Give me one more",
+        "Yeah, yeah"
+      ]
+    },
+    {
+      "id": "dna-02",
+      "youtube_id": "MBdVXkSdhwU",
+      "title": "DNA",
+      "clue": "Nae hyeolgwan sok DNAga malhaejwo",
+      "answer": "Naega chaja hemaedeon neoraneun geol",
+      "options": [
+        "Devil always tempting",
+        "Naega chaja hemaedeon neoraneun geol",
+        "1, 2, 3D",
+        "What I try to keep never want to stay"
+      ]
+    },
+    {
+      "id": "run-01",
+      "youtube_id": "wKysONrSmew",
+      "title": "Run",
+      "clue": "Yeah, yeah",
+      "answer": "Okay",
+      "options": [
+        "Okay",
+        "Gimme that, make me fiend",
+        "Leave ya body golden like the sun and the moon",
+        "Closer with the silk dress"
+      ]
+    },
+    {
+      "id": "run-02",
+      "youtube_id": "wKysONrSmew",
+      "title": "Run",
+      "clue": "Run, run (Oh-oh-oh-oh)",
+      "answer": "Okay, okay, let's go!",
+      "options": [
+        "Do you feel the way I do?",
+        "Urimani true lovers",
+        "Okay, okay, let's go!",
+        "I need you girl (I need you girl)"
+      ]
+    },
+    {
+      "id": "dope-01",
+      "youtube_id": "BVwAVbKYYeM",
+      "title": "Dope",
+      "clue": "Eoseo wa bangtaneun cheoeumiji?",
+      "answer": "Ayo ladies & gentleman",
+      "options": [
+        "Ireon ge malloman deutdeon sarangiran gamjeongilkka",
+        "Ayo ladies & gentleman",
+        "Geumanhallae ije neo an gajyeo",
+        "Salt on my tongue, she's stunnin' (Oh)"
+      ]
+    },
+    {
+      "id": "dope-02",
+      "youtube_id": "BVwAVbKYYeM",
+      "title": "Dope",
+      "clue": "Junbiga dwaettdamyeon bureulge yeah!",
+      "answer": "Ttan nyeoseokdeulgwaneun dareuge",
+      "options": [
+        "It's my way of putting feelers out",
+        "Oh, you ain't even gotta love me bad, girl",
+        "Ttan nyeoseokdeulgwaneun dareuge",
+        "Nowhere to hide on a satellite"
+      ]
+    },
+    {
+      "id": "i-need-u-01",
+      "youtube_id": "jjskoRh8GTE",
+      "title": "I Need U",
+      "clue": "Fall (everything)",
+      "answer": "Heuteojine",
+      "options": [
+        "Memories follow me left and right",
+        "Heuteojine",
+        "Yeongwonhi",
+        "Everybody know now where the K is"
+      ]
+    },
+    {
+      "id": "i-need-u-02",
+      "youtube_id": "jjskoRh8GTE",
+      "title": "I Need U",
+      "clue": "Fall (everything)",
+      "answer": "Tteoreojine",
+      "options": [
+        "Neol jikimyeo into the sun",
+        "Tteoreojine",
+        "But when there's two dimensions",
+        "Normal and special, they are just some lines"
+      ]
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "Sofia",
+      "score": 2450,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Minho",
+      "score": 2100,
+      "country": "South Korea"
+    },
+    {
+      "name": "Aiko",
+      "score": 1875,
+      "country": "Japan"
+    },
+    {
+      "name": "Liam",
+      "score": 1500,
+      "country": "United States"
+    },
+    {
+      "name": "Putri",
+      "score": 1275,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Chen",
+      "score": 950,
+      "country": "China"
+    },
+    {
+      "name": "Maria",
+      "score": 700,
+      "country": "Philippines"
+    },
+    {
+      "name": "Alex",
+      "score": 450,
+      "country": "Germany"
+    }
+  ],
+  "event_list": [
+    {
+      "id": "ev-comeback-race",
+      "title": "BTS Comeback Race: Best Score Wins",
+      "description": "Push your highest single-run score during the BTS comeback week. Top scorer takes home the merch!",
+      "image": "https://i.ytimg.com/vi/MEoxtFRfPoc/maxresdefault.jpg",
+      "prize": "Signed BTS Album + Photocard Set",
+      "prize_image": "https://i.ytimg.com/vi/diBO0gMuTXo/maxresdefault.jpg",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-30",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "One winner per device"
+      ],
+      "min_score": 500
+    },
+    {
+      "id": "ev-october-lyric-fest",
+      "title": "BTS October Lyric Fest",
+      "description": "Warm up your BTS lyrics knowledge before the October stage!",
+      "image": "https://i.ytimg.com/vi/_gyultVTesk/maxresdefault.jpg",
+      "prize": "Official BTS Lightstick",
+      "prize_image": "https://i.ytimg.com/vi/YkUfnufGOB0/maxresdefault.jpg",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-20",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "Winner announced in-app"
+      ],
+      "min_score": 1000
+    },
+    {
+      "id": "ev-debut-cup",
+      "title": "BTS Debut Anniversary Cup",
+      "description": "Our first score race — thank you to everyone who joined!",
+      "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/maxresdefault.jpg",
+      "prize": "Poster Set",
+      "prize_image": "https://i.ytimg.com/vi/YvIpDU4IFRc/maxresdefault.jpg",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-15",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins"
+      ],
+      "min_score": 500
+    }
+  ]
+}

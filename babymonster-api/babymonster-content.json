@@ -171,6 +171,7 @@
     "isOtherAppsEnabled": true,
     "isNewsEnabled": false,
     "isMembersEnabled": true,
-    "adBannerInterval": 7
+    "adBannerInterval": 7,
+    "isMinigameEnabled": true
   }
 }

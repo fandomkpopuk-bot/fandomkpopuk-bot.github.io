@@ -1,0 +1,486 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "iconic-heart-01",
+      "youtube_id": "chl0R8C4NJ8",
+      "title": "ICONIC HEART",
+      "clue": "Wow, so cool",
+      "answer": "I'ma break it down, break it down, break it down, break it down",
+      "options": [
+        "Bukkeureowotji hajiman teonoke dwae",
+        "Geureon neoraseo joa",
+        "I'ma break it down, break it down, break it down, break it down",
+        "(Gureum geotideoni"
+      ]
+    },
+    {
+      "id": "iconic-heart-02",
+      "youtube_id": "chl0R8C4NJ8",
+      "title": "ICONIC HEART",
+      "clue": "Break it down, break it down, break it down, down, down",
+      "answer": "Break it down, break it down, break it down, break it down",
+      "options": [
+        "Nal hyanghan siseone \"Hate me?\"",
+        "Da masin yurijan",
+        "Sesangeul dwiro mineun jung",
+        "Break it down, break it down, break it down, break it down"
+      ]
+    },
+    {
+      "id": "iconic-heart-03",
+      "youtube_id": "chl0R8C4NJ8",
+      "title": "ICONIC HEART",
+      "clue": "Break it down, break it down, break it, break it down, down",
+      "answer": "How you feeling? Bouncy, bouncy",
+      "options": [
+        "How you feeling? Bouncy, bouncy",
+        "(Rude)",
+        "Sono pawā up high",
+        "Amureokena chuneun chum (Yeah; ttara hae)"
+      ]
+    },
+    {
+      "id": "iconic-heart-04",
+      "youtube_id": "chl0R8C4NJ8",
+      "title": "ICONIC HEART",
+      "clue": "Sono pawā up high",
+      "answer": "Kirakira tobimawaru achikochi",
+      "options": [
+        "\"Nega gunggeumhaeseo\"",
+        "(Break it down, break it down, break it, break it down, down) kanjiru iconic heart",
+        "Yeah, you're just my type and I like your style",
+        "Kirakira tobimawaru achikochi"
+      ]
+    },
+    {
+      "id": "iconic-heart-05",
+      "youtube_id": "chl0R8C4NJ8",
+      "title": "ICONIC HEART",
+      "clue": "Machigatte okkē really, really",
+      "answer": "Fuzake atte chikadzuku",
+      "options": [
+        "Teibeul wineun",
+        "Fuzake atte chikadzuku",
+        "Da masin yurijan",
+        "Nuh, uh, uh, uh"
+      ]
+    },
+    {
+      "id": "lemon-tang-01",
+      "youtube_id": "1VqxWNwgf5Q",
+      "title": "Lemon Tang",
+      "clue": "Han nun kkamjjak gamge hae",
+      "answer": "Geu sigo jjarithan",
+      "options": [
+        "Geu sigo jjarithan",
+        "Uri, uriman (Apple pie)",
+        "I just wanna get close to you, nae mami boini (Ha, ha, ha, ha)",
+        "Jjaenghan haetbyeot"
+      ]
+    },
+    {
+      "id": "lemon-tang-02",
+      "youtube_id": "1VqxWNwgf5Q",
+      "title": "Lemon Tang",
+      "clue": "Icy, icy, ne mam",
+      "answer": "Teoteurigo sipeo",
+      "options": [
+        "Teoteurigo sipeo",
+        "Machigatte okkē really, really",
+        "I cannot focus",
+        "Kodō boom boom, ayy, wanna fly away"
+      ]
+    },
+    {
+      "id": "lemon-tang-03",
+      "youtube_id": "1VqxWNwgf5Q",
+      "title": "Lemon Tang",
+      "clue": "Neon kulhan cheok (honjaga jotae)",
+      "answer": "Like unbothered (Don't fade, don't fade)",
+      "options": [
+        "Like unbothered (Don't fade, don't fade)",
+        "Uri, uriman (Apple pie)",
+        "Geu eolgul wie",
+        "I just wanna get close to you, mwohalkka? malhaebwa"
+      ]
+    },
+    {
+      "id": "lemon-tang-04",
+      "youtube_id": "1VqxWNwgf5Q",
+      "title": "Lemon Tang",
+      "clue": "But you DM me",
+      "answer": "\"Nega gunggeumhaeseo\"",
+      "options": [
+        "(Break it down, break it down, break it down, down, down) atsuku kanjite (atsuku ah)",
+        "\"Nega gunggeumhaeseo\"",
+        "You can't make me act right",
+        "Geu mat, geu punch)"
+      ]
+    },
+    {
+      "id": "lemon-tang-05",
+      "youtube_id": "1VqxWNwgf5Q",
+      "title": "Lemon Tang",
+      "clue": "Neol bureullae, baby, sasireun neodo aljana",
+      "answer": "Tteugeoun gyejeol soge",
+      "options": [
+        "Tteugeoun gyejeol soge",
+        "I cannot focus",
+        "(Break it down, break it down, break it down, down, down) atsuku kanjite",
+        "Low-key, geu jacheinde geuge byeolla"
+      ]
+    },
+    {
+      "id": "style-01",
+      "youtube_id": "n7kFRxFIPrI",
+      "title": "Style",
+      "clue": "Neon wae neul twineunde? jinjja jaemisseo",
+      "answer": "Low-key, geu jacheinde geuge byeolla",
+      "options": [
+        "Yeah, yeah",
+        "Low-key, geu jacheinde geuge byeolla",
+        "Utji, utji mak (Apple pie)",
+        "Boda man yeonghwaneun molla"
+      ]
+    },
+    {
+      "id": "style-02",
+      "youtube_id": "n7kFRxFIPrI",
+      "title": "Style",
+      "clue": "Yeolsimiji ana kkumiji ana easy peasy",
+      "answer": "Geunde cham isanghae, wae neoman boyeo?",
+      "options": [
+        "Break it down, break it down, break it down, break it down",
+        "Geunde cham isanghae, wae neoman boyeo?",
+        "Frame soge neol neoeumyeon",
+        "I wanna dive in, hashagu hikari"
+      ]
+    },
+    {
+      "id": "style-03",
+      "youtube_id": "n7kFRxFIPrI",
+      "title": "Style",
+      "clue": "Gachi geotja nan da gunggeumhae",
+      "answer": "Ieopon sok playlist, mwoya geu norae mwonde? (Uh, uh)",
+      "options": [
+        "Ieopon sok playlist, mwoya geu norae mwonde? (Uh, uh)",
+        "Neoui melody geu temponeun free",
+        "Cinnamon so sweet, i bameun jom gireo",
+        "Jageun sorangwa apple pie (Pie)"
+      ]
+    },
+    {
+      "id": "style-04",
+      "youtube_id": "n7kFRxFIPrI",
+      "title": "Style",
+      "clue": "Hakgyo kkeunnam mwohae? nugurang chinhae eotteon saek joa?",
+      "answer": "I just wanna get close to you, mwohalkka? malhaebwa",
+      "options": [
+        "Nadaul ttae nuguboda nunbusyeo nan",
+        "We living that good life, good life",
+        "Geu gamgakdaero produce",
+        "I just wanna get close to you, mwohalkka? malhaebwa"
+      ]
+    },
+    {
+      "id": "style-05",
+      "youtube_id": "n7kFRxFIPrI",
+      "title": "Style",
+      "clue": "What you feelin' like?",
+      "answer": "Neoui melody geu temponeun free",
+      "options": [
+        "Kkeunnae sumgyeojil",
+        "Buseojin byeolsatang, geu mudeu",
+        "Nuga mworaedo can't change me",
+        "Neoui melody geu temponeun free"
+      ]
+    },
+    {
+      "id": "focus-01",
+      "youtube_id": "Ur7aK4FvK-U",
+      "title": "FOCUS",
+      "clue": "I cannot focus",
+      "answer": "You're all I'm needing",
+      "options": [
+        "You're all I'm needing",
+        "Nae meotdaero move",
+        "Seonmyeonghan my subject",
+        "Gatil geot hana eopji (Get up on this, hey)"
+      ]
+    },
+    {
+      "id": "focus-02",
+      "youtube_id": "Ur7aK4FvK-U",
+      "title": "FOCUS",
+      "clue": "I cannot focus",
+      "answer": "You're all I'm seeing",
+      "options": [
+        "You know what he said to me? (What?)",
+        "Tok ssoneun maltudo, sumgimeomneun pyojeongdo",
+        "You're all I'm seeing",
+        "(It's a paradise)"
+      ]
+    },
+    {
+      "id": "focus-03",
+      "youtube_id": "Ur7aK4FvK-U",
+      "title": "FOCUS",
+      "clue": "I cannot focus on anything but you, baby",
+      "answer": "I cannot focus on anything but you",
+      "options": [
+        "I cannot focus on anything but you",
+        "Break it down, break it down, break it down, break it down",
+        "'Cause you're just my type and I like your style",
+        "Nae meotdaero move (Oh)"
+      ]
+    },
+    {
+      "id": "focus-04",
+      "youtube_id": "Ur7aK4FvK-U",
+      "title": "FOCUS",
+      "clue": "Chojeom dwiui heurithan bantumyeonghan my view, baby",
+      "answer": "I cannot focus on anything, on anyone but you",
+      "options": [
+        "Acting too rude, uh",
+        "And I was like, \"Boy, does it look like I could care?",
+        "Boda man yeonghwaneun molla",
+        "I cannot focus on anything, on anyone but you"
+      ]
+    },
+    {
+      "id": "focus-05",
+      "youtube_id": "Ur7aK4FvK-U",
+      "title": "FOCUS",
+      "clue": "Frame soge neol neoeumyeon",
+      "answer": "You so amazing, amazing, amazing, amazing",
+      "options": [
+        "You so amazing, amazing, amazing, amazing",
+        "Eodiya? Pajama deulgo da moyeo",
+        "Nuga mworaedo can't change me",
+        "You can't make me act right"
+      ]
+    },
+    {
+      "id": "apple-pie-01",
+      "youtube_id": "4k_HiMxY_gg",
+      "title": "Apple Pie",
+      "clue": "Jeopsie deun secret, han jogak teukbyeolhan apple pie",
+      "answer": "Jinhan gominjocha ice creamcheoreom noga mak",
+      "options": [
+        "I cannot focus",
+        "Sumgyeo nae bimil, every lil' thing with ya",
+        "Jinhan gominjocha ice creamcheoreom noga mak",
+        "Nuh, uh, uh, uh"
+      ]
+    },
+    {
+      "id": "apple-pie-02",
+      "youtube_id": "4k_HiMxY_gg",
+      "title": "Apple Pie",
+      "clue": "Oraen nae bimireul gajin geon ojik neoppuniya",
+      "answer": "Jageun sorangwa apple pie (Pie)",
+      "options": [
+        "Eodiro gani?",
+        "We living that good life, good life",
+        "I cannot focus on anything but you, baby",
+        "Jageun sorangwa apple pie (Pie)"
+      ]
+    },
+    {
+      "id": "apple-pie-03",
+      "youtube_id": "4k_HiMxY_gg",
+      "title": "Apple Pie",
+      "clue": "Eodiya? Pajama deulgo da moyeo",
+      "answer": "At eleven, pull up to my spot",
+      "options": [
+        "At eleven, pull up to my spot",
+        "(Cosmic in your eyes)",
+        "Sagwapaicheoreom bichyeo tuk geondeuryeodo",
+        "Eoreuni eomneun sesang"
+      ]
+    },
+    {
+      "id": "apple-pie-04",
+      "youtube_id": "4k_HiMxY_gg",
+      "title": "Apple Pie",
+      "clue": "Ireum daesin \"A\"rago bulleo",
+      "answer": "Urideulkkirin",
+      "options": [
+        "Urideulkkirin",
+        "Geu arae ttam heullin",
+        "I just wanna get close to you, mwohalkka? malhaebwa",
+        "Kidzui tenakute mo"
+      ]
+    },
+    {
+      "id": "apple-pie-05",
+      "youtube_id": "4k_HiMxY_gg",
+      "title": "Apple Pie",
+      "clue": "This round (This round)",
+      "answer": "Jangneuneun romaentik too hot (Too hot)",
+      "options": [
+        "Jangneuneun romaentik too hot (Too hot)",
+        "Sesang ppaegi neo",
+        "Eosaekan eoreumcheoreom",
+        "It's you (It's you)"
+      ]
+    },
+    {
+      "id": "rude-01",
+      "youtube_id": "F7sGJVUrkjQ",
+      "title": "RUDE!",
+      "clue": "(Rude)",
+      "answer": "(Iraetdajeoraetda, no rule)",
+      "options": [
+        "(Iraetdajeoraetda, no rule)",
+        "Deohal ge eopseo",
+        "Jangneuneun romaentik too hot (Too hot)",
+        "Anything but you, you, you, you, you (You)"
+      ]
+    },
+    {
+      "id": "rude-02",
+      "youtube_id": "F7sGJVUrkjQ",
+      "title": "RUDE!",
+      "clue": "(Kkwaena ppeonppeonhan attitude, I'm not bad) Yeah",
+      "answer": "(You can't make me act right) Let's go",
+      "options": [
+        "(You can't make me act right) Let's go",
+        "Jigeumeul jeulgyeo like sugar, sugar high (Ah)",
+        "Amureokena chuneun chum (Yeah; ttara hae)",
+        "Neukkim alji jigeumbuteo (One, two, three)"
+      ]
+    },
+    {
+      "id": "rude-03",
+      "youtube_id": "F7sGJVUrkjQ",
+      "title": "RUDE!",
+      "clue": "(Rude)",
+      "answer": "(I don't care, ige naragu) Yeah",
+      "options": [
+        "I cannot focus on anything but you, baby",
+        "(I don't care, ige naragu) Yeah",
+        "Gachiramyeon deo dara (Oh)",
+        "Buseojin byeolsatang, geu mudeu"
+      ]
+    },
+    {
+      "id": "rude-04",
+      "youtube_id": "F7sGJVUrkjQ",
+      "title": "RUDE!",
+      "clue": "(Amureokena chuneun chum, ttara hae) Yeah",
+      "answer": "(You can't make me act right)",
+      "options": [
+        "Mal mot hae igeon sumgyeo nae bimil",
+        "Eodiya? Pajama deulgo da moyeo",
+        "Frame soge neol neoeumyeon",
+        "(You can't make me act right)"
+      ]
+    },
+    {
+      "id": "rude-05",
+      "youtube_id": "F7sGJVUrkjQ",
+      "title": "RUDE!",
+      "clue": "Yeah, I walked right in",
+      "answer": "Seuchineun sungan moduga my friend",
+      "options": [
+        "Nae meotdaero move (Oh)",
+        "Nuh, uh, uh, uh",
+        "Cheori eopdaedo jaemisseumyeon, that's okay",
+        "Seuchineun sungan moduga my friend"
+      ]
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "Sofia",
+      "score": 2450,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Minho",
+      "score": 2100,
+      "country": "South Korea"
+    },
+    {
+      "name": "Aiko",
+      "score": 1875,
+      "country": "Japan"
+    },
+    {
+      "name": "Liam",
+      "score": 1500,
+      "country": "United States"
+    },
+    {
+      "name": "Putri",
+      "score": 1275,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Chen",
+      "score": 950,
+      "country": "China"
+    },
+    {
+      "name": "Maria",
+      "score": 700,
+      "country": "Philippines"
+    },
+    {
+      "name": "Alex",
+      "score": 450,
+      "country": "Germany"
+    }
+  ],
+  "event_list": [
+    {
+      "id": "ev-comeback-race",
+      "title": "Hearts2Hearts Comeback Race: Best Score Wins",
+      "description": "Push your highest single-run score during the Hearts2Hearts comeback week. Top scorer takes home the merch!",
+      "image": "https://i.ytimg.com/vi/gNUMxMuxH20/maxresdefault.jpg",
+      "prize": "Signed Hearts2Hearts Album + Photocard Set",
+      "prize_image": "https://i.ytimg.com/vi/chl0R8C4NJ8/maxresdefault.jpg",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-30",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "One winner per device"
+      ],
+      "min_score": 500
+    },
+    {
+      "id": "ev-october-lyric-fest",
+      "title": "Hearts2Hearts October Lyric Fest",
+      "description": "Warm up your Hearts2Hearts lyrics knowledge before the October stage!",
+      "image": "https://i.ytimg.com/vi/1VqxWNwgf5Q/maxresdefault.jpg",
+      "prize": "Official Hearts2Hearts Lightstick",
+      "prize_image": "https://i.ytimg.com/vi/kxUA2wwYiME/maxresdefault.jpg",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-20",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "Winner announced in-app"
+      ],
+      "min_score": 1000
+    },
+    {
+      "id": "ev-debut-cup",
+      "title": "Hearts2Hearts Debut Anniversary Cup",
+      "description": "Our first score race — thank you to everyone who joined!",
+      "image": "https://i.ytimg.com/vi/hJ9Wp3PO3c8/maxresdefault.jpg",
+      "prize": "Poster Set",
+      "prize_image": "https://i.ytimg.com/vi/n7kFRxFIPrI/maxresdefault.jpg",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-15",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins"
+      ],
+      "min_score": 500
+    }
+  ]
+}

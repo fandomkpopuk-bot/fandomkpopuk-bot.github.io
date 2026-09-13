@@ -1,0 +1,525 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "unloveu-01",
+      "youtube_id": "vKsCqt4Fx60",
+      "title": "Unloveu",
+      "clue": "Unlove you, u-u-u-unlove you",
+      "answer": "Tissues on the floor, I know a thing about it",
+      "options": [
+        "God bless the sweet girls",
+        "10 out of 10, yes, not maybe",
+        "Off the scale that goes from hot to crazy",
+        "Tissues on the floor, I know a thing about it"
+      ]
+    },
+    {
+      "id": "unloveu-02",
+      "youtube_id": "vKsCqt4Fx60",
+      "title": "Unloveu",
+      "clue": "I been there before, too many times for counting",
+      "answer": "And a heart don't break like a lot of things, baby",
+      "options": [
+        "Geu jarieseo",
+        "But I see a side behind the closed doors",
+        "Your digital footprint is looking so insane",
+        "And a heart don't break like a lot of things, baby"
+      ]
+    },
+    {
+      "id": "unloveu-03",
+      "youtube_id": "vKsCqt4Fx60",
+      "title": "Unloveu",
+      "clue": "(Unlove you, u-u-u-unlove you)",
+      "answer": "You and slamming doors, one and the same, just sayin'",
+      "options": [
+        "Act like you knew me know me",
+        "Br-breaking your fingers",
+        "I just wish that time could freeze",
+        "You and slamming doors, one and the same, just sayin'"
+      ]
+    },
+    {
+      "id": "bel-air-01",
+      "youtube_id": "oMvXwtmYVWc",
+      "title": "Bel Air",
+      "clue": "I saw you in the mirror",
+      "answer": "Been stuck inside my mind since Saturday",
+      "options": [
+        "My head is spinning time in retrograde",
+        "Been stuck inside my mind since Saturday",
+        "I ain't thinking about you, ooh",
+        "Now look at me"
+      ]
+    },
+    {
+      "id": "bel-air-02",
+      "youtube_id": "oMvXwtmYVWc",
+      "title": "Bel Air",
+      "clue": "Can't get you off my radar",
+      "answer": "My head is spinning time in retrograde",
+      "options": [
+        "I ain't thinkin' about you",
+        "Unlove you, u-u-u-unlove you",
+        "My head is spinning time in retrograde",
+        "One day, soon, the world's gonna end"
+      ]
+    },
+    {
+      "id": "bel-air-03",
+      "youtube_id": "oMvXwtmYVWc",
+      "title": "Bel Air",
+      "clue": "Still falling for you, still running from you",
+      "answer": "If we could just rewind us for a day",
+      "options": [
+        "And I wore your words like a necklace",
+        "If we could just rewind us for a day",
+        "Oh, won't you? Oh, won't you? Oh, won't you?",
+        "Go all day, I never stop"
+      ]
+    },
+    {
+      "id": "that-way-01",
+      "youtube_id": "DgFemuNxBrk",
+      "title": "That Way",
+      "clue": "You could be mine",
+      "answer": "If you're lucky",
+      "options": [
+        "If you're lucky",
+        "You're just a Gameboy (Gameboy)",
+        "Lovin' you's a game, boy (Oh, game, boy)",
+        "Now look at me"
+      ]
+    },
+    {
+      "id": "that-way-02",
+      "youtube_id": "DgFemuNxBrk",
+      "title": "That Way",
+      "clue": "You might even get the privilege to touch me",
+      "answer": "That way, that way",
+      "options": [
+        "I kinda know nothing, just like Socrates",
+        "That way, that way",
+        "Fruit, fruit, fruit, fruit, fruit, fruit, fruit",
+        "You're pretty but ain't acting it"
+      ]
+    },
+    {
+      "id": "that-way-03",
+      "youtube_id": "DgFemuNxBrk",
+      "title": "That Way",
+      "clue": "That way",
+      "answer": "Yeah, I could be yours",
+      "options": [
+        "I keep on cheesing, cheesing",
+        "Yeah, I could be yours",
+        "Wirocheoreom nal utge hago (nal utge hago)",
+        "Oh, won't you? Oh, won't you? Oh, won't you?"
+      ]
+    },
+    {
+      "id": "hootie-frutti-01",
+      "youtube_id": "kwH2nYwuFdA",
+      "title": "Hootie Frutti",
+      "clue": "Eu sei que tu gosta da fruta, mas essa é diferente",
+      "answer": "Hootie frutti",
+      "options": [
+        "And, yes, God bless even the mean girls",
+        "Hootie frutti",
+        "Ah-ah-oh",
+        "What's the word? What's the word? I'm the internet girl"
+      ]
+    },
+    {
+      "id": "hootie-frutti-02",
+      "youtube_id": "kwH2nYwuFdA",
+      "title": "Hootie Frutti",
+      "clue": "Hootie fruit, fruit, fruit, fruit, fruit, fruit, fruit",
+      "answer": "Hootie fruit, fruit, fruit, fruit, fruit, fruit",
+      "options": [
+        "Hootie fruit, fruit, fruit, fruit, fruit, fruit",
+        "I'm still wishing you the best (Oh)",
+        "Nobody got what I got",
+        "Thought you'd be the death of me, but"
+      ]
+    },
+    {
+      "id": "hootie-frutti-03",
+      "youtube_id": "kwH2nYwuFdA",
+      "title": "Hootie Frutti",
+      "clue": "Hey, cutie, cutie",
+      "answer": "I see ya looking",
+      "options": [
+        "I ain't tryna play, boy",
+        "I see ya looking",
+        "Eat zucchini, eat zucchini",
+        "I'm still wishing you the best (Oh)"
+      ]
+    },
+    {
+      "id": "animal-01",
+      "youtube_id": "m7k9UMcHbr0",
+      "title": "Animal",
+      "clue": "You're the boss, you run the circus, baby",
+      "answer": "Take it up a notch, you're so sophisticated",
+      "options": [
+        "I ain't tryna play, boy (Play, boy)",
+        "And it's all for you (Oh, won't you? Oh, won't you? Oh, won't you?)",
+        "Us against the world, shaking ass in the parking lot",
+        "Take it up a notch, you're so sophisticated"
+      ]
+    },
+    {
+      "id": "animal-02",
+      "youtube_id": "m7k9UMcHbr0",
+      "title": "Animal",
+      "clue": "Don't wanna be on a schedule, you're on your own time (Mm-mm)",
+      "answer": "Off the scale that goes from hot to crazy",
+      "options": [
+        "Looks are deceiving, deceiving",
+        "That way",
+        "Take it up a notch, you're so sophisticated",
+        "Off the scale that goes from hot to crazy"
+      ]
+    },
+    {
+      "id": "animal-03",
+      "youtube_id": "m7k9UMcHbr0",
+      "title": "Animal",
+      "clue": "Fingernails, one, two, three colors painted",
+      "answer": "Crop top and baggy jeans holding your waistline (Mm-mm)",
+      "options": [
+        "Not thinkin' about you (Not thinking about you)",
+        "Lovin' you's a game, boy (Oh, game, boy)",
+        "Crop top and baggy jeans holding your waistline (Mm-mm)",
+        "Then you gotta touch me that way"
+      ]
+    },
+    {
+      "id": "time-lapse-01",
+      "youtube_id": "uav-2BxMv9U",
+      "title": "Time Lapse",
+      "clue": "We've been talking for hours",
+      "answer": "Time is passing us by and",
+      "options": [
+        "Been to hell and back, let ’em judge me, crucible",
+        "God bless the dream girls",
+        "Time is passing us by and",
+        "I'm gonna make out with my new bestest friends"
+      ]
+    },
+    {
+      "id": "time-lapse-02",
+      "youtube_id": "uav-2BxMv9U",
+      "title": "Time Lapse",
+      "clue": "I just can't seem to slow it down",
+      "answer": "And I know your greatest fear",
+      "options": [
+        "Hootie frutti every day",
+        "That's mine, that's mine",
+        "Play pretend, but you know it's karma",
+        "And I know your greatest fear"
+      ]
+    },
+    {
+      "id": "time-lapse-03",
+      "youtube_id": "uav-2BxMv9U",
+      "title": "Time Lapse",
+      "clue": "Letting someone in too near",
+      "answer": "But open up your heart to me",
+      "options": [
+        "But open up your heart to me",
+        "Neol hyanghan maeum dama",
+        "That go get what they want girls",
+        "I'm getting out of here"
+      ]
+    },
+    {
+      "id": "gameboy-01",
+      "youtube_id": "-bC4iak3kxg",
+      "title": "Gameboy",
+      "clue": "Tell your friends that I love the drama",
+      "answer": "Play pretend, but you know it's karma",
+      "options": [
+        "I know you like that hootie frutti (Yeah, yeah)",
+        "Ah-ah-ah-ah-oh-ah-oh-oh-oh-oh-oh",
+        "Play pretend, but you know it's karma",
+        "Shopping in the window"
+      ]
+    },
+    {
+      "id": "gameboy-02",
+      "youtube_id": "-bC4iak3kxg",
+      "title": "Gameboy",
+      "clue": "You're the one that's lonely callin'",
+      "answer": "You can blame me, but I ain't the problem (Ooh)",
+      "options": [
+        "You can blame me, but I ain't the problem (Ooh)",
+        "He understands",
+        "We'd leave it all behind",
+        "Your imagination got me going viral"
+      ]
+    },
+    {
+      "id": "gameboy-03",
+      "youtube_id": "-bC4iak3kxg",
+      "title": "Gameboy",
+      "clue": "You, you keep on pushing my buttons, you do",
+      "answer": "With me, you leveled up, yeah, it's true",
+      "options": [
+        "Been to hell and back, let ’em judge me, crucible",
+        "You're pretty but ain't acting it",
+        "Fruit, fruit, fruit, fruit, fruit, fruit, fruit",
+        "With me, you leveled up, yeah, it's true"
+      ]
+    },
+    {
+      "id": "mean-girls-01",
+      "youtube_id": "MGcPpYhuq-8",
+      "title": "Mean Girls",
+      "clue": "God bless the sweet girls",
+      "answer": "God bless the dream girls",
+      "options": [
+        "Snap my neck, 360, demanding me in 5D",
+        "Nobody knows you're outta control",
+        "Engrave it",
+        "God bless the dream girls"
+      ]
+    },
+    {
+      "id": "mean-girls-02",
+      "youtube_id": "MGcPpYhuq-8",
+      "title": "Mean Girls",
+      "clue": "God bless the queen girls that turn the other cheek girls",
+      "answer": "God bless the free girls",
+      "options": [
+        "God bless the free girls",
+        "This is why I hate the internet, yes",
+        "I'm not bringing all this baggage home, no",
+        "I-I-I-I-I am iconic by mistake"
+      ]
+    },
+    {
+      "id": "mean-girls-03",
+      "youtube_id": "MGcPpYhuq-8",
+      "title": "Mean Girls",
+      "clue": "And, yes, God bless even the mean girls",
+      "answer": "Even the mean girls",
+      "options": [
+        "Even the mean girls",
+        "Lot of good nights that I let go to waste",
+        "Eat zucchini, eat zucchini",
+        "Unlove you, u-u-u-unlove you"
+      ]
+    },
+    {
+      "id": "internet-girl-01",
+      "youtube_id": "5q9EjSUovc4",
+      "title": "Internet Girl",
+      "clue": "Haven't you heard? I'm the internet girl",
+      "answer": "I'm getting out of here",
+      "options": [
+        "I'm getting out of here",
+        "God bless the dream girls",
+        "If it's hard to keep it up, baby, the door is (Door is)",
+        "Yeah, it isn't my fault that it's always my turn"
+      ]
+    },
+    {
+      "id": "internet-girl-02",
+      "youtube_id": "5q9EjSUovc4",
+      "title": "Internet Girl",
+      "clue": "Eat zucchini, eat zucchini",
+      "answer": "Do you read me? Like the emoji",
+      "options": [
+        "Want you to give it to me all night long",
+        "Like a time lapse, time lapse",
+        "Get back home and be safe, never be apart",
+        "Do you read me? Like the emoji"
+      ]
+    },
+    {
+      "id": "internet-girl-03",
+      "youtube_id": "5q9EjSUovc4",
+      "title": "Internet Girl",
+      "clue": "Oh, won't you? Oh, won't you? Oh, won't you?",
+      "answer": "Haven't you heard? I'm the internet girl",
+      "options": [
+        "We wouldn't be the ones who got away",
+        "Haven't you heard? I'm the internet girl",
+        "Pin-pinky up, up",
+        "No, no"
+      ]
+    },
+    {
+      "id": "pinky-up-01",
+      "youtube_id": "7F1ET2XHQfk",
+      "title": "PINKY UP",
+      "clue": "I-I-I-I bet it goes like this",
+      "answer": "Pinky up, up",
+      "options": [
+        "Neol hyanghan maeum dama",
+        "But time did its shit, and finally, it hit",
+        "Pinky up, up",
+        "Mount Valley water"
+      ]
+    },
+    {
+      "id": "pinky-up-02",
+      "youtube_id": "7F1ET2XHQfk",
+      "title": "PINKY UP",
+      "clue": "Put this pinky up",
+      "answer": "One day, soon, the world's gonna end",
+      "options": [
+        "He understands",
+        "One day, soon, the world's gonna end",
+        "You can blame me, but I ain't the problem (Ooh)",
+        "I keep your secret safe with me (Mm-mm)"
+      ]
+    },
+    {
+      "id": "pinky-up-03",
+      "youtube_id": "7F1ET2XHQfk",
+      "title": "PINKY UP",
+      "clue": "I'm gonna make out with my new bestest friends",
+      "answer": "I wanna live large, right before it all burns down",
+      "options": [
+        "And, yes, God bless even the mean girls",
+        "I wanna live large, right before it all burns down",
+        "Hootie",
+        "God bless the shot girls"
+      ]
+    },
+    {
+      "id": "iconic-by-mistake-01",
+      "youtube_id": "27C4pfRsf9g",
+      "title": "ICONIC BY MISTAKE",
+      "clue": "Hating me is like all you do",
+      "answer": "Breakfast to dinner",
+      "options": [
+        "Yes, yes",
+        "Breakfast to dinner",
+        "Always on some dumb tip like I need to find me",
+        "Jealousy's so overrated"
+      ]
+    },
+    {
+      "id": "iconic-by-mistake-02",
+      "youtube_id": "27C4pfRsf9g",
+      "title": "ICONIC BY MISTAKE",
+      "clue": "Algorithm bulletproof",
+      "answer": "Br-breaking your fingers",
+      "options": [
+        "Br-breaking your fingers",
+        "Time is passing us by and",
+        "When you were mine",
+        "You keep taking my breath away"
+      ]
+    },
+    {
+      "id": "iconic-by-mistake-03",
+      "youtube_id": "27C4pfRsf9g",
+      "title": "ICONIC BY MISTAKE",
+      "clue": "Thank you for the comments",
+      "answer": "It’s because of all your hate",
+      "options": [
+        "I just can't seem to slow it down",
+        "'Cause you need me so (Eat zucchini)",
+        "Oh, we'll be looking back one day",
+        "It’s because of all your hate"
+      ]
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "Sofia",
+      "score": 2450,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Minho",
+      "score": 2100,
+      "country": "South Korea"
+    },
+    {
+      "name": "Aiko",
+      "score": 1875,
+      "country": "Japan"
+    },
+    {
+      "name": "Liam",
+      "score": 1500,
+      "country": "United States"
+    },
+    {
+      "name": "Putri",
+      "score": 1275,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Chen",
+      "score": 950,
+      "country": "China"
+    },
+    {
+      "name": "Maria",
+      "score": 700,
+      "country": "Philippines"
+    },
+    {
+      "name": "Alex",
+      "score": 450,
+      "country": "Germany"
+    }
+  ],
+  "event_list": [
+    {
+      "id": "ev-comeback-race",
+      "title": "KATSEYE Comeback Race: Best Score Wins",
+      "description": "Push your highest single-run score during the KATSEYE comeback week. Top scorer takes home the merch!",
+      "image": "https://i.ytimg.com/vi/vKsCqt4Fx60/maxresdefault.jpg",
+      "prize": "Signed KATSEYE Album + Photocard Set",
+      "prize_image": "https://i.ytimg.com/vi/oMvXwtmYVWc/maxresdefault.jpg",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-30",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "One winner per device"
+      ],
+      "min_score": 500
+    },
+    {
+      "id": "ev-october-lyric-fest",
+      "title": "KATSEYE October Lyric Fest",
+      "description": "Warm up your KATSEYE lyrics knowledge before the October stage!",
+      "image": "https://i.ytimg.com/vi/DgFemuNxBrk/maxresdefault.jpg",
+      "prize": "Official KATSEYE Lightstick",
+      "prize_image": "https://i.ytimg.com/vi/kwH2nYwuFdA/maxresdefault.jpg",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-20",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "Winner announced in-app"
+      ],
+      "min_score": 1000
+    },
+    {
+      "id": "ev-debut-cup",
+      "title": "KATSEYE Debut Anniversary Cup",
+      "description": "Our first score race — thank you to everyone who joined!",
+      "image": "https://i.ytimg.com/vi/m7k9UMcHbr0/maxresdefault.jpg",
+      "prize": "Poster Set",
+      "prize_image": "https://i.ytimg.com/vi/bYg6aMDQ_TA/maxresdefault.jpg",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-15",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins"
+      ],
+      "min_score": 500
+    }
+  ]
+}

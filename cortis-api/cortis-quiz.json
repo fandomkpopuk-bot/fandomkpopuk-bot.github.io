@@ -1,0 +1,408 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "motion-feat-juicy-j-01",
+      "youtube_id": "h7ITAdTxdxM",
+      "title": "MOTION (feat. Juicy J)",
+      "clue": "Yeah, yeah, yeah",
+      "answer": "Keep it P, oh yeah",
+      "options": [
+        "Keep it P, oh yeah",
+        "I only wanna talk if it's 'bout a pay check (Fah, that's what I spend)",
+        "Going REDRED like hot Cheetos (*Hot, yeah*)",
+        "I told you to turn it up"
+      ]
+    },
+    {
+      "id": "motion-feat-juicy-j-02",
+      "youtube_id": "h7ITAdTxdxM",
+      "title": "MOTION (feat. Juicy J)",
+      "clue": "I just gotta get in the pocket for real",
+      "answer": "I drive at the faster pace",
+      "options": [
+        "That's motion",
+        "Daseosi gogaereul bingbing",
+        "'Bout to go off the meter (High speed)",
+        "I drive at the faster pace"
+      ]
+    },
+    {
+      "id": "motion-feat-juicy-j-03",
+      "youtube_id": "h7ITAdTxdxM",
+      "title": "MOTION (feat. Juicy J)",
+      "clue": "Can't keep up with this motion (Keep up with this motion)",
+      "answer": "I drive at the faster pace",
+      "options": [
+        "They say they want the old me, but",
+        "I drive at the faster pace",
+        "Dapdapae jeongsuri sippeolgejiji (That's red)",
+        "Pallanggwi pallanggwi (That's red, red)"
+      ]
+    },
+    {
+      "id": "motion-feat-juicy-j-04",
+      "youtube_id": "h7ITAdTxdxM",
+      "title": "MOTION (feat. Juicy J)",
+      "clue": "Can't keep up with this motion (Hey, hey, hey, keep up with this motion)",
+      "answer": "Pull up in an all black sprinter (Black sprint)",
+      "options": [
+        "Pull up, ridin' striker",
+        "Pull up in an all black sprinter (Black sprint)",
+        "They called me a freak, hollin deusi, yeah",
+        "Can't keep up with this motion (Woo, woo, fah)"
+      ]
+    },
+    {
+      "id": "motion-feat-juicy-j-05",
+      "youtube_id": "h7ITAdTxdxM",
+      "title": "MOTION (feat. Juicy J)",
+      "clue": "'Bout to go off the meter (High speed)",
+      "answer": "Pull up in an all white Spectre (REDRED),",
+      "options": [
+        "Dapdapae jeongsuri sippeolgejiji (That's red)",
+        "Pull up in an all black sprinter (**Black sprint**)",
+        "Incheongonghang, yeoreo jekkyeo roof (Yeah)",
+        "Pull up in an all white Spectre (REDRED),"
+      ]
+    },
+    {
+      "id": "motion-feat-juicy-j-06",
+      "youtube_id": "h7ITAdTxdxM",
+      "title": "MOTION (feat. Juicy J)",
+      "clue": "Pull off and tell 'em \"See ya\" (Shit)",
+      "answer": "*Me and twin locked in like peanuts* (Me and twin),",
+      "options": [
+        "*Me and twin locked in like peanuts* (Me and twin),",
+        "Still proud of the team, that's motion",
+        "Me and twin locked in like peanuts (Me and twin)",
+        "Cookin' up 'til we get stinky"
+      ]
+    },
+    {
+      "id": "motion-feat-juicy-j-07",
+      "youtube_id": "h7ITAdTxdxM",
+      "title": "MOTION (feat. Juicy J)",
+      "clue": "New city, new hype, we T'd up (We T'd)",
+      "answer": "Going REDRED like hot Cheetos (Hot, yeah),",
+      "options": [
+        "Pumpin' up, seoulsi (Let's go)",
+        "Going REDRED like hot Cheetos (Hot, yeah),",
+        "F1, deulji ma red flag",
+        "Ran up some cheese, like some calories burned"
+      ]
+    },
+    {
+      "id": "motion-feat-juicy-j-08",
+      "youtube_id": "h7ITAdTxdxM",
+      "title": "MOTION (feat. Juicy J)",
+      "clue": "Good hit and it hot like pistol",
+      "answer": "I drive at thе faster pace",
+      "options": [
+        "I drive at thе faster pace",
+        "Pull off and tell 'em \"See ya\" (*Shit*)",
+        "Jwapyo jjikgo baro ppang (What you mean?)",
+        "City to city, pop out with the guys"
+      ]
+    },
+    {
+      "id": "tnt-01",
+      "youtube_id": "kRpaqR5sbf0",
+      "title": "TNT",
+      "clue": "Yeollyeoseot, yeojeonhi mojiri",
+      "answer": "Bangguseok maeil bam, daseot cheolbuji (cheolbuji)",
+      "options": [
+        "Tell me, I got what you need (TNT)",
+        "Let her put my chain 'round her neck",
+        "Me and twin locked in like peanuts (**Me and twin**)",
+        "Bangguseok maeil bam, daseot cheolbuji (cheolbuji)"
+      ]
+    },
+    {
+      "id": "tnt-02",
+      "youtube_id": "kRpaqR5sbf0",
+      "title": "TNT",
+      "clue": "Seutyudioui keomteo ap kkaeeonan DNA (DNA)",
+      "answer": "Noesingyeonge bring the fire, machi TNT (Yeah)",
+      "options": [
+        "Nae chingudeul jeonbu han teureogeda damaseo",
+        "You should come mess with the team",
+        "I don't mess with no stupid red signs",
+        "Noesingyeonge bring the fire, machi TNT (Yeah)"
+      ]
+    },
+    {
+      "id": "tnt-03",
+      "youtube_id": "kRpaqR5sbf0",
+      "title": "TNT",
+      "clue": "Pop out, CO2e bureul kyeo, when I pop out (Let's go)",
+      "answer": "Gogae kkattakgeoril beolseu, pitjul ppattak (Let's go)",
+      "options": [
+        "You should come mess with the team",
+        "Nae chingudeul jeonbu han teureogeda damaseo",
+        "Gogae kkattakgeoril beolseu, pitjul ppattak (Let's go)",
+        "Pull off and tell 'em \"See ya\" (*Shit*)"
+      ]
+    },
+    {
+      "id": "tnt-04",
+      "youtube_id": "kRpaqR5sbf0",
+      "title": "TNT",
+      "clue": "Hanbam pokbal gateun drums, we gon' rock out",
+      "answer": "We gon', we gon'",
+      "options": [
+        "These days they don't keep nothin' P no more (Fah)",
+        "Pull off in the lamb, Lil Baby, the GOAT gone",
+        "Can't keep up with this motion (*Gotta keep up the motion*)",
+        "We gon', we gon'"
+      ]
+    },
+    {
+      "id": "tnt-05",
+      "youtube_id": "kRpaqR5sbf0",
+      "title": "TNT",
+      "clue": "Pumpin' up, seoulsi (Let's go)",
+      "answer": "Bamsaewo sinawi",
+      "options": [
+        "I drive at thе faster pace",
+        "Yeah, yeah, yeah",
+        "Bamsaewo sinawi",
+        "Meonjiga ssain geu CD (That's red)"
+      ]
+    },
+    {
+      "id": "tnt-06",
+      "youtube_id": "kRpaqR5sbf0",
+      "title": "TNT",
+      "clue": "Chumeul chwo sindeullin (Woo)",
+      "answer": "Who we are? TNT (Yeah, yeah, yeah)",
+      "options": [
+        "Who we are? TNT (Yeah, yeah, yeah)",
+        "'round my block, we keep that notion, yeah",
+        "They say they want the old me, but",
+        "Turn it up, ayy"
+      ]
+    },
+    {
+      "id": "tnt-07",
+      "youtube_id": "kRpaqR5sbf0",
+      "title": "TNT",
+      "clue": "Tell me, I got what you need (TNT)",
+      "answer": "Daepo jjikdeut jjigeo hits (TNT)",
+      "options": [
+        "Daepo jjikdeut jjigeo hits (TNT)",
+        "Gogae kkattangnyeo like yeah, yeah",
+        "Gimpogonghang, yeoreo jekkyeo roof (Yeah)",
+        "I drive at the faster pace"
+      ]
+    },
+    {
+      "id": "tnt-08",
+      "youtube_id": "kRpaqR5sbf0",
+      "title": "TNT",
+      "clue": "Jwapyo jjikgo baro ppang (What you mean?)",
+      "answer": "I'm about to TNT (TNT)",
+      "options": [
+        "I'm about to TNT (TNT)",
+        "Dasi baewo bwa, you gotta note down",
+        "Keep it P, oh yeah",
+        "Hanbam pokbal gateun drums, we gon' rock out"
+      ]
+    },
+    {
+      "id": "redred-01",
+      "youtube_id": "U6BDbXIah-Y",
+      "title": "RedRed",
+      "clue": "Green, green",
+      "answer": "Ttabara han mogeum sip (Ooh)",
+      "options": [
+        "Ttabara han mogeum sip (Ooh)",
+        "You should come mess with the team",
+        "She got a brain freeze",
+        "I drive at thе faster pace"
+      ]
+    },
+    {
+      "id": "redred-02",
+      "youtube_id": "U6BDbXIah-Y",
+      "title": "RedRed",
+      "clue": "Caffeine tto kickin' in",
+      "answer": "Eojetbame mandeuldeon beat",
+      "options": [
+        "Yeollyeoseot, yeojeonhi mojiri",
+        "Meonjiga ssain geu CD (That's red)",
+        "Eojetbame mandeuldeon beat",
+        "Pull up in an all white Spectre (*REDRED*)"
+      ]
+    },
+    {
+      "id": "redred-03",
+      "youtube_id": "U6BDbXIah-Y",
+      "title": "RedRed",
+      "clue": "Nae poneda damaseo georiro nagaseo",
+      "answer": "Daseosi gogaereul bingbing",
+      "options": [
+        "Pull up in an all white Spectre (*REDRED*)",
+        "Still proud of the team, that's motion",
+        "Ran up some cheese, like some calories burned",
+        "Daseosi gogaereul bingbing"
+      ]
+    },
+    {
+      "id": "redred-04",
+      "youtube_id": "U6BDbXIah-Y",
+      "title": "RedRed",
+      "clue": "Ipkkorin ollaga, hihi",
+      "answer": "Haendeupon bakkwo nwa D-N-D",
+      "options": [
+        "Haendeupon bakkwo nwa D-N-D",
+        "*I drive at the faster pace",
+        "Jubyeoneul salpigi (That's red, red)",
+        "Me and twin locked in like peanuts (Me and twin)"
+      ]
+    },
+    {
+      "id": "redred-05",
+      "youtube_id": "U6BDbXIah-Y",
+      "title": "RedRed",
+      "clue": "Seeing all kinds of green, green",
+      "answer": "Swit, hanpae (hanpae)",
+      "options": [
+        "I drive at the faster pace",
+        "I'm just tryna see if she's with it, then leave her 'lone",
+        "Gogae kkattangnyeo like yeah, yeah",
+        "Swit, hanpae (hanpae)"
+      ]
+    },
+    {
+      "id": "redred-06",
+      "youtube_id": "U6BDbXIah-Y",
+      "title": "RedRed",
+      "clue": "I put my hands in my pocket (Pocket)",
+      "answer": "Outside, han bame (han bame)",
+      "options": [
+        "We gon', we gon'",
+        "I done switched up like Hannah Montana 'cause",
+        "These days they don't keep nothin' P no more (Fah)",
+        "Outside, han bame (han bame)"
+      ]
+    },
+    {
+      "id": "redred-07",
+      "youtube_id": "U6BDbXIah-Y",
+      "title": "RedRed",
+      "clue": "Saram eomneun seupaseuro ppalli (Brr)",
+      "answer": "I'll do that shit all with my team (Team)",
+      "options": [
+        "I'll do that shit all with my team (Team)",
+        "Turn it up, ayy",
+        "Who we are? TNT (Yeah, yeah, yeah)",
+        "Outside, han bame (han bame)"
+      ]
+    },
+    {
+      "id": "redred-08",
+      "youtube_id": "U6BDbXIah-Y",
+      "title": "RedRed",
+      "clue": "Nugunga sileohal jit (jit)",
+      "answer": "Al baga aniyeo get it, get it",
+      "options": [
+        "Party all night, we don't sleep no more",
+        "Al baga aniyeo get it, get it",
+        "Ran up some cheese, like some calories burned",
+        "Yeollyeoseot, yeojeonhi mojiri"
+      ]
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "Sofia",
+      "score": 2450,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Minho",
+      "score": 2100,
+      "country": "South Korea"
+    },
+    {
+      "name": "Aiko",
+      "score": 1875,
+      "country": "Japan"
+    },
+    {
+      "name": "Liam",
+      "score": 1500,
+      "country": "United States"
+    },
+    {
+      "name": "Putri",
+      "score": 1275,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Chen",
+      "score": 950,
+      "country": "China"
+    },
+    {
+      "name": "Maria",
+      "score": 700,
+      "country": "Philippines"
+    },
+    {
+      "name": "Alex",
+      "score": 450,
+      "country": "Germany"
+    }
+  ],
+  "event_list": [
+    {
+      "id": "ev-comeback-race",
+      "title": "CORTIS Comeback Race: Best Score Wins",
+      "description": "Push your highest single-run score during the CORTIS comeback week. Top scorer takes home the merch!",
+      "image": "https://i.ytimg.com/vi/h7ITAdTxdxM/maxresdefault.jpg",
+      "prize": "Signed CORTIS Album + Photocard Set",
+      "prize_image": "https://i.ytimg.com/vi/kRpaqR5sbf0/maxresdefault.jpg",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-30",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "One winner per device"
+      ],
+      "min_score": 500
+    },
+    {
+      "id": "ev-october-lyric-fest",
+      "title": "CORTIS October Lyric Fest",
+      "description": "Warm up your CORTIS lyrics knowledge before the October stage!",
+      "image": "https://i.ytimg.com/vi/Eg4-vCHc7eQ/maxresdefault.jpg",
+      "prize": "Official CORTIS Lightstick",
+      "prize_image": "https://i.ytimg.com/vi/ufdjbG7z5lQ/maxresdefault.jpg",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-20",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "Winner announced in-app"
+      ],
+      "min_score": 1000
+    },
+    {
+      "id": "ev-debut-cup",
+      "title": "CORTIS Debut Anniversary Cup",
+      "description": "Our first score race — thank you to everyone who joined!",
+      "image": "https://i.ytimg.com/vi/3G0A03PFMg0/maxresdefault.jpg",
+      "prize": "Poster Set",
+      "prize_image": "https://i.ytimg.com/vi/tCSBgOIA63M/maxresdefault.jpg",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-15",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins"
+      ],
+      "min_score": 500
+    }
+  ]
+}

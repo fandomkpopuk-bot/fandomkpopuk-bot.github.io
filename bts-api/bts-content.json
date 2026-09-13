@@ -158,7 +158,8 @@
     "isOtherAppsEnabled": true,
     "isSongRequestEnabled": true,
     "maxDownloadCount": 2,
-    "maxPlayCount": 3
+    "maxPlayCount": 3,
+    "isMinigameEnabled": true
   },
   "news_list": [
     {
