@@ -1,0 +1,716 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "pureflow-01",
+      "youtube_id": "L8z453XB6Iw",
+      "title": "Pureflow",
+      "clue": "슬픔을 왜 나눠?",
+      "answer": "힘들면 혼자 힘들지",
+      "options": [
+        "I-I-I-I-I-I (I), I-I-I-I-I-I (I)",
+        "Burangwa majuhan naui saeroun beojeoneul chukahae",
+        "Saving the shame for mañana",
+        "힘들면 혼자 힘들지"
+      ]
+    },
+    {
+      "id": "boompala-01",
+      "youtube_id": "Gy32XOFT2ww",
+      "title": "BOOMPALA",
+      "clue": "Dale a tu cuerpo alegría, Macarena",
+      "answer": "Que tu cuerpo es pa' darle alegría y cosa buena",
+      "options": [
+        "Go with the fears I've been facin' (Ooh, ooh)",
+        "Que tu cuerpo es pa' darle alegría y cosa buena",
+        "It’s because of all your hate",
+        "私たち 崖っぷちでアクセルを踏もう"
+      ]
+    },
+    {
+      "id": "celebration-01",
+      "youtube_id": "SYBxFed9lbU",
+      "title": "CELEBRATION",
+      "clue": "Time to celebrate",
+      "answer": "Hey, saero taeeonan neowa nal wihae",
+      "options": [
+        "I got let go, yeah, I'm going, going, going (Uh)",
+        "Hyungjyeo beorin eolgul, yeah, I'm not okay",
+        "Hey, saero taeeonan neowa nal wihae",
+        "Too beautiful to be broken"
+      ]
+    },
+    {
+      "id": "creatures-01",
+      "youtube_id": "Z9hoSCbKTmw",
+      "title": "Creatures",
+      "clue": "Neogateun goemul tto eopseulgeorae",
+      "answer": "Chakan inhyeongi doerae like a pet",
+      "options": [
+        "Chakan inhyeongi doerae like a pet",
+        "아, 망했다",
+        "On my chest, on my heart, I'm drumming (Uh)",
+        "Make your head bang"
+      ]
+    },
+    {
+      "id": "iffy-iffy-01",
+      "youtube_id": "nMx-tMPidK4",
+      "title": "iffy iffy",
+      "clue": "I was looking at me, geoul soge bichin",
+      "answer": "Hyungjyeo beorin eolgul, yeah, I'm not okay",
+      "options": [
+        "I-I-I-I-I am iconic by mistake",
+        "Bareul naedidyeo move, nae duryeoumdo ijen",
+        "Hyungjyeo beorin eolgul, yeah, I'm not okay",
+        "そんなくせして"
+      ]
+    },
+    {
+      "id": "need-your-company-01",
+      "youtube_id": "zxlII8FwIC0",
+      "title": "Need Your Company",
+      "clue": "No one really knows me",
+      "answer": "Nobody understands, I know",
+      "options": [
+        "No strings, I'm not tied (Tied)",
+        "Animyeon we go break it",
+        "Nobody understands, I know",
+        "Gateun baereul hamkke tage doen my friends"
+      ]
+    },
+    {
+      "id": "sonder-01",
+      "youtube_id": "Bjf4F_rBvig",
+      "title": "Sonder",
+      "clue": "Someone smiles, someone cries",
+      "answer": "Gwansim eopseo nae ane gatin na",
+      "options": [
+        "Gwansim eopseo nae ane gatin na",
+        "(Iffy, iffy)",
+        "Come heal it where it hurts",
+        "You can't hold on to the clouds in the air (Uh)"
+      ]
+    },
+    {
+      "id": "iconic-by-mistake-01",
+      "youtube_id": "27C4pfRsf9g",
+      "title": "ICONIC BY MISTAKE",
+      "clue": "Hating me is like all you do",
+      "answer": "Breakfast to dinner",
+      "options": [
+        "(Uh)",
+        "So I choose iffy, iffy, geuge naya",
+        "Breakfast to dinner",
+        "Bareul naedidyeo move, nae duryeoumdo ijen"
+      ]
+    },
+    {
+      "id": "pureflow-02",
+      "youtube_id": "L8z453XB6Iw",
+      "title": "Pureflow",
+      "clue": "힘들면 혼자 힘들지",
+      "answer": "남까지 힘들게 하자는거야?",
+      "options": [
+        "Not cool, not fine",
+        "Que tu cuerpo es pa' darle alegría y cosa buena",
+        "남까지 힘들게 하자는거야?",
+        "Mangseoriji malgo dive"
+      ]
+    },
+    {
+      "id": "boompala-02",
+      "youtube_id": "Gy32XOFT2ww",
+      "title": "BOOMPALA",
+      "clue": "Que tu cuerpo es pa' darle alegría y cosa buena",
+      "answer": "Dale a tu cuerpo alegría, Macarena",
+      "options": [
+        "Now I could see",
+        "Dale a tu cuerpo alegría, Macarena",
+        "弱い自分が悔しくて仕方ないって顔",
+        "(Iffy, iffy)"
+      ]
+    },
+    {
+      "id": "celebration-02",
+      "youtube_id": "SYBxFed9lbU",
+      "title": "CELEBRATION",
+      "clue": "Hey, saero taeeonan neowa nal wihae",
+      "answer": "Cheers, oh",
+      "options": [
+        "Bang, bang, bang, bang",
+        "So I choose iffy, iffy, geuge naya",
+        "Hurt each other but stitching up the pieces",
+        "Cheers, oh"
+      ]
+    },
+    {
+      "id": "creatures-02",
+      "youtube_id": "Z9hoSCbKTmw",
+      "title": "Creatures",
+      "clue": "Chakan inhyeongi doerae like a pet",
+      "answer": "Shut up and step back",
+      "options": [
+        "Shut up and step back",
+        "Go with the fears I've been facin' (Ooh-ooh)",
+        "Do this for the dream, na-na, not just for the bag",
+        "Shake, shake, shake, naeireun eomneungeoya"
+      ]
+    },
+    {
+      "id": "iffy-iffy-02",
+      "youtube_id": "nMx-tMPidK4",
+      "title": "iffy iffy",
+      "clue": "Hyungjyeo beorin eolgul, yeah, I'm not okay",
+      "answer": "Wanna bless my way, jeongdap ttawin eopji",
+      "options": [
+        "Gwansim eopseo nae ane gatin na",
+        "Wanna bless my way, jeongdap ttawin eopji",
+        "Now I'm free",
+        "Only loving on myself, I'm coming (Uh)"
+      ]
+    },
+    {
+      "id": "need-your-company-02",
+      "youtube_id": "zxlII8FwIC0",
+      "title": "Need Your Company",
+      "clue": "Nobody understands, I know",
+      "answer": "I'm thinking in a selfish way",
+      "options": [
+        "No fears, sweet lies",
+        "Geochimi eopji, creatures, creatures",
+        "I'm thinking in a selfish way",
+        "Algorithm bullet proof"
+      ]
+    },
+    {
+      "id": "sonder-02",
+      "youtube_id": "Bjf4F_rBvig",
+      "title": "Sonder",
+      "clue": "Gwansim eopseo nae ane gatin na",
+      "answer": "Their emotions, gakjaui life",
+      "options": [
+        "Their emotions, gakjaui life",
+        "I'm thinking in a selfish way",
+        "私たち 崖っぷちでアクセルを踏もう",
+        "Cheers, oh"
+      ]
+    },
+    {
+      "id": "iconic-by-mistake-02",
+      "youtube_id": "27C4pfRsf9g",
+      "title": "ICONIC BY MISTAKE",
+      "clue": "Breakfast to dinner",
+      "answer": "Algorithm bulletproof",
+      "options": [
+        "Put the fear to bed pajama",
+        "Duryeoum sok seororeul balgyeonhaetji",
+        "Algorithm bulletproof",
+        "Ireum moreul byeol anin jeomadaui ujuyeotji"
+      ]
+    },
+    {
+      "id": "pureflow-03",
+      "youtube_id": "L8z453XB6Iw",
+      "title": "Pureflow",
+      "clue": "남까지 힘들게 하자는거야?",
+      "answer": "구원은 셀프로 하시고",
+      "options": [
+        "結局私たちって同じなんだから",
+        "구원은 셀프로 하시고",
+        "Nae yeopjari",
+        "ありがとう"
+      ]
+    },
+    {
+      "id": "boompala-03",
+      "youtube_id": "Gy32XOFT2ww",
+      "title": "BOOMPALA",
+      "clue": "Dale a tu cuerpo alegría, Macarena",
+      "answer": "Eh, Macarena (¡Ayy!)",
+      "options": [
+        "Bang, bang, bang, bang",
+        "Mangseoriji malgo dive",
+        "Nobody understands, I know",
+        "Eh, Macarena (¡Ayy!)"
+      ]
+    },
+    {
+      "id": "celebration-03",
+      "youtube_id": "SYBxFed9lbU",
+      "title": "CELEBRATION",
+      "clue": "Cheers, oh",
+      "answer": "Hey, apeun sigan sogeseo pieonan",
+      "options": [
+        "We go left, right, up, down, michin deusi nalttwieo",
+        "Nothing's forever so nothing's to fear (Dale a tu cuerpo alegría, Macarena; Uh)",
+        "Hey, apeun sigan sogeseo pieonan",
+        "Your digital footprint is looking so insane"
+      ]
+    },
+    {
+      "id": "creatures-03",
+      "youtube_id": "Z9hoSCbKTmw",
+      "title": "Creatures",
+      "clue": "Shut up and step back",
+      "answer": "Anim, I'll snap your head back",
+      "options": [
+        "I need your company",
+        "Hurt each other but stitching up the pieces",
+        "No strings, I'm not tied (Tied)",
+        "Anim, I'll snap your head back"
+      ]
+    },
+    {
+      "id": "iffy-iffy-03",
+      "youtube_id": "nMx-tMPidK4",
+      "title": "iffy iffy",
+      "clue": "Wanna bless my way, jeongdap ttawin eopji",
+      "answer": "Dasi sijakaedo dwae like new birthday (Ah)",
+      "options": [
+        "Dasi sijakaedo dwae like new birthday (Ah)",
+        "Jamaereul wihayeo",
+        "Nae yeopjari",
+        "I keep on cheesing, cheesing"
+      ]
+    },
+    {
+      "id": "need-your-company-03",
+      "youtube_id": "zxlII8FwIC0",
+      "title": "Need Your Company",
+      "clue": "I'm thinking in a selfish way",
+      "answer": "But at my lows, I just can't help it",
+      "options": [
+        "Jinachin gidaejiman arajugil",
+        "Eh, Macarena (¡Ayy!)",
+        "Uh, boompala, boompala, boompala, yeah (Uh)",
+        "But at my lows, I just can't help it"
+      ]
+    },
+    {
+      "id": "sonder-03",
+      "youtube_id": "Bjf4F_rBvig",
+      "title": "Sonder",
+      "clue": "Their emotions, gakjaui life",
+      "answer": "Geu anui sesang now I realize",
+      "options": [
+        "Why you laugh? How you fight? (Why you laugh? How you fight?)",
+        "Uh, boompala, boompala, boompala, ayy (Uh)",
+        "Geu anui sesang now I realize",
+        "Cheers, oh"
+      ]
+    },
+    {
+      "id": "iconic-by-mistake-03",
+      "youtube_id": "27C4pfRsf9g",
+      "title": "ICONIC BY MISTAKE",
+      "clue": "Algorithm bulletproof",
+      "answer": "Br-breaking your fingers",
+      "options": [
+        "Head bang",
+        "Honestly, are you okay?",
+        "Br-breaking your fingers",
+        "But now I am iconic from how much you fuckin’ hate me"
+      ]
+    },
+    {
+      "id": "pureflow-04",
+      "youtube_id": "L8z453XB6Iw",
+      "title": "Pureflow",
+      "clue": "구원은 셀프로 하시고",
+      "answer": "卑屈になってないで、笑いなよ",
+      "options": [
+        "We just wanna rock and roll",
+        "Cheers, oh",
+        "卑屈になってないで、笑いなよ",
+        "(Iffy, iffy)"
+      ]
+    },
+    {
+      "id": "boompala-04",
+      "youtube_id": "Gy32XOFT2ww",
+      "title": "BOOMPALA",
+      "clue": "Eh, Macarena (¡Ayy!)",
+      "answer": "(Uh)",
+      "options": [
+        "Na-na-na-na-na",
+        "Hey, muneojiji aneun maeume raise your",
+        "Geu anui sesang now I realize",
+        "(Uh)"
+      ]
+    },
+    {
+      "id": "celebration-04",
+      "youtube_id": "SYBxFed9lbU",
+      "title": "CELEBRATION",
+      "clue": "Hey, apeun sigan sogeseo pieonan",
+      "answer": "Faith, oh",
+      "options": [
+        "Faith, oh",
+        "ありがとう",
+        "She's only an illusion, don't feed her (What?)",
+        "On my chest, on my heart, I'm drumming (Yeah)"
+      ]
+    },
+    {
+      "id": "creatures-04",
+      "youtube_id": "Z9hoSCbKTmw",
+      "title": "Creatures",
+      "clue": "Anim, I'll snap your head back",
+      "answer": "I-I-I, me and my girls, we look so alike",
+      "options": [
+        "구원은 셀프로 하시고",
+        "Engrave it",
+        "I-I-I, me and my girls, we look so alike",
+        "Geochimi eopji, creatures, creatures"
+      ]
+    },
+    {
+      "id": "iffy-iffy-04",
+      "youtube_id": "nMx-tMPidK4",
+      "title": "iffy iffy",
+      "clue": "Dasi sijakaedo dwae like new birthday (Ah)",
+      "answer": "No fears, sweet lies",
+      "options": [
+        "힘들면 혼자 힘들지",
+        "Baby, say goodbye if you see her",
+        "No fears, sweet lies",
+        "I wanna make your head bang, bang"
+      ]
+    },
+    {
+      "id": "need-your-company-04",
+      "youtube_id": "zxlII8FwIC0",
+      "title": "Need Your Company",
+      "clue": "But at my lows, I just can't help it",
+      "answer": "No one really knows me",
+      "options": [
+        "No one really knows me",
+        "Neodo malhaedo dwae you hurt me",
+        "Boompala (Uh)",
+        "Oh, my God, hahahaha"
+      ]
+    },
+    {
+      "id": "sonder-04",
+      "youtube_id": "Bjf4F_rBvig",
+      "title": "Sonder",
+      "clue": "Geu anui sesang now I realize",
+      "answer": "Datyeoitdeon muni yeollideusi",
+      "options": [
+        "Datyeoitdeon muni yeollideusi",
+        "Nae ruleeun uriman jeonghalgeoya",
+        "Party like Madonna",
+        "Animyeon we go break it"
+      ]
+    },
+    {
+      "id": "iconic-by-mistake-04",
+      "youtube_id": "27C4pfRsf9g",
+      "title": "ICONIC BY MISTAKE",
+      "clue": "Br-breaking your fingers",
+      "answer": "Thank you for the comments",
+      "options": [
+        "아, 망했다",
+        "そんなくせして",
+        "Thank you for the comments",
+        "नमस्ते, नमस्ते, I'ma stay up (Eh, Macarena)"
+      ]
+    },
+    {
+      "id": "pureflow-05",
+      "youtube_id": "L8z453XB6Iw",
+      "title": "Pureflow",
+      "clue": "卑屈になってないで、笑いなよ",
+      "answer": "泣きたいなら一人でこもって泣いて",
+      "options": [
+        "Sing along igeon 'FEARLESS 2.0', woah, woah, oh",
+        "I'm thinking in a selfish way",
+        "泣きたいなら一人でこもって泣いて",
+        "(Uh)"
+      ]
+    },
+    {
+      "id": "boompala-05",
+      "youtube_id": "Gy32XOFT2ww",
+      "title": "BOOMPALA",
+      "clue": "(Uh)",
+      "answer": "SSERAFIM, baby (Uh)",
+      "options": [
+        "Go with the fears I've been facin' (Ooh, ooh)",
+        "SSERAFIM, baby (Uh)",
+        "Saving the shame for mañana",
+        "Gateun baereul hamkke tage doen my friends"
+      ]
+    },
+    {
+      "id": "celebration-05",
+      "youtube_id": "SYBxFed9lbU",
+      "title": "CELEBRATION",
+      "clue": "Faith, oh",
+      "answer": "Turn up to cele-, turn up to celebrate",
+      "options": [
+        "Permanent is something that I'm letting go (Uh)",
+        "Honestly, are you okay?",
+        "私たち 崖っぷちでアクセルを踏もう",
+        "Turn up to cele-, turn up to celebrate"
+      ]
+    },
+    {
+      "id": "creatures-05",
+      "youtube_id": "Z9hoSCbKTmw",
+      "title": "Creatures",
+      "clue": "I-I-I, me and my girls, we look so alike",
+      "answer": "Nae ruleeun uriman jeonghalgeoya",
+      "options": [
+        "Nae ruleeun uriman jeonghalgeoya",
+        "I-I-I-I-I-I, I-I-I-I-I-I (I)",
+        "Jamaereul wihayeo",
+        "But at my lows, I just can't help it"
+      ]
+    },
+    {
+      "id": "iffy-iffy-05",
+      "youtube_id": "nMx-tMPidK4",
+      "title": "iffy iffy",
+      "clue": "No fears, sweet lies",
+      "answer": "Ijen nal sogiji ana",
+      "options": [
+        "Eh, Macarena (¡Ayy!)",
+        "Honjaga anya, creatures, creatures",
+        "Heart it harder",
+        "Ijen nal sogiji ana"
+      ]
+    },
+    {
+      "id": "need-your-company-05",
+      "youtube_id": "zxlII8FwIC0",
+      "title": "Need Your Company",
+      "clue": "No one really knows me",
+      "answer": "Gakkeumeun najochado",
+      "options": [
+        "Gakkeumeun najochado",
+        "ありがとう",
+        "Trying to find the light where the fear were",
+        "We gotta run again, oh"
+      ]
+    },
+    {
+      "id": "sonder-05",
+      "youtube_id": "Bjf4F_rBvig",
+      "title": "Sonder",
+      "clue": "Datyeoitdeon muni yeollideusi",
+      "answer": "Now I could see",
+      "options": [
+        "Now I could see",
+        "Jidoki nal goeropideon",
+        "Nan wonhae play my own game",
+        "Uh, boompala, boompala, boompala, yeah (Dale a tu cuerpo alegría, Macarena; Uh)"
+      ]
+    },
+    {
+      "id": "iconic-by-mistake-05",
+      "youtube_id": "27C4pfRsf9g",
+      "title": "ICONIC BY MISTAKE",
+      "clue": "Thank you for the comments",
+      "answer": "It’s because of all your hate",
+      "options": [
+        "Oh, my God, hahahaha",
+        "It’s because of all your hate",
+        "Feeling like a wave in the undertow (Uh)",
+        "Ijen nal sogiji ana"
+      ]
+    },
+    {
+      "id": "pureflow-06",
+      "youtube_id": "L8z453XB6Iw",
+      "title": "Pureflow",
+      "clue": "泣きたいなら一人でこもって泣いて",
+      "answer": "何を澄ました顔してるの?",
+      "options": [
+        "何を澄ました顔してるの?",
+        "Nae heumgyeol sogeuro dive",
+        "Turn up to celebrate, turn up to celebrate",
+        "Wo-wo-wonder"
+      ]
+    },
+    {
+      "id": "boompala-06",
+      "youtube_id": "Gy32XOFT2ww",
+      "title": "BOOMPALA",
+      "clue": "SSERAFIM, baby (Uh)",
+      "answer": "(Uh)",
+      "options": [
+        "Too beautiful to be broken",
+        "No fears, sweet lies",
+        "(Uh)",
+        "Neogateun goemul tto eopseulgeorae"
+      ]
+    },
+    {
+      "id": "celebration-06",
+      "youtube_id": "SYBxFed9lbU",
+      "title": "CELEBRATION",
+      "clue": "Turn up to cele-, turn up to celebrate",
+      "answer": "Time to cele-, time to celebrate",
+      "options": [
+        "If achoo, bless me, bless me, neowa hamkkeramyeon",
+        "So I choose iffy, iffy, geuge naya",
+        "Time to cele-, time to celebrate",
+        "Nae ujul binnage hae myeotcheon baero"
+      ]
+    },
+    {
+      "id": "creatures-06",
+      "youtube_id": "Z9hoSCbKTmw",
+      "title": "Creatures",
+      "clue": "Nae ruleeun uriman jeonghalgeoya",
+      "answer": "Shut up and step back",
+      "options": [
+        "Now I could see (I could see)",
+        "Shut up and step back",
+        "Jinachin gidaejiman arajugil",
+        "Algorithm bulletproof"
+      ]
+    },
+    {
+      "id": "iffy-iffy-06",
+      "youtube_id": "nMx-tMPidK4",
+      "title": "iffy iffy",
+      "clue": "Ijen nal sogiji ana",
+      "answer": "No tears are left to cry",
+      "options": [
+        "Jidoki nal goeropideon",
+        "No tears are left to cry",
+        "Zen out meditate on the daily",
+        "Hating me is like all you do"
+      ]
+    },
+    {
+      "id": "need-your-company-06",
+      "youtube_id": "zxlII8FwIC0",
+      "title": "Need Your Company",
+      "clue": "Gakkeumeun najochado",
+      "answer": "Jinachin gidaejiman arajugil",
+      "options": [
+        "Jinachin gidaejiman arajugil",
+        "You and me both, we're all weak inside",
+        "Heeomchideut onmomeuro neukkyeo modeun iyagineun",
+        "Bring it back now"
+      ]
+    },
+    {
+      "id": "sonder-06",
+      "youtube_id": "Bjf4F_rBvig",
+      "title": "Sonder",
+      "clue": "Now I could see",
+      "answer": "Neoran ujuneun eotteon uimiinji",
+      "options": [
+        "Uh, boompala, boompala, boompala, ayy (Eh, Macarena, ayy; Uh)",
+        "Neoran ujuneun eotteon uimiinji",
+        "Only betting on myself, I run it (Uh)",
+        "I really wanna trust you (No one really knows me)"
+      ]
+    },
+    {
+      "id": "iconic-by-mistake-06",
+      "youtube_id": "27C4pfRsf9g",
+      "title": "ICONIC BY MISTAKE",
+      "clue": "It’s because of all your hate",
+      "answer": "I-I-I-I-I am iconic by mistake",
+      "options": [
+        "I-I-I-I-I am iconic by mistake",
+        "What seems like rock bottom is actually our way out",
+        "I-I-I-I-I-I, I-I-I-I-I-I (I)",
+        "Hey, muneojiji aneun maeume raise your"
+      ]
+    },
+    {
+      "id": "pureflow-07",
+      "youtube_id": "L8z453XB6Iw",
+      "title": "Pureflow",
+      "clue": "何を澄ました顔してるの?",
+      "answer": "You and me both, we're all weak inside",
+      "options": [
+        "Jamaereul wihayeo",
+        "Nan wonhae play my own game",
+        "You and me both, we're all weak inside",
+        "Feeling like a wave in the undertow (Uh)"
+      ]
+    },
+    {
+      "id": "boompala-07",
+      "youtube_id": "Gy32XOFT2ww",
+      "title": "BOOMPALA",
+      "clue": "(Uh)",
+      "answer": "Boompala (Uh)",
+      "options": [
+        "Too beautiful to be broken",
+        "Honjaga anya, creatures, creatures",
+        "Boompala (Uh)",
+        "Eotteokae neo eopsi"
+      ]
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "Bella",
+      "score": 2450,
+      "country": "United States"
+    },
+    {
+      "name": "Junho",
+      "score": 2100,
+      "country": "South Korea"
+    },
+    {
+      "name": "Aiko",
+      "score": 1860,
+      "country": "Japan"
+    },
+    {
+      "name": "Ethan",
+      "score": 1510,
+      "country": "Canada"
+    },
+    {
+      "name": "Maya",
+      "score": 1260,
+      "country": "Thailand"
+    },
+    {
+      "name": "Priya",
+      "score": 960,
+      "country": "India"
+    },
+    {
+      "name": "Tomas",
+      "score": 800,
+      "country": "Argentina"
+    },
+    {
+      "name": "Nadia",
+      "score": 650,
+      "country": "Indonesia"
+    }
+  ],
+  "event_list": [
+    {
+      "id": "ev-photocard-set-2026",
+      "title": "LE SSERAFIM Photocard Set Race: Best Score Wins",
+      "description": "Collect your best score from September to December 2026! The highest best score during the event period will be the winner and take home the LE SSERAFIM Photocard Set.",
+      "image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
+      "prize": "Photocard Set LE SSERAFIM",
+      "prize_image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
+      "start_date": "2026-09-01",
+      "end_date": "2026-12-31",
+      "rules": [
+        "The highest best score during the event period will be the winner",
+        "Unlimited runs during the event period September 1 - December 31, 2026",
+        "Min score 500 to qualify",
+        "One winner per device"
+      ],
+      "min_score": 500
+    }
+  ]
+}

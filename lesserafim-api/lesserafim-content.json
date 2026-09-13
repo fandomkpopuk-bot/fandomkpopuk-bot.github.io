@@ -1,0 +1,152 @@
+{
+  "band_detail": {
+    "logoLine1": "LE",
+    "logoLine2": "SSERAFIM",
+    "agencyLabel": "SOURCE MUSIC X HYBE",
+    "verifiedText": "Verified Artist",
+    "name": "LE SSERAFIM (르세라핌)",
+    "tagline": "ANTIFRAGILE • Global Pop Icons",
+    "bio": "Formed by Source Music and HYBE in 2022. 5-member girl group with fearless anthems and record-breaking releases, uniting the FEARNOT fandom from Seoul to the world and beyond.",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "May 2, 2022"
+      },
+      {
+        "label": "Fandom:",
+        "value": "FEARNOT",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "SOURCE MUSIC X HYBE"
+      },
+      {
+        "label": "",
+        "value": "Easy Crazy Hot Tour",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (5)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Kim Chaewon",
+        "initials": "KC",
+        "role": "Leader • Vocal",
+        "unit": "VOCAL LINE",
+        "featured": true,
+        "tags": "chaewon",
+        "birthDate": "Aug 1, 2000",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Singing",
+          "Dancing",
+          "Watching Movies"
+        ],
+        "image": "https://i.ytimg.com/vi/pyf8cbqyfPs/maxresdefault.jpg"
+      },
+      {
+        "name": "Sakura",
+        "initials": "SK",
+        "role": "Vocal • Visual",
+        "unit": "VOCAL LINE",
+        "tags": "sakura",
+        "birthDate": "Mar 19, 1998",
+        "birthPlace": "Kagoshima, Japan",
+        "nationality": "Japanese",
+        "hobbies": [
+          "Reading",
+          "Photography",
+          "Gaming"
+        ],
+        "image": "https://i.ytimg.com/vi/4vbDFu0PUew/maxresdefault.jpg"
+      },
+      {
+        "name": "Huh Yunjin",
+        "initials": "YJ",
+        "role": "Main Vocal",
+        "unit": "VOCAL LINE",
+        "tags": "yunjin",
+        "birthDate": "Oct 8, 2001",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "Korean-American",
+        "hobbies": [
+          "Singing",
+          "Songwriting",
+          "Painting"
+        ],
+        "image": "https://i.ytimg.com/vi/UBURTj20HXI/maxresdefault.jpg"
+      },
+      {
+        "name": "Kazuha",
+        "initials": "KZ",
+        "role": "Main Dancer • Vocal",
+        "unit": "DANCE LINE",
+        "tags": "kazuha",
+        "birthDate": "Aug 9, 2003",
+        "birthPlace": "Kochi, Japan",
+        "nationality": "Japanese",
+        "hobbies": [
+          "Ballet",
+          "Dancing",
+          "Cooking"
+        ],
+        "image": "https://i.ytimg.com/vi/bNKXxwOQYB8/maxresdefault.jpg"
+      },
+      {
+        "name": "Hong Eunchae",
+        "initials": "EC",
+        "role": "Maknae • Dance",
+        "unit": "DANCE LINE",
+        "tags": "eunchae",
+        "birthDate": "Nov 10, 2006",
+        "birthPlace": "Miryang, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Dancing",
+          "Singing",
+          "Drawing"
+        ],
+        "image": "https://i.ytimg.com/vi/hLvWy2b857I/maxresdefault.jpg"
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "lesserafim-made-my-night",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Sep 11, 2026",
+      "monthLabel": "SEP 2026",
+      "source": "SOURCE MUSIC / LE SSERAFIM Official",
+      "title": "LE SSERAFIM Drop New Single 'Made My Night'!",
+      "excerpt": "Fresh release with SPAGHETTI and Hot era continues. Concept films and tour dates inside.",
+      "quote": "FEARNOT — our fearless era continues!",
+      "image": "https://i.ytimg.com/vi/Y1Lah0BM0KQ/maxresdefault.jpg",
+      "body": [
+        "LE SSERAFIM have officially released their new single 'Made My Night' across official channels this week.",
+        "SOURCE MUSIC confirms the track was recorded together by all five members, with a music video filmed across Seoul and Los Angeles.",
+        "The single arrives ahead of the Easy Crazy Hot tour extension, where FEARNOT will hear the new song live for the first time.",
+        "Pre-save links and exclusive merch drops are open now on all major streaming platforms."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 3,
+    "maxDownloadCount": 2,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 3,
+    "freeAdsSessionVideosRequired": 3,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": false,
+    "isMembersEnabled": true,
+    "adBannerInterval": 10,
+    "isMinigameEnabled": true
+  }
+}
