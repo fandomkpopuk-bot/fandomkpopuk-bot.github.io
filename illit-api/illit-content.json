@@ -134,7 +134,7 @@
     }
   ],
   "config": {
-    "isAdsEnabled": true,
+    "isAdsEnabled": false,
     "maxPlayCount": 3,
     "maxDownloadCount": 2,
     "extraDownloadSlotPerAd": 1,
