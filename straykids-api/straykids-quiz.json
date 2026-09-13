@@ -1,0 +1,584 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "run-it-01",
+      "youtube_id": "VMoFfQIQEqs",
+      "title": "RUN IT",
+      "clue": "Ain't no limit, never running out",
+      "answer": "Everywhere we go, another win, another day",
+      "options": [
+        "Everywhere we go, another win, another day",
+        "Yeah, we shining with the lights out",
+        "Run it everywhere all around the world",
+        "Woah"
+      ]
+    },
+    {
+      "id": "run-it-02",
+      "youtube_id": "VMoFfQIQEqs",
+      "title": "RUN IT",
+      "clue": "Yeah, we shining with the lights out",
+      "answer": "Even in the dark, we find a way to make a way",
+      "options": [
+        "Even in the dark, we find a way to make a way",
+        "Ain't no limit, never running out",
+        "It's another day, coming on the way",
+        "Run it day and night"
+      ]
+    },
+    {
+      "id": "run-it-03",
+      "youtube_id": "VMoFfQIQEqs",
+      "title": "RUN IT",
+      "clue": "All my life, I've been fighting this and fighting that",
+      "answer": "Siryeon sogeseodo gyesok",
+      "options": [
+        "Siryeon sogeseodo gyesok",
+        "Oh, this time I ain't looking back, I won't collapse",
+        "Head high right now we go, oh, oh, oh",
+        "Woah"
+      ]
+    },
+    {
+      "id": "this-and-that-01",
+      "youtube_id": "wkr1JO1Q5FE",
+      "title": "This & That",
+      "clue": "Everything I do, multiply it by two",
+      "answer": "I got this and that, this and that",
+      "options": [
+        "I got this and that, this and that",
+        "We could take a coupe or a truck, vroom, vroom",
+        "Cappuccino and americano",
+        "I'ma rip a show and then hit the studio"
+      ]
+    },
+    {
+      "id": "this-and-that-02",
+      "youtube_id": "wkr1JO1Q5FE",
+      "title": "This & That",
+      "clue": "Cappuccino and americano",
+      "answer": "I'll take this and that, this and that",
+      "options": [
+        "I'll take this and that, this and that",
+        "Everything I do, multiply it by two",
+        "I'ma rip a show and then hit the studio",
+        "We can go fast, we can go slow"
+      ]
+    },
+    {
+      "id": "this-and-that-03",
+      "youtube_id": "wkr1JO1Q5FE",
+      "title": "This & That",
+      "clue": "We can go fast, we can go slow",
+      "answer": "If you can't choose, you can have both",
+      "options": [
+        "If you can't choose, you can have both",
+        "Can't stop us now (Go)",
+        "Talking this and that",
+        "Groovyhage georeo look at me"
+      ]
+    },
+    {
+      "id": "after-you-01",
+      "youtube_id": "p6_yFS1I43Q",
+      "title": "After You",
+      "clue": "I had to catch my breath, saw you walking past",
+      "answer": "Didn't know someone could turn my world around like that",
+      "options": [
+        "Didn't know someone could turn my world around like that",
+        "You took a piece of me, it all happened so fast",
+        "Meomchul su eopseo",
+        "But I'm up all night, and I don't know what to do"
+      ]
+    },
+    {
+      "id": "after-you-02",
+      "youtube_id": "p6_yFS1I43Q",
+      "title": "After You",
+      "clue": "But I'm up all night, and I don't know what to do",
+      "answer": "How can I breathe the same after you?",
+      "options": [
+        "How can I breathe the same after you?",
+        "Oh, I'll swim through ocean eyes tryna get to you",
+        "I'll never be the same after you",
+        "And I can't survive"
+      ]
+    },
+    {
+      "id": "after-you-03",
+      "youtube_id": "p6_yFS1I43Q",
+      "title": "After You",
+      "clue": "Before you, I was lost inside the dark",
+      "answer": "Nowhere to move",
+      "options": [
+        "Nowhere to move",
+        "Maeil gateun scene gateun ilsang soge",
+        "I had no clue",
+        "After you, I'm addicted to"
+      ]
+    },
+    {
+      "id": "farming-01",
+      "youtube_id": "HCvIZzVdeq8",
+      "title": "FARMING",
+      "clue": "Yeah, we farmin' every day, no sleep",
+      "answer": "Career on the rise ssayeo XP",
+      "options": [
+        "Career on the rise ssayeo XP",
+        "From the dirt to the light, yeah, it's lit",
+        "Piwa ttami mandeureo naen suhwak, ain't cheap",
+        "We got one more nodongyo"
+      ]
+    },
+    {
+      "id": "farming-02",
+      "youtube_id": "HCvIZzVdeq8",
+      "title": "FARMING",
+      "clue": "All day, every night until we're satisfied",
+      "answer": "We're farming",
+      "options": [
+        "We're farming",
+        "Farming",
+        "Good night, I'm rollin', rollin' (Farming, farming)",
+        "24/7 we farmin'"
+      ]
+    },
+    {
+      "id": "farming-03",
+      "youtube_id": "HCvIZzVdeq8",
+      "title": "FARMING",
+      "clue": "Pick it up, pick it up, mine",
+      "answer": "Dig it up, dig it up, mine",
+      "options": [
+        "Dig it up, dig it up, mine",
+        "Pick it, dig it, mine",
+        "Farming, farming",
+        "If you want it then you go (Farming)"
+      ]
+    },
+    {
+      "id": "just-a-little-01",
+      "youtube_id": "UyNdcMLbxTs",
+      "title": "Just a Little",
+      "clue": "Jamkkanman, sukoshidake soba ni ite",
+      "answer": "Tada jamkkanman, issho ni ite ato one more day",
+      "options": [
+        "Tada jamkkanman, issho ni ite ato one more day",
+        "Dake hoshī nda sore de ī nda ashita wa mata kurukara",
+        "Mō saigo no onegaida yo ikanaide",
+        "Ooh-ooh-ooh"
+      ]
+    },
+    {
+      "id": "just-a-little-02",
+      "youtube_id": "UyNdcMLbxTs",
+      "title": "Just a Little",
+      "clue": "Zutto nokotteru kimi no kaori ga",
+      "answer": "Dandan tōku natte ku kiminokoe ga",
+      "options": [
+        "Dandan tōku natte ku kiminokoe ga",
+        "Kangaeru dake okubyō ni naru",
+        "Hikitomete futan ni naranai ka to",
+        "Murina negai to shitte inagara kimi ni"
+      ]
+    },
+    {
+      "id": "back-to-life-01",
+      "youtube_id": "F0UIsSnotlA",
+      "title": "back to life",
+      "clue": "They say, \"Give it up,\" tell 'em, \"Not enough\"",
+      "answer": "Count my losses the whole night",
+      "options": [
+        "Count my losses the whole night",
+        "Yeah, you know I don't care how many times I fall",
+        "'Cause I'll come back to life",
+        "I'm aiming high to feel alive"
+      ]
+    },
+    {
+      "id": "back-to-life-02",
+      "youtube_id": "F0UIsSnotlA",
+      "title": "back to life",
+      "clue": "I'm aiming high to feel alive",
+      "answer": "Nothing's gonna drag me down",
+      "options": [
+        "Nothing's gonna drag me down",
+        "Every scar is proof I tried",
+        "You'll never see me caught off guard",
+        "I keep my head up high"
+      ]
+    },
+    {
+      "id": "lover-01",
+      "youtube_id": "l8sSQAa1kNM",
+      "title": "LOVER",
+      "clue": "Lover, lover, lover is hurt 'cause she went away",
+      "answer": "Loved her, loved her, loved her so much until that rainy day",
+      "options": [
+        "Loved her, loved her, loved her so much until that rainy day",
+        "Lover, lover, lover dies 'cause there's no way",
+        "Lover, lover, love is gone, no matter what I say",
+        "Yeah, yeah, yeah, yeah"
+      ]
+    },
+    {
+      "id": "lover-02",
+      "youtube_id": "l8sSQAa1kNM",
+      "title": "LOVER",
+      "clue": "I'm running in the rain, yeah",
+      "answer": "Manggajin nae mam ssitgyeo naerigil",
+      "options": [
+        "Manggajin nae mam ssitgyeo naerigil",
+        "Han ttae saranghagin haetdeon geoji? Right, right?",
+        "Oh, maenjeongsineun beokcha",
+        "I don't want to drink no more, no more, no more"
+      ]
+    },
+    {
+      "id": "byeol-bit-stay-01",
+      "youtube_id": "swuhhziz3dM",
+      "title": "별, 빛 (STAY)",
+      "clue": "Eodiro hyanghaljineun mollado",
+      "answer": "Uri gateun goseul bondamyeon",
+      "options": [
+        "Uri gateun goseul bondamyeon",
+        "Eodiseonga byeolbitcheoreom binna",
+        "Naeireul kkumkkuji aneulkka?",
+        "Eodumi dwideopin byeori doenda haedo"
+      ]
+    },
+    {
+      "id": "byeol-bit-stay-02",
+      "youtube_id": "swuhhziz3dM",
+      "title": "별, 빛 (STAY)",
+      "clue": "(Hey, hey, hey, hey)",
+      "answer": "Waenji honjain geot gateun naren",
+      "options": [
+        "Waenji honjain geot gateun naren",
+        "Nege naemin nae soneul jaba jwo",
+        "Eunhasue geollyeo inneun sumaneun byeol",
+        "Urido eonjenga gateun gwedoreul geurindamyeon"
+      ]
+    },
+    {
+      "id": "endless-sun-01",
+      "youtube_id": "F-QSLxAyFes",
+      "title": "Endless Sun",
+      "clue": "You were born to shine",
+      "answer": "The endless sun will stay by your side (Stay by your side)",
+      "options": [
+        "The endless sun will stay by your side (Stay by your side)",
+        "Step into the light",
+        "The sunlight is your spotlight",
+        "It's beautiful"
+      ]
+    },
+    {
+      "id": "endless-sun-02",
+      "youtube_id": "F-QSLxAyFes",
+      "title": "Endless Sun",
+      "clue": "Dream on and on, under the sun",
+      "answer": "We make our dreams become reality",
+      "options": [
+        "We make our dreams become reality",
+        "Yeah, our dreams will last for all eternity",
+        "Reach out, feel the cool breeze",
+        "I'm chasing my new dreams"
+      ]
+    },
+    {
+      "id": "roman-empire-01",
+      "youtube_id": "wPD4AxkqJkE",
+      "title": "Roman Empire",
+      "clue": "Hundred years ain't enough when I'm here with you",
+      "answer": "You appeared out of nowhere like peek-a-boo",
+      "options": [
+        "You appeared out of nowhere like peek-a-boo",
+        "Got me feeling so shocked when I peek at you",
+        "My Roman Empire, you're my Roman Empire",
+        "Girl, you're looking so fine"
+      ]
+    },
+    {
+      "id": "roman-empire-02",
+      "youtube_id": "wPD4AxkqJkE",
+      "title": "Roman Empire",
+      "clue": "Girl, you're looking so fine",
+      "answer": "I got that matte black pure-bred stallion, let me take you for a ride in Roma",
+      "options": [
+        "I got that matte black pure-bred stallion, let me take you for a ride in Roma",
+        "Yeah, you're one of a kind (Oh, my)",
+        "My Roman Empire, you're my Roman Empire",
+        "Just let that body move"
+      ]
+    },
+    {
+      "id": "do-it-01",
+      "youtube_id": "NED7nev2ywQ",
+      "title": "Do It",
+      "clue": "Do it, do it, do it, do it",
+      "answer": "(Oh, na, na, na, na, na)",
+      "options": [
+        "(Oh, na, na, na, na, na)",
+        "Just do whatever you wanna do",
+        "I guarantee that it's the best for you",
+        "Just do it, do it, do it, do it"
+      ]
+    },
+    {
+      "id": "do-it-02",
+      "youtube_id": "NED7nev2ywQ",
+      "title": "Do It",
+      "clue": "Just do whatever you wanna do",
+      "answer": "I guarantee that it's the best for you",
+      "options": [
+        "I guarantee that it's the best for you",
+        "Do it, do it, do it, do it",
+        "(Oh, na, na, na, na, na)",
+        "Just do it, do it, do it, do it"
+      ]
+    },
+    {
+      "id": "do-it-03",
+      "youtube_id": "NED7nev2ywQ",
+      "title": "Do It",
+      "clue": "Meomchuneun geon foolish, yeah",
+      "answer": "Haneun ge deo yeongnihae",
+      "options": [
+        "Haneun ge deo yeongnihae",
+        "Budichimyeo eodeonae hint",
+        "Eochapi hal geo bulpyeong, shut it",
+        "Eochapi hal geomyeon jasin itge"
+      ]
+    },
+    {
+      "id": "do-it-04",
+      "youtube_id": "NED7nev2ywQ",
+      "title": "Do It",
+      "clue": "Geunyang hae nundongja gullil timee (Time, time)",
+      "answer": "Go get it, mireobutyeo nadaume (Ooh)",
+      "options": [
+        "Go get it, mireobutyeo nadaume (Ooh)",
+        "Silpae gwajeongui dareun ireum, flawless",
+        "Hago sipeun daero haedo paebaen eomneun ssaum, yeah (Ayo)",
+        "Let's make it fire, guji na tranquilo"
+      ]
+    },
+    {
+      "id": "divine-01",
+      "youtube_id": "E8i32NXMxnc",
+      "title": "신선놀음 (DIVINE)",
+      "clue": "Nolmyeo mandeun masterpiece",
+      "answer": "If you want more, follow me",
+      "options": [
+        "If you want more, follow me",
+        "Doreul dakka inner peace",
+        "Reviving, vibing, reboot the world",
+        "This, that, new pop"
+      ]
+    },
+    {
+      "id": "divine-02",
+      "youtube_id": "E8i32NXMxnc",
+      "title": "신선놀음 (DIVINE)",
+      "clue": "Deong gideok kung deoreoreo",
+      "answer": "We make it right, we make it right",
+      "options": [
+        "We make it right, we make it right",
+        "This, that, new pop",
+        "Watch it go pop",
+        "Fall out from the real world"
+      ]
+    },
+    {
+      "id": "divine-03",
+      "youtube_id": "E8i32NXMxnc",
+      "title": "신선놀음 (DIVINE)",
+      "clue": "Ascending, I take off, touch the sun",
+      "answer": "Cleansing the world, but I ain't done",
+      "options": [
+        "Cleansing the world, but I ain't done",
+        "This is the way I have my fun, oh, hey",
+        "What, what, what, what should I do?",
+        "Oh, yeah, fresh air masyeo"
+      ]
+    },
+    {
+      "id": "divine-04",
+      "youtube_id": "E8i32NXMxnc",
+      "title": "신선놀음 (DIVINE)",
+      "clue": "Oh, yeah, fresh air masyeo",
+      "answer": "Oh, yeah, make a new culture",
+      "options": [
+        "Oh, yeah, make a new culture",
+        "Oh, yeah, yesullo jeoksyeo",
+        "Chwihae apdatwo ppittakan rideume matchwo",
+        "Nolmyeo mandeun masterpiece"
+      ]
+    },
+    {
+      "id": "chk-chk-boom-01",
+      "youtube_id": "0P0aQreFs8w",
+      "title": "Chk Chk Boom",
+      "clue": "Chk chk boom",
+      "answer": "Boom, boom, chk chk boom",
+      "options": [
+        "Boom, boom, chk chk boom",
+        "Siesta? Fiesta!",
+        "Ven pa'ca, ven pa'ca",
+        "Boom, boom, boom"
+      ]
+    },
+    {
+      "id": "lalalala-01",
+      "youtube_id": "dBDkYofMUs4",
+      "title": "LALALALA",
+      "clue": "Na-na-na-na-na-na-na",
+      "answer": "Lalalala",
+      "options": [
+        "Lalalala",
+        "Rock, rock, rock your body",
+        "Geokkuro, play that back",
+        "Feel the rhythm, follow me"
+      ]
+    },
+    {
+      "id": "s-class-01",
+      "youtube_id": "JsOOis4bBFg",
+      "title": "S-Class",
+      "clue": "She's so special",
+      "answer": "Teuk, teuk, S-Class",
+      "options": [
+        "Teuk, teuk, S-Class",
+        "One, eight, seven, let's go",
+        "Shine like a diamond among the stars",
+        "You're my superstar"
+      ]
+    },
+    {
+      "id": "case-143-01",
+      "youtube_id": "jYSlpC6Ud2A",
+      "title": "CASE 143",
+      "clue": "One, four, three",
+      "answer": "I love you",
+      "options": [
+        "I love you",
+        "Why do I keep getting attracted?",
+        "You got me losing my focus",
+        "Can I be your boyfriend?"
+      ]
+    },
+    {
+      "id": "thunderous-01",
+      "youtube_id": "EaswWiwMVs8",
+      "title": "Thunderous",
+      "clue": "Man, I'm not sorry, I'm dirty",
+      "answer": "Keep on talking, we don't play by the rules",
+      "options": [
+        "Keep on talking, we don't play by the rules",
+        "So reu reu reu, sorikkun",
+        "Thunderous",
+        "Jeongsin quantum leap"
+      ]
+    },
+    {
+      "id": "maniac-01",
+      "youtube_id": "OvioeS1ZZ7o",
+      "title": "MANIAC",
+      "clue": "You cannot stop with this feeling",
+      "answer": "Maniac",
+      "options": [
+        "Maniac",
+        "Like a maniac",
+        "Hail, hail the maniac",
+        "Spinnin' round like a maniac"
+      ]
+    },
+    {
+      "id": "gods-menu-01",
+      "youtube_id": "TQTlCHxyuu8",
+      "title": "God's Menu",
+      "clue": "Du, du, du, du, du",
+      "answer": "Cooking like a chef, I'm a five-star Michelin",
+      "options": [
+        "Cooking like a chef, I'm a five-star Michelin",
+        "Tang, tang, tang, tang",
+        "Stray Kids in the building",
+        "You want some? Get some"
+      ]
+    },
+    {
+      "id": "back-door-01",
+      "youtube_id": "X-uJtV8ScYk",
+      "title": "Back Door",
+      "clue": "Hey, do you wanna come in?",
+      "answer": "Knock, knock",
+      "options": [
+        "Knock, knock",
+        "Hey, let me in now",
+        "Back door, open sesame",
+        "Make a move"
+      ]
+    }
+  ],
+  "leaderboard": [
+    { "name": "Sofia", "score": 2450, "country": "Indonesia" },
+    { "name": "Minho", "score": 2100, "country": "South Korea" },
+    { "name": "Aiko", "score": 1875, "country": "Japan" },
+    { "name": "Liam", "score": 1500, "country": "United States" },
+    { "name": "Putri", "score": 1275, "country": "Indonesia" },
+    { "name": "Chen", "score": 950, "country": "China" },
+    { "name": "Maria", "score": 700, "country": "Philippines" },
+    { "name": "Alex", "score": 450, "country": "Germany" }
+  ],
+  "event_list": [
+    {
+      "id": "ev-comeback-race",
+      "title": "Comeback Race: Best Score Wins",
+      "description": "Push your highest single-run score during the comeback week. Top scorer takes home the merch!",
+      "image": "https://i.ytimg.com/vi/NED7nev2ywQ/maxresdefault.jpg",
+      "prize": "Signed Stray Kids Album + Photocard Set",
+      "prize_image": "https://i.ytimg.com/vi/VMoFfQIQEqs/maxresdefault.jpg",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-30",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "One winner per device"
+      ],
+      "min_score": 500
+    },
+    {
+      "id": "ev-october-lyric-fest",
+      "title": "October Lyric Fest",
+      "description": "Warm up your lyrics knowledge before the October stage!",
+      "image": "https://i.ytimg.com/vi/E8i32NXMxnc/maxresdefault.jpg",
+      "prize": "Official Stray Kids Lightstick",
+      "prize_image": "https://i.ytimg.com/vi/wkr1JO1Q5FE/maxresdefault.jpg",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-20",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "Winner announced in-app"
+      ],
+      "min_score": 1000
+    },
+    {
+      "id": "ev-debut-cup",
+      "title": "Debut Anniversary Cup",
+      "description": "Our first score race — thank you to everyone who joined!",
+      "image": "https://i.ytimg.com/vi/TQTlCHxyuu8/maxresdefault.jpg",
+      "prize": "Poster Set",
+      "prize_image": "https://i.ytimg.com/vi/EaswWiwMVs8/maxresdefault.jpg",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-15",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins"
+      ],
+      "min_score": 500
+    }
+  ]
+}
