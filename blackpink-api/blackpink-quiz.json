@@ -770,14 +770,46 @@
     }
   ],
   "leaderboard": [
-    { "name": "Sofia", "score": 2450, "country": "Indonesia" },
-    { "name": "Minho", "score": 2100, "country": "South Korea" },
-    { "name": "Aiko", "score": 1875, "country": "Japan" },
-    { "name": "Liam", "score": 1500, "country": "United States" },
-    { "name": "Putri", "score": 1275, "country": "Indonesia" },
-    { "name": "Chen", "score": 950, "country": "China" },
-    { "name": "Maria", "score": 700, "country": "Philippines" },
-    { "name": "Alex", "score": 450, "country": "Germany" }
+    {
+      "name": "Aisha",
+      "score": 2470,
+      "country": "Malaysia"
+    },
+    {
+      "name": "Taeyong",
+      "score": 2140,
+      "country": "South Korea"
+    },
+    {
+      "name": "Olivia",
+      "score": 1880,
+      "country": "United States"
+    },
+    {
+      "name": "Kenji",
+      "score": 1550,
+      "country": "Japan"
+    },
+    {
+      "name": "Dewi",
+      "score": 1300,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Marco",
+      "score": 990,
+      "country": "Italy"
+    },
+    {
+      "name": "Linh",
+      "score": 830,
+      "country": "Vietnam"
+    },
+    {
+      "name": "Grace",
+      "score": 680,
+      "country": "Philippines"
+    }
   ],
   "event_list": [
     {
@@ -803,8 +835,8 @@
       "image": "https://i.ytimg.com/vi/2S24-y0Ij3Y/maxresdefault.jpg",
       "prize": "Official BLACKPINK Lightstick",
       "prize_image": "https://i.ytimg.com/vi/ioNng23DkIM/maxresdefault.jpg",
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-20",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-20",
       "rules": [
         "Unlimited runs during the event period",
         "Highest single-run score wins",

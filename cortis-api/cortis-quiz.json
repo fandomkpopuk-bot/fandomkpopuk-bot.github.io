@@ -316,93 +316,47 @@
   ],
   "leaderboard": [
     {
-      "name": "Sofia",
-      "score": 2450,
+      "name": "Bima",
+      "score": 2460,
       "country": "Indonesia"
     },
     {
-      "name": "Minho",
-      "score": 2100,
-      "country": "South Korea"
-    },
-    {
-      "name": "Aiko",
-      "score": 1875,
+      "name": "Yuki",
+      "score": 2110,
       "country": "Japan"
     },
     {
-      "name": "Liam",
-      "score": 1500,
+      "name": "Sarah",
+      "score": 1870,
       "country": "United States"
     },
     {
-      "name": "Putri",
-      "score": 1275,
-      "country": "Indonesia"
+      "name": "Rafael",
+      "score": 1520,
+      "country": "Brazil"
     },
     {
-      "name": "Chen",
-      "score": 950,
-      "country": "China"
+      "name": "Dinda",
+      "score": 1270,
+      "country": "Malaysia"
     },
     {
-      "name": "Maria",
+      "name": "Kevin",
+      "score": 980,
+      "country": "Canada"
+    },
+    {
+      "name": "Jiwoo",
+      "score": 810,
+      "country": "South Korea"
+    },
+    {
+      "name": "Pablo",
       "score": 700,
-      "country": "Philippines"
-    },
-    {
-      "name": "Alex",
-      "score": 450,
-      "country": "Germany"
+      "country": "Mexico"
     }
   ],
   "event_list": [
-    {
-      "id": "ev-comeback-race",
-      "title": "CORTIS Comeback Race: Best Score Wins",
-      "description": "Push your highest single-run score during the CORTIS comeback week. Top scorer takes home the merch!",
-      "image": "https://i.ytimg.com/vi/h7ITAdTxdxM/maxresdefault.jpg",
-      "prize": "Signed CORTIS Album + Photocard Set",
-      "prize_image": "https://i.ytimg.com/vi/kRpaqR5sbf0/maxresdefault.jpg",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-30",
-      "rules": [
-        "Unlimited runs during the event period",
-        "Highest single-run score wins",
-        "One winner per device"
-      ],
-      "min_score": 500
-    },
-    {
-      "id": "ev-october-lyric-fest",
-      "title": "CORTIS October Lyric Fest",
-      "description": "Warm up your CORTIS lyrics knowledge before the October stage!",
-      "image": "https://i.ytimg.com/vi/Eg4-vCHc7eQ/maxresdefault.jpg",
-      "prize": "Official CORTIS Lightstick",
-      "prize_image": "https://i.ytimg.com/vi/ufdjbG7z5lQ/maxresdefault.jpg",
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-20",
-      "rules": [
-        "Unlimited runs during the event period",
-        "Highest single-run score wins",
-        "Winner announced in-app"
-      ],
-      "min_score": 1000
-    },
-    {
-      "id": "ev-debut-cup",
-      "title": "CORTIS Debut Anniversary Cup",
-      "description": "Our first score race — thank you to everyone who joined!",
-      "image": "https://i.ytimg.com/vi/3G0A03PFMg0/maxresdefault.jpg",
-      "prize": "Poster Set",
-      "prize_image": "https://i.ytimg.com/vi/tCSBgOIA63M/maxresdefault.jpg",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-15",
-      "rules": [
-        "Unlimited runs during the event period",
-        "Highest single-run score wins"
-      ],
-      "min_score": 500
-    }
+    
   ]
 }
