@@ -44,7 +44,8 @@
           "Songwriting",
           "Choreography",
           "Gaming"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "James",
@@ -59,7 +60,8 @@
           "Languages",
           "Choreography",
           "Cooking"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Juhoon",
@@ -74,7 +76,8 @@
           "Basketball",
           "Movies",
           "Ramen"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Seonghyeon",
@@ -89,7 +92,8 @@
           "Movies",
           "Basketball",
           "Skateboarding"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Keonho",
@@ -104,7 +108,8 @@
           "Swimming",
           "Movies",
           "Gaming"
-        ]
+        ],
+        "image": ""
       }
     ]
   },

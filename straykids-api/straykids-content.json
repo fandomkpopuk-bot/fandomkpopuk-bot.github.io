@@ -44,7 +44,8 @@
           "Producing",
           "Gym",
           "Cooking"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Lee Know",
@@ -59,7 +60,8 @@
           "Dance",
           "Hiking",
           "Movies"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Changbin",
@@ -74,7 +76,8 @@
           "Rapping",
           "Producing",
           "Gym"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Hyunjin",
@@ -89,7 +92,8 @@
           "Drawing",
           "Dance",
           "Fashion"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Han",
@@ -104,7 +108,8 @@
           "Producing",
           "Guitar",
           "Eating sweets"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Felix",
@@ -119,7 +124,8 @@
           "Dancing",
           "Baking",
           "Gaming"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Seungmin",
@@ -134,7 +140,8 @@
           "Singing",
           "Photography",
           "Baseball"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "I.N",
@@ -149,7 +156,8 @@
           "Singing",
           "Trot",
           "Eating"
-        ]
+        ],
+        "image": ""
       }
     ]
   },

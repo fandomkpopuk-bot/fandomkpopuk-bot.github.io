@@ -44,7 +44,8 @@
           "Singing",
           "Dancing",
           "Cooking"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Minju",
@@ -59,7 +60,8 @@
           "Piano",
           "Photography",
           "Fashion"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Moka",
@@ -74,7 +76,8 @@
           "Dancing",
           "Ballet",
           "Reading"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Wonhee",
@@ -89,7 +92,8 @@
           "Singing",
           "Selfies",
           "Movies"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Iroha",
@@ -104,7 +108,8 @@
           "Hip-hop",
           "Drawing",
           "Gaming"
-        ]
+        ],
+        "image": ""
       }
     ]
   },

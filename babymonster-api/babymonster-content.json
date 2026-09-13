@@ -44,7 +44,8 @@
           "Dance",
           "Fashion",
           "Cooking"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Pharita",
@@ -59,7 +60,8 @@
           "Singing",
           "Guitar",
           "Photography"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Asa",
@@ -74,7 +76,8 @@
           "Songwriting",
           "Dance",
           "Gaming"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Ahyeon",
@@ -89,7 +92,8 @@
           "Singing",
           "Rap",
           "Gym"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Rami",
@@ -104,7 +108,8 @@
           "Singing",
           "Piano",
           "Reading"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Rora",
@@ -119,7 +124,8 @@
           "Singing",
           "Drawing",
           "Movies"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Chiquita",
@@ -134,7 +140,8 @@
           "Dancing",
           "Singing",
           "Shopping"
-        ]
+        ],
+        "image": ""
       }
     ]
   },

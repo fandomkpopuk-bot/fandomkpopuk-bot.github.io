@@ -44,7 +44,8 @@
           "MCing",
           "Dancing",
           "Photography"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Gaeul",
@@ -59,7 +60,8 @@
           "Rapping",
           "Dance",
           "Movies"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Rei",
@@ -74,7 +76,8 @@
           "Songwriting",
           "Reading",
           "Cooking"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Jang Wonyoung",
@@ -89,7 +92,8 @@
           "Fashion",
           "MCing",
           "Piano"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Liz",
@@ -104,7 +108,8 @@
           "Singing",
           "Baking",
           "Cats"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Leeseo",
@@ -119,7 +124,8 @@
           "Dancing",
           "Drawing",
           "Swimming"
-        ]
+        ],
+        "image": ""
       }
     ]
   },

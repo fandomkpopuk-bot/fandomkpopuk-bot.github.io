@@ -44,7 +44,8 @@
           "Taekwondo",
           "Gaming",
           "Vlogging"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Heeseung",
@@ -59,7 +60,8 @@
           "Songwriting",
           "Gaming",
           "Basketball"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Jay",
@@ -74,7 +76,8 @@
           "Guitar",
           "Fashion",
           "Cooking"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Jake",
@@ -89,7 +92,8 @@
           "Soccer",
           "Violin",
           "Photography"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Sunghoon",
@@ -104,7 +108,8 @@
           "Figure Skating",
           "Pilates",
           "Reading"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Sunoo",
@@ -119,7 +124,8 @@
           "Selfies",
           "Cooking",
           "Movies"
-        ]
+        ],
+        "image": ""
       },
       {
         "name": "Ni-ki",
@@ -134,7 +140,8 @@
           "Dancing",
           "Soccer",
           "Video Editing"
-        ]
+        ],
+        "image": ""
       }
     ]
   },
