@@ -3,184 +3,392 @@
   "quiz_list": [
     {
       "id": "magnetic-01",
-      "youtube_id": "Vk5dgGbw5a8",
+      "youtube_id": "Vk5-c_v4gMU",
       "title": "Magnetic",
-      "clue": "This time I want you you you you like it's magnetic",
-      "answer": "Super attraction",
+      "clue": "Baby, I'm just trying to play it cool",
+      "answer": "But I just can't hide that",
       "options": [
-        "Super attraction",
-        "Lucky lucky, every day",
-        "Dancing till the day is done",
-        "Hold on, don't let go of me"
+        "But I just can't hide that",
+        "No keyring, no hand mirror",
+        "So happy to see you",
+        "Zutto tonari sa"
       ]
     },
     {
       "id": "magnetic-02",
-      "youtube_id": "Vk5dgGbw5a8",
+      "youtube_id": "Vk5-c_v4gMU",
       "title": "Magnetic",
-      "clue": "Super attraction",
-      "answer": "Baby, I'm just drawn to you",
+      "clue": "Wait a minute, ige mwoji? (mwoji?)",
+      "answer": "Nae simjangi love-dub",
       "options": [
-        "Smile bright like the morning sun",
-        "Baby, I'm just drawn to you",
-        "Super real me, feeling fine",
-        "You and me, we're shining on"
-      ]
-    },
-    {
-      "id": "lucky-girl-syndrome-01",
-      "youtube_id": "rELx8KqTo8Q",
-      "title": "Lucky Girl Syndrome",
-      "clue": "I'm a lucky girl, watch me shine",
-      "answer": "Super real me, feeling fine",
-      "options": [
-        "Super real me, feeling fine",
-        "Super attraction",
-        "Heart keeps pulling closer to you",
-        "Running to you like gravity"
-      ]
-    },
-    {
-      "id": "lucky-girl-syndrome-02",
-      "youtube_id": "rELx8KqTo8Q",
-      "title": "Lucky Girl Syndrome",
-      "clue": "Every little thing goes my way",
-      "answer": "Lucky lucky, every day",
-      "options": [
-        "Hold on, don't let go of me",
-        "One look and I know it's true",
-        "Lucky lucky, every day",
-        "You you you, my magnetic you"
-      ]
-    },
-    {
-      "id": "cherish-01",
-      "youtube_id": "730VZOJ12Sk",
-      "title": "Cherish (My Love)",
-      "clue": "Cherish is from which ILLIT mini album?",
-      "answer": "I'LL LIKE YOU",
-      "options": [
-        "SUPER REAL ME",
-        "I'LL LIKE YOU",
-        "GLIT WORLD",
-        "MAGNETIC LOVE"
-      ]
-    },
-    {
-      "id": "cherish-02",
-      "youtube_id": "730VZOJ12Sk",
-      "title": "Cherish (My Love)",
-      "clue": "Cherish (My Love) was released on?",
-      "answer": "Oct 21, 2024",
-      "options": [
-        "Mar 25, 2024",
-        "Oct 21, 2024",
-        "Sep 09, 2026",
-        "Jan 15, 2004"
-      ]
-    },
-    {
-      "id": "tick-tack-01",
-      "youtube_id": "ATKXvR6yKt4",
-      "title": "Tick-Tack",
-      "clue": "Tick-Tack was released in the same era as?",
-      "answer": "Cherish (My Love)",
-      "options": [
-        "Magnetic",
-        "Cherish (My Love)",
-        "Lucky Girl Syndrome",
-        "My World"
-      ]
-    },
-    {
-      "id": "tick-tack-02",
-      "youtube_id": "ATKXvR6yKt4",
-      "title": "Tick-Tack",
-      "clue": "Tick-Tack release date?",
-      "answer": "Oct 21, 2024",
-      "options": [
-        "Mar 25, 2024",
-        "Oct 8, 2004",
-        "Oct 21, 2024",
-        "Jun 26, 2007"
-      ]
-    },
-    {
-      "id": "my-world-01",
-      "youtube_id": "N9Z0yoeklTs",
-      "title": "My World",
-      "clue": "My World was released on?",
-      "answer": "Mar 25, 2024",
-      "options": [
-        "Mar 25, 2024",
-        "Oct 21, 2024",
-        "Sep 09, 2026",
-        "Feb 4, 2008"
-      ]
-    },
-    {
-      "id": "my-world-02",
-      "youtube_id": "N9Z0yoeklTs",
-      "title": "My World",
-      "clue": "My World belongs to which debut era?",
-      "answer": "SUPER REAL ME",
-      "options": [
-        "I'LL LIKE YOU",
-        "SUPER REAL ME",
-        "GLIT WORLD",
-        "CHERISH ERA"
-      ]
-    },
-    {
-      "id": "pimple-01",
-      "youtube_id": "q7k4OiHU50U",
-      "title": "Pimple",
-      "clue": "Pimple was released on?",
-      "answer": "Oct 21, 2024",
-      "options": [
-        "Mar 25, 2024",
-        "May 11, 2004",
-        "Oct 21, 2024",
-        "Sep 09, 2026"
-      ]
-    },
-    {
-      "id": "pimple-02",
-      "youtube_id": "q7k4OiHU50U",
-      "title": "Pimple",
-      "clue": "Pimple shares its release era with?",
-      "answer": "Cherish (My Love)",
-      "options": [
-        "Cherish (My Love)",
-        "Magnetic",
-        "Lucky Girl Syndrome",
-        "My World"
+        "Geoure bichin uri durui face",
+        "Nae simjangi love-dub",
+        "I got Suede on my vinyl",
+        "Side by side, side by side"
       ]
     },
     {
       "id": "magnetic-03",
-      "youtube_id": "Vk5dgGbw5a8",
+      "youtube_id": "Vk5-c_v4gMU",
       "title": "Magnetic",
-      "clue": "Baby, I'm just drawn to you",
-      "answer": "Heart keeps pulling closer to you",
+      "clue": "We're magnetized, injeonghalge",
+      "answer": "This time, I want",
       "options": [
-        "Heart keeps pulling closer to you",
-        "Smile bright like the morning sun",
-        "Lucky girl, we carry on",
-        "Super real me, feeling fine"
+        "This time, I want",
+        "It's me",
+        "Tonari ni iru yo",
+        "Naui donghwachaek"
       ]
     },
     {
       "id": "magnetic-04",
-      "youtube_id": "Vk5dgGbw5a8",
+      "youtube_id": "Vk5-c_v4gMU",
       "title": "Magnetic",
-      "clue": "Magnetic is the debut title of which mini album?",
-      "answer": "SUPER REAL ME",
+      "clue": "This time, I want",
+      "answer": "You, you, you, you, like it's magnetic",
       "options": [
-        "SUPER REAL ME",
-        "I'LL LIKE YOU",
-        "GLIT WORLD",
-        "R U NEXT"
+        "You, you, you, you, you, you, you, you super ikkeullim",
+        "You, you, you, you, like it's magnetic",
+        "Bae, bae, bae, bae, bae, bae, bae, bae, bae",
+        "Like it's magnetic"
+      ]
+    },
+    {
+      "id": "magnetic-05",
+      "youtube_id": "Vk5-c_v4gMU",
+      "title": "Magnetic",
+      "clue": "No push and pull, jeonsongnyeogeuro neoege galge (In a rush, in a rush)",
+      "answer": "Our chemistry, nan gwamoripae jigeum sungane (Baby, you're my crush, you're my crush)",
+      "options": [
+        "Our chemistry, nan gwamoripae jigeum sungane (Baby, you're my crush, you're my crush)",
+        "Neon J nan wanjeon P",
+        "Baby, don't say no",
+        "So let's go, let's go"
+      ]
+    },
+    {
+      "id": "not-cute-anymore-01",
+      "youtube_id": "x_RYZsOfpKY",
+      "title": "NOT CUTE ANYMORE",
+      "clue": "Yonggamhan nae gabang",
+      "answer": "No keyring, no hand mirror",
+      "options": [
+        "No keyring, no hand mirror",
+        "But I just can't hide that",
+        "Ollyeo dalbit base",
+        "Tonari ni iru yo"
+      ]
+    },
+    {
+      "id": "not-cute-anymore-02",
+      "youtube_id": "x_RYZsOfpKY",
+      "title": "NOT CUTE ANYMORE",
+      "clue": "I got Suede on my vinyl",
+      "answer": "Naui donghwachaek",
+      "options": [
+        "Naui donghwachaek",
+        "So happy to see you",
+        "Zutto I’m with you",
+        "You, you, you, you, like it's magnetic"
+      ]
+    },
+    {
+      "id": "not-cute-anymore-03",
+      "youtube_id": "x_RYZsOfpKY",
+      "title": "NOT CUTE ANYMORE",
+      "clue": "I'm not cute anymore (Uh-uh)",
+      "answer": "Andwae no more, gangajibodan nan neuseunhan haepariga joa (Uh-uh)",
+      "options": [
+        "'Cause I'm not cute anymore",
+        "Andwae no more, gangajibodan nan neuseunhan haepariga joa (Uh-uh)",
+        "I'm not cute anymore (Uh-uh)",
+        "Geunde neon meoreosseo"
+      ]
+    },
+    {
+      "id": "not-cute-anymore-04",
+      "youtube_id": "x_RYZsOfpKY",
+      "title": "NOT CUTE ANYMORE",
+      "clue": "Geunde neon meoreosseo",
+      "answer": "Oh, I don't like cherry coke",
+      "options": [
+        "Nan oegyeini anya",
+        "Oh, I don't like cherry coke",
+        "Geunyang teolteolhan pyeonin geoya",
+        "My makeup tutorial"
+      ]
+    },
+    {
+      "id": "not-cute-anymore-05",
+      "youtube_id": "x_RYZsOfpKY",
+      "title": "NOT CUTE ANYMORE",
+      "clue": "Oh, I don't like cherry coke",
+      "answer": "Nan oegyeini anya",
+      "options": [
+        "Nan oegyeini anya",
+        "I got Suede on my vinyl",
+        "But I just can't hide that",
+        "Side by side, side by side"
+      ]
+    },
+    {
+      "id": "paw-paw-01",
+      "youtube_id": "b8xFEnrDuIU",
+      "title": "paw, paw!",
+      "clue": "Jo(eun) a(chim) hae, munape",
+      "answer": "Gamanhi seo, jal gatdaorae (Oh, you)",
+      "options": [
+        "Gamanhi seo, jal gatdaorae (Oh, you)",
+        "Midnight blues, jeomeolli",
+        "Ne meoril sseudadeumeo dallae",
+        "So happy to see you"
+      ]
+    },
+    {
+      "id": "paw-paw-02",
+      "youtube_id": "b8xFEnrDuIU",
+      "title": "paw, paw!",
+      "clue": "Pogeunhan ibul sok, neon naui imal tok",
+      "answer": "Eoreum gateun paw, ibul bakkeun too dangerous",
+      "options": [
+        "Eoreum gateun paw, ibul bakkeun too dangerous",
+        "Maeil bam, neoneun kkok, naui begaee pook",
+        "Naui donghwachaek",
+        "This time, I want"
+      ]
+    },
+    {
+      "id": "paw-paw-03",
+      "youtube_id": "b8xFEnrDuIU",
+      "title": "paw, paw!",
+      "clue": "Yaksokae, nae gyeote isseo, nae pum aneseo",
+      "answer": "Chuun bami wado, oeropji aneulgeoya",
+      "options": [
+        "Chuun bami wado, oeropji aneulgeoya",
+        "Neodo mollae heullin nae nunmul, dakkajullae",
+        "All, all, all, all, all my life",
+        "Uriege heeojimeun eopseulgeoya"
+      ]
+    },
+    {
+      "id": "paw-paw-04",
+      "youtube_id": "b8xFEnrDuIU",
+      "title": "paw, paw!",
+      "clue": "Neodo mollae heullin nae nunmul, dakkajullae",
+      "answer": "Geu pawro, the little paw",
+      "options": [
+        "Geu pawro, the little paw",
+        "Gakkeumssigeun, eonjegaui kkumsokcheoreom",
+        "Neoui mameul da, naege malhae jullae?",
+        "Zutto tonari sa"
+      ]
+    },
+    {
+      "id": "paw-paw-05",
+      "youtube_id": "b8xFEnrDuIU",
+      "title": "paw, paw!",
+      "clue": "Uriege heeojimeun eopseulgeoya",
+      "answer": "All, all, all, all, all my life",
+      "options": [
+        "All, all, all, all, all my life",
+        "Eoreum gateun paw, ibul bakkeun too dangerous",
+        "It's me",
+        "Tonari ni iru yo"
+      ]
+    },
+    {
+      "id": "its-me-01",
+      "youtube_id": "bMhDJ0S0OBA",
+      "title": "It's Me",
+      "clue": "Who's your bias? I'm your bias",
+      "answer": "I'm the one, I'm your idol, kkujunhan ne joayo",
+      "options": [
+        "I'm the one, I'm your idol, kkujunhan ne joayo",
+        "Neoneun machi loyal fan",
+        "Who's your bias? I'm your bias",
+        "It's me"
+      ]
+    },
+    {
+      "id": "its-me-02",
+      "youtube_id": "bMhDJ0S0OBA",
+      "title": "It's Me",
+      "clue": "Hey, just say I'm your fave",
+      "answer": "I yelled, \"neo hilarious\", oh, my, my, my, my",
+      "options": [
+        "Susubanggwan like tortilla, why? Why? Why? Why?",
+        "I yelled, \"neo hilarious\", oh, my, my, my, my",
+        "Dapdamneopchi, post me on your gram",
+        "Nal gaduji ma boseokam"
+      ]
+    },
+    {
+      "id": "its-me-03",
+      "youtube_id": "bMhDJ0S0OBA",
+      "title": "It's Me",
+      "clue": "Susubanggwan like tortilla, why? Why? Why? Why?",
+      "answer": "This putsarang ain't no joke, it can't, can't, can't, can't",
+      "options": [
+        "This putsarang ain't no joke, it can't, can't, can't, can't",
+        "Sphere jeongwangpanen keopeul inisyeol reteoring",
+        "Ollyeo uri hakgyo daejaboe headline",
+        "Nae simjangi love-dub"
+      ]
+    },
+    {
+      "id": "its-me-04",
+      "youtube_id": "bMhDJ0S0OBA",
+      "title": "It's Me",
+      "clue": "Dapdamneopchi, post me on your gram",
+      "answer": "Sphere jeongwangpanen keopeul inisyeol reteoring",
+      "options": [
+        "Sphere jeongwangpanen keopeul inisyeol reteoring",
+        "Ollyeo uri hakgyo daejaboe headline",
+        "Naui donghwachaek",
+        "So happy to see you"
+      ]
+    },
+    {
+      "id": "its-me-05",
+      "youtube_id": "bMhDJ0S0OBA",
+      "title": "It's Me",
+      "clue": "(Who's your bias? I'm your bias)",
+      "answer": "It's me",
+      "options": [
+        "It's me",
+        "Me, me",
+        "(Who? Who?)",
+        "Neoneun machi loyal fan"
+      ]
+    },
+    {
+      "id": "grwm-01",
+      "youtube_id": "pJusqOVhoFk",
+      "title": "GRWM (Get Ready With Me)",
+      "clue": "Geoure bichin uri durui face",
+      "answer": "Ollyeo dalbit base",
+      "options": [
+        "Ollyeo dalbit base",
+        "Hey, hey, kkumkkwoon makeup",
+        "So happy to see you",
+        "Jal eoullyeo bae"
+      ]
+    },
+    {
+      "id": "grwm-02",
+      "youtube_id": "pJusqOVhoFk",
+      "title": "GRWM (Get Ready With Me)",
+      "clue": "Hey, hey, kkumkkwoon makeup",
+      "answer": "So happy to see you",
+      "options": [
+        "So happy to see you",
+        "Whatchu say? Whatchu say? Whatchu say?",
+        "Bimilseureopge neowa jugobadeun sign",
+        "Nalgae dallin pouch deulgo anja"
+      ]
+    },
+    {
+      "id": "grwm-03",
+      "youtube_id": "pJusqOVhoFk",
+      "title": "GRWM (Get Ready With Me)",
+      "clue": "Bimilseureopge neowa jugobadeun sign",
+      "answer": "Nalgae dallin pouch deulgo anja",
+      "options": [
+        "Joa makeup mode on",
+        "Nalgae dallin pouch deulgo anja",
+        "Byeolbit jomyeongeul kyeo",
+        "Oneulmaneun choose, jasingameun full"
+      ]
+    },
+    {
+      "id": "grwm-04",
+      "youtube_id": "pJusqOVhoFk",
+      "title": "GRWM (Get Ready With Me)",
+      "clue": "Moka hyang lip, chu, boreneun hateu shape",
+      "answer": "Dugeun dugeundae",
+      "options": [
+        "Dugeun dugeundae",
+        "Hey, hey, nawa neoui makeup",
+        "So happy to see you",
+        "Mami ganjireowo"
+      ]
+    },
+    {
+      "id": "grwm-05",
+      "youtube_id": "pJusqOVhoFk",
+      "title": "GRWM (Get Ready With Me)",
+      "clue": "Bamhaneul saek nunen Milky Way",
+      "answer": "Geulliteo bomb banjjakgeorige",
+      "options": [
+        "Geulliteo bomb banjjakgeorige",
+        "Mami ganjireowo",
+        "Rabendeo paudeo myohan hue",
+        "Mabeobe geollin neukkim"
+      ]
+    },
+    {
+      "id": "i-got-your-back-01",
+      "youtube_id": "_Pk6xfju3l0",
+      "title": "I Got Your Back",
+      "clue": "I, I, I got your back",
+      "answer": "Zutto tonari sa",
+      "options": [
+        "Zutto tonari sa",
+        "Come talk to me",
+        "Hitori de kakaenaide",
+        "Yeah we ride or die"
+      ]
+    },
+    {
+      "id": "i-got-your-back-02",
+      "youtube_id": "_Pk6xfju3l0",
+      "title": "I Got Your Back",
+      "clue": "Side by side, side by side",
+      "answer": "Tonari ni iru yo",
+      "options": [
+        "Tonari ni iru yo",
+        "Sunaona kimochi",
+        "Kyō mo",
+        "Every day, every night, every place"
+      ]
+    },
+    {
+      "id": "i-got-your-back-03",
+      "youtube_id": "_Pk6xfju3l0",
+      "title": "I Got Your Back",
+      "clue": "Every day, every night, every place",
+      "answer": "Zutto I’m with you",
+      "options": [
+        "Zutto I’m with you",
+        "Daijōbu furimuitara",
+        "Kokonīru sa",
+        "Tonari ni iru yo"
+      ]
+    },
+    {
+      "id": "i-got-your-back-04",
+      "youtube_id": "_Pk6xfju3l0",
+      "title": "I Got Your Back",
+      "clue": "Yeah we ride or die",
+      "answer": "For you I pick a side",
+      "options": [
+        "For you I pick a side",
+        "Kinishinaide hagu suru yo",
+        "A million times",
+        "No need to sing it solo"
+      ]
+    },
+    {
+      "id": "i-got-your-back-05",
+      "youtube_id": "_Pk6xfju3l0",
+      "title": "I Got Your Back",
+      "clue": "I got your back, in my bag",
+      "answer": "Itsumo stay with me",
+      "options": [
+        "Itsumo stay with me",
+        "ILL win IT sakaseta hana",
+        "Darenimo tsuma seyashinai yo",
+        "So don’t be afraid, be free"
       ]
     }
   ],

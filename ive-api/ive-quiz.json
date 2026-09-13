@@ -2,237 +2,393 @@
   "quiz_version": 1,
   "quiz_list": [
     {
-      "id": "ive-eleven-01",
-      "youtube_id": "9pdJ1owe9GY",
-      "title": "Eleven",
-      "clue": "Ttaeron nunmuri na",
-      "answer": "Nal utge haneun neoye",
-      "options": [
-        "Nal utge haneun neoye",
-        "Neowa naega mandeureogane",
-        "Tto moreuji nae mami",
-        "Mangseoriji malgo dive"
-      ]
-    },
-    {
-      "id": "ive-eleven-02",
-      "youtube_id": "9pdJ1owe9GY",
-      "title": "Eleven",
-      "clue": "You make me feel like eleven",
-      "answer": "Eleven I'm in heaven",
-      "options": [
-        "Ooh ooh love dive",
-        "Eleven I'm in heaven",
-        "Try to love me now",
-        "What's after like?"
-      ]
-    },
-    {
-      "id": "ive-lovedive-01",
+      "id": "love-dive-01",
       "youtube_id": "Y8JFxS1HlDo",
       "title": "LOVE DIVE",
-      "clue": "Narcissistic my god I love it",
-      "answer": "Neowa naega mandeureogane",
+      "clue": "Narcissistic",
+      "answer": "My God, I love it",
       "options": [
-        "Neowa naega mandeureogane",
-        "Geu misoe nan fall in love",
-        "Joa boineun geol",
-        "Nae mami dagaganeun geol"
+        "My God, I love it",
+        "Seororeul bichun bam",
+        "Areumdaun kkaman",
+        "Sum chamgo love dive"
       ]
     },
     {
-      "id": "ive-lovedive-02",
+      "id": "love-dive-02",
       "youtube_id": "Y8JFxS1HlDo",
       "title": "LOVE DIVE",
-      "clue": "Mangseoriji malgo dive",
-      "answer": "Ooh ooh love dive",
+      "clue": "Seororeul bichun bam",
+      "answer": "Areumdaun kkaman",
       "options": [
-        "Try to love me now",
-        "Nal utge haneun neoye",
-        "Ooh ooh love dive",
-        "Eojjeomyeon love"
+        "Areumdaun kkaman",
+        "Nunbit deo ppajyeo gipi",
+        "(Neon naegero nan negero)",
+        "Sum chamgo love dive"
       ]
     },
     {
-      "id": "ive-afterlike-01",
-      "youtube_id": "F0pmagviGyU",
+      "id": "love-dive-03",
+      "youtube_id": "Y8JFxS1HlDo",
+      "title": "LOVE DIVE",
+      "clue": "Sum chamgo love dive",
+      "answer": "Ooh-ooh, ooh-ooh",
+      "options": [
+        "Ooh-ooh, ooh-ooh",
+        "La-la-la-la-la-la",
+        "Eoseo waseo love dive",
+        "Oh, perfect sacrifice"
+      ]
+    },
+    {
+      "id": "love-dive-04",
+      "youtube_id": "Y8JFxS1HlDo",
+      "title": "LOVE DIVE",
+      "clue": "Maeumeun ireoke aldagado moreuji",
+      "answer": "Sarangiraneun geon hansungane pil teni",
+      "options": [
+        "Sarangiraneun geon hansungane pil teni",
+        "Jikjeop deureowa du nuneuro hwaginhae",
+        "Nae mam gajang gipeun dero omyeon dwae",
+        "Mangseoril siganeun"
+      ]
+    },
+    {
+      "id": "love-dive-05",
+      "youtube_id": "Y8JFxS1HlDo",
+      "title": "LOVE DIVE",
+      "clue": "Eoseo waseo love dive",
+      "answer": "Ooh-ooh, ooh-ooh",
+      "options": [
+        "Ooh-ooh, ooh-ooh",
+        "Oh, perfect sacrifice",
+        "Yeah, sum chamgo love dive",
+        "Love dive"
+      ]
+    },
+    {
+      "id": "after-like-01",
+      "youtube_id": "F0B7HDiY-10",
       "title": "After LIKE",
-      "clue": "What's after like?",
-      "answer": "Tto moreuji nae mami",
+      "clue": "Tto moreuji nae maeumi",
+      "answer": "Jeo nalsshicheoreom bakkwilji",
       "options": [
-        "Tto moreuji nae mami",
-        "Neowa naega mandeureogane",
-        "Nae ape dagawa jwo",
-        "Geu bich sogeuro dive"
+        "Jeo nalsshicheoreom bakkwilji",
+        "Nal najocha da al su eopseuni",
+        "Geuge mweoga jungyohani",
+        "Jigeum nege wanjeonhi"
       ]
     },
     {
-      "id": "ive-afterlike-02",
-      "youtube_id": "F0pmagviGyU",
+      "id": "after-like-02",
+      "youtube_id": "F0B7HDiY-10",
       "title": "After LIKE",
-      "clue": "Tto moreuji nae mami",
-      "answer": "Eojjeomyeon love",
+      "clue": "Geunyang jotaneun ge anya What's after 'LIKE'?",
+      "answer": "You and I",
       "options": [
-        "Ooh ooh love dive",
-        "Eojjeomyeon love",
-        "Eleven I'm in heaven",
-        "Simjangeun kungkungdae"
+        "You and I",
+        "It's more than 'LIKE'",
+        "What's after 'LIKE'?",
+        "L daeum tto O daeum nan yeah"
       ]
     },
     {
-      "id": "ive-kitsch-01",
-      "youtube_id": "pG6IaBM9X4E",
-      "title": "Kitsch",
-      "clue": "Which album features the track Kitsch?",
-      "answer": "I'VE IVE",
+      "id": "after-like-03",
+      "youtube_id": "F0B7HDiY-10",
+      "title": "After LIKE",
+      "clue": "You and I",
+      "answer": "It's more than 'LIKE'",
       "options": [
-        "ELEVEN",
-        "LOVE DIVE",
-        "I'VE IVE",
-        "IVE SWITCH"
+        "It's more than 'LIKE'",
+        "What's after 'LIKE'?",
+        "L daeum tto O daeum nan yeah",
+        "E ap tto V ap nan yeah"
       ]
     },
     {
-      "id": "ive-kitsch-02",
-      "youtube_id": "pG6IaBM9X4E",
-      "title": "Kitsch",
-      "clue": "Kitsch was released in which year?",
-      "answer": "2023",
+      "id": "after-like-04",
+      "youtube_id": "F0B7HDiY-10",
+      "title": "After LIKE",
+      "clue": "L daeum tto O daeum nan yeah",
+      "answer": "You and I",
       "options": [
-        "2021",
-        "2022",
-        "2023",
-        "2024"
+        "You and I",
+        "It's more than 'LIKE'",
+        "What's after 'LIKE'?",
+        "What after like nae mame strike"
       ]
     },
     {
-      "id": "ive-iam-01",
+      "id": "after-like-05",
+      "youtube_id": "F0B7HDiY-10",
+      "title": "After LIKE",
+      "clue": "What after like nae mame strike",
+      "answer": "Jigeum neukkin jjarishameun machi tike",
+      "options": [
+        "Jigeum neukkin jjarishameun machi tike",
+        "LO daeume I geu daeume VE",
+        "Yeogin neowa nae space amudo makji mothae",
+        "Nareul bomyeon nun kkamppakhal"
+      ]
+    },
+    {
+      "id": "i-am-01",
       "youtube_id": "6ZUIwj3FgUY",
       "title": "I AM",
-      "clue": "Which album features the track I AM?",
-      "answer": "I'VE IVE",
+      "clue": "Dareun muneul yeoreo ttara gal pillyoneun eopseo",
+      "answer": "Neon neoui gillo nan naui gillo, mm-mm",
       "options": [
-        "I'VE IVE",
-        "AFTER LIKE",
-        "I'VE MINE",
-        "IVE SWITCH"
+        "Neon neoui gillo nan naui gillo, mm-mm",
+        "Haruharumada saegi dallajin neukkim",
+        "Balge bichi naneun gireul chaja",
+        "I'm on my way-ay-ay"
       ]
     },
     {
-      "id": "ive-iam-02",
+      "id": "i-am-02",
       "youtube_id": "6ZUIwj3FgUY",
       "title": "I AM",
-      "clue": "I AM was released in which month and year?",
-      "answer": "April 2023",
+      "clue": "I'm on my way-ay-ay",
+      "answer": "Neon geunyang mideumyeon dwae",
       "options": [
-        "December 2021",
-        "August 2022",
-        "April 2023",
-        "April 2024"
+        "Neon geunyang mideumyeon dwae",
+        "Boineun geudaeroya",
+        "Neoneun nugungaui dreams come true",
+        "I'm on fire"
       ]
     },
     {
-      "id": "ive-baddie-01",
-      "youtube_id": "Da4P2xT4mHw",
-      "title": "Baddie",
-      "clue": "Which EP features the track Baddie?",
-      "answer": "I'VE MINE",
+      "id": "i-am-03",
+      "youtube_id": "6ZUIwj3FgUY",
+      "title": "I AM",
+      "clue": "Look at me, look at me, look at me now",
+      "answer": "Eojerang tto dareun jjarithan na",
       "options": [
-        "ELEVEN",
-        "I'VE MINE",
-        "LOVE DIVE",
-        "IVE SWITCH"
+        "Eojerang tto dareun jjarithan na",
+        "Duryeoun modeun ge seolleige",
+        "I'm in sky high, oh, my God",
+        "Look at me now, look at me now"
       ]
     },
     {
-      "id": "ive-baddie-02",
-      "youtube_id": "Da4P2xT4mHw",
-      "title": "Baddie",
-      "clue": "Baddie was released in which month and year?",
-      "answer": "October 2023",
+      "id": "i-am-04",
+      "youtube_id": "6ZUIwj3FgUY",
+      "title": "I AM",
+      "clue": "That's my life is areumdaun galaxy",
+      "answer": "Be a writer, jangneuroneun fantasy",
       "options": [
-        "March 2023",
-        "October 2023",
-        "August 2022",
-        "April 2024"
+        "Be a writer, jangneuroneun fantasy",
+        "Naeil naege yeollineun geon big, big stage",
+        "So that is who I am",
+        "I'll be far away"
       ]
     },
     {
-      "id": "ive-heya-01",
-      "youtube_id": "07WvsW8f8b0",
-      "title": "Heya",
-      "clue": "Which EP features the track Heya?",
-      "answer": "IVE SWITCH",
+      "id": "i-am-05",
+      "youtube_id": "6ZUIwj3FgUY",
+      "title": "I AM",
+      "clue": "So that is who I am",
+      "answer": "Eoneu gipeun bam",
       "options": [
-        "I'VE IVE",
-        "AFTER LIKE",
-        "I'VE MINE",
-        "IVE SWITCH"
+        "Eoneu gipeun bam",
+        "Look at me, look at me, look at me now",
+        "One, two, three, one, two, three, one, two, three",
+        "Fly up"
       ]
     },
     {
-      "id": "ive-heya-02",
-      "youtube_id": "07WvsW8f8b0",
-      "title": "Heya",
-      "clue": "Heya was released in which month and year?",
-      "answer": "April 2024",
+      "id": "rebel-heart-01",
+      "youtube_id": "g36q0ZLvygQ",
+      "title": "REBEL HEART",
+      "clue": "Rebels in our heart",
+      "answer": "Sijageun hangsang da irun geotcheoreom",
       "options": [
-        "April 2022",
-        "October 2023",
-        "April 2024",
-        "December 2021"
+        "Sijageun hangsang da irun geotcheoreom",
+        "Endingeun machi seungnihan geotcheoreom",
+        "Geomnaeji anko maeumeul ssodeullae",
+        "Nae moyangdaero"
       ]
     },
     {
-      "id": "ive-accendio-01",
-      "youtube_id": "0vYxS5IqkTs",
-      "title": "Accendio",
-      "clue": "Which EP features the track Accendio?",
-      "answer": "IVE SWITCH",
+      "id": "rebel-heart-02",
+      "youtube_id": "g36q0ZLvygQ",
+      "title": "REBEL HEART",
+      "clue": "So you can love me, hate me",
+      "answer": "You will never be, never be, never be me",
       "options": [
-        "ELEVEN",
-        "LOVE DIVE",
-        "IVE SWITCH",
-        "I'VE MINE"
+        "You will never be, never be, never be me",
+        "Try me, I'll break free",
+        "We are rebels in our heart, rebels in our heart",
+        "Love me, hate me"
       ]
     },
     {
-      "id": "ive-accendio-02",
-      "youtube_id": "0vYxS5IqkTs",
-      "title": "Accendio",
-      "clue": "Accendio was released in which year?",
-      "answer": "2024",
+      "id": "rebel-heart-03",
+      "youtube_id": "g36q0ZLvygQ",
+      "title": "REBEL HEART",
+      "clue": "We are rebels in our heart, rebels in our heart",
+      "answer": "We are rebels in our heart",
       "options": [
-        "2021",
-        "2022",
-        "2023",
-        "2024"
+        "We are rebels in our heart",
+        "We are rebels in our heart, kkeokkiji ana",
+        "La-la-la-la, la-la-la, la-la-la",
+        "Rebels in our heart, rebels in our heart"
       ]
     },
     {
-      "id": "ive-eleven-03",
-      "youtube_id": "9pdJ1owe9GY",
-      "title": "Eleven",
-      "clue": "Eleven is the debut single of which group?",
-      "answer": "IVE",
+      "id": "rebel-heart-04",
+      "youtube_id": "g36q0ZLvygQ",
+      "title": "REBEL HEART",
+      "clue": "Do it, move it, do it",
+      "answer": "Urin geunyang halge",
       "options": [
-        "IVE",
-        "LE SSERAFIM",
-        "ENHYPEN",
-        "NewJeans"
+        "Urin geunyang halge",
+        "Nae gal gireun meolgo",
+        "Geu wieneun deuramaga isseo",
+        "Tto oeroumi neomu gireojineun bamen"
       ]
     },
     {
-      "id": "ive-lovedive-03",
-      "youtube_id": "Y8JFxS1HlDo",
-      "title": "LOVE DIVE",
-      "clue": "What is the official fandom name of IVE?",
-      "answer": "DIVE",
+      "id": "rebel-heart-05",
+      "youtube_id": "g36q0ZLvygQ",
+      "title": "REBEL HEART",
+      "clue": "We will always be the rebels",
+      "answer": "Come, join as who you are",
       "options": [
-        "FEARNOT",
-        "ENGENE",
-        "DIVE",
-        "Once"
+        "Come, join as who you are",
+        "We are rebels, we are one",
+        "I maeummaneuro",
+        "We are rebels in our heart, rebels in our heart"
+      ]
+    },
+    {
+      "id": "attitude-01",
+      "youtube_id": "38xYeot-ciM",
+      "title": "ATTITUDE",
+      "clue": "I'm that, I'm that girl",
+      "answer": "I'm that, what? I'm that attitude",
+      "options": [
+        "I'm that, what? I'm that attitude",
+        "Naega jeonghalge",
+        "Naui mudeu, I'm that attitude",
+        "I'm that (Ooh), I'm that attitude"
+      ]
+    },
+    {
+      "id": "attitude-02",
+      "youtube_id": "38xYeot-ciM",
+      "title": "ATTITUDE",
+      "clue": "Naega jeonghalge",
+      "answer": "Naui mudeu, I'm that attitude",
+      "options": [
+        "Naui mudeu, I'm that attitude",
+        "Irijeori budichyeodo",
+        "Haenguneun neul nae pyeonin geol",
+        "I'm that, I'm that girl"
+      ]
+    },
+    {
+      "id": "attitude-03",
+      "youtube_id": "38xYeot-ciM",
+      "title": "ATTITUDE",
+      "clue": "Irijeori budichyeodo",
+      "answer": "Haenguneun neul nae pyeonin geol",
+      "options": [
+        "Haenguneun neul nae pyeonin geol",
+        "Umcheurimyeon mwohal geonde",
+        "I'm that, I'm that girl",
+        "I'm that, ooh, I'm that attitude (Yeah)"
+      ]
+    },
+    {
+      "id": "attitude-04",
+      "youtube_id": "38xYeot-ciM",
+      "title": "ATTITUDE",
+      "clue": "Geu nuga amuri mwora haedo",
+      "answer": "Soljiki naega nan mame deureo",
+      "options": [
+        "Soljiki naega nan mame deureo",
+        "Bibaram chyeodo don't care 'bout it",
+        "Heongkeureojin meori so pretty",
+        "Jjajeung daesine I'm just laughing"
+      ]
+    },
+    {
+      "id": "attitude-05",
+      "youtube_id": "38xYeot-ciM",
+      "title": "ATTITUDE",
+      "clue": "Who is that girl? She's so hot, hot, hot, hot",
+      "answer": "Gakkai wa take a shot, shot, shot, shot",
+      "options": [
+        "Gakkai wa take a shot, shot, shot, shot",
+        "We look so good, we're so hot (Hot), hot (Hot), hot (Hot), hot (Hot)",
+        "Soljiki naega nan mame deureo",
+        "I'm that, I'm that girl"
+      ]
+    },
+    {
+      "id": "bang-bang-01",
+      "youtube_id": "9qkpcLK422o",
+      "title": "BANG BANG",
+      "clue": "Wake up, jujeo haji malgo",
+      "answer": "Dareun siseondeureun mwo geuri",
+      "options": [
+        "Dareun siseondeureun mwo geuri",
+        "Geunyang mam ganeun daero",
+        "I don't give a swit, what you say?",
+        "It's explosive, it's aggressive"
+      ]
+    },
+    {
+      "id": "bang-bang-02",
+      "youtube_id": "9qkpcLK422o",
+      "title": "BANG BANG",
+      "clue": "Yeah, I be going out with a",
+      "answer": "Bang, bang, bang, bang",
+      "options": [
+        "Bang, bang, bang, bang",
+        "Bang, bang, bang, bang, bang, bang, bang, bang",
+        "I'll be going out with a bang, shaking my head, this is my way",
+        "Bang, bang"
+      ]
+    },
+    {
+      "id": "bang-bang-03",
+      "youtube_id": "9qkpcLK422o",
+      "title": "BANG BANG",
+      "clue": "I'll be going out with a bang, shaking my head, this is my way",
+      "answer": "Ah, yeah, yeah, I be going out with a bang",
+      "options": [
+        "Ah, yeah, yeah, I be going out with a bang",
+        "This is my day, bami ol ttae",
+        "Ah, yeah, yeah, I be going out with a",
+        "Hot issue, \"daeche nugulkka?\""
+      ]
+    },
+    {
+      "id": "bang-bang-04",
+      "youtube_id": "9qkpcLK422o",
+      "title": "BANG BANG",
+      "clue": "It's explosive, it's aggressive",
+      "answer": "It's a little bit offensive, yeah, I said it (Yeah)",
+      "options": [
+        "It's a little bit offensive, yeah, I said it (Yeah)",
+        "Wake up, jujeo haji malgo",
+        "I don't give a swit, what you say?",
+        "Yeah, I be going out with a"
+      ]
+    },
+    {
+      "id": "bang-bang-05",
+      "youtube_id": "9qkpcLK422o",
+      "title": "BANG BANG",
+      "clue": "Hot issue, \"daeche nugulkka?\"",
+      "answer": "Dadeul chatgi wihaeseo andal na",
+      "options": [
+        "Dadeul chatgi wihaeseo andal na",
+        "Yeongicheoreom disappear, catch me if you can, baby",
+        "Jogeumman deo norajulge (Four, three, two, one)",
+        "Bang, shaking my head, this is my way"
       ]
     }
   ],

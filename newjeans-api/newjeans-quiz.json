@@ -2,211 +2,393 @@
   "quiz_version": 1,
   "quiz_list": [
     {
-      "id": "attention-01",
-      "youtube_id": "UIOe9qnglyQ",
-      "title": "Attention",
-      "clue": "You got me looking for attention",
-      "answer": "Neol chaja hemaeeo all day",
-      "options": [
-        "Neol chaja hemaeeo all day",
-        "You're my chemical hype boy",
-        "Stay in the middle",
-        "I'm super shy super shy"
-      ]
-    },
-    {
-      "id": "attention-02",
-      "youtube_id": "UIOe9qnglyQ",
-      "title": "Attention",
-      "clue": "Neol chaja hemaeeo all day",
-      "answer": "Drop the question, drop the question",
-      "options": [
-        "Make you mine tteolline",
-        "Malhaejwo say it back",
-        "Drop the question, drop the question",
-        "Nobody understands, I know"
-      ]
-    },
-    {
-      "id": "hype-boy-01",
-      "youtube_id": "11cta61wi0g",
-      "title": "Hype Boy",
-      "clue": "Cause I know what you like boy",
-      "answer": "You're my chemical hype boy",
-      "options": [
-        "Hey, saero taeeonan neowa nal wihae",
-        "You're my chemical hype boy",
-        "Stay in the middle",
-        "I'm super shy super shy"
-      ]
-    },
-    {
-      "id": "hype-boy-02",
-      "youtube_id": "11cta61wi0g",
-      "title": "Hype Boy",
-      "clue": "You're my chemical hype boy",
-      "answer": "Nae mameun soljiki you ought to know",
-      "options": [
-        "Nae mameun soljiki you ought to know",
-        "You got me looking for attention",
-        "Malhaejwo say it back",
-        "Make you mine tteolline"
-      ]
-    },
-    {
-      "id": "ditto-01",
-      "youtube_id": "pSUydWEqKw4",
-      "title": "Ditto",
-      "clue": "Stay in the middle",
-      "answer": "Like you a little",
-      "options": [
-        "Like you a little",
-        "You're my chemical hype boy",
-        "But wait a minute while I make you mine",
-        "Neol chaja hemaeeo all day"
-      ]
-    },
-    {
-      "id": "ditto-02",
-      "youtube_id": "pSUydWEqKw4",
-      "title": "Ditto",
-      "clue": "Like you a little",
-      "answer": "Don't want no riddle",
-      "options": [
-        "Nae mameun soljiki you ought to know",
-        "Don't want no riddle",
-        "You make me wanna dance",
-        "Drop the question, drop the question"
-      ]
-    },
-    {
-      "id": "omg-01",
-      "youtube_id": "_ZAgIHmHL7Q",
-      "title": "OMG",
-      "clue": "Oh my oh my God",
-      "answer": "Yeonghon eomneun nunbicheuro nal bone",
-      "options": [
-        "Yeonghon eomneun nunbicheuro nal bone",
-        "Stay in the middle",
-        "I'm super shy super shy",
-        "Cause I know what you like boy"
-      ]
-    },
-    {
-      "id": "omg-02",
-      "youtube_id": "_ZAgIHmHL7Q",
-      "title": "OMG",
-      "clue": "Yeonghon eomneun nunbicheuro nal bone",
-      "answer": "Nan jeongmal alla ne mameul",
-      "options": [
-        "Like you a little",
-        "Nan jeongmal alla ne mameul",
-        "Make you mine tteolline",
-        "Neol chaja hemaeeo all day"
-      ]
-    },
-    {
       "id": "super-shy-01",
       "youtube_id": "ArmDp-zijuc",
       "title": "Super Shy",
-      "clue": "I'm super shy super shy",
-      "answer": "But wait a minute while I make you mine",
+      "clue": "I'm super shy, super shy",
+      "answer": "But wait a minute while I make you mine, make you mine",
       "options": [
-        "Don't want no riddle",
-        "But wait a minute while I make you mine",
-        "You're my chemical hype boy",
-        "Stay in the middle"
+        "But wait a minute while I make you mine, make you mine",
+        "Tteollineun jigeumdo, you're on my mind all the time",
+        "Where you wanna go? (Huh?)",
+        "You don't even know my name"
       ]
     },
     {
       "id": "super-shy-02",
       "youtube_id": "ArmDp-zijuc",
       "title": "Super Shy",
-      "clue": "But wait a minute while I make you mine",
-      "answer": "Make you mine tteolline",
+      "clue": "But wait a minute while I make you mine, make you mine",
+      "answer": "Tteollineun jigeumdo, you're on my mind all the time",
       "options": [
-        "Make you mine tteolline",
-        "Like you a little",
-        "Neol chaja hemaeeo all day",
-        "Nan jeongmal alla ne mameul"
-      ]
-    },
-    {
-      "id": "eta-01",
-      "youtube_id": "UjvK0m1d4Yc",
-      "title": "ETA",
-      "clue": "What's your ETA, what's your ETA",
-      "answer": "Neon nae mameul ara all day",
-      "options": [
-        "Neon nae mameul ara all day",
-        "I'm super shy super shy",
-        "Stay in the middle",
-        "Oh my oh my God"
-      ]
-    },
-    {
-      "id": "eta-02",
-      "youtube_id": "UjvK0m1d4Yc",
-      "title": "ETA",
-      "clue": "Neon nae mameul ara all day",
-      "answer": "Call me as soon as you arrive",
-      "options": [
-        "Make you mine tteolline",
-        "Don't want no riddle",
-        "Call me as soon as you arrive",
-        "You're my chemical hype boy"
-      ]
-    },
-    {
-      "id": "cool-with-you-01",
-      "youtube_id": "Y8aVPDN7yVw",
-      "title": "Cool With You",
-      "clue": "I'd be cool with you",
-      "answer": "Eodideun hamkke gal su isseumyeon",
-      "options": [
-        "Eodideun hamkke gal su isseumyeon",
-        "But wait a minute while I make you mine",
-        "What's your ETA, what's your ETA",
-        "Oh my oh my God"
-      ]
-    },
-    {
-      "id": "cool-with-you-02",
-      "youtube_id": "Y8aVPDN7yVw",
-      "title": "Cool With You",
-      "clue": "Eodideun hamkke gal su isseumyeon",
-      "answer": "Neowa naman isseumyeon dwae",
-      "options": [
-        "Like you a little",
-        "Neon nae mameul ara all day",
-        "Neowa naman isseumyeon dwae",
-        "You got me looking for attention"
-      ]
-    },
-    {
-      "id": "hype-boy-03",
-      "youtube_id": "11cta61wi0g",
-      "title": "Hype Boy",
-      "clue": "Nae mameun soljiki you ought to know",
-      "answer": "Sumsorodo tteoolla",
-      "options": [
-        "Sumsorodo tteoolla",
-        "Don't want no riddle",
-        "Eodideun hamkke gal su isseumyeon",
-        "Nan jeongmal alla ne mameul"
+        "Tteollineun jigeumdo, you're on my mind all the time",
+        "I wanna tell you but, I'm super shy, super shy",
+        "And I wanna go out with you",
+        "Na wollae maldo jalhago geureonde wae ireonji"
       ]
     },
     {
       "id": "super-shy-03",
       "youtube_id": "ArmDp-zijuc",
       "title": "Super Shy",
-      "clue": "Nuni majuchin sungan",
-      "answer": "You make me wanna dance",
+      "clue": "And I wanna go out with you",
+      "answer": "Where you wanna go? (Huh?)",
       "options": [
-        "Call me as soon as you arrive",
-        "Neowa naman isseumyeon dwae",
-        "You make me wanna dance",
-        "Sumsorodo tteoolla"
+        "Where you wanna go? (Huh?)",
+        "Find a lil spot, just sit and talk",
+        "Uri duri naranhi",
+        "When you say I'm your dream"
+      ]
+    },
+    {
+      "id": "super-shy-04",
+      "youtube_id": "ArmDp-zijuc",
+      "title": "Super Shy",
+      "clue": "When you say I'm your dream",
+      "answer": "You don't even know my name",
+      "options": [
+        "You don't even know my name",
+        "Do ya?",
+        "Nugubodado",
+        "I'm super shy, super shy"
+      ]
+    },
+    {
+      "id": "super-shy-05",
+      "youtube_id": "ArmDp-zijuc",
+      "title": "Super Shy",
+      "clue": "Na wollae maldo jalhago geureonde wae ireonji",
+      "answer": "I don't like that",
+      "options": [
+        "I don't like that",
+        "Something odd about you",
+        "You're the top, babe",
+        "You're on my mind all the time"
+      ]
+    },
+    {
+      "id": "eta-01",
+      "youtube_id": "jOTfBlKSQYY",
+      "title": "ETA",
+      "clue": "We can go wherever you like",
+      "answer": "Baby, say the words and I'm down",
+      "options": [
+        "Baby, say the words and I'm down",
+        "All I need is you on my side",
+        "We can go whenever you like",
+        "What's your ETA? What's your ETA? (Mm-mhm-mm)"
+      ]
+    },
+    {
+      "id": "eta-02",
+      "youtube_id": "jOTfBlKSQYY",
+      "title": "ETA",
+      "clue": "Baby, say the words and I'm down",
+      "answer": "All I need is you on my side",
+      "options": [
+        "All I need is you on my side",
+        "We can go whenever you like",
+        "Now, where are you? (Mm-mhm)",
+        "He's been totally lyin', yeah"
+      ]
+    },
+    {
+      "id": "eta-03",
+      "youtube_id": "jOTfBlKSQYY",
+      "title": "ETA",
+      "clue": "Now, where are you? (Mm-mhm)",
+      "answer": "What's your ETA? What's your ETA? (Mm-mhm-mm)",
+      "options": [
+        "What's your ETA? What's your ETA? (Mm-mhm-mm)",
+        "What's your ETA? What's your ETA? (Mm-mhm)",
+        "I'll be there right now, lose that boy on her arm",
+        "We can go wherever you like"
+      ]
+    },
+    {
+      "id": "eta-04",
+      "youtube_id": "jOTfBlKSQYY",
+      "title": "ETA",
+      "clue": "I'll be there right now, lose that boy on her arm",
+      "answer": "Apa mami nega gyae mot ijeul ttae",
+      "options": [
+        "Apa mami nega gyae mot ijeul ttae",
+        "Nae mal mideo you deserve better than that",
+        "Naega dowajulge",
+        "Gyaeneun geunyang playin'"
+      ]
+    },
+    {
+      "id": "eta-05",
+      "youtube_id": "jOTfBlKSQYY",
+      "title": "ETA",
+      "clue": "He's been totally lyin', yeah",
+      "answer": "Nae saengil patie neoman mot on geunal",
+      "options": [
+        "Nae saengil patie neoman mot on geunal",
+        "Hyejiniga eomcheong honnatdeon geunal",
+        "Jiwoniga yeochinirang heeojin geunal",
+        "Heard him say"
+      ]
+    },
+    {
+      "id": "cool-with-you-01",
+      "youtube_id": "R-Vflly99ZM",
+      "title": "Cool With You",
+      "clue": "You know me like no other",
+      "answer": "Da pyohyeonhaji anado",
+      "options": [
+        "Da pyohyeonhaji anado",
+        "See me like no other (Mm)",
+        "And I think I like your point of view",
+        "I don't care what other people say"
+      ]
+    },
+    {
+      "id": "cool-with-you-02",
+      "youtube_id": "R-Vflly99ZM",
+      "title": "Cool With You",
+      "clue": "Dreaming of each other",
+      "answer": "You may be on my mind (Mind)",
+      "options": [
+        "You may be on my mind (Mind)",
+        "Everyday baby, say you're mine (Mine)",
+        "You and me on my mind (Mind)",
+        "Cool with you (neorang)"
+      ]
+    },
+    {
+      "id": "cool-with-you-03",
+      "youtube_id": "R-Vflly99ZM",
+      "title": "Cool With You",
+      "clue": "You may be on my mind (Mind)",
+      "answer": "Everyday baby, say you're mine (Mine)",
+      "options": [
+        "Everyday baby, say you're mine (Mine)",
+        "You and me on my mind (Mind)",
+        "Everywhere, baby, say you're mine (Mine)",
+        "Cool with you (Gotta tell me now)"
+      ]
+    },
+    {
+      "id": "cool-with-you-04",
+      "youtube_id": "R-Vflly99ZM",
+      "title": "Cool With You",
+      "clue": "Ijjeumeseo jeongmallo",
+      "answer": "Neoneun eotteon gyeolmallo",
+      "options": [
+        "Neoneun eotteon gyeolmallo",
+        "Garyeo hae",
+        "What's the best",
+        "Neoui yeope naega isseul ttae"
+      ]
+    },
+    {
+      "id": "cool-with-you-05",
+      "youtube_id": "R-Vflly99ZM",
+      "title": "Cool With You",
+      "clue": "Cool with you (neorang)",
+      "answer": "Cool with you (Gotta tell me now)",
+      "options": [
+        "Cool with you (Gotta tell me now)",
+        "Cool with you (It just)",
+        "Cool with you (Haha)",
+        "You know me like no other"
+      ]
+    },
+    {
+      "id": "how-sweet-01",
+      "youtube_id": "vrM2mrI83uk",
+      "title": "How Sweet",
+      "clue": "It's like biting an apple",
+      "answer": "Toxic lover",
+      "options": [
+        "Toxic lover",
+        "You're no better geogi sumji malgo eolleun nawa",
+        "You little demon in my storyline",
+        "Don't knock on my door, I'll see you out"
+      ]
+    },
+    {
+      "id": "how-sweet-02",
+      "youtube_id": "vrM2mrI83uk",
+      "title": "How Sweet",
+      "clue": "Toxic lover",
+      "answer": "You're no better geogi sumji malgo eolleun nawa",
+      "options": [
+        "You're no better geogi sumji malgo eolleun nawa",
+        "You're no better geogi sumji malgo ppalli nawa",
+        "You little demon in my storyline",
+        "Don't knock on my door, I'll see you out"
+      ]
+    },
+    {
+      "id": "how-sweet-03",
+      "youtube_id": "vrM2mrI83uk",
+      "title": "How Sweet",
+      "clue": "And don't you know how sweet it tastes (How sweet it tastes)",
+      "answer": "Ya don't you know how sweet it tastes (How sweet it tastes)",
+      "options": [
+        "Ya don't you know how sweet it tastes (How sweet it tastes)",
+        "Ya don't you know how sweet it tastes",
+        "Now that I'm without you",
+        "Na deoneun mutji aneullae (How sweet it tastes)"
+      ]
+    },
+    {
+      "id": "how-sweet-04",
+      "youtube_id": "vrM2mrI83uk",
+      "title": "How Sweet",
+      "clue": "Now that I'm without you",
+      "answer": "Na deoneun mutji aneullae (How sweet it tastes)",
+      "options": [
+        "Na deoneun mutji aneullae (How sweet it tastes)",
+        "Allyeo juji anado dwae (How sweet it tastes)",
+        "Wow, don't you know how sweet it tastes",
+        "I won't wait, I'm feeling"
+      ]
+    },
+    {
+      "id": "how-sweet-05",
+      "youtube_id": "vrM2mrI83uk",
+      "title": "How Sweet",
+      "clue": "I won't wait, I'm feeling",
+      "answer": "My own way, I'm in it",
+      "options": [
+        "My own way, I'm in it",
+        "'Cause me and you are diﬀerent",
+        "So I won't stay, I'm leaving",
+        "Now that I'm without you"
+      ]
+    },
+    {
+      "id": "bubble-gum-01",
+      "youtube_id": "GV_HP7yoIyc",
+      "title": "Bubble Gum",
+      "clue": "You just get my heart pump, pumping",
+      "answer": "Everytime that you're here around me",
+      "options": [
+        "Everytime that you're here around me",
+        "Noraet soriga tto heulleonawa, yeah (Yeah)",
+        "I'm always so excited to meet you",
+        "You're so delicate geopum soge, sumeonne"
+      ]
+    },
+    {
+      "id": "bubble-gum-02",
+      "youtube_id": "GV_HP7yoIyc",
+      "title": "Bubble Gum",
+      "clue": "Oh, you make my heart melt away",
+      "answer": "You're a softie gureum gata",
+      "options": [
+        "You're a softie gureum gata",
+        "Igeon mallo seolmyeong mothae, you got me",
+        "Have you right here in a basket",
+        "Oh, my baby, sweet like bubble gum"
+      ]
+    },
+    {
+      "id": "bubble-gum-03",
+      "youtube_id": "GV_HP7yoIyc",
+      "title": "Bubble Gum",
+      "clue": "Oh, my baby, sweet like bubble gum",
+      "answer": "Bouncin' like playin' ball",
+      "options": [
+        "Bouncin' like playin' ball",
+        "Deo nopi ollyeojwo",
+        "We're gonna fly away",
+        "Sweet like bubble yum"
+      ]
+    },
+    {
+      "id": "bubble-gum-04",
+      "youtube_id": "GV_HP7yoIyc",
+      "title": "Bubble Gum",
+      "clue": "Sweet like bubble yum",
+      "answer": "So smooth, soft like a hug",
+      "options": [
+        "So smooth, soft like a hug",
+        "Deo meolli nallyeojwo",
+        "Let's go far away",
+        "You're my favorite flavor"
+      ]
+    },
+    {
+      "id": "bubble-gum-05",
+      "youtube_id": "GV_HP7yoIyc",
+      "title": "Bubble Gum",
+      "clue": "You're my favorite flavor",
+      "answer": "Bubble gum",
+      "options": [
+        "Bubble gum",
+        "Bubble, bubble, bubble, bubble, bubble, bubble",
+        "Bubble, bubble, bubble gum",
+        "Sweet like bubble gum"
+      ]
+    },
+    {
+      "id": "supernatural-01",
+      "youtube_id": "8yXGI3kcLsw",
+      "title": "Supernatural",
+      "clue": "Stormy night, cloudy sky",
+      "answer": "In the moment, you and I",
+      "options": [
+        "In the moment, you and I",
+        "One more chance",
+        "Neowa na dasi hanbeon mannage",
+        "My feeling's getting deeper"
+      ]
+    },
+    {
+      "id": "supernatural-02",
+      "youtube_id": "8yXGI3kcLsw",
+      "title": "Supernatural",
+      "clue": "My feeling's getting deeper",
+      "answer": "Nae simbaksureul mideo",
+      "options": [
+        "Nae simbaksureul mideo",
+        "Uri inyeoneun gipeo",
+        "I gotta see the meaning of it",
+        "I don't know what we've done"
+      ]
+    },
+    {
+      "id": "supernatural-03",
+      "youtube_id": "8yXGI3kcLsw",
+      "title": "Supernatural",
+      "clue": "Golden moon, diamond stars",
+      "answer": "In a moment, you and I",
+      "options": [
+        "In a moment, you and I",
+        "Second chance, shōganai",
+        "Mōsukoshi matte",
+        "My feeling's getting deeper"
+      ]
+    },
+    {
+      "id": "supernatural-04",
+      "youtube_id": "8yXGI3kcLsw",
+      "title": "Supernatural",
+      "clue": "It's supernatural",
+      "answer": "Geojinmal an hallae",
+      "options": [
+        "Geojinmal an hallae",
+        "Neodo malhae",
+        "Attention we should pay",
+        "It's supernatural"
+      ]
+    },
+    {
+      "id": "supernatural-05",
+      "youtube_id": "8yXGI3kcLsw",
+      "title": "Supernatural",
+      "clue": "Love is here, sitting next to you",
+      "answer": "Watashi to anata",
+      "options": [
+        "Watashi to anata",
+        "Golden moon, diamond stars",
+        "In a moment, we unite",
+        "We had no idea, it's crystal clear"
       ]
     }
   ],
