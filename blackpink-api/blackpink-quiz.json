@@ -1,0 +1,831 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "ddu-du-ddu-du-01",
+      "youtube_id": "605K8QigOAk",
+      "title": "DDU-DU DDU-DU",
+      "clue": "Hit you with that ddu-du ddu-du du",
+      "answer": "Ah yeah, ah yeah",
+      "options": [
+        "Ah yeah, ah yeah",
+        "BLACKPINK in your area",
+        "Oh wait, 'til I do what I do",
+        "I may fall and I may bleed"
+      ]
+    },
+    {
+      "id": "kill-this-love-01",
+      "youtube_id": "2S24-y0Ij3Y",
+      "title": "Kill This Love",
+      "clue": "Rum, pum, pum, pum, pum, pum, pum",
+      "answer": "Let's kill this love",
+      "options": [
+        "Let's kill this love",
+        "Yeah, yeah, yeah",
+        "We must kill this love",
+        "Yeah, it's sad but true"
+      ]
+    },
+    {
+      "id": "how-you-like-that-01",
+      "youtube_id": "ioNng23DkIM",
+      "title": "How You Like That",
+      "clue": "How you like that?",
+      "answer": "You gon' like that, that, that, that, that",
+      "options": [
+        "You gon' like that, that, that, that, that",
+        "Now look at you, now look at me",
+        "Look up in the sky, it's a bird, it's a plane",
+        "Bring out your boss, bitch"
+      ]
+    },
+    {
+      "id": "pink-venom-01",
+      "youtube_id": "gQlMMD8auMs",
+      "title": "Pink Venom",
+      "clue": "This that pink venom",
+      "answer": "This that pink venom, get 'em, get 'em, get 'em",
+      "options": [
+        "This that pink venom, get 'em, get 'em, get 'em",
+        "Straight to ya dome like whoa, whoa, whoa",
+        "Taste that pink venom, taste that pink venom",
+        "Kick in the door, waving the coco"
+      ]
+    },
+    {
+      "id": "shut-down-01",
+      "youtube_id": "POe9SOEKotk",
+      "title": "Shut Down",
+      "clue": "Shut it down, BLACKPINK in your area",
+      "answer": "Shut it down, woah, woah, woah, woah",
+      "options": [
+        "Shut it down, woah, woah, woah, woah",
+        "Keep talking, we shut you down",
+        "Pray for me now",
+        "Need a lesson? See the necklace"
+      ]
+    },
+    {
+      "id": "boombayah-01",
+      "youtube_id": "bwmSjve9cYQ",
+      "title": "BOOMBAYAH",
+      "clue": "Been a bad girl, I know I am",
+      "answer": "And I'm so hot, I need a fan",
+      "options": [
+        "And I'm so hot, I need a fan",
+        "BOOMBAYAH, yah, yah, yah",
+        "Middle finger up, F U pay me",
+        "Click, clack, BOOMBAYAH"
+      ]
+    },
+    {
+      "id": "as-if-its-your-last-01",
+      "youtube_id": "Amq-qlqbjYA",
+      "title": "As If It's Your Last",
+      "clue": "Baby, hold me 'til the daylight",
+      "answer": "Majimakcheoreom, ma-ma-majimakcheoreom",
+      "options": [
+        "Majimakcheoreom, ma-ma-majimakcheoreom",
+        "Little bit of that, little bit of this",
+        "One, two, three, let's go",
+        "Neon nae maeume bulkotcheoreom"
+      ]
+    },
+    {
+      "id": "lovesick-girls-01",
+      "youtube_id": "dyRsY3AcKqE",
+      "title": "Lovesick Girls",
+      "clue": "We are the lovesick girls",
+      "answer": "Neomeojyeodo dwae, apado dwae",
+      "options": [
+        "Neomeojyeodo dwae, apado dwae",
+        "But we were born to be alone",
+        "No love letters, no X and O's",
+        "Didn't wanna be a princess"
+      ]
+    },
+    {
+      "id": "playing-with-fire-01",
+      "youtube_id": "9pdj4iJDhqw",
+      "title": "Playing With Fire",
+      "clue": "My love is on fire",
+      "answer": "Now burn, baby, burn",
+      "options": [
+        "Now burn, baby, burn",
+        "Bulgatchi tteugeowo",
+        "Oh, oh, oh",
+        "Eommae michyeonnabwa"
+      ]
+    },
+    {
+      "id": "whistle-01",
+      "youtube_id": "dISNgvVpWlo",
+      "title": "Whistle",
+      "clue": "Whistle, whistle, whistle, whistle",
+      "answer": "Can you hear that?",
+      "options": [
+        "Can you hear that?",
+        "Hwi-param, param, param",
+        "Make 'em whistle like a missile",
+        "Neon areumdawo"
+      ]
+    },
+    {
+      "id": "ice-cream-01",
+      "youtube_id": "vRXZj0DzXIA",
+      "title": "Ice Cream",
+      "clue": "Ice cream chillin', chillin'",
+      "answer": "Ice cream chillin'",
+      "options": [
+        "Ice cream chillin'",
+        "You ain't never ever had to love so good",
+        "Keep it movin' like my lease up",
+        "Think you wanna be my new thing"
+      ]
+    },
+    {
+      "id": "stay-01",
+      "youtube_id": "FzVR_fHEbBw",
+      "title": "Stay",
+      "clue": "Stay with me, a little longer",
+      "answer": "Itgo sipeodo itji marajwo",
+      "options": [
+        "Itgo sipeodo itji marajwo",
+        "Don't leave me alone",
+        "Stay with me",
+        "Geoul sok neowa na"
+      ]
+    },
+    {
+      "id": "solo-01",
+      "youtube_id": "b73BI9eUkjM",
+      "title": "SOLO",
+      "clue": "Binnaneun sollo",
+      "answer": "I'm going solo-lo-lo-lo-lo-lo",
+      "options": [
+        "I'm going solo-lo-lo-lo-lo-lo",
+        "You're sittin' on your feelings",
+        "I'ma do it on my own now",
+        "Eojedeun oneuldo na hollo"
+      ]
+    },
+    {
+      "id": "flower-01",
+      "youtube_id": "YQ-qToZUybA",
+      "title": "Flower",
+      "clue": "ABC, do-re-mi",
+      "answer": "Geotcheoreom aju yeppeotjiman",
+      "options": [
+        "Geotcheoreom aju yeppeotjiman",
+        "Kkeojiji moshage tto ireoke",
+        "Nunmul kkot bicci nunmul",
+        "Bomhaneun barami naui mam"
+      ]
+    },
+    {
+      "id": "on-the-ground-01",
+      "youtube_id": "CKZvWh_JR1s",
+      "title": "On The Ground",
+      "clue": "I worked my whole life",
+      "answer": "Just to get high, just to realize",
+      "options": [
+        "Just to get high, just to realize",
+        "Everything I need is on the ground",
+        "On the ground",
+        "Way up in the clouds, no one to be found"
+      ]
+    },
+    {
+      "id": "gone-01",
+      "youtube_id": "eQNHDV7lKgE",
+      "title": "Gone",
+      "clue": "Tell me why'd you have to hit and run me",
+      "answer": "Now I'm all alone, cryin' ugly",
+      "options": [
+        "Now I'm all alone, cryin' ugly",
+        "You took my heart, you broke my soul",
+        "I don't wanna be the one to love you",
+        "Tell me why I can't be without you"
+      ]
+    },
+    {
+      "id": "lalisa-01",
+      "youtube_id": "awkkyBH7zOE",
+      "title": "LALISA",
+      "clue": "Say Lalisa, love me, Lalisa, love me",
+      "answer": "Call me Lalisa, love me, Lalisa, love me",
+      "options": [
+        "Call me Lalisa, love me, Lalisa, love me",
+        "Baby, get the megaphone, put it on speaker",
+        "You got the money, money, catch it",
+        "Love me, Lalisa, love me"
+      ]
+    },
+    {
+      "id": "money-01",
+      "youtube_id": "dNCWe_6HAM8",
+      "title": "MONEY",
+      "clue": "Drop some money",
+      "answer": "Droppin' all my money",
+      "options": [
+        "Droppin' all my money",
+        "Drop some money, all this bread so yummy, yeah",
+        "Twerking, twerking when I buy the things I like",
+        "Dolla bills, dolla bills"
+      ]
+    },
+    {
+      "id": "rockstar-01",
+      "youtube_id": "U8ppir8AUi8",
+      "title": "ROCKSTAR",
+      "clue": "Baby, I'm a rockstar",
+      "answer": "Been on a mission, boy, they call me catch and kill",
+      "options": [
+        "Been on a mission, boy, they call me catch and kill",
+        "I'm stealin' hearts, Lisa, Lisa",
+        "Gold teeth sittin' on the dash, she a rockstar",
+        "Make your favorite singer wanna rap, baby, la, la"
+      ]
+    },
+    {
+      "id": "apt-01",
+      "youtube_id": "ekPV2UVT4oU",
+      "title": "APT.",
+      "clue": "Apateu, apateu",
+      "answer": "Ije mak chwihaesseo ige ne mutji?",
+      "options": [
+        "Ije mak chwihaesseo ige ne mutji?",
+        "Kissy face, kissy face, sent to your phone, but",
+        "Chae Young-ie game start",
+        "Sleep tomorrow, but tonight go crazy"
+      ]
+    },
+    {
+      "id": "mantra-01",
+      "youtube_id": "bBKeb5GogCM",
+      "title": "Mantra",
+      "clue": "Pretty, pretty, pretty, pretty",
+      "answer": "This that pretty-girl mantra",
+      "options": [
+        "This that pretty-girl mantra",
+        "She's a stunner",
+        "Test me, I look extra pretty",
+        "All my girls with me, let me hear you"
+      ]
+    },
+    {
+      "id": "click-01",
+      "youtube_id": "sf02ugzPFE4",
+      "title": "CLICK",
+      "clue": "But when you hold me like this",
+      "answer": "And kiss away our differences",
+      "options": [
+        "And kiss away our differences",
+        "There's no explanation for it",
+        "It's just the way our bodies click",
+        "Your lips, my lips, click"
+      ]
+    },
+    {
+      "id": "sawadika-01",
+      "youtube_id": "FyS5dAywkEo",
+      "title": "SaWaDiKa",
+      "clue": "Hello Sawadika",
+      "answer": "Yeah, you know my wrist is cold",
+      "options": [
+        "Yeah, you know my wrist is cold",
+        "Got this time piece from Geneva",
+        "If you know it, then you know",
+        "La la Lisa la diva, Sawadika, there she go"
+      ]
+    },
+    {
+      "id": "less-than-a-lover-01",
+      "youtube_id": "z9ifbheDGFM",
+      "title": "Less than a Lover",
+      "clue": "Is a little bit less than a lover",
+      "answer": "Need a little bit less than a lover",
+      "options": [
+        "Need a little bit less than a lover",
+        "You get a little bit more than another",
+        "Need a little bit less, little less, little less",
+        "It's more beautiful when we open up"
+      ]
+    },
+    {
+      "id": "ddu-du-ddu-du-02",
+      "youtube_id": "605K8QigOAk",
+      "title": "DDU-DU DDU-DU",
+      "clue": "Oh wait, 'til I do what I do",
+      "answer": "Hit you with that ddu-du ddu-du du",
+      "options": [
+        "Hit you with that ddu-du ddu-du du",
+        "Ah yeah, ah yeah",
+        "BLACKPINK in your area",
+        "I may fall and I may bleed"
+      ]
+    },
+    {
+      "id": "kill-this-love-02",
+      "youtube_id": "2S24-y0Ij3Y",
+      "title": "Kill This Love",
+      "clue": "Yeah, yeah, yeah",
+      "answer": "We must kill this love",
+      "options": [
+        "We must kill this love",
+        "Let's kill this love",
+        "Yeah, it's sad but true",
+        "Feelin' like a sinner"
+      ]
+    },
+    {
+      "id": "how-you-like-that-02",
+      "youtube_id": "ioNng23DkIM",
+      "title": "How You Like That",
+      "clue": "Look up in the sky, it's a bird, it's a plane",
+      "answer": "Bring out your boss, bitch",
+      "options": [
+        "Bring out your boss, bitch",
+        "How you like that?",
+        "Now look at you, now look at me",
+        "You gon' like that, that, that, that, that"
+      ]
+    },
+    {
+      "id": "pink-venom-02",
+      "youtube_id": "gQlMMD8auMs",
+      "title": "Pink Venom",
+      "clue": "Kick in the door, waving the coco",
+      "answer": "Taste that pink venom, taste that pink venom",
+      "options": [
+        "Taste that pink venom, taste that pink venom",
+        "This that pink venom",
+        "Straight to ya dome like whoa, whoa, whoa",
+        "Black paint and ammo"
+      ]
+    },
+    {
+      "id": "shut-down-02",
+      "youtube_id": "POe9SOEKotk",
+      "title": "Shut Down",
+      "clue": "Need a lesson? See the necklace",
+      "answer": "Pray for me now",
+      "options": [
+        "Pray for me now",
+        "Keep talking, we shut you down",
+        "When we pull up, you know it's a shutdown",
+        "Shut it down, woah, woah, woah, woah"
+      ]
+    },
+    {
+      "id": "boombayah-02",
+      "youtube_id": "bwmSjve9cYQ",
+      "title": "BOOMBAYAH",
+      "clue": "Click, clack, BOOMBAYAH",
+      "answer": "BOOMBAYAH, yah, yah, yah",
+      "options": [
+        "BOOMBAYAH, yah, yah, yah",
+        "Been a bad girl, I know I am",
+        "And I'm so hot, I need a fan",
+        "Middle finger up, F U pay me"
+      ]
+    },
+    {
+      "id": "as-if-its-your-last-02",
+      "youtube_id": "Amq-qlqbjYA",
+      "title": "As If It's Your Last",
+      "clue": "Neon nae maeume bulkotcheoreom",
+      "answer": "Hwalhwal taolla deo",
+      "options": [
+        "Hwalhwal taolla deo",
+        "Majimakcheoreom, ma-ma-majimakcheoreom",
+        "One, two, three, let's go",
+        "Baby, hold me 'til the daylight"
+      ]
+    },
+    {
+      "id": "lovesick-girls-02",
+      "youtube_id": "dyRsY3AcKqE",
+      "title": "Lovesick Girls",
+      "clue": "But we were born to be alone",
+      "answer": "Yeah, we were born to be alone",
+      "options": [
+        "Yeah, we were born to be alone",
+        "We are the lovesick girls",
+        "No love letters, no X and O's",
+        "Didn't wanna be a princess, I'm priceless"
+      ]
+    },
+    {
+      "id": "playing-with-fire-02",
+      "youtube_id": "9pdj4iJDhqw",
+      "title": "Playing With Fire",
+      "clue": "Bulgatchi tteugeowo",
+      "answer": "Eommae michyeonnabwa",
+      "options": [
+        "Eommae michyeonnabwa",
+        "My love is on fire",
+        "Now burn, baby, burn",
+        "Oh, oh, oh"
+      ]
+    },
+    {
+      "id": "whistle-02",
+      "youtube_id": "dISNgvVpWlo",
+      "title": "Whistle",
+      "clue": "Make 'em whistle like a missile",
+      "answer": "Hwi-param, param, param",
+      "options": [
+        "Hwi-param, param, param",
+        "Whistle, whistle, whistle, whistle",
+        "Can you hear that?",
+        "Neon areumdawo"
+      ]
+    },
+    {
+      "id": "ice-cream-02",
+      "youtube_id": "vRXZj0DzXIA",
+      "title": "Ice Cream",
+      "clue": "You ain't never ever had to love so good",
+      "answer": "Keep it movin' like my lease up",
+      "options": [
+        "Keep it movin' like my lease up",
+        "Ice cream chillin', chillin'",
+        "Think you wanna be my new thing",
+        "La, la, la, la, la"
+      ]
+    },
+    {
+      "id": "stay-02",
+      "youtube_id": "FzVR_fHEbBw",
+      "title": "Stay",
+      "clue": "Itgo sipeodo itji marajwo",
+      "answer": "Don't leave me alone",
+      "options": [
+        "Don't leave me alone",
+        "Stay with me, a little longer",
+        "Stay with me",
+        "Geoul sok neowa na"
+      ]
+    },
+    {
+      "id": "solo-02",
+      "youtube_id": "b73BI9eUkjM",
+      "title": "SOLO",
+      "clue": "You're sittin' on your feelings",
+      "answer": "I'ma do it on my own now",
+      "options": [
+        "I'ma do it on my own now",
+        "Binnaneun sollo",
+        "I'm going solo-lo-lo-lo-lo-lo",
+        "Eojedeun oneuldo na hollo"
+      ]
+    },
+    {
+      "id": "flower-02",
+      "youtube_id": "YQ-qToZUybA",
+      "title": "Flower",
+      "clue": "Nunmul kkot bicci nunmul",
+      "answer": "Kkeojiji moshage tto ireoke",
+      "options": [
+        "Kkeojiji moshage tto ireoke",
+        "ABC, do-re-mi",
+        "Geotcheoreom aju yeppeotjiman",
+        "Bomhaneun barami naui mam"
+      ]
+    },
+    {
+      "id": "on-the-ground-02",
+      "youtube_id": "CKZvWh_JR1s",
+      "title": "On The Ground",
+      "clue": "Everything I need is on the ground",
+      "answer": "On the ground",
+      "options": [
+        "On the ground",
+        "I worked my whole life",
+        "Just to get high, just to realize",
+        "Way up in the clouds, no one to be found"
+      ]
+    },
+    {
+      "id": "gone-02",
+      "youtube_id": "eQNHDV7lKgE",
+      "title": "Gone",
+      "clue": "You took my heart, you broke my soul",
+      "answer": "I don't wanna be the one to love you",
+      "options": [
+        "I don't wanna be the one to love you",
+        "Tell me why'd you have to hit and run me",
+        "Now I'm all alone, cryin' ugly",
+        "Tell me why I can't be without you"
+      ]
+    },
+    {
+      "id": "lalisa-02",
+      "youtube_id": "awkkyBH7zOE",
+      "title": "LALISA",
+      "clue": "Baby, get the megaphone, put it on speaker",
+      "answer": "I said I can't hear you, so you need to speak up",
+      "options": [
+        "I said I can't hear you, so you need to speak up",
+        "Say Lalisa, love me, Lalisa, love me",
+        "Call me Lalisa, love me, Lalisa, love me",
+        "Love me, Lalisa, love me"
+      ]
+    },
+    {
+      "id": "money-02",
+      "youtube_id": "dNCWe_6HAM8",
+      "title": "MONEY",
+      "clue": "Drop some money, all this bread so yummy, yeah",
+      "answer": "Twerking, twerking when I buy the things I like",
+      "options": [
+        "Twerking, twerking when I buy the things I like",
+        "Drop some money",
+        "Droppin' all my money",
+        "Dolla bills, dolla bills"
+      ]
+    },
+    {
+      "id": "rockstar-02",
+      "youtube_id": "U8ppir8AUi8",
+      "title": "ROCKSTAR",
+      "clue": "Gold teeth sittin' on the dash, she a rockstar",
+      "answer": "Make your favorite singer wanna rap, baby, la, la",
+      "options": [
+        "Make your favorite singer wanna rap, baby, la, la",
+        "Baby, I'm a rockstar",
+        "Been on a mission, boy, they call me catch and kill",
+        "I'm stealin' hearts, Lisa, Lisa"
+      ]
+    },
+    {
+      "id": "apt-02",
+      "youtube_id": "ekPV2UVT4oU",
+      "title": "APT.",
+      "clue": "Kissy face, kissy face, sent to your phone, but",
+      "answer": "I'm tryna kiss your lips for real",
+      "options": [
+        "I'm tryna kiss your lips for real",
+        "Apateu, apateu",
+        "Chae Young-ie game start",
+        "Sleep tomorrow, but tonight go crazy"
+      ]
+    },
+    {
+      "id": "mantra-02",
+      "youtube_id": "bBKeb5GogCM",
+      "title": "Mantra",
+      "clue": "She's a stunner",
+      "answer": "All my girls with me, let me hear you",
+      "options": [
+        "All my girls with me, let me hear you",
+        "Pretty, pretty, pretty, pretty",
+        "This that pretty-girl mantra",
+        "Test me, I look extra pretty"
+      ]
+    },
+    {
+      "id": "click-02",
+      "youtube_id": "sf02ugzPFE4",
+      "title": "CLICK",
+      "clue": "There's no explanation for it",
+      "answer": "It's just the way our bodies click",
+      "options": [
+        "It's just the way our bodies click",
+        "But when you hold me like this",
+        "And kiss away our differences",
+        "Your lips, my lips, click"
+      ]
+    },
+    {
+      "id": "sawadika-02",
+      "youtube_id": "FyS5dAywkEo",
+      "title": "SaWaDiKa",
+      "clue": "Got this time piece from Geneva",
+      "answer": "If you know it, then you know",
+      "options": [
+        "If you know it, then you know",
+        "Hello Sawadika",
+        "Yeah, you know my wrist is cold",
+        "La la Lisa la diva, Sawadika, there she go"
+      ]
+    },
+    {
+      "id": "less-than-a-lover-02",
+      "youtube_id": "z9ifbheDGFM",
+      "title": "Less than a Lover",
+      "clue": "You get a little bit more than another",
+      "answer": "Need a little bit less, little less, little less",
+      "options": [
+        "Need a little bit less, little less, little less",
+        "Is a little bit less than a lover",
+        "Need a little bit less than a lover",
+        "It's more beautiful when we open up"
+      ]
+    },
+    {
+      "id": "jump-01",
+      "youtube_id": "CgCVZdcKcqY",
+      "title": "JUMP",
+      "clue": "I'm not that easy to tame",
+      "answer": "You should see me under these lights",
+      "options": [
+        "You should see me under these lights",
+        "All my tears turn to ice",
+        "That's the sweetest escape",
+        "Every time the feeling kicks in, I might stay"
+      ]
+    },
+    {
+      "id": "jump-02",
+      "youtube_id": "CgCVZdcKcqY",
+      "title": "JUMP",
+      "clue": "All my tears turn to ice",
+      "answer": "That's the sweetest escape",
+      "options": [
+        "That's the sweetest escape",
+        "I'm not that easy to tame",
+        "You should see me under these lights",
+        "Ttwieo, ttwieo, jump"
+      ]
+    },
+    {
+      "id": "forever-young-01",
+      "youtube_id": "-gibBYpzZbI",
+      "title": "Forever Young",
+      "clue": "Taeyang jari jil ttaekkaji dallyeo",
+      "answer": "Ne nun soge bichin naui moseup",
+      "options": [
+        "Ne nun soge bichin naui moseup",
+        "Forever young, forever young",
+        "Let's go, girls",
+        "BLACKPINK is the revolution"
+      ]
+    },
+    {
+      "id": "dont-know-what-to-do-01",
+      "youtube_id": "1oYwBgFOTHg",
+      "title": "Don't Know What To Do",
+      "clue": "Don't know what to do without you",
+      "answer": "Yeah, hey, hey",
+      "options": [
+        "Yeah, hey, hey",
+        "Jamkkan nuga siganeul jom meomchwobwa",
+        "Anya gwaenchantago malhajiman",
+        "Geuryeobon ni gieogeun blue"
+      ]
+    },
+    {
+      "id": "dont-know-what-to-do-02",
+      "youtube_id": "1oYwBgFOTHg",
+      "title": "Don't Know What To Do",
+      "clue": "Jamkkan nuga siganeul jom meomchwobwa",
+      "answer": "Monga keuge eogeunnan geol nan neukkyeo",
+      "options": [
+        "Monga keuge eogeunnan geol nan neukkyeo",
+        "Don't know what to do without you",
+        "Yeah, hey, hey",
+        "Sarameun byeonhae, wae naman irae"
+      ]
+    },
+    {
+      "id": "pretty-savage-01",
+      "youtube_id": "eCZq1kFw3-Q",
+      "title": "Pretty Savage",
+      "clue": "Biseushan geot gatji, urin pretty savage",
+      "answer": "Savage, yeah, we some savages",
+      "options": [
+        "Savage, yeah, we some savages",
+        "Uh-huh, uh-huh",
+        "BLACKPINK in your area",
+        "All my diamonds, they yellow or bright white"
+      ]
+    },
+    {
+      "id": "typa-girl-01",
+      "youtube_id": "aq4QJnoD1k4",
+      "title": "Typa Girl",
+      "clue": "I'm not like these other girls at all",
+      "answer": "I'm the typa girl that make you forget that you got a type",
+      "options": [
+        "I'm the typa girl that make you forget that you got a type",
+        "Type, type, typa girl",
+        "Louis Vuitton, Jimmy Choo, that's on you",
+        "Diamonds on my wrist and they dancin'"
+      ]
+    },
+    {
+      "id": "new-woman-01",
+      "youtube_id": "UxXY_hR_wzo",
+      "title": "New Woman",
+      "clue": "Purple into gold",
+      "answer": "Pain has come and gone again",
+      "options": [
+        "Pain has come and gone again",
+        "Walked through the fire, I was born to be a fighter",
+        "So I cut, I go, go to the root",
+        "Hit it from the back, then I make a flip"
+      ]
+    },
+    {
+      "id": "new-woman-02",
+      "youtube_id": "UxXY_hR_wzo",
+      "title": "New Woman",
+      "clue": "Walked through the fire, I was born to be a fighter",
+      "answer": "So I cut, I go, go to the root",
+      "options": [
+        "So I cut, I go, go to the root",
+        "Off to bloom, yeah",
+        "Purple into gold",
+        "You never met a bitch like me"
+      ]
+    },
+    {
+      "id": "toxic-till-the-end-01",
+      "youtube_id": "eA0lHNZ1KCA",
+      "title": "toxic till the end",
+      "clue": "Call us toxic from the start",
+      "answer": "But I'm still obsessed with you",
+      "options": [
+        "But I'm still obsessed with you",
+        "You loved to hate me",
+        "We're toxic till the end",
+        "U and I, it was heaven at the start"
+      ]
+    },
+    {
+      "id": "toxic-till-the-end-02",
+      "youtube_id": "eA0lHNZ1KCA",
+      "title": "toxic till the end",
+      "clue": "We're toxic till the end",
+      "answer": "U and I, it was heaven at the start",
+      "options": [
+        "U and I, it was heaven at the start",
+        "Call us toxic from the start",
+        "But I'm still obsessed with you",
+        "Now I know what you do"
+      ]
+    }
+  ],
+  "leaderboard": [
+    { "name": "Sofia", "score": 2450, "country": "Indonesia" },
+    { "name": "Minho", "score": 2100, "country": "South Korea" },
+    { "name": "Aiko", "score": 1875, "country": "Japan" },
+    { "name": "Liam", "score": 1500, "country": "United States" },
+    { "name": "Putri", "score": 1275, "country": "Indonesia" },
+    { "name": "Chen", "score": 950, "country": "China" },
+    { "name": "Maria", "score": 700, "country": "Philippines" },
+    { "name": "Alex", "score": 450, "country": "Germany" }
+  ],
+  "event_list": [
+    {
+      "id": "ev-comeback-race",
+      "title": "Comeback Race: Best Score Wins",
+      "description": "Push your highest single-run score during the comeback week. Top scorer takes home the merch!",
+      "image": "https://i.ytimg.com/vi/605K8QigOAk/maxresdefault.jpg",
+      "prize": "Signed BLACKPINK Album + Photocard Set",
+      "prize_image": "https://i.ytimg.com/vi/gQlMMD8auMs/maxresdefault.jpg",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-30",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "One winner per device"
+      ],
+      "min_score": 500
+    },
+    {
+      "id": "ev-october-lyric-fest",
+      "title": "October Lyric Fest",
+      "description": "Warm up your lyrics knowledge before the October stage!",
+      "image": "https://i.ytimg.com/vi/2S24-y0Ij3Y/maxresdefault.jpg",
+      "prize": "Official BLACKPINK Lightstick",
+      "prize_image": "https://i.ytimg.com/vi/ioNng23DkIM/maxresdefault.jpg",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-20",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins",
+        "Winner announced in-app"
+      ],
+      "min_score": 1000
+    },
+    {
+      "id": "ev-debut-cup",
+      "title": "Debut Anniversary Cup",
+      "description": "Our first score race — thank you to everyone who joined!",
+      "image": "https://i.ytimg.com/vi/bwmSjve9cYQ/maxresdefault.jpg",
+      "prize": "Poster Set",
+      "prize_image": "https://i.ytimg.com/vi/Amq-qlqbjYA/maxresdefault.jpg",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-15",
+      "rules": [
+        "Unlimited runs during the event period",
+        "Highest single-run score wins"
+      ],
+      "min_score": 500
+    }
+  ]
+}
