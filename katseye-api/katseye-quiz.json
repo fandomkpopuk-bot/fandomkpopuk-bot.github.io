@@ -654,44 +654,109 @@
   ],
   "leaderboard": [
     {
+      "name": "Luzi",
+      "country": "Somalia 🇸🇴",
+      "score": 3700
+    },
+    {
+      "name": "Таснин",
+      "country": "Казахстан",
+      "score": 1525
+    },
+    {
+      "name": "Nidar",
+      "country": "YoutubeR",
+      "score": 1150
+    },
+    {
+      "name": "Amalia Belen",
+      "country": "Peru",
+      "score": 1075
+    },
+    {
+      "name": "EYEKON",
+      "country": "USA",
+      "score": 975
+    },
+    {
+      "name": "Sedera",
+      "country": "Madagascar",
+      "score": 975
+    },
+    {
       "name": "Molly",
-      "score": 927,
-      "country": "USA"
+      "country": "USA",
+      "score": 927
+    },
+    {
+      "name": "Nicole",
+      "country": "Castillo",
+      "score": 925
     },
     {
       "name": "Javier",
-      "score": 918,
-      "country": "Mexico"
+      "country": "Mexico",
+      "score": 918
     },
     {
       "name": "Opal",
-      "score": 909,
-      "country": "Australia"
+      "country": "Australia",
+      "score": 909
     },
     {
       "name": "Reza",
-      "score": 901,
-      "country": "Indonesia"
+      "country": "Indonesia",
+      "score": 901
     },
     {
       "name": "Tania",
-      "score": 892,
-      "country": "Brazil"
+      "country": "Brazil",
+      "score": 892
     },
     {
       "name": "Umar",
-      "score": 883,
-      "country": "Egypt"
+      "country": "Egypt",
+      "score": 883
     },
     {
       "name": "Vina",
-      "score": 874,
-      "country": "Indonesia"
+      "country": "Indonesia",
+      "score": 874
     },
     {
       "name": "Wesley",
-      "score": 865,
-      "country": "South Africa"
+      "country": "South Africa",
+      "score": 865
+    },
+    {
+      "name": "Evelina",
+      "country": "Europe",
+      "score": 750
+    },
+    {
+      "name": "Besan",
+      "country": "Egypt",
+      "score": 750
+    },
+    {
+      "name": "Lara",
+      "country": "Aj",
+      "score": 700
+    },
+    {
+      "name": "Kyessi",
+      "country": "FRENCH",
+      "score": 600
+    },
+    {
+      "name": "Daniela",
+      "country": "Daniela Avazing",
+      "score": 575
+    },
+    {
+      "name": "Eglantina",
+      "country": "Italy",
+      "score": 550
     }
   ],
   "event_list": [

@@ -772,43 +772,48 @@
   "leaderboard": [
     {
       "name": "Amara",
-      "score": 1428,
-      "country": "Nigeria"
+      "country": "Nigeria",
+      "score": 1428
     },
     {
       "name": "Kenzo",
-      "score": 1419,
-      "country": "Japan"
+      "country": "Japan",
+      "score": 1419
     },
     {
       "name": "Ivy",
-      "score": 1411,
-      "country": "Canada"
+      "country": "Canada",
+      "score": 1411
     },
     {
       "name": "Dante",
-      "score": 1402,
-      "country": "Mexico"
+      "country": "Mexico",
+      "score": 1402
     },
     {
       "name": "Sari",
-      "score": 1393,
-      "country": "Indonesia"
+      "country": "Indonesia",
+      "score": 1393
     },
     {
       "name": "Hugo",
-      "score": 1384,
-      "country": "Germany"
+      "country": "Germany",
+      "score": 1384
     },
     {
       "name": "Nia",
-      "score": 1375,
-      "country": "Kenya"
+      "country": "Kenya",
+      "score": 1375
     },
     {
       "name": "Jaxon",
-      "score": 1366,
-      "country": "USA"
+      "country": "USA",
+      "score": 1366
+    },
+    {
+      "name": "Ssha",
+      "country": "Netherlands",
+      "score": 550
     }
   ],
   "event_list": [

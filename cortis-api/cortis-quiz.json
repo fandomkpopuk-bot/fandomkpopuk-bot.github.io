@@ -316,44 +316,84 @@
   ],
   "leaderboard": [
     {
+      "name": "Kai",
+      "country": "Saudi Arabia",
+      "score": 9200
+    },
+    {
       "name": "Petra",
-      "score": 1285,
-      "country": "Czechia"
+      "country": "Czechia",
+      "score": 1285
     },
     {
       "name": "Alden",
-      "score": 1276,
-      "country": "USA"
+      "country": "USA",
+      "score": 1276
     },
     {
       "name": "Sinta",
-      "score": 1267,
-      "country": "Indonesia"
+      "country": "Indonesia",
+      "score": 1267
     },
     {
       "name": "Marvin",
-      "score": 1258,
-      "country": "Germany"
+      "country": "Germany",
+      "score": 1258
     },
     {
       "name": "Talia",
-      "score": 1249,
-      "country": "Israel"
+      "country": "Israel",
+      "score": 1249
     },
     {
       "name": "Reno",
-      "score": 1241,
-      "country": "Japan"
+      "country": "Japan",
+      "score": 1241
     },
     {
       "name": "Vera",
-      "score": 1232,
-      "country": "Ukraine"
+      "country": "Ukraine",
+      "score": 1232
     },
     {
       "name": "Kenta",
-      "score": 1223,
-      "country": "Japan"
+      "country": "Japan",
+      "score": 1223
+    },
+    {
+      "name": "ahnnOoe",
+      "country": "loveusomuch",
+      "score": 1125
+    },
+    {
+      "name": "Nayaaaa",
+      "country": "Pakistan",
+      "score": 975
+    },
+    {
+      "name": "Ruhul",
+      "country": "Malaysia",
+      "score": 850
+    },
+    {
+      "name": "Caratie",
+      "country": "Poland",
+      "score": 600
+    },
+    {
+      "name": "ines",
+      "country": "italy-morocco",
+      "score": 575
+    },
+    {
+      "name": "Dorji Yudon",
+      "country": "Bhutan",
+      "score": 550
+    },
+    {
+      "name": "ok",
+      "country": "ghkh",
+      "score": 550
     }
   ],
   "event_list": [

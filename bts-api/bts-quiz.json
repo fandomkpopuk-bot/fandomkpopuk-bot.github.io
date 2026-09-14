@@ -758,44 +758,59 @@
   ],
   "leaderboard": [
     {
+      "name": "Miangoty",
+      "country": "Madagascar",
+      "score": 3725
+    },
+    {
       "name": "Thiago",
-      "score": 1357,
-      "country": "Brazil"
+      "country": "Brazil",
+      "score": 1357
     },
     {
       "name": "Ayla",
-      "score": 1348,
-      "country": "Turkey"
+      "country": "Turkey",
+      "score": 1348
     },
     {
       "name": "Ravi",
-      "score": 1339,
-      "country": "India"
+      "country": "India",
+      "score": 1339
     },
     {
       "name": "Celine",
-      "score": 1330,
-      "country": "France"
+      "country": "France",
+      "score": 1330
     },
     {
       "name": "Bagas",
-      "score": 1321,
-      "country": "Indonesia"
+      "country": "Indonesia",
+      "score": 1321
     },
     {
       "name": "Noa",
-      "score": 1312,
-      "country": "Netherlands"
+      "country": "Netherlands",
+      "score": 1312
     },
     {
       "name": "Kira",
-      "score": 1303,
-      "country": "Russia"
+      "country": "Russia",
+      "score": 1303
+    },
+    {
+      "name": "Shivani",
+      "country": "India",
+      "score": 1300
     },
     {
       "name": "Esme",
-      "score": 1294,
-      "country": "UK"
+      "country": "UK",
+      "score": 1294
+    },
+    {
+      "name": "𝑉𝑖𝑐𝑡𝑜𝑟𝑖𝑎",
+      "country": "𝑀𝑎𝑙𝑎𝑦𝑠𝑖𝑎",
+      "score": 1125
     }
   ],
   "event_list": [

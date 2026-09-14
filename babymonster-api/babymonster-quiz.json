@@ -420,44 +420,64 @@
   ],
   "leaderboard": [
     {
+      "name": "Miangoty",
+      "country": "Madagascar",
+      "score": 6275
+    },
+    {
       "name": "Zara",
-      "score": 1500,
-      "country": "France"
+      "country": "France",
+      "score": 1500
     },
     {
       "name": "Kaito",
-      "score": 1491,
-      "country": "Japan"
+      "country": "Japan",
+      "score": 1491
     },
     {
       "name": "Luna",
-      "score": 1482,
-      "country": "Brazil"
+      "country": "Brazil",
+      "score": 1482
     },
     {
       "name": "Rio",
-      "score": 1473,
-      "country": "Spain"
+      "country": "Spain",
+      "score": 1473
     },
     {
       "name": "Freya",
-      "score": 1464,
-      "country": "Norway"
+      "country": "Norway",
+      "score": 1464
     },
     {
       "name": "Dimas",
-      "score": 1455,
-      "country": "Indonesia"
+      "country": "Indonesia",
+      "score": 1455
+    },
+    {
+      "name": "Sophie",
+      "country": "France",
+      "score": 1450
     },
     {
       "name": "Elif",
-      "score": 1446,
-      "country": "Turkey"
+      "country": "Turkey",
+      "score": 1446
     },
     {
       "name": "Milo",
-      "score": 1437,
-      "country": "Italy"
+      "country": "Italy",
+      "score": 1437
+    },
+    {
+      "name": "Mia",
+      "country": "Chile",
+      "score": 1025
+    },
+    {
+      "name": "Aditi",
+      "country": "India",
+      "score": 775
     }
   ],
   "event_list": [

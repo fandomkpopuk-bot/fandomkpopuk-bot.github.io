@@ -524,44 +524,69 @@
   ],
   "leaderboard": [
     {
+      "name": "Bruno",
+      "country": "Indoneaia",
+      "score": 4125
+    },
+    {
+      "name": "ICHIGO",
+      "country": "Brasil",
+      "score": 1300
+    },
+    {
+      "name": "Andrea Marín",
+      "country": "Venezuela",
+      "score": 1225
+    },
+    {
+      "name": "alicia",
+      "country": "yerlin",
+      "score": 775
+    },
+    {
+      "name": "로카",
+      "country": "Egypt",
+      "score": 775
+    },
+    {
       "name": "Pixel",
-      "score": 713,
-      "country": "USA"
+      "country": "USA",
+      "score": 713
     },
     {
       "name": "Qori",
-      "score": 704,
-      "country": "Indonesia"
+      "country": "Indonesia",
+      "score": 704
     },
     {
       "name": "Rex",
-      "score": 695,
-      "country": "Canada"
+      "country": "Canada",
+      "score": 695
     },
     {
       "name": "Sella",
-      "score": 686,
-      "country": "Indonesia"
+      "country": "Indonesia",
+      "score": 686
     },
     {
       "name": "Topher",
-      "score": 677,
-      "country": "UK"
+      "country": "UK",
+      "score": 677
     },
     {
       "name": "Ulfa",
-      "score": 668,
-      "country": "Indonesia"
+      "country": "Indonesia",
+      "score": 668
     },
     {
       "name": "Vicky",
-      "score": 659,
-      "country": "Hong Kong"
+      "country": "Hong Kong",
+      "score": 659
     },
     {
       "name": "Wibi",
-      "score": 650,
-      "country": "Indonesia"
+      "country": "Indonesia",
+      "score": 650
     }
   ],
   "event_list": [
