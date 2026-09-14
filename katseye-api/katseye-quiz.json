@@ -654,6 +654,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Milica",
+      "country": "Montenegro",
+      "score": 7600
+    },
+    {
       "name": "Luzi",
       "country": "Somalia 🇸🇴",
       "score": 3700
@@ -684,79 +689,9 @@
       "score": 975
     },
     {
-      "name": "Molly",
-      "country": "USA",
-      "score": 927
-    },
-    {
       "name": "Nicole",
       "country": "Castillo",
       "score": 925
-    },
-    {
-      "name": "Javier",
-      "country": "Mexico",
-      "score": 918
-    },
-    {
-      "name": "Opal",
-      "country": "Australia",
-      "score": 909
-    },
-    {
-      "name": "Reza",
-      "country": "Indonesia",
-      "score": 901
-    },
-    {
-      "name": "Tania",
-      "country": "Brazil",
-      "score": 892
-    },
-    {
-      "name": "Umar",
-      "country": "Egypt",
-      "score": 883
-    },
-    {
-      "name": "Vina",
-      "country": "Indonesia",
-      "score": 874
-    },
-    {
-      "name": "Wesley",
-      "country": "South Africa",
-      "score": 865
-    },
-    {
-      "name": "Evelina",
-      "country": "Europe",
-      "score": 750
-    },
-    {
-      "name": "Besan",
-      "country": "Egypt",
-      "score": 750
-    },
-    {
-      "name": "Lara",
-      "country": "Aj",
-      "score": 700
-    },
-    {
-      "name": "Kyessi",
-      "country": "FRENCH",
-      "score": 600
-    },
-    {
-      "name": "Daniela",
-      "country": "Daniela Avazing",
-      "score": 575
-    },
-    {
-      "name": "Eglantina",
-      "country": "Italy",
-      "score": 550
     }
   ],
   "event_list": [

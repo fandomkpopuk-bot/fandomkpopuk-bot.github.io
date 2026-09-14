@@ -1,0 +1,37 @@
+[
+    {
+        "app_name": "BABYMONSTER",
+        "api_dir": "babymonster-api",
+        "page_redirect": "babymonster-stan"
+    },
+    {
+        "app_name": "KATSEYE",
+        "api_dir": "katseye-api",
+        "page_redirect": "katseye-stan"
+    },
+    {
+        "app_name": "CORTIS",
+        "api_dir": "cortis-api",
+        "page_redirect": "cortis-stan"
+    },
+    {
+        "app_name": "BTS - ARMY",
+        "api_dir": "bts-api",
+        "page_redirect": "bts-stand"
+    },
+    {
+        "app_name": "HEARTS2HEARTS",
+        "api_dir": "hearts2hearts-api",
+        "page_redirect": "hearts2hearts-stan"
+    },
+    {
+        "app_name": "STRAYKIDS",
+        "api_dir": "straykids-api",
+        "page_redirect": "straykids-stan"
+    },
+    {
+        "app_name": "BLACKPINK - BLINK",
+        "api_dir": "blackpink-api",
+        "page_redirect": "blackpink-stan"
+    }
+]
