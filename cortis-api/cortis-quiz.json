@@ -341,6 +341,11 @@
       "score": 850
     },
     {
+      "name": "Ruth",
+      "country": "Brasil",
+      "score": 775
+    },
+    {
       "name": "Caratie",
       "country": "Poland",
       "score": 600
@@ -349,11 +354,6 @@
       "name": "SONKAI",
       "country": "India",
       "score": 600
-    },
-    {
-      "name": "ines",
-      "country": "italy-morocco",
-      "score": 575
     }
   ],
   "event_list": [

@@ -654,6 +654,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Zichols(Zoe",
+      "country": "Philippines",
+      "score": 12675
+    },
+    {
       "name": "Lacie",
       "country": "Uk",
       "score": 7825
@@ -687,11 +692,6 @@
       "name": "Таснин",
       "country": "Казахстан",
       "score": 1525
-    },
-    {
-      "name": "Astro Novalite",
-      "country": "Philippines",
-      "score": 1325
     }
   ],
   "event_list": [
