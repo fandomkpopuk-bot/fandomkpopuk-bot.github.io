@@ -394,44 +394,19 @@
   ],
   "leaderboard": [
     {
-      "name": "Clara",
-      "score": 1071,
-      "country": "Germany"
+      "name": "Sarah",
+      "country": "Maldives",
+      "score": 1200
     },
     {
-      "name": "Dian",
-      "score": 1062,
-      "country": "Indonesia"
-    },
-    {
-      "name": "Micah",
-      "score": 1053,
-      "country": "USA"
+      "name": "Mila",
+      "country": "Chile",
+      "score": 750
     },
     {
       "name": "Hana",
-      "score": 1044,
-      "country": "South Korea"
-    },
-    {
-      "name": "Lionel",
-      "score": 1035,
-      "country": "France"
-    },
-    {
-      "name": "Qiana",
-      "score": 1026,
-      "country": "USA"
-    },
-    {
-      "name": "Troy",
-      "score": 1017,
-      "country": "Canada"
-    },
-    {
-      "name": "Sasha",
-      "score": 1008,
-      "country": "Russia"
+      "country": "Bosnia",
+      "score": 600
     }
   ],
   "event_list": [

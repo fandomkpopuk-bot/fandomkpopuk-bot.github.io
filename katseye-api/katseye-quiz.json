@@ -654,9 +654,19 @@
   ],
   "leaderboard": [
     {
+      "name": "Lacie",
+      "country": "Uk",
+      "score": 7825
+    },
+    {
       "name": "Milica",
       "country": "Montenegro",
       "score": 7600
+    },
+    {
+      "name": "(Lav) Lavender",
+      "country": "Japan And Korea",
+      "score": 5925
     },
     {
       "name": "Luzi",
@@ -664,34 +674,24 @@
       "score": 3700
     },
     {
+      "name": "Katseye",
+      "country": "Albania",
+      "score": 3450
+    },
+    {
+      "name": "Asna",
+      "country": "Kurdstan",
+      "score": 2150
+    },
+    {
       "name": "Таснин",
       "country": "Казахстан",
       "score": 1525
     },
     {
-      "name": "Nidar",
-      "country": "YoutubeR",
-      "score": 1150
-    },
-    {
-      "name": "Amalia Belen",
-      "country": "Peru",
-      "score": 1075
-    },
-    {
-      "name": "EYEKON",
-      "country": "USA",
-      "score": 975
-    },
-    {
-      "name": "Sedera",
-      "country": "Madagascar",
-      "score": 975
-    },
-    {
-      "name": "Nicole",
-      "country": "Castillo",
-      "score": 925
+      "name": "Astro Novalite",
+      "country": "Philippines",
+      "score": 1325
     }
   ],
   "event_list": [
