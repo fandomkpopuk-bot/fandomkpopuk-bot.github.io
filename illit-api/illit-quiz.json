@@ -407,6 +407,11 @@
       "name": "Hana",
       "country": "Bosnia",
       "score": 600
+    },
+    {
+      "name": "Kaffah",
+      "country": "Indonesian",
+      "score": 550
     }
   ],
   "event_list": [

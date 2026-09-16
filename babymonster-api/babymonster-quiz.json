@@ -425,6 +425,11 @@
       "score": 6275
     },
     {
+      "name": "Ale",
+      "country": "România",
+      "score": 1825
+    },
+    {
       "name": "Jane",
       "country": "Philippines",
       "score": 1525
@@ -447,6 +452,11 @@
     {
       "name": "Aditi",
       "country": "India",
+      "score": 775
+    },
+    {
+      "name": "Nastia",
+      "country": "South Korea",
       "score": 775
     }
   ],

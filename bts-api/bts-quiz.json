@@ -758,6 +758,16 @@
   ],
   "leaderboard": [
     {
+      "name": "Salwa",
+      "country": "Algeria",
+      "score": 6650
+    },
+    {
+      "name": "Seona",
+      "country": "Uzbekistan",
+      "score": 4600
+    },
+    {
       "name": "Miangoty",
       "country": "Madagascar",
       "score": 3725
@@ -786,11 +796,6 @@
       "name": "Shivani",
       "country": "India",
       "score": 1300
-    },
-    {
-      "name": "𝑉𝑖𝑐𝑡𝑜𝑟𝑖𝑎",
-      "country": "𝑀𝑎𝑙𝑎𝑦𝑠𝑖𝑎",
-      "score": 1125
     }
   ],
   "event_list": [
