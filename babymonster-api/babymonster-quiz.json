@@ -420,6 +420,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Aishwarya",
+      "country": "India",
+      "score": 6375
+    },
+    {
       "name": "Miangoty",
       "country": "Madagascar",
       "score": 6275
@@ -453,11 +458,6 @@
       "name": "Layan",
       "country": "Iraq",
       "score": 825
-    },
-    {
-      "name": "Aditi",
-      "country": "India",
-      "score": 775
     }
   ],
   "event_list": [

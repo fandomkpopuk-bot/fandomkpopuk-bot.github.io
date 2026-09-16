@@ -336,6 +336,11 @@
       "score": 1125
     },
     {
+      "name": "syna",
+      "country": "jakarta",
+      "score": 1000
+    },
+    {
       "name": "Nayaaaa",
       "country": "Pakistan",
       "score": 975
@@ -349,11 +354,6 @@
       "name": "Angel",
       "country": "Indonesia",
       "score": 850
-    },
-    {
-      "name": "Yvan",
-      "country": "Myanmar",
-      "score": 750
     }
   ],
   "event_list": [

@@ -539,6 +539,11 @@
       "score": 1500
     },
     {
+      "name": "Sofia",
+      "country": "German,",
+      "score": 1350
+    },
+    {
       "name": "ICHIGO",
       "country": "Brasil",
       "score": 1300
@@ -557,11 +562,6 @@
       "name": "Lee Haerin",
       "country": "Gabon",
       "score": 950
-    },
-    {
-      "name": "Eva",
-      "country": "Cyprus",
-      "score": 850
     }
   ],
   "event_list": [

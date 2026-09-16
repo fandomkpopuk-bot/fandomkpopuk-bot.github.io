@@ -1,6 +1,19 @@
 {
   "song_list": [
     {
+      "title": "Made My Night",
+      "release_date": "2026-09-11",
+      "album": "-",
+      "artist": "Le Sserafim",
+      "tags": [
+        "lesserafim"
+      ],
+      "image": "https://i.ytimg.com/vi/Y1Lah0BM0KQ/maxresdefault.jpg",
+      "popularity": 1500000,
+      "urlMp3": "https://wekaryatech.github.io/song/lesserafim-MadeMyNight.mp3",
+      "youtube_id": "Y1Lah0BM0KQ"
+    },
+    {
       "title": "BAD",
       "release_date": "2026-08-19",
       "album": "GOLDEN HOUR : Part.5",
