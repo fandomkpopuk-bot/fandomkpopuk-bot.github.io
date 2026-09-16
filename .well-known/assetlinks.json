@@ -104,5 +104,31 @@
         "47:EB:E9:C3:68:29:49:03:24:5B:FA:27:B1:E4:16:5B:C5:7B:D6:91:F2:0E:63:C4:1D:5A:76:E5:9F:14:BC:B5"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.illit.uk",
+      "sha256_cert_fingerprints": [
+        "EA:51:CC:0F:15:7A:E0:FD:50:BB:7E:62:1E:F3:32:88:59:59:8D:68:16:6E:CC:87:64:1B:A8:EE:AD:7A:23:24"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lesserafim.uk",
+      "sha256_cert_fingerprints": [
+        "D8:5A:C5:35:2C:40:D5:06:91:7D:7B:7E:63:6E:26:95:62:AB:50:01:AD:24:72:52:65:EF:CF:54:7D:DB:9D:68"
+      ]
+    }
   }
 ]
