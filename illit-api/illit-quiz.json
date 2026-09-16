@@ -394,6 +394,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Pola",
+      "country": "England",
+      "score": 1900
+    },
+    {
       "name": "Sarah",
       "country": "Maldives",
       "score": 1200
@@ -401,6 +406,11 @@
     {
       "name": "Mila",
       "country": "Chile",
+      "score": 750
+    },
+    {
+      "name": "Danna",
+      "country": "Mexico",
       "score": 750
     },
     {
