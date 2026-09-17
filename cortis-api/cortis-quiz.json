@@ -326,6 +326,11 @@
       "score": 1300
     },
     {
+      "name": "BANA",
+      "country": "south Africa",
+      "score": 1300
+    },
+    {
       "name": "Ruth",
       "country": "Brasil",
       "score": 1200
@@ -348,11 +353,6 @@
     {
       "name": "Ruhul",
       "country": "Malaysia",
-      "score": 850
-    },
-    {
-      "name": "Angel",
-      "country": "Indonesia",
       "score": 850
     }
   ],

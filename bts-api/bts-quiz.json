@@ -1329,6 +1329,11 @@
       "score": 2625
     },
     {
+      "name": "Chemmy",
+      "country": "Philippines",
+      "score": 2175
+    },
+    {
       "name": "Anu",
       "country": "India",
       "score": 1725
@@ -1337,11 +1342,6 @@
       "name": "Kaashika",
       "country": "India",
       "score": 1600
-    },
-    {
-      "name": "Alice",
-      "country": "Egypt",
-      "score": 1350
     }
   ],
   "event_list": [

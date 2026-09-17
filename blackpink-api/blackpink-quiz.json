@@ -771,14 +771,14 @@
   ],
   "leaderboard": [
     {
+      "name": "Maliha",
+      "country": "Bangladesh",
+      "score": 1125
+    },
+    {
       "name": "Asuka",
       "country": "Egypt",
       "score": 1075
-    },
-    {
-      "name": "Maliha",
-      "country": "Bangladesh",
-      "score": 850
     },
     {
       "name": "Ssha",
@@ -793,6 +793,11 @@
     {
       "name": "Diminga",
       "country": "gambia",
+      "score": 550
+    },
+    {
+      "name": "Pavitra",
+      "country": "Indian",
       "score": 550
     }
   ],
