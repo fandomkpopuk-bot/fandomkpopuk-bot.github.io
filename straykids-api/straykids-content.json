@@ -113,6 +113,7 @@
       },
       {
         "name": "Felix",
+        "image": "https://lh3.googleusercontent.com/aida/AEtjO1XW58JPz5erk70EJxC8S3-2tnZs9Kx0YmCwvb6yN9R5sMIUwOvbcwZLkWnUaUwo7_m7HqUK_ChMCk-9kkVlv5TcJGsaPyd0zGehswMcWKNujdGoW9pGzdESSq1CywLwX_X5bOPVRbbjzXKqHYUbwewgzXFJdxECfr3GonWIQcJVVcJqx9gEAV7Ezal5KAzFpvtXU-WeG-vOZhe0mivzr2-usKs9oMXpPb8BEVOxvn53K6U8EKqWYpfQWN0=s800",
         "initials": "FX",
         "role": "Dancer • Rap • Vocal",
         "unit": "DANCERACHA",
@@ -124,8 +125,7 @@
           "Dancing",
           "Baking",
           "Gaming"
-        ],
-        "image": ""
+        ]
       },
       {
         "name": "Seungmin",
