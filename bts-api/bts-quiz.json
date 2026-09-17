@@ -758,6 +758,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Christy",
+      "country": "Benin",
+      "score": 40525
+    },
+    {
       "name": "Salwa",
       "country": "Algeria",
       "score": 6650
@@ -791,11 +796,6 @@
       "name": "Alice",
       "country": "Egypt",
       "score": 1350
-    },
-    {
-      "name": "Shivani",
-      "country": "India",
-      "score": 1300
     }
   ],
   "event_list": [
