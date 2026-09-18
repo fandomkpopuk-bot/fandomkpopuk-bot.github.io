@@ -117,6 +117,14 @@
       ]
     }
   ],
+  "announcement": {
+    "id": "rose-new-trick-01",
+    "badge": "🎶 New Release",
+    "title": "Rosé Teases Next Era With New Single ‘New Trick’",
+    "description": "ROSÉ is back with her playful pop-rock single ‘new trick’ — out Sep 17, 2026 with a Dave Meyers video Shot on iPhone 18 Pro. Stream it now!",
+    "image": "https://i.ytimg.com/vi/Lufa9QAFFeY/maxresdefault.jpg",
+    "cta": { "label": "Play New Trick Now", "action": "open_page", "page": "Home" }
+  },
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 3,
