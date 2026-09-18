@@ -524,14 +524,14 @@
   ],
   "leaderboard": [
     {
+      "name": "Diana",
+      "country": "Germany",
+      "score": 5250
+    },
+    {
       "name": "Bruno",
       "country": "Indoneaia",
       "score": 4125
-    },
-    {
-      "name": "Diana",
-      "country": "Germany",
-      "score": 3725
     },
     {
       "name": "Tayaki",

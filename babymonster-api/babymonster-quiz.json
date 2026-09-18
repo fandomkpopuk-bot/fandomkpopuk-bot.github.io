@@ -422,12 +422,17 @@
     {
       "name": "Aishwarya ✨",
       "country": "India🇮🇳",
-      "score": 6825
+      "score": 22300
     },
     {
       "name": "Miangoty",
       "country": "Madagascar",
       "score": 6275
+    },
+    {
+      "name": "Anna",
+      "country": "Myanmar",
+      "score": 6125
     },
     {
       "name": "Besan",
@@ -453,11 +458,6 @@
       "name": "Sophie",
       "country": "France",
       "score": 1450
-    },
-    {
-      "name": "Multi",
-      "country": "France",
-      "score": 1325
     }
   ],
   "event_list": [

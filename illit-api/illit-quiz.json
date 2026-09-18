@@ -394,6 +394,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Farah Zya",
+      "country": "Malaysia",
+      "score": 14725
+    },
+    {
       "name": "Aishahheartmoka",
       "country": "Malaysia",
       "score": 2575
@@ -419,19 +424,14 @@
       "score": 750
     },
     {
+      "name": "𝓐𝓼𝓾𝓴𝓪",
+      "country": "𝓔𝓰𝔂𝓹𝓽",
+      "score": 750
+    },
+    {
       "name": "Hana",
       "country": "Bosnia",
       "score": 600
-    },
-    {
-      "name": "Kaffah",
-      "country": "Indonesian",
-      "score": 550
-    },
-    {
-      "name": "Auni",
-      "country": "Malaysia",
-      "score": 550
     }
   ],
   "event_list": [
