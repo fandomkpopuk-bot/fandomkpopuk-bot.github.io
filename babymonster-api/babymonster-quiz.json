@@ -420,14 +420,24 @@
   ],
   "leaderboard": [
     {
-      "name": "Aishwarya",
-      "country": "India",
-      "score": 6375
+      "name": "Aishwarya ✨",
+      "country": "India🇮🇳",
+      "score": 6825
     },
     {
       "name": "Miangoty",
       "country": "Madagascar",
       "score": 6275
+    },
+    {
+      "name": "Besan",
+      "country": "Egypt",
+      "score": 5375
+    },
+    {
+      "name": "Ziani HAYET",
+      "country": "Algeria",
+      "score": 2500
     },
     {
       "name": "Ale",
@@ -448,16 +458,6 @@
       "name": "Multi",
       "country": "France",
       "score": 1325
-    },
-    {
-      "name": "Mia",
-      "country": "Chile",
-      "score": 1025
-    },
-    {
-      "name": "Layan",
-      "country": "Iraq",
-      "score": 825
     }
   ],
   "event_list": [

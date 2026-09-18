@@ -674,24 +674,14 @@
       "country": "Singapore"
     },
     {
-      "name": "Elma",
-      "score": 820,
-      "country": "Turkey"
+      "name": "Victoria",
+      "country": "Vicky",
+      "score": 650
     },
     {
-      "name": "Fajar",
-      "score": 811,
-      "country": "Indonesia"
-    },
-    {
-      "name": "Gita",
-      "score": 802,
-      "country": "India"
-    },
-    {
-      "name": "Hiro",
-      "score": 793,
-      "country": "Japan"
+      "name": "Nami",
+      "country": "Brazil",
+      "score": 550
     }
   ],
   "event_list": [

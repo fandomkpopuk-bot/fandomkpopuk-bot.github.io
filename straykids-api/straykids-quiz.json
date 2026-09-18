@@ -529,6 +529,21 @@
       "score": 4125
     },
     {
+      "name": "Diana",
+      "country": "Germany",
+      "score": 3725
+    },
+    {
+      "name": "Tayaki",
+      "country": "Russia",
+      "score": 2025
+    },
+    {
+      "name": "Judy",
+      "country": "Egyptian",
+      "score": 1800
+    },
+    {
       "name": "Aja",
       "country": "Brsdi",
       "score": 1500
@@ -544,24 +559,9 @@
       "score": 1400
     },
     {
-      "name": "ICHIGO",
-      "country": "Brasil",
-      "score": 1300
-    },
-    {
-      "name": "Andrea Marín",
-      "country": "Venezuela",
-      "score": 1225
-    },
-    {
-      "name": "Diana",
-      "country": "Germany",
-      "score": 1075
-    },
-    {
-      "name": "Lee Haerin",
-      "country": "Gabon",
-      "score": 950
+      "name": "stay",
+      "country": "india",
+      "score": 1325
     }
   ],
   "event_list": [
