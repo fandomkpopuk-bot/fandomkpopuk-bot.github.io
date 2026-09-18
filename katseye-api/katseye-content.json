@@ -150,14 +150,14 @@
     }
   ],
   "announcement": {
-    "id": "trivia-launch-01",
+    "id": "trivia-launch-02",
     "badge": "✨ What's New",
     "title": "Guess The Lyrics Trivia",
     "description": "Test your trivia skills in quick 5-step lyric rounds. Guess the next lines to earn exclusive rewards!",
-    "image": "https://i.ytimg.com/vi/fE8qh1-UvVA/maxresdefault.jpg",
+    "image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
     "rewards": [
-      { "icon": "timer-outline", "text": "2h Ad-Free Session" },
-      { "icon": "download-outline", "text": "+1 Quota Download" }
+      { "icon": "trophy-outline", "text": "KATSEYE Photocard Set Race: Best Score Wins" },
+      { "icon": "download-outline", "text": "Test your fandom knowledge!" }
     ],
     "cta": { "label": "Play Trivia Now", "action": "open_page", "page": "Trivia" }
   },
