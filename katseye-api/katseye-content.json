@@ -149,6 +149,18 @@
       ]
     }
   ],
+  "announcement": {
+    "id": "trivia-launch-01",
+    "badge": "✨ What's New",
+    "title": "Guess The Lyrics Trivia",
+    "description": "Test your trivia skills in quick 5-step lyric rounds. Guess the next lines to earn exclusive rewards!",
+    "image": "https://i.ytimg.com/vi/fE8qh1-UvVA/maxresdefault.jpg",
+    "rewards": [
+      { "icon": "timer-outline", "text": "2h Ad-Free Session" },
+      { "icon": "download-outline", "text": "+1 Quota Download" }
+    ],
+    "cta": { "label": "Play Trivia Now", "action": "open_page", "page": "Trivia" }
+  },
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 3,
