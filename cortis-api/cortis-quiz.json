@@ -321,23 +321,23 @@
       "score": 9200
     },
     {
-      "name": "Yifan",
-      "country": "Nepal",
-      "score": 1300
-    },
-    {
       "name": "BANA",
       "country": "south Africa",
       "score": 1300
     },
     {
-      "name": "Ruth",
-      "country": "Brasil",
-      "score": 1200
+      "name": "Yifan",
+      "country": "Nepal",
+      "score": 1300
     },
     {
       "name": "Nick",
       "country": "Perú",
+      "score": 1200
+    },
+    {
+      "name": "Ruth",
+      "country": "Brasil",
       "score": 1200
     },
     {
@@ -346,14 +346,14 @@
       "score": 1125
     },
     {
+      "name": "Dorji Yudon",
+      "country": "Bhutan",
+      "score": 1075
+    },
+    {
       "name": "syna",
       "country": "jakarta",
       "score": 1000
-    },
-    {
-      "name": "Nayaaaa",
-      "country": "Pakistan",
-      "score": 975
     }
   ],
   "event_list": [

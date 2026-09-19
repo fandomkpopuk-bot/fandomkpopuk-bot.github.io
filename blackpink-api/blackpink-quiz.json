@@ -781,13 +781,18 @@
       "score": 1125
     },
     {
-      "name": "Ssha",
-      "country": "Netherlands",
-      "score": 550
+      "name": "Sanisa",
+      "country": "India",
+      "score": 975
     },
     {
-      "name": "Urvi",
-      "country": "India",
+      "name": "Oneho",
+      "country": "Pakistam",
+      "score": 925
+    },
+    {
+      "name": "Pavitra",
+      "country": "Indian",
       "score": 550
     },
     {
@@ -796,8 +801,13 @@
       "score": 550
     },
     {
-      "name": "Pavitra",
-      "country": "Indian",
+      "name": "Urvi",
+      "country": "India",
+      "score": 550
+    },
+    {
+      "name": "Ssha",
+      "country": "Netherlands",
       "score": 550
     }
   ],
