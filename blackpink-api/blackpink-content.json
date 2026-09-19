@@ -118,12 +118,26 @@
     }
   ],
   "announcement": {
-    "id": "rose-new-trick-01",
-    "badge": "🎶 New Release",
-    "title": "Rosé Teases Next Era With New Single ‘New Trick’",
-    "description": "ROSÉ is back with her playful pop-rock single ‘new trick’ — out Sep 17, 2026 with a Dave Meyers video Shot on iPhone 18 Pro. Stream it now!",
-    "image": "https://i.ytimg.com/vi/Lufa9QAFFeY/maxresdefault.jpg",
-    "cta": { "label": "Play New Trick Now", "action": "open_page", "page": "Home" }
+    "id": "trivia-launch-02",
+    "badge": "✨ What's New",
+    "title": "Guess The Lyrics Trivia",
+    "description": "Test your trivia skills in quick 5-step lyric rounds. Guess the next lines to earn exclusive rewards!",
+    "image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
+    "rewards": [
+      {
+        "icon": "trophy-outline",
+        "text": "BLACKPINK Photocard Set Race: Best Score Wins"
+      },
+      {
+        "icon": "download-outline",
+        "text": "Test your fandom knowledge!"
+      }
+    ],
+    "cta": {
+      "label": "Play Trivia Now",
+      "action": "open_page",
+      "page": "Trivia"
+    }
   },
   "config": {
     "isAdsEnabled": true,
