@@ -144,7 +144,7 @@
     "isLyricsEnabled": true,
     "isSongRequestEnabled": true,
     "isOtherAppsEnabled": true,
-    "isNewsEnabled": true,
+    "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 7,
     "isMinigameEnabled": true
