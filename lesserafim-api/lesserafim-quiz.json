@@ -654,33 +654,23 @@
   ],
   "leaderboard": [
     {
-      "name": "Astrid",
-      "score": 856,
-      "country": "Sweden"
-    },
-    {
-      "name": "Bimo",
-      "score": 847,
-      "country": "Indonesia"
-    },
-    {
-      "name": "Cinta",
-      "score": 838,
-      "country": "Indonesia"
-    },
-    {
-      "name": "Daryl",
-      "score": 829,
-      "country": "Singapore"
-    },
-    {
       "name": "Victoria",
       "country": "Vicky",
       "score": 650
     },
     {
+      "name": "khesemi limbu",
+      "country": "nepal",
+      "score": 600
+    },
+    {
       "name": "Nami",
       "country": "Brazil",
+      "score": 550
+    },
+    {
+      "name": "Soyeon",
+      "country": "South Korea",
       "score": 550
     }
   ],

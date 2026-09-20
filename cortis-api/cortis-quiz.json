@@ -331,6 +331,11 @@
       "score": 1300
     },
     {
+      "name": "Odoy",
+      "country": "Indonesia",
+      "score": 1225
+    },
+    {
       "name": "Nick",
       "country": "Perú",
       "score": 1200
@@ -349,11 +354,6 @@
       "name": "Dorji Yudon",
       "country": "Bhutan",
       "score": 1075
-    },
-    {
-      "name": "syna",
-      "country": "jakarta",
-      "score": 1000
     }
   ],
   "event_list": [

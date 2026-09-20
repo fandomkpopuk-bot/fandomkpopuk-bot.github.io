@@ -33,5 +33,10 @@
         "app_name": "BLACKPINK - BLINK",
         "api_dir": "blackpink-api",
         "page_redirect": "blackpink-stan"
+    },
+    {
+        "app_name": "ENHYPEN",
+        "api_dir": "enhypen-api",
+        "page_redirect": "enhypen-stan"
     }
 ]
