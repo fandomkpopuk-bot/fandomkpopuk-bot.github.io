@@ -181,7 +181,9 @@
     "isSongRequestEnabled": true,
     "maxDownloadCount": 2,
     "maxPlayCount": 3,
-    "isMinigameEnabled": true
+    "maxViewImageCount": 6,
+    "isMinigameEnabled": true,
+    "isGalleryEnabled": true
   },
   "news_list": [
     {
@@ -200,6 +202,32 @@
       "quote": "APOBANGPO — BTS is back!",
       "source": "BIGHIT MUSIC / BTS Official",
       "title": "BTS Open ARIRANG Era With New Group Music!"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "2026 BTS Festa Family Photo",
+      "api_url": "https://kpopping.com/kpics/2026-bts-festa-family-photo"
+    },
+    {
+      "title": "BTS Normal MV Photo Sketch",
+      "api_url": "https://kpopping.com/kpics/bts-normal-mv-photo-sketch"
+    },
+    {
+      "title": "260525 BTS at the 52nd Annual American Music Awards",
+      "api_url": "https://kpopping.com/kpics/260525-bts-at-the-52nd-annual-american-music-awards"
+    },
+    {
+      "title": "BTS x Louis Vuitton SS22 Menswear for Vogue Hong Kong 2022 January Cover",
+      "api_url": "https://kpopping.com/kpics/bts-x-louis-vuitton-ss22-menswear-for-vogue-hong-kong-2022-january-cover"
+    },
+    {
+      "title": "BTS Merry Go Round MV Photo Sketch",
+      "api_url": "https://kpopping.com/kpics/bts-merry-go-round-mv-photo-sketch"
+    },
+    {
+      "title": "BTS 13 Side Film 2026 BTS Festa",
+      "api_url": "https://kpopping.com/kpics/bts-13-side-film-2026btsfesta"
     }
   ]
 }
