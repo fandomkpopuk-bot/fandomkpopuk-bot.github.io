@@ -184,6 +184,7 @@
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 3,
+    "maxViewImageCount": 4,
     "maxDownloadCount": 2,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,
@@ -195,7 +196,8 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 10,
-    "isMinigameEnabled": true
+    "isMinigameEnabled": true,
+    "isGalleryEnabled": true
   },
   "announcement": {
     "id": "trivia-launch-02",
@@ -218,5 +220,27 @@
       "action": "open_page",
       "page": "Trivia"
     }
-  }
+  },
+  "gallery": [
+    {
+      "title": "Stray Kids - \"THIS & THAT\" Special Website Reward Photos",
+      "api_url": "https://kpopping.com/kpics/stray-kids-this-that-special-website-reward-photos"
+    },
+    {
+      "title": "Hyunjin x Guess 2026 Fall Campaign",
+      "api_url": "https://kpopping.com/kpics/hyunjin-x-guess-2026-fall-campaign"
+    },
+    {
+      "title": "260830 Stray Kids Japan X Update",
+      "api_url": "https://kpopping.com/kpics/260830-stray-kids-japan-x-update"
+    },
+    {
+      "title": "Stray Kids Official Fanclub STAY 5th Gen \"Stay With Your Wings\" Concept Photos",
+      "api_url": "https://kpopping.com/kpics/stray-kids-official-fanclub-stay-5th-gen-stay-with-your-wings-concept-photos"
+    },
+    {
+      "title": "260125 Stray Kids Japan Twitter Update",
+      "api_url": "https://kpopping.com/kpics/260125-stray-kids-japan-twitter-update"
+    }
+  ]
 }
