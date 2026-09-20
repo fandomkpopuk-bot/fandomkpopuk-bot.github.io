@@ -170,5 +170,15 @@
       "action": "open_page",
       "page": "Trivia"
     }
-  }
+  },
+  "gallery": [
+    {
+      "title": "Cortis",
+      "api_url": "https://kpopping.com/kpics/260905-cortis-instagram-udate-pypd-in-japan"
+    },
+    {
+      "title": "Martin",
+      "api_url": "https://kpopping.com/kpics/260919-martin-at-the-2026-the-fact-music-awards"
+    }
+  ]
 }
