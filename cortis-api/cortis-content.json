@@ -136,6 +136,7 @@
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 3,
+    "maxViewImageCount": 4,
     "maxDownloadCount": 2,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,
@@ -180,6 +181,14 @@
     {
       "title": "Martin",
       "api_url": "https://kpopping.com/kpics/260919-martin-at-the-2026-the-fact-music-awards"
+    },
+    {
+      "title": "Keonho at the 2026",
+      "api_url": "https://kpopping.com/kpics/260919-keonho-at-the-2026-the-fact-music-awards"
+    },
+    {
+      "title": "Keonho CORTIS Instagram Update",
+      "api_url": "https://kpopping.com/kpics/260130-cortis-instagram-update-keonho"
     }
   ]
 }
