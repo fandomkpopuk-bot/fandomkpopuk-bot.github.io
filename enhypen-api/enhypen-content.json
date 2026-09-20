@@ -190,6 +190,7 @@
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 3,
+    "maxViewImageCount": 6,
     "maxDownloadCount": 2,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,
@@ -201,6 +202,25 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 10,
-    "isMinigameEnabled": true
-  }
+    "isMinigameEnabled": true,
+    "isGalleryEnabled": true
+  },
+  "gallery": [
+    {
+      "title": "ENHYPEN Checkmate MV Photo Sketch",
+      "api_url": "https://kpopping.com/kpics/enhypen-checkmate-mv-photo-sketch"
+    },
+    {
+      "title": "260903 ENHYPEN X Update",
+      "api_url": "https://kpopping.com/kpics/260903-enhypen-x-update"
+    },
+    {
+      "title": "260822 ENHYPEN Bloody Paradise MV Photo Sketch",
+      "api_url": "https://kpopping.com/kpics/260822-enhypen-bloody-paradise-mv-photo-sketch"
+    },
+    {
+      "title": "260820 ENHYPEN at the Sin Bliss Press Conference Media Photos",
+      "api_url": "https://kpopping.com/kpics/260820-enhypen-at-the-sin-bliss-press-conference-media-photos"
+    }
+  ]
 }
