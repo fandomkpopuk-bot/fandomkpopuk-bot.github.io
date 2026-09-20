@@ -147,7 +147,8 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 7,
-    "isMinigameEnabled": true
+    "isMinigameEnabled": true,
+    "isGalleryEnabled": true
   },
   "announcement": {
     "id": "trivia-launch-02",
