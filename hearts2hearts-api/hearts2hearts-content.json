@@ -224,6 +224,7 @@
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 3,
+    "maxViewImageCount": 6,
     "maxDownloadCount": 2,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,
@@ -236,6 +237,25 @@
     "isMembersEnabled": true,
     "adBannerInterval": 10,
     "androidUpdateType": "un-immediate",
-    "isMinigameEnabled": true
-  }
+    "isMinigameEnabled": true,
+    "isGalleryEnabled": true
+  },
+  "gallery": [
+    {
+      "title": "260915 Hearts2Hearts Instagram Update",
+      "api_url": "https://kpopping.com/kpics/260915-hearts2hearts-instagram-update"
+    },
+    {
+      "title": "260918 Mnet Plus Twitter Update with Hearts2Hearts",
+      "api_url": "https://kpopping.com/kpics/260918-mnet-plus-twitter-update-with-hearts2hearts"
+    },
+    {
+      "title": "260910 Kia Instagram Update with Hearts2Hearts Moonride Behind Photos",
+      "api_url": "https://kpopping.com/kpics/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos"
+    },
+    {
+      "title": "260908 Hearts2Hearts Instagram Update",
+      "api_url": "https://kpopping.com/kpics/260908-hearts2hearts-instagram-update"
+    }
+  ]
 }
