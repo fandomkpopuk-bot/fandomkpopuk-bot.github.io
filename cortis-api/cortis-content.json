@@ -150,7 +150,8 @@
     "adBannerInterval": 10,
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
-    "androidUpdateType": "immediate"
+    "isNewGalleryEnabled": true,
+    "androidUpdateType": "un-immediate"
   },
   "announcement": {
     "id": "app-feedback-01",
