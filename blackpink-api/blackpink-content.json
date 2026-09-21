@@ -142,6 +142,7 @@
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 3,
+    "maxViewImageCount": 6,
     "maxDownloadCount": 2,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,
@@ -153,6 +154,49 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 10,
-    "isMinigameEnabled": true
-  }
+    "isMinigameEnabled": true,
+    "isGalleryEnabled": true
+  },
+  "gallery": [
+    {
+      "title": "260808 Rose Instagram Update With Blackpink",
+      "api_url": "https://kpopping.com/kpics/260808-rose-instagram-update-with-blackpink"
+    },
+    {
+      "title": "Blackpink Kill This Love JP Version Digital Booklet",
+      "api_url": "https://kpopping.com/kpics/blackpink-kill-this-love-jp-version-digital-booklet"
+    },
+    {
+      "title": "260907 Jisoo Instagram Update",
+      "api_url": "https://kpopping.com/kpics/260907-jisoo-instagram-update"
+    },
+    {
+      "title": "Jisoo Digital Single Click Scans",
+      "api_url": "https://kpopping.com/kpics/jisoo-digital-single-click-scans"
+    },
+    {
+      "title": "260910 Rose SNS Update",
+      "api_url": "https://kpopping.com/kpics/260910-rose-sns-update"
+    },
+    {
+      "title": "Rose X Saint Laurent For Elle Korea For 2026 September Cover",
+      "api_url": "https://kpopping.com/kpics/rose-x-saint-laurent-for-elle-korea-for-2026-september-cover"
+    },
+    {
+      "title": "260902 Jennie Instagram Update",
+      "api_url": "https://kpopping.com/kpics/260902-jennie-instagram-update"
+    },
+    {
+      "title": "260828 Jennie Fallen Angel Exclusive Cuts Melon Exclusive",
+      "api_url": "https://kpopping.com/kpics/260828-jennie-fallen-angel-exclusive-cuts-melon-exclusive"
+    },
+    {
+      "title": "260909 Lisa At Bvlgari Serpenti Infinito Event In New York",
+      "api_url": "https://kpopping.com/kpics/260909-lisa-at-bvlgari-serpenti-infinito-event-in-new-york"
+    },
+    {
+      "title": "260911 Lisa At 2026 Toronto International Film Festival Always Lalisa Premiere",
+      "api_url": "https://kpopping.com/kpics/260911-lisa-at-2026-toronto-international-film-festival-always-lalisa-premiere"
+    }
+  ]
 }
