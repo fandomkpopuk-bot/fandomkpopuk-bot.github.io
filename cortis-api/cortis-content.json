@@ -149,7 +149,9 @@
     "isMembersEnabled": true,
     "adBannerInterval": 10,
     "isMinigameEnabled": true,
-    "isGalleryEnabled": true
+    "isGalleryEnabled": true,
+    "androidUpdateType": "immediate"
+
   },
   "announcement": {
     "id": "app-feedback-01",

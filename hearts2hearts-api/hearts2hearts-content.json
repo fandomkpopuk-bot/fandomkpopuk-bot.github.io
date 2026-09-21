@@ -236,9 +236,10 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 10,
-    "androidUpdateType": "un-immediate",
     "isMinigameEnabled": true,
-    "isGalleryEnabled": true
+    "isGalleryEnabled": true,
+    "androidUpdateType": "immediate"
+
   },
   "gallery": [
     {
