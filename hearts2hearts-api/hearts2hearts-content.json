@@ -162,25 +162,25 @@
     ]
   },
   "announcement": {
-    "id": "trivia-launch-02",
-    "badge": "✨ What's New",
-    "title": "Guess The Lyrics Trivia",
-    "description": "Test your trivia skills in quick 5-step lyric rounds. Guess the next lines to earn exclusive rewards!",
-    "image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
+    "id": "app-feedback-01",
+    "badge": "📢 We Need Your Feedback",
+    "title": "Help Improve HEARTS2HEARTS App!",
+    "description": "We want to make the HEARTS2HEARTS Stan app better for you! Share bugs, ideas, and feature requests in our quick 1-minute feedback form. Your voice shapes the next update!",
+    "image": "https://plus.unsplash.com/premium_photo-1682310144714-cb77b1e6d64a?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmVlZGJhY2t8ZW58MHx8MHx8fDA%3D",
     "rewards": [
       {
-        "icon": "trophy-outline",
-        "text": "HEARTS 2 HEARTS Photocard Set Race: Best Score Wins"
+        "icon": "chatbox-ellipses-outline",
+        "text": "Report bugs & request features you want"
       },
       {
-        "icon": "download-outline",
-        "text": "Test your fandom knowledge!"
+        "icon": "heart-outline",
+        "text": "Help us build a better app for HEARTS2HEARTS fans!"
       }
     ],
     "cta": {
-      "label": "Play Trivia Now",
-      "action": "open_page",
-      "page": "Trivia"
+      "label": "Give Feedback Now",
+      "action": "open_url",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdn6KxUc_OGbp6jEPCkiQPfzhrhNZ1sG21-Q3YzRX-8_32pMQ/viewform?usp=header"
     }
   },
   "news_list": [
