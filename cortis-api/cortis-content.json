@@ -151,7 +151,6 @@
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate"
-
   },
   "announcement": {
     "id": "app-feedback-01",
@@ -178,39 +177,253 @@
   "gallery": [
     {
       "title": "Lollapalooza Photo Sketch",
-      "api_url": "https://kpopping.com/kpics/cortis-2026-lollapalooza-photo-sketch"
+      "photo_collection": [
+        "https://cdn.kpopping.com/kpics/2026/09/1789618430075-4l0sbm-9.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618430075-7bqpo6-2.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618430075-aibrhs-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618430075-cz50ua-8.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618430075-kwb8vo-4.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618430075-m2r41p-5.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618430075-n4b8ne-3.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618430075-nzdqr8-6.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618430075-qlw1c2-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618430075-ur27ga-11.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618430075-uyqvdr-10.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618430075-zcbe53-7.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618509445-6i38hp-9.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618509445-6ju7o0-4.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618509445-f11qju-7.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618509445-ffzspf-3.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618509445-fh1qkd-10.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618509445-g3p40a-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618509445-ozlxru-11.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618509445-ta4oxp-8.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618509445-te7ygp-6.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618509445-u3gog1-5.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618509445-u5xxkq-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789618509445-wp9zbh-2.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789619006661-01jffd-6.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789619006661-153inl-3.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789619006661-5vaaak-4.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789619006661-dm0hbm-2.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789619006661-i982w5-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789619006661-nsxubg-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789619006661-s4y5mz-5.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789619006661-uq3n8f-7.jpg"
+      ]
     },
     {
       "title": "260914 Instagram Update",
-      "api_url": "https://kpopping.com/kpics/260914-cortis-instagram-update"
+      "photo_collection": [
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-0q37kk-7.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-1s5a7s-3.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-3gxxdc-6.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-76rdd7-5.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-79j7fh-10.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-7iiesl-17.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-7mmrm6-12.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-8jmiov-8.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-d4gfg2-16.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-e9yj71-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-k2iy2x-15.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-la6p8j-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-lpt4g9-4.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-qtnfmi-9.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-urujek-2.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-v5854w-13.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-vr5ko0-11.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375455422-x6482q-14.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578756-8inzs5-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578756-c43mg4-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578757-0tmv1t-9.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578757-cfoouu-6.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578757-d0rllu-11.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578757-f88irj-8.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578757-fc18oh-4.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578757-g4nxw4-3.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578757-h82jur-5.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578757-hxn5ns-12.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578757-nbvw8t-10.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578757-op6f1o-13.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578757-r6puzx-7.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789375578757-ugp3m1-2.jpg"
+      ]
     },
     {
       "title": "260917 Instagram Update",
-      "api_url": "https://kpopping.com/kpics/260917-cortis-instagram-update"
+      "photo_collection": [
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-431bu4-9.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-4kfj7j-12.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-ank2jt-3.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-b1gmvw-19.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-blx6as-18.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-cfw7it-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-dvc7zv-6.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-klj9iw-8.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-kwf94w-11.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-ln1vr5-17.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-m4skdg-2.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-molbz8-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-nlib6q-14.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-nrtrpq-15.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-ny4p83-13.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-oqcqjt-4.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-oz7ua1-5.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-rscel9-16.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-y3gyil-10.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789963193873-y5piq6-7.jpg"
+      ]
     },
     {
       "title": "260910 Instagram Update",
-      "api_url": "https://kpopping.com/kpics/260910-cortis-instagram-update"
+      "photo_collection": [
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-20vzq1-24.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-2ejat4-19.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-4347ka-29.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-49t356-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-4odz0q-5.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-54obxz-21.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-8nrotx-6.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-9k7hj0-15.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-9nwq1n-28.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-9of321-23.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-a4xsgd-30.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-b5dim7-32.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-cm12ol-25.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-dkh5w9-18.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-h52ugb-14.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-hepygs-13.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-hy17dq-12.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-j7tr6n-9.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-l31m2g-31.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-l9ndoe-4.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-onjkef-22.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-ppbsma-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-r3zk3z-2.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-rp7jvr-8.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-s8u4a8-20.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-t0isom-27.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-tdujg2-7.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-vbpyk6-11.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-vh2kfz-3.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-w37w9p-17.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-w5l8ut-16.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-wfhh2v-10.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-xjt64q-33.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789074153271-ymwzs2-26.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789075723370-69f9ra-0.jpg"
+      ]
     },
     {
       "title": "260905 Instagram Update",
-      "api_url": "https://kpopping.com/kpics/260905-cortis-instagram-update"
+      "photo_collection": [
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-07h4wp-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-0m97a7-11.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-0o53oa-39.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-0y1ijs-31.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-1j7xyr-25.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-29u8ku-23.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-5m86j2-24.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-5vm4f8-13.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-86g6ul-8.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-9s68gf-4.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-9tvz3c-21.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-bd9zuk-33.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-c1s6d7-26.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-d43nbv-37.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-f7108i-9.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-hkwhsk-29.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-isgqfs-15.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-jajhun-30.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-jmft18-14.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-k2rerd-5.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-kir8qd-6.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-kpwqfc-7.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-kugvgo-22.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-o1coll-10.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-o9jfwl-32.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-oeup1n-12.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-og7gc9-36.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-ohvinn-3.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-pcgrn8-2.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-pvd9go-38.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-q46yg3-20.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-rvupox-17.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-sfgmi8-35.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-v7bnhv-27.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-vwms7f-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-wzkkoo-16.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-xhwjl1-28.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-xuqg8b-18.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-y0wjhj-34.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788596773332-z7y1ya-19.jpg"
+      ]
     },
     {
       "title": "Cortis",
-      "api_url": "https://kpopping.com/kpics/260905-cortis-instagram-udate-pypd-in-japan"
+      "photo_collection": [
+        "https://cdn.kpopping.com/kpics/2026/09/1788613872468-54u29x-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788613872468-rn1bxr-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788613872468-zt0f7i-2.jpg"
+      ]
     },
     {
       "title": "Martin",
-      "api_url": "https://kpopping.com/kpics/260919-martin-at-the-2026-the-fact-music-awards"
+      "photo_collection": [
+        "https://cdn.kpopping.com/kpics/2026/08/1785738893320-82ront-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1785739672873-d5dvj6-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1787474164284-ib4wur-4.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1787491104010-40e803-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788453264111-rh7r0u-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1788804241776-pd2k7m-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789249801473-nftksn-6.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789280584913-py6w5p-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837918375-b0nkoa-6.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837918375-bz775o-8.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837918375-c56vcd-7.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837918375-f0oe7l-5.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837918375-h43y3x-4.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837918375-hiarxc-3.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837918375-lno7zd-2.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837918375-rkv3ni-9.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837918375-wfosc6-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837918375-y7s8fi-0.jpg"
+      ]
     },
     {
       "title": "Keonho at the 2026",
-      "api_url": "https://kpopping.com/kpics/260919-keonho-at-the-2026-the-fact-music-awards"
+      "photo_collection": [
+        "https://cdn.kpopping.com/kpics/2026/08/1785739845465-5t3jci-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1787474634279-be2eda-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1787493306263-ufwuot-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1788088326331-c83adf-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1788104198843-7226nl-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789135057468-8zdhsn-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789246871902-y8zbfq-2.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837671839-md0ofm-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837671839-mmvrw4-2.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837671839-u1v6rz-3.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837671839-z1zgzd-0.jpg"
+      ]
     },
     {
       "title": "Keonho CORTIS Instagram Update",
-      "api_url": "https://kpopping.com/kpics/260130-cortis-instagram-update-keonho"
+      "photo_collection": [
+        "https://cdn.kpopping.com/kpics/2026/08/1785739845465-5t3jci-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1785739845465-760i9i-1.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1785739845465-dokuny-3.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1785739845465-fgjot9-2.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1785739845465-irk77u-6.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1785739845465-rfjfrw-5.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1785739845465-xisxe9-4.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1787474634279-be2eda-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1787493306263-ufwuot-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1788088326331-c83adf-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/08/1788104198843-7226nl-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789135057468-8zdhsn-0.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789246871902-y8zbfq-2.jpg",
+        "https://cdn.kpopping.com/kpics/2026/09/1789837671839-z1zgzd-0.jpg"
+      ]
     }
   ]
 }
