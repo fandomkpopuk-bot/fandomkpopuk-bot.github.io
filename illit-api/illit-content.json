@@ -169,6 +169,22 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 10,
-    "isMinigameEnabled": true
-  }
+    "isMinigameEnabled": true,
+    "maxViewImageCount": 6,
+    "isGalleryEnabled": true
+  },
+  "gallery": [
+    {
+      "title": "260919 Illit At The Fact Music Awards 2026",
+      "api_url": "https://kpopping.com/kpics/260919-illit-at-the-fact-music-awards-2026"
+    },
+    {
+      "title": "260820 Illit For Billboard Japan Billboardjapan Twitter Update",
+      "api_url": "https://kpopping.com/kpics/260820-illit-for-billboard-japan-billboardjapan-twitter-update"
+    },
+    {
+      "title": "260825 Illit Instagram Update",
+      "api_url": "https://kpopping.com/kpics/260825-illit-instagram-update"
+    }
+  ]
 }
