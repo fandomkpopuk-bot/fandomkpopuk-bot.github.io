@@ -197,7 +197,7 @@
     "isMembersEnabled": true,
     "adBannerInterval": 10,
     "isMinigameEnabled": true,
-    "isGalleryEnabled": true
+    "isGalleryEnabled": false
   },
   "announcement": {
     "id": "app-feedback-01",

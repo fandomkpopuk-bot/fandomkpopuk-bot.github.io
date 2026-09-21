@@ -183,7 +183,7 @@
     "maxPlayCount": 3,
     "maxViewImageCount": 6,
     "isMinigameEnabled": true,
-    "isGalleryEnabled": true,
+    "isGalleryEnabled": false,
     "androidUpdateType": "immediate"
   },
   "news_list": [
