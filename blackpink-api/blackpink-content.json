@@ -155,48 +155,74 @@
     "isMembersEnabled": true,
     "adBannerInterval": 10,
     "isMinigameEnabled": true,
-    "isGalleryEnabled": false
+    "isGalleryEnabled": false,
+    "isNewGalleryEnabled": true
   },
   "gallery": [
     {
-      "title": "260808 Rose Instagram Update With Blackpink",
-      "api_url": "https://kpopping.com/kpics/260808-rose-instagram-update-with-blackpink"
-    },
-    {
-      "title": "Blackpink Kill This Love JP Version Digital Booklet",
-      "api_url": "https://kpopping.com/kpics/blackpink-kill-this-love-jp-version-digital-booklet"
+      "title": "BLACKPINK - 'KILL THIS LOVE - JP VERSION' Digital Booklet",
+      "api_url": "https://kpopping.com/kpics/blackpink-kill-this-love-jp-version-digital-booklet",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/blackpink-kill-this-love-jp-version-digital-booklet/1785139915768-3uasfd-0.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/blackpink-kill-this-love-jp-version-digital-booklet/1785139915768-5no77j-2.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/blackpink-kill-this-love-jp-version-digital-booklet/1785139915768-ae7jxw-1.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/blackpink-kill-this-love-jp-version-digital-booklet/1785139915768-ahwc7v-3.webp"
+      ]
     },
     {
       "title": "260907 Jisoo Instagram Update",
-      "api_url": "https://kpopping.com/kpics/260907-jisoo-instagram-update"
+      "api_url": "https://kpopping.com/kpics/260907-jisoo-instagram-update",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/260907-jisoo-instagram-update/1788786847754-2g0iiu-7.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/260907-jisoo-instagram-update/1788786847754-377haw-2.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/260907-jisoo-instagram-update/1788786847754-4zskla-5.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/260907-jisoo-instagram-update/1788786847754-9n9ecw-1.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/260907-jisoo-instagram-update/1788786847754-a54n3a-4.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/260907-jisoo-instagram-update/1788786847754-detf6q-9.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/260907-jisoo-instagram-update/1788786847754-ep53go-6.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/260907-jisoo-instagram-update/1788786847754-hh5bui-8.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/260907-jisoo-instagram-update/1788786847754-ieerfc-3.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/260907-jisoo-instagram-update/1788786847754-n9wfad-10.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/260907-jisoo-instagram-update/1788786847754-tkoxc3-0.webp"
+      ]
     },
     {
-      "title": "Jisoo Digital Single Click Scans",
-      "api_url": "https://kpopping.com/kpics/jisoo-digital-single-click-scans"
-    },
-    {
-      "title": "260910 Rose SNS Update",
-      "api_url": "https://kpopping.com/kpics/260910-rose-sns-update"
-    },
-    {
-      "title": "Rose X Saint Laurent For Elle Korea For 2026 September Cover",
-      "api_url": "https://kpopping.com/kpics/rose-x-saint-laurent-for-elle-korea-for-2026-september-cover"
-    },
-    {
-      "title": "260902 Jennie Instagram Update",
-      "api_url": "https://kpopping.com/kpics/260902-jennie-instagram-update"
-    },
-    {
-      "title": "260828 Jennie Fallen Angel Exclusive Cuts Melon Exclusive",
-      "api_url": "https://kpopping.com/kpics/260828-jennie-fallen-angel-exclusive-cuts-melon-exclusive"
-    },
-    {
-      "title": "260909 Lisa At Bvlgari Serpenti Infinito Event In New York",
-      "api_url": "https://kpopping.com/kpics/260909-lisa-at-bvlgari-serpenti-infinito-event-in-new-york"
-    },
-    {
-      "title": "260911 Lisa At 2026 Toronto International Film Festival Always Lalisa Premiere",
-      "api_url": "https://kpopping.com/kpics/260911-lisa-at-2026-toronto-international-film-festival-always-lalisa-premiere"
+      "title": "Jisoo - Digital Single \"CLICK\" [SCANS]",
+      "api_url": "https://kpopping.com/kpics/jisoo-digital-single-click-scans",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876528946-cyitwg-0.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876528947-1iwjdk-2.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876528947-9a6mse-3.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876528947-c82yi5-4.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876528947-l2md76-5.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876528947-pnfqb0-6.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876528947-soc2e0-1.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-02bnbr-7.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-2n8a3t-3.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-6e9gyq-4.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-9l1f0m-12.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-d54n3i-8.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-ggtw7r-5.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-hbivmc-13.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-hfy5ps-9.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-ra7z81-11.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-s5up1q-0.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-tki8xe-6.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-touu4h-1.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-u3p38i-2.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876566459-ube4if-10.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876599165-1e5oyx-1.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876599165-2al589-0.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876599165-bzp83p-7.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876599165-ge0qji-5.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876599165-hoglnk-4.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876599165-hwr81m-3.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876599165-hza11d-6.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876599165-l91p8m-8.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876599165-llbbbl-2.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876599165-ln5bth-10.webp",
+        "https://fandomkpopuk-bot.github.io/blackpink-asset/jisoo-digital-single-click-scans/1788876599165-lqvkmf-9.webp"
+      ]
     }
   ]
 }
