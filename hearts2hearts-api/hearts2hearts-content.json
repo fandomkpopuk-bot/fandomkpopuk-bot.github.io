@@ -239,24 +239,98 @@
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate"
-
   },
   "gallery": [
     {
       "title": "260915 Hearts2Hearts Instagram Update",
-      "api_url": "https://kpopping.com/kpics/260915-hearts2hearts-instagram-update"
+      "api_url": "https://kpopping.com/kpics/260915-hearts2hearts-instagram-update",
+      "photo_collection": []
     },
     {
       "title": "260918 Mnet Plus Twitter Update with Hearts2Hearts",
-      "api_url": "https://kpopping.com/kpics/260918-mnet-plus-twitter-update-with-hearts2hearts"
+      "api_url": "https://kpopping.com/kpics/260918-mnet-plus-twitter-update-with-hearts2hearts",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-4342an-15.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-4t4xo4-10.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-9fy45a-12.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-arcqz9-11.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-cuqw22-4.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-dzuhjt-8.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-klhy26-0.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-n90nfc-13.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-p2mwuk-9.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-pih4vt-2.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-qixjvr-1.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-tifvhr-6.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-tl7i0l-3.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-vzic5m-7.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-xycdr3-14.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-zp5k8k-5.webp"
+      ]
     },
     {
       "title": "260910 Kia Instagram Update with Hearts2Hearts Moonride Behind Photos",
-      "api_url": "https://kpopping.com/kpics/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos"
+      "api_url": "https://kpopping.com/kpics/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133728-swsagx-0.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-41e396-14.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-71anuo-12.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-7ps81n-2.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-9yiz13-4.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-c9ylyf-10.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-ei5d3z-11.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-eyk62d-9.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-j38bic-13.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-kv6api-6.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-lmu97s-8.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-o3m2h9-5.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-ogqq1r-15.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-qtc2jp-3.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-rz3tt5-16.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-uxlqbo-17.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-v2hfp5-7.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-vn4aoh-18.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-xxgbzq-19.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260910-kia-instagram-update-with-hearts2hearts-moonride-behind-photos/1789079133729-zafpyi-1.webp"
+      ]
     },
     {
       "title": "260908 Hearts2Hearts Instagram Update",
-      "api_url": "https://kpopping.com/kpics/260908-hearts2hearts-instagram-update"
+      "api_url": "https://kpopping.com/kpics/260908-hearts2hearts-instagram-update",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-00yow3-1.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-10thwz-21.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-461b9f-4.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-4w7epf-29.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-8kzitf-23.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-a4wv4l-26.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-ah1qva-12.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-amaj4m-6.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-bsmq4a-11.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-bu4bxl-15.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-e0xgg0-28.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-efiodm-25.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-hlrfcy-31.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-iflhcl-30.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-jr8kbw-16.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-keh7qq-19.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-kiq3cq-18.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-mikgw6-14.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-mprbkk-7.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-o6wwj3-17.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-ozfhsw-24.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-q0h9yr-2.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-q96lxg-13.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-qfqk3l-10.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-sptqdp-5.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-u6gm1m-0.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-uo0def-8.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-uvxh8v-3.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-x1drcq-22.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-xgbjz4-20.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-ycw364-27.webp",
+        "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260908-hearts2hearts-instagram-update/1788859561318-yp1u30-9.webp"
+      ]
     }
   ]
 }
