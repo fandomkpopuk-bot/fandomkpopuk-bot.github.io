@@ -188,20 +188,57 @@
     "adBannerInterval": 10,
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
-    "androidUpdateType": "immediate"
+    "androidUpdateType": "immediate",
+    "isNewGalleryEnabled": true
   },
   "gallery": [
     {
-      "title": "KATSEYE SNS Update 260902",
-      "api_url": "https://kpopping.com/kpics/260902-katseye-sns-update"
+      "title": "260902 KATSEYE SNS Update",
+      "api_url": "https://kpopping.com/kpics/260902-katseye-sns-update",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260902-katseye-sns-update/1789788443341-9rfwsx-4.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260902-katseye-sns-update/1789788443341-asz2fh-5.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260902-katseye-sns-update/1789788443341-b04nxq-3.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260902-katseye-sns-update/1789788443341-gomyo2-6.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260902-katseye-sns-update/1789788443341-hw5ktd-2.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260902-katseye-sns-update/1789788443341-nmuv79-8.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260902-katseye-sns-update/1789788443341-o24zlp-9.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260902-katseye-sns-update/1789788443341-phzji2-1.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260902-katseye-sns-update/1789788443341-qb2za1-7.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260902-katseye-sns-update/1789788443341-w608al-0.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260902-katseye-sns-update/1789788443341-xashw7-10.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260902-katseye-sns-update/1789788549928-b4kegf-0.webp"
+      ]
     },
     {
-      "title": "KATSEYE Instagram Update",
-      "api_url": "https://kpopping.com/kpics/260723-katseye-instagram-update"
+      "title": "260723 KATSEYE Instagram Update",
+      "api_url": "https://kpopping.com/kpics/260723-katseye-instagram-update",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260723-katseye-instagram-update/1787522359957-6b8at2-4.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260723-katseye-instagram-update/1787522359957-lngz46-3.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260723-katseye-instagram-update/1787522359957-mcph3j-5.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260723-katseye-instagram-update/1787522359957-owxcb1-0.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260723-katseye-instagram-update/1787522359957-tzoi35-1.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260723-katseye-instagram-update/1787522359957-uzgi8t-7.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260723-katseye-instagram-update/1787522359957-zrycaq-6.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260723-katseye-instagram-update/1787522359957-zz6fbj-2.webp"
+      ]
     },
     {
-      "title": "KATSEYE SNS Update",
-      "api_url": "https://kpopping.com/kpics/260907-katseye-sns-update"
+      "title": "260907 KATSEYE SNS Update",
+      "api_url": "https://kpopping.com/kpics/260907-katseye-sns-update",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260907-katseye-sns-update/1789788727479-317eek-7.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260907-katseye-sns-update/1789788727479-3uzbb2-2.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260907-katseye-sns-update/1789788727479-4bwdkd-5.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260907-katseye-sns-update/1789788727479-dvkwl5-1.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260907-katseye-sns-update/1789788727479-ife3zv-8.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260907-katseye-sns-update/1789788727479-pai674-4.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260907-katseye-sns-update/1789788727479-qw10fb-0.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260907-katseye-sns-update/1789788727479-s0sabi-3.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260907-katseye-sns-update/1789788727479-vknts7-9.webp",
+        "https://fandomkpopuk-bot.github.io/katseye-asset/260907-katseye-sns-update/1789788727479-wxq69l-6.webp"
+      ]
     }
   ]
 }
