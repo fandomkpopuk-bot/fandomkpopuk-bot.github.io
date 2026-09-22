@@ -181,7 +181,7 @@
     "isSongRequestEnabled": true,
     "maxDownloadCount": 2,
     "maxPlayCount": 3,
-    "maxViewImageCount": 6,
+    "maxViewImageCount": 5,
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",

@@ -142,7 +142,7 @@
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 3,
-    "maxViewImageCount": 6,
+    "maxViewImageCount": 5,
     "maxDownloadCount": 2,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,
@@ -159,16 +159,6 @@
     "isNewGalleryEnabled": true
   },
   "gallery": [
-    {
-      "title": "BLACKPINK - 'KILL THIS LOVE - JP VERSION' Digital Booklet",
-      "api_url": "https://kpopping.com/kpics/blackpink-kill-this-love-jp-version-digital-booklet",
-      "photo_collection": [
-        "https://fandomkpopuk-bot.github.io/blackpink-asset/blackpink-kill-this-love-jp-version-digital-booklet/1785139915768-3uasfd-0.webp",
-        "https://fandomkpopuk-bot.github.io/blackpink-asset/blackpink-kill-this-love-jp-version-digital-booklet/1785139915768-5no77j-2.webp",
-        "https://fandomkpopuk-bot.github.io/blackpink-asset/blackpink-kill-this-love-jp-version-digital-booklet/1785139915768-ae7jxw-1.webp",
-        "https://fandomkpopuk-bot.github.io/blackpink-asset/blackpink-kill-this-love-jp-version-digital-booklet/1785139915768-ahwc7v-3.webp"
-      ]
-    },
     {
       "title": "260907 Jisoo Instagram Update",
       "api_url": "https://kpopping.com/kpics/260907-jisoo-instagram-update",
