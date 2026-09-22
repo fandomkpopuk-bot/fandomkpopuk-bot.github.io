@@ -171,20 +171,61 @@
     "adBannerInterval": 10,
     "isMinigameEnabled": true,
     "maxViewImageCount": 6,
-    "isGalleryEnabled": false
+    "isGalleryEnabled": false,
+    "isNewGalleryEnabled": true
   },
   "gallery": [
     {
-      "title": "260919 Illit At The Fact Music Awards 2026",
-      "api_url": "https://kpopping.com/kpics/260919-illit-at-the-fact-music-awards-2026"
+      "title": "260919 ILLIT at The Fact Music Awards 2026",
+      "api_url": "https://kpopping.com/kpics/260919-illit-at-the-fact-music-awards-2026",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/illit-asset/260919-illit-at-the-fact-music-awards-2026/1789842407665-hpqfmh-0.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260919-illit-at-the-fact-music-awards-2026/1789842407666-7p4ms9-10.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260919-illit-at-the-fact-music-awards-2026/1789842407666-8gymbu-2.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260919-illit-at-the-fact-music-awards-2026/1789842407666-jlu1tz-1.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260919-illit-at-the-fact-music-awards-2026/1789842407666-kettid-9.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260919-illit-at-the-fact-music-awards-2026/1789842407666-ok3b8d-6.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260919-illit-at-the-fact-music-awards-2026/1789842407666-pch3ny-4.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260919-illit-at-the-fact-music-awards-2026/1789842407666-qftj1f-7.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260919-illit-at-the-fact-music-awards-2026/1789842407666-qhiaqs-5.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260919-illit-at-the-fact-music-awards-2026/1789842407666-ua7kgs-3.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260919-illit-at-the-fact-music-awards-2026/1789842407666-um6o1y-8.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260919-illit-at-the-fact-music-awards-2026/1789842407666-ze0cj0-11.webp"
+      ]
     },
     {
-      "title": "260820 Illit For Billboard Japan Billboardjapan Twitter Update",
-      "api_url": "https://kpopping.com/kpics/260820-illit-for-billboard-japan-billboardjapan-twitter-update"
+      "title": "260820 ILLIT for Billboard Japan @.billboard_japan Twitter Update",
+      "api_url": "https://kpopping.com/kpics/260820-illit-for-billboard-japan-billboardjapan-twitter-update",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/illit-asset/260820-illit-for-billboard-japan-billboard-japan-twitter-update/1787750412551-b9jcba-0.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260820-illit-for-billboard-japan-billboard-japan-twitter-update/1787750412552-1dbjm4-3.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260820-illit-for-billboard-japan-billboard-japan-twitter-update/1787750412552-41ves8-1.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260820-illit-for-billboard-japan-billboard-japan-twitter-update/1787750412552-jzm3tz-2.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260820-illit-for-billboard-japan-billboard-japan-twitter-update/1787750412552-qnfyag-4.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260820-illit-for-billboard-japan-billboard-japan-twitter-update/1787750412552-uzzukb-5.webp"
+      ]
     },
     {
-      "title": "260825 Illit Instagram Update",
-      "api_url": "https://kpopping.com/kpics/260825-illit-instagram-update"
+      "title": "260825 ILLIT Instagram Update",
+      "api_url": "https://kpopping.com/kpics/260825-illit-instagram-update",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642453427-3a3jmt-0.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-17qjf7-13.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-3bdd9x-1.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-5gr27x-14.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-7731y0-12.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-b6t48x-11.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-birqpu-0.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-c3j5z8-10.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-ciasp6-9.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-gxjx1y-4.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-iecmhl-7.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-l6m689-6.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-luewtl-5.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-ma6elm-3.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-nbkt7o-2.webp",
+        "https://fandomkpopuk-bot.github.io/illit-asset/260825-illit-instagram-update/1787642485171-ovr1vg-8.webp"
+      ]
     }
   ]
 }
