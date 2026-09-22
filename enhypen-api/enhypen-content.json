@@ -203,7 +203,8 @@
     "isMembersEnabled": true,
     "adBannerInterval": 10,
     "isMinigameEnabled": true,
-    "isGalleryEnabled": false
+    "isGalleryEnabled": false,
+    "isNewGalleryEnabled": true
   },
   "gallery": [
     {
