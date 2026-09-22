@@ -197,7 +197,8 @@
     "isMembersEnabled": true,
     "adBannerInterval": 10,
     "isMinigameEnabled": true,
-    "isGalleryEnabled": false
+    "isGalleryEnabled": false,
+    "isNewGalleryEnabled": true
   },
   "announcement": {
     "id": "app-feedback-01",
@@ -223,24 +224,72 @@
   },
   "gallery": [
     {
-      "title": "Stray Kids - \"THIS & THAT\" Special Website Reward Photos",
-      "api_url": "https://kpopping.com/kpics/stray-kids-this-that-special-website-reward-photos"
+      "title": "Stray Kids - \"THIS & THAT\" Special Website Reward",
+      "api_url": "https://kpopping.com/kpics/stray-kids-this-that-special-website-reward-photos",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800404-1o41ov-2.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800404-9wmhsj-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800404-bbnxsf-1.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-buclkd-4.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-fg1zbb-6.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-l067oh-3.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-nufpvs-5.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-yots4q-8.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-yuebtv-7.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958899789-bufd5a-2.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958899789-fxkdgh-5.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958899789-iq0qvo-3.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958899789-m94y0r-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958899789-pyzo6o-4.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958899789-wo1cmj-1.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958962243-8pro53-3.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958962243-b4ynag-4.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958962243-iol7p6-2.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958962243-k120me-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958962243-repqsk-1.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959021398-3prmps-2.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959021398-68u7xq-3.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959021398-dgcp5v-1.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959021398-nurbeu-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959021398-twrq4e-4.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959072420-awf7g8-4.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959072420-bg72p6-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959072420-mjqp9a-3.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959072420-rhquu6-2.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959072420-x9zng5-1.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959156935-5d7dp9-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959156935-fh67tj-2.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959156935-ja7vt7-3.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959156935-n9qdbm-1.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959156935-yol6id-4.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959214805-gs7wlc-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959214806-1ke1ve-4.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959214806-1kje35-2.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959214806-84hamd-3.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785959214806-anzu90-1.webp"
+      ]
     },
     {
       "title": "Hyunjin x Guess 2026 Fall Campaign",
-      "api_url": "https://kpopping.com/kpics/hyunjin-x-guess-2026-fall-campaign"
-    },
-    {
-      "title": "260830 Stray Kids Japan X Update",
-      "api_url": "https://kpopping.com/kpics/260830-stray-kids-japan-x-update"
-    },
-    {
-      "title": "Stray Kids Official Fanclub STAY 5th Gen \"Stay With Your Wings\" Concept Photos",
-      "api_url": "https://kpopping.com/kpics/stray-kids-official-fanclub-stay-5th-gen-stay-with-your-wings-concept-photos"
-    },
-    {
-      "title": "260125 Stray Kids Japan Twitter Update",
-      "api_url": "https://kpopping.com/kpics/260125-stray-kids-japan-twitter-update"
+      "api_url": "https://kpopping.com/kpics/hyunjin-x-guess-2026-fall-campaign",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1788536321774-b758fy-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789061130405-1i4mcv-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789061223577-vqdfuo-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789061325571-3sg6b2-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789061404653-qgn25q-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789628207774-22iire-0.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789628207775-5tkbwk-6.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789628207775-8bkofl-7.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789628207775-fnkd9a-3.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789628207775-fru6r0-4.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789628207775-i3ceag-2.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789628207775-jp982f-1.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789628207775-ohjjx9-8.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789628207775-qig9ky-9.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789628207775-qmw4d7-5.webp",
+        "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789914840218-tijr1g-0.webp"
+      ]
     }
   ]
 }
