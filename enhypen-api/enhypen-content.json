@@ -207,20 +207,36 @@
   },
   "gallery": [
     {
-      "title": "ENHYPEN Checkmate MV Photo Sketch",
-      "api_url": "https://kpopping.com/kpics/enhypen-checkmate-mv-photo-sketch"
-    },
-    {
-      "title": "260903 ENHYPEN X Update",
-      "api_url": "https://kpopping.com/kpics/260903-enhypen-x-update"
-    },
-    {
-      "title": "260822 ENHYPEN Bloody Paradise MV Photo Sketch",
-      "api_url": "https://kpopping.com/kpics/260822-enhypen-bloody-paradise-mv-photo-sketch"
-    },
-    {
-      "title": "260820 ENHYPEN at the Sin Bliss Press Conference Media Photos",
-      "api_url": "https://kpopping.com/kpics/260820-enhypen-at-the-sin-bliss-press-conference-media-photos"
+      "title": "ENHYPEN ‘Checkmate’ MV Photo Sketch",
+      "api_url": "https://kpopping.com/kpics/enhypen-checkmate-mv-photo-sketch",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398098345-845wdn-8.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398098345-8cdh5p-5.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398098345-98qroy-7.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398098345-a2x0a3-0.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398098345-a65463-11.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398098345-bokdzj-9.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398098345-d82r16-2.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398098345-mv5x23-4.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398098345-nppm9t-1.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398098345-rjzhy2-10.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398098345-x04wmf-6.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398098345-xo77bs-3.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-16ni1v-3.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-4z7u36-8.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-60iqzo-6.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-9356si-10.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-949gy8-11.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-ap7hiq-0.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-e9czoq-1.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-h98x2v-13.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-kpmfpi-7.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-lgiz21-9.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-phir1b-5.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-tgx8qu-12.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-w6654x-4.webp",
+        "https://fandomkpopuk-bot.github.io/enhypen-asset/enhypen-checkmate-mv-photo-sketch/1789398470857-x37g67-2.webp"
+      ]
     }
   ]
 }

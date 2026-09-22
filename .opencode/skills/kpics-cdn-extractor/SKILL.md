@@ -1,11 +1,13 @@
 ---
 name: Kppics CDN Extractor
-description: Ubah kpopping.com/kpics URL menjadi list link CDN cdn.kpopping.com untuk photo_collection gallery.
+description: Ubah kpopping.com/kpics URL menjadi photo_collection gallery satu langkah full pipeline — scrape CDN, update JSON, download aset WebP, rewrite ke GitHub Pages.
 ---
 
 # Kpics CDN Extractor
 
-Gunakan skill ini setiap ada permintaan "ubah url kpopping menjadi list CDN" atau "isi photo_collection".
+Gunakan skill ini setiap ada permintaan "ubah url kpopping menjadi list CDN", "isi photo_collection", atau "@kpics-cdn-extractor <url> <app>".
+
+Default adalah satu langkah full pipeline: scrape CDN → update `*-content.json` → download aset `--to-webp` → rewrite ke GitHub Pages. Tidak ada tahap terpisah kecuali user eksplisit meminta opt-out (`cdn-only` / `tanpa download` / `tanpa webp`).
 
 ## Input
 
@@ -43,20 +45,21 @@ Jangan menebak title di luar urutan itu. Saat update entry lama, pertahankan tit
 3. Dedup + sort. Abaikan `static/`, `avatar`, `graph`.
 4. Jika HTML berisi `Just a moment...` dan kecil (<20KB) → tandai `blocked`, jangan keluarkan list kosong seolah lengkap. Jangan timpa `photo_collection` lama dengan hasil blocked/kosong.
 5. Jangan hapus `api_url` di `*-content.json` kecuali user eksplisit meminta format `{title, photo_collection}` tanpa `api_url` (pakai `--drop-api-url` hanya atas otorisasi itu).
-6. Langsung update file tanpa bertanya konfirmasi bila URL + petunjuk app sudah diberikan. Jangan `git commit` — hanya ubah working tree, commit biar user yang lakukan.
+6. Langsung full pipeline tanpa bertanya konfirmasi bila URL + petunjuk app sudah diberikan: scrape → update `photo_collection` → download aset `--to-webp` → rewrite ke GitHub Pages. Default `rewrite-base`: `https://fandomkpopuk-bot.github.io`. Lewati download hanya bila user eksplisit meminta opt-out (`cdn-only` / `tanpa download` / `tanpa webp`). Jangan `git commit` — hanya ubah working tree, commit biar user yang lakukan.
 7. Tulis JSON dengan `ensure_ascii=False, indent=2`. Validasi dengan `python3 -m json.tool`.
 
 ## Workflow
 
-Bila user memberi URL + petunjuk app (mis. `@kpics-cdn-extractor <url> cortis`), LANGSUNG scrape lalu update file — tanpa bertanya dulu, tanpa `git commit`:
+Bila user memberi URL + petunjuk app (mis. `@kpics-cdn-extractor <url> cortis`), LANGSUNG full pipeline — tanpa bertanya dulu, tanpa `git commit`:
 
 ```sh
 echo "<url>" > /tmp/urls.txt
 python3 .opencode/skills/kpics-cdn-extractor/scripts/extract_kpics.py --app CORTIS --apply --input /tmp/urls.txt --output /tmp/cdn.json --delay 2
+python3 .opencode/skills/kpics-cdn-extractor/scripts/download_assets.py --app CORTIS --to-webp --rewrite-base https://fandomkpopuk-bot.github.io --delay 0.5
 python3 -m json.tool <api_dir>/<slug>-content.json > /dev/null && echo "JSON OK"
 ```
 
-Hanya berhenti untuk konfirmasi bila: hasil `blocked`, match ambigu (dilaporkan script), atau app tidak ketemu di `constanta.json` maupun fallback direktori.
+Hanya berhenti untuk konfirmasi bila: hasil `blocked`, match ambigu (dilaporkan script), atau app tidak ketemu di `constanta.json` maupun fallback direktori. Bila `blocked`/kosong: JANGAN lanjut ke download (agar tidak menimpa data lama dengan hasil kosong). Opt-out: bila user menulis `cdn-only` / `tanpa download` / `tanpa webp`, berhenti setelah langkah `extract_kpics.py`.
 
 Scrape saja tanpa tulis (bila user hanya minta list, tanpa petunjuk app):
 
@@ -87,9 +90,9 @@ Output: `{"items": {url: {"title": ..., "photos": [...]}}, "photos": {...}, "blo
    ```
 5. Laporkan per URL: title terdeteksi, jumlah foto, 1 contoh, target file hasil mapping, dan mana yang blocked/fallback.
 
-## Download aset + rewrite ke GitHub Pages
+## Download aset + rewrite ke GitHub Pages (default langkah 2 dari full pipeline)
 
-Script `scripts/download_assets.py` mengunduh `photo_collection` ke `<asset-dir>/<slug-title>/` dan opsional menulis ulang link menjadi base Pages:
+Script `scripts/download_assets.py` mengunduh `photo_collection` ke `<asset-dir>/<slug-title>/` dan menulis ulang link menjadi base Pages. Ini OTOMATIS jalan setelah `extract_kpics.py --apply`, bukan opsional terpisah:
 
 ```sh
 python3 .opencode/skills/kpics-cdn-extractor/scripts/download_assets.py --app CORTIS --dry-run --rewrite-base https://fandomkpopuk-bot.github.io
