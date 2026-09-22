@@ -404,6 +404,11 @@
       "score": 3300
     },
     {
+      "name": "Soyeon",
+      "country": "South Korea",
+      "score": 2125
+    },
+    {
       "name": "Diba",
       "country": "Indonesia",
       "score": 2050
@@ -427,11 +432,6 @@
       "name": "Acumulaka",
       "country": "Indonesia",
       "score": 1500
-    },
-    {
-      "name": "manz",
-      "country": "Indonesian",
-      "score": 1225
     }
   ],
   "event_list": [

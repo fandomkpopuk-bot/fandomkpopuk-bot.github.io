@@ -1314,6 +1314,11 @@
       "score": 6650
     },
     {
+      "name": "Maliha",
+      "country": "Pakistan",
+      "score": 6550
+    },
+    {
       "name": "Seona",
       "country": "Uzbekistan",
       "score": 4600
@@ -1337,11 +1342,6 @@
       "name": "Aini",
       "country": "Indonesia",
       "score": 2125
-    },
-    {
-      "name": "Anu",
-      "country": "India",
-      "score": 1725
     }
   ],
   "event_list": [

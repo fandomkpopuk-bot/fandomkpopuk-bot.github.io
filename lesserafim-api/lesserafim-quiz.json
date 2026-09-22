@@ -654,6 +654,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Soyeon",
+      "country": "South Korea",
+      "score": 3225
+    },
+    {
       "name": "Victoria",
       "country": "Vicky",
       "score": 650
@@ -666,11 +671,6 @@
     {
       "name": "Nami",
       "country": "Brazil",
-      "score": 550
-    },
-    {
-      "name": "Soyeon",
-      "country": "South Korea",
       "score": 550
     }
   ],

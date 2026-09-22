@@ -409,19 +409,19 @@
       "score": 1900
     },
     {
+      "name": "Madariyo",
+      "country": "Abuabu",
+      "score": 1725
+    },
+    {
+      "name": "Soyeon",
+      "country": "South Korea",
+      "score": 1500
+    },
+    {
       "name": "Sarah",
       "country": "Maldives",
       "score": 1200
-    },
-    {
-      "name": "𝓐𝓼𝓾𝓴𝓪",
-      "country": "𝓔𝓰𝔂𝓹𝓽",
-      "score": 750
-    },
-    {
-      "name": "Danna",
-      "country": "Mexico",
-      "score": 750
     },
     {
       "name": "Mila",
@@ -429,9 +429,9 @@
       "score": 750
     },
     {
-      "name": "Um,",
-      "country": "Philippines",
-      "score": 675
+      "name": "Danna",
+      "country": "Mexico",
+      "score": 750
     }
   ],
   "event_list": [

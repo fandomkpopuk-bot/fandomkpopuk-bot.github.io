@@ -435,9 +435,19 @@
       "score": 6125
     },
     {
-      "name": "Besan",
+      "name": "Beaan",
       "country": "Egypt",
-      "score": 5375
+      "score": 6075
+    },
+    {
+      "name": "Bee",
+      "country": "Korean",
+      "score": 3025
+    },
+    {
+      "name": "Konno",
+      "country": "Myanmar",
+      "score": 2575
     },
     {
       "name": "Ziani HAYET",
@@ -448,16 +458,6 @@
       "name": "Ale",
       "country": "România",
       "score": 1825
-    },
-    {
-      "name": "Jane",
-      "country": "Philippines",
-      "score": 1525
-    },
-    {
-      "name": "Sophie",
-      "country": "France",
-      "score": 1450
     }
   ],
   "event_list": [
