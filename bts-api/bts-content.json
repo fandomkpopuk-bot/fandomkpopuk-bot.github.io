@@ -184,7 +184,8 @@
     "maxViewImageCount": 6,
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
-    "androidUpdateType": "immediate"
+    "androidUpdateType": "immediate",
+    "isNewGalleryEnabled": true
   },
   "news_list": [
     {
@@ -207,28 +208,54 @@
   ],
   "gallery": [
     {
-      "title": "2026 BTS Festa Family Photo",
-      "api_url": "https://kpopping.com/kpics/2026-bts-festa-family-photo"
+      "title": "2026 BTS FESTA Family",
+      "api_url": "https://kpopping.com/kpics/2026-bts-festa-family-photo",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-00gt06-8.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-0mf8qo-2.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-1b5a4l-0.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-1je14m-3.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-40hssw-9.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-bvmrcp-4.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-eechbr-5.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-gfkts6-6.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-k6maq2-11.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-lbzuwr-10.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-u1kliw-12.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-vgpt90-1.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/2026-bts-festa-family/1780499619631-wodaxf-7.webp"
+      ]
     },
     {
-      "title": "BTS Normal MV Photo Sketch",
-      "api_url": "https://kpopping.com/kpics/bts-normal-mv-photo-sketch"
-    },
-    {
-      "title": "260525 BTS at the 52nd Annual American Music Awards",
-      "api_url": "https://kpopping.com/kpics/260525-bts-at-the-52nd-annual-american-music-awards"
-    },
-    {
-      "title": "BTS x Louis Vuitton SS22 Menswear for Vogue Hong Kong 2022 January Cover",
-      "api_url": "https://kpopping.com/kpics/bts-x-louis-vuitton-ss22-menswear-for-vogue-hong-kong-2022-january-cover"
-    },
-    {
-      "title": "BTS Merry Go Round MV Photo Sketch",
-      "api_url": "https://kpopping.com/kpics/bts-merry-go-round-mv-photo-sketch"
-    },
-    {
-      "title": "BTS 13 Side Film 2026 BTS Festa",
-      "api_url": "https://kpopping.com/kpics/bts-13-side-film-2026btsfesta"
+      "title": "BTS 'NORMAL' MV Photo Sketch",
+      "api_url": "https://kpopping.com/kpics/bts-normal-mv-photo-sketch",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798395058-0ugie2-3.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798395058-34kr7n-2.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798395058-3jvi03-0.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798395058-a1shpp-1.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798447142-6l4r4w-0.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798447143-055gyo-1.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798447143-1bm0ik-5.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798447143-4d27iq-4.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798447143-4o85wv-2.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798447143-jpwm82-3.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798492472-6n2431-0.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798492472-cyqj9r-3.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798492472-fe3chk-5.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798492472-isiajf-2.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798492472-yg1dfn-4.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798492472-zktpx2-1.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798572321-1fjxbm-7.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798572321-9a7yj8-0.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798572321-b0x7dj-2.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798572321-glu1qg-6.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798572321-j7jqcq-4.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798572321-ooxmi2-5.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798572321-qcr8u7-3.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798572321-quxeqk-8.webp",
+        "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798572321-wifxf6-1.webp"
+      ]
     }
   ]
 }
