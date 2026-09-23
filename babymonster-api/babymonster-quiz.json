@@ -442,7 +442,12 @@
     {
       "name": "Bee",
       "country": "Korean",
-      "score": 3025
+      "score": 3325
+    },
+    {
+      "name": "Cajee",
+      "country": "Malaysia",
+      "score": 2700
     },
     {
       "name": "Konno",
@@ -453,11 +458,6 @@
       "name": "Ziani HAYET",
       "country": "Algeria",
       "score": 2500
-    },
-    {
-      "name": "Ale",
-      "country": "România",
-      "score": 1825
     }
   ],
   "event_list": [

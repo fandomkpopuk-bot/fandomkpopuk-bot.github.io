@@ -534,6 +534,11 @@
       "score": 4125
     },
     {
+      "name": "Klara",
+      "country": "Slovenia",
+      "score": 2225
+    },
+    {
       "name": "Tayaki",
       "country": "Russia",
       "score": 2025
@@ -557,11 +562,6 @@
       "name": "Sofia",
       "country": "Germany",
       "score": 1500
-    },
-    {
-      "name": "Julia",
-      "country": "France",
-      "score": 1450
     }
   ],
   "event_list": [
