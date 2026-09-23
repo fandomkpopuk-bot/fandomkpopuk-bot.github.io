@@ -201,6 +201,74 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 7,
-    "isMinigameEnabled": true
-  }
+    "isMinigameEnabled": true,
+    "maxViewImageCount": 5,
+    "isNewGalleryEnabled": true
+  },
+  "gallery": [
+    {
+      "title": "260918 apeestore_official Instagram Update - BABYMONSTER for APEE x BABYMONSTER FALL 26 COLLECTION",
+      "api_url": "https://kpopping.com/kpics/260918-apeestoreofficial-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260918-apeestore-official-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection/1789919318896-0b246p-10.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260918-apeestore-official-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection/1789919318896-3giznk-1.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260918-apeestore-official-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection/1789919318896-3lp3qp-3.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260918-apeestore-official-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection/1789919318896-55rexs-0.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260918-apeestore-official-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection/1789919318896-5h308k-8.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260918-apeestore-official-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection/1789919318896-b92luh-7.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260918-apeestore-official-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection/1789919318896-byfzb1-5.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260918-apeestore-official-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection/1789919318896-d9v0dp-11.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260918-apeestore-official-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection/1789919318896-ozskhz-6.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260918-apeestore-official-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection/1789919318896-sun2zz-2.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260918-apeestore-official-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection/1789919318896-v9886q-4.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260918-apeestore-official-instagram-update-babymonster-for-apee-x-babymonster-fall-26-collection/1789919373098-b79f68fdf4c7-0.webp"
+      ]
+    },
+    {
+      "title": "260830 BABYMONSTER at Adidas Orchard Ignition X F1 Singapore Fan Event",
+      "api_url": "https://kpopping.com/kpics/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879248726-0i33n0-5.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879248726-77t1mu-0.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879248726-fhnvpp-4.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879248726-fn2tit-3.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879248726-mrkn08-7.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879248726-p598tb-6.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879248726-t8t4ca-2.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879248726-vtw4dd-8.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879248726-wds7h2-1.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879571853-bzfmw7-0.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879571854-1dnb4o-3.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879571854-5935po-2.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879571854-s1zl41-4.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1788879571854-wiw8n8-1.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1789486832908-j7r9ot-0.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260830-babymonster-at-adidas-orchard-ignition-x-f1-singapore-fan-event/1789486832908-k1zg3r-1.webp"
+      ]
+    },
+    {
+      "title": "260915 APEESTORE Instagram Update with BABYMONSTER",
+      "api_url": "https://kpopping.com/kpics/260915-apeestore-instagram-update-with-babymonster",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260915-apeestore-instagram-update-with-babymonster/1789477083610-18pix5-1.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260915-apeestore-instagram-update-with-babymonster/1789477083610-33wodq-0.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260915-apeestore-instagram-update-with-babymonster/1789477083610-6rosdm-5.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260915-apeestore-instagram-update-with-babymonster/1789477083610-7hu2j3-4.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260915-apeestore-instagram-update-with-babymonster/1789477083610-fk2250-2.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/260915-apeestore-instagram-update-with-babymonster/1789477083610-vanlt4-3.webp"
+      ]
+    },
+    {
+      "title": "BABYMONSTER - 'DRIP' Album Behind",
+      "api_url": "https://kpopping.com/kpics/babymonster-drip-album-behind-photos",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/babymonster-drip-album-behind/1789044939278-xw3ux5-0.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/babymonster-drip-album-behind/1789044939279-2laifv-3.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/babymonster-drip-album-behind/1789044939279-mx2cwe-1.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/babymonster-drip-album-behind/1789044939279-r0yi1r-5.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/babymonster-drip-album-behind/1789044939279-rny76w-6.webp",
+        "https://fandomkpopuk-bot.github.io/babymonster-asset/babymonster-drip-album-behind/1789044939279-xoierz-4.webp"
+      ]
+    }
+  ]
 }
