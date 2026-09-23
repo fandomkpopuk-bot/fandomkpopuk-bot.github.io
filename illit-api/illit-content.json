@@ -163,7 +163,7 @@
     "freeAdsSessionDurationHours": 3,
     "freeAdsSessionVideosRequired": 3,
     "isDownloadEnabled": true,
-    "isLyricsEnabled": true,
+    "isLyricsEnabled": false,
     "isSongRequestEnabled": true,
     "isOtherAppsEnabled": true,
     "isNewsEnabled": false,
