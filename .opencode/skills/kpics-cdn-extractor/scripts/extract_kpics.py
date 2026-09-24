@@ -220,6 +220,16 @@ def resolve_content_file(app_hint: str, constanta_path: str = "constanta.json") 
                     api_dir = d
                     break
     if api_dir is None:
+        # Fallback ternormalisasi: abaikan spasi/tanda baca
+        # (mis. "le sserafim" -> lesserafim-api).
+        nhint = re.sub(r"[^a-z0-9]+", "", hint)
+        if nhint:
+            for d in sorted(glob.glob("*-api")):
+                ndir = re.sub(r"[^a-z0-9]+", "", d.lower())
+                if nhint in ndir and os.path.isdir(d):
+                    api_dir = d
+                    break
+    if api_dir is None:
         known = [str(e.get("app_name", "")) for e in entries]
         raise FileNotFoundError(f"app '{app_hint}' tidak ada di {constanta_path} ({known}) dan tidak ada direktori *-api yang cocok")
     matches = sorted(glob.glob(os.path.join(api_dir, "*-content.json")))
