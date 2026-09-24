@@ -796,6 +796,11 @@
       "score": 925
     },
     {
+      "name": "Emmania",
+      "country": "Pakistan",
+      "score": 925
+    },
+    {
       "name": "george",
       "country": "Philippines",
       "score": 850
@@ -804,11 +809,6 @@
       "name": "Rose",
       "country": "Australia",
       "score": 650
-    },
-    {
-      "name": "Prince",
-      "country": "India",
-      "score": 600
     }
   ],
   "event_list": [

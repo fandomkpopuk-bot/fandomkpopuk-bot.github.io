@@ -425,6 +425,11 @@
       "score": 38875
     },
     {
+      "name": "Ale",
+      "country": "România",
+      "score": 9500
+    },
+    {
       "name": "Miangoty",
       "country": "Madagascar",
       "score": 6275
@@ -453,11 +458,6 @@
       "name": "Konno",
       "country": "Myanmar",
       "score": 2575
-    },
-    {
-      "name": "Ziani HAYET",
-      "country": "Algeria",
-      "score": 2500
     }
   ],
   "event_list": [
