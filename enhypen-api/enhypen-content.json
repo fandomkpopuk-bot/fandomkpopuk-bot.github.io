@@ -166,25 +166,25 @@
     }
   ],
   "announcement": {
-    "id": "app-feedback-01",
-    "badge": "📢 We Need Your Feedback",
-    "title": "Help Improve ENHYPEN App!",
-    "description": "We want to make the ENHYPEN Stan app better for you! Share bugs, ideas, and feature requests in our quick 1-minute feedback form. Your voice shapes the next update!",
+    "id": "gallery-launch-01",
+    "badge": "✨ What's New",
+    "title": "New Gallery Feature Is Here!",
+    "description": "Browse exclusive HQ photo collections of ENHYPEN — stage moments, Instagram updates, and more, all in one place. Update your app now to explore the new Gallery!",
     "image": "https://plus.unsplash.com/premium_photo-1682310144714-cb77b1e6d64a?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmVlZGJhY2t8ZW58MHx8MHx8fDA%3D",
     "rewards": [
       {
-        "icon": "chatbox-ellipses-outline",
-        "text": "Report bugs & request features you want"
+        "icon": "images-outline",
+        "text": "Explore HQ photo collections, updated regularly"
       },
       {
-        "icon": "heart-outline",
-        "text": "Help us build a better app for ENHYPEN fans!"
+        "icon": "rocket-outline",
+        "text": "Update now to unlock the Gallery in your ENHYPEN app!"
       }
     ],
     "cta": {
-      "label": "Give Feedback Now",
-      "action": "open_url",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdn6KxUc_OGbp6jEPCkiQPfzhrhNZ1sG21-Q3YzRX-8_32pMQ/viewform?usp=header"
+      "label": "Explore Gallery Now",
+      "action": "open_page",
+      "page": "Gallery"
     }
   },
   "config": {
@@ -204,7 +204,8 @@
     "adBannerInterval": 10,
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
-    "isNewGalleryEnabled": true
+    "isNewGalleryEnabled": true,
+    "androidUpdateType": "immediate"
   },
   "gallery": [
     {
