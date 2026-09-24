@@ -137,6 +137,7 @@
     "isAdsEnabled": true,
     "maxPlayCount": 3,
     "maxDownloadCount": 2,
+    "maxViewImageCount": 5,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,
     "freeAdsSessionVideosRequired": 3,
@@ -147,7 +148,9 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 10,
-    "isMinigameEnabled": true
+    "isMinigameEnabled": true,
+    "isNewGalleryEnabled": true,
+    "androidUpdateType": "un-immediate"
   },
   "announcement": {
     "id": "app-feedback-01",
