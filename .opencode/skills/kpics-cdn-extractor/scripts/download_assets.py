@@ -33,6 +33,12 @@ Usage:
   python3 download_assets.py --app CORTIS --rewrite-base https://fandomkpopuk-bot.github.io
   python3 download_assets.py --app CORTIS --to-webp --rewrite-base https://fandomkpopuk-bot.github.io --delay 0.5
   python3 download_assets.py --app CORTIS --to-webp --quality 75 --keep-jpg
+  python3 download_assets.py --app CORTIS --to-webp --rewrite-base https://fandomkpopuk-bot.github.io --cookies /tmp/cookies.txt
+
+Bila cdn.kpopping.com memblokir curl (Cloudflare 403), ekspor cookies
+dari browser asli (ekstensi "Get cookies.txt", setelah halaman lolos
+challenge) lalu pakai --cookies. Token cf_clearance berlaku
+jam-hari; curl memakai cookie browser sehingga download massal tembus.
 """
 import argparse
 import importlib.util
@@ -147,14 +153,15 @@ def convert_to_webp(src: str, dst: str, quality: int = 80) -> bool:
     return False
 
 
-def download(url: str, path: str, referer: str = "https://kpopping.com/") -> bool:
+def download(url: str, path: str, referer: str = "https://kpopping.com/",
+             cookies: str | None = None) -> bool:
     tmp = path + ".part"
-    r = subprocess.run(
-        ["curl", "-sL", "-A", UA, "-H", f"Referer: {referer}",
-         "-m", "40", "--retry", "2", "-o", tmp,
-         "-w", "%{http_code} %{size_download}", url],
-        capture_output=True, text=True,
-    )
+    cmd = ["curl", "-sL", "-A", UA, "-H", f"Referer: {referer}"]
+    if cookies:
+        cmd += ["-b", cookies]
+    cmd += ["-m", "40", "--retry", "2", "-o", tmp,
+            "-w", "%{http_code} %{size_download}", url]
+    r = subprocess.run(cmd, capture_output=True, text=True)
     meta = (r.stdout or "").strip()
     code = meta.split()[0] if meta else "000"
     ok = code == "200" and os.path.exists(tmp) and is_jpeg(tmp)
@@ -185,7 +192,14 @@ def main() -> int:
                     help="Kualitas WebP 1-100 (default: 80)")
     ap.add_argument("--keep-jpg", action="store_true",
                     help="Dengan --to-webp: pertahankan .jpg asli di samping .webp")
+    ap.add_argument("--cookies", default=None,
+                    help="File cookies Netscape (ekspor browser via Get cookies.txt) "
+                         "agar download lolos Cloudflare")
     args = ap.parse_args()
+
+    if args.cookies and not os.path.exists(args.cookies):
+        print(f"--cookies tidak ada: {args.cookies}", file=sys.stderr)
+        return 2
 
     if args.to_webp and not (1 <= args.quality <= 100):
         print("--quality harus 1-100", file=sys.stderr)
@@ -258,7 +272,7 @@ def main() -> int:
                     time.sleep(0.05)
                     continue
                 # konversi gagal -> download ulang di bawah
-            if download(url, jpg_local):
+            if download(url, jpg_local, cookies=args.cookies):
                 if convert_to_webp(jpg_local, final_local, args.quality):
                     converted += 1
                     ok += 1
@@ -276,7 +290,7 @@ def main() -> int:
                 print(f"[{i}/{len(plan)}] FAIL {jpg_local}", flush=True)
             time.sleep(args.delay)
         else:
-            if download(url, jpg_local):
+            if download(url, jpg_local, cookies=args.cookies):
                 ok += 1
             else:
                 fail.append(url)

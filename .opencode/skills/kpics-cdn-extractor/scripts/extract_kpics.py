@@ -5,10 +5,14 @@ Usage:
   python3 extract_kpics.py https://kpopping.com/kpics/<slug> [...]
   python3 extract_kpics.py --input /tmp/urls.txt --output /tmp/cdn.json --delay 2
   python3 extract_kpics.py --app CORTIS --apply --input /tmp/urls.txt --delay 2
+  python3 extract_kpics.py --app CORTIS --apply --html-file page.html https://kpopping.com/kpics/<slug>
 
 Notes:
 - Uses curl with a browser UA via subprocess. Do NOT use webfetch/default
   HTTP client: kpopping returns 403 for non-browser UA.
+- Bila curl diblokir Cloudflare, pakai --html-file: file HTML yang
+  disimpan dari browser asli (View Source -> Save As). Tidak ada fetch
+  jaringan untuk URL yang dipasangkan ke file lokal.
 - Detects Cloudflare "Just a moment..." challenge and reports blocked
   instead of returning empty silently.
 - Idempotent: same URL list always yields same sorted-dedup output.
@@ -36,6 +40,46 @@ def fetch_html(url: str, timeout: int = 25) -> str:
         capture_output=True,
     )
     return r.stdout.decode("utf-8", errors="ignore")
+
+
+def read_input_file(path: str) -> str:
+    """Baca file HTML simpanan browser (plain .html atau .mhtml/.mht).
+
+    MHTML (multipart/related) di-decode via stdlib email: tiap part
+    text/html di-decode (quoted-printable/base64) lalu digabung.
+    Tanpa ini, URL di dalam MHTML terpecah encoding (=3D, soft break)
+    sehingga regex CDN/canonical gagal match.
+    """
+    with open(path, "rb") as f:
+        raw = f.read()
+    lower = path.lower()
+    if lower.endswith((".mhtml", ".mht")):
+        import email
+        from email import policy
+        from io import BytesIO
+        try:
+            msg = email.message_from_binary_file(
+                BytesIO(raw), policy=policy.default)
+        except Exception:
+            msg = None
+        if msg is not None:
+            parts = []
+            if msg.is_multipart():
+                for part in msg.walk():
+                    if part.get_content_type() == "text/html":
+                        try:
+                            parts.append(part.get_content_text())
+                            continue
+                        except Exception:
+                            pass
+                        try:
+                            payload = part.get_payload(decode=True) or b""
+                        except Exception:
+                            payload = b""
+                        parts.append(payload.decode("utf-8", errors="ignore"))
+            if parts:
+                return "\n".join(p for p in parts if p)
+    return raw.decode("utf-8", errors="ignore")
 
 
 def slug_humanize(url: str) -> str:
@@ -86,6 +130,33 @@ def extract_title(html: str, url: str) -> str:
         if t:
             return t
     return slug_humanize(url)
+
+
+def extract_canonical_url(html):
+    """Ambil URL kanonis halaman (canonical > og:url), khusus /kpics/.
+
+    Dipakai --html-file agar file simpanan browser otomatis terpetakan
+    ke URL kpopping tanpa fetch jaringan. Kembalikan None bila tak ada.
+    """
+    m = re.search(
+        r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']',
+        html, re.I,
+    ) or re.search(
+        r'<link[^>]+href=["\']([^"\']+)["\'][^>]+rel=["\']canonical["\']',
+        html, re.I,
+    )
+    if m and "/kpics/" in m.group(1):
+        return htmlmod.unescape(m.group(1)).strip()
+    m = re.search(
+        r'<meta[^>]+property=["\']og:url["\'][^>]+content=["\']([^"\']+)["\']',
+        html, re.I,
+    ) or re.search(
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:url["\']',
+        html, re.I,
+    )
+    if m and "/kpics/" in m.group(1):
+        return htmlmod.unescape(m.group(1)).strip()
+    return None
 
 
 def extract_cdn(html: str) -> list[str]:
@@ -253,6 +324,12 @@ def main() -> int:
     ap.add_argument("--input", default=None)
     ap.add_argument("--output", default=None)
     ap.add_argument("--delay", type=float, default=2.0)
+    ap.add_argument("--html-file", action="append", default=[],
+                    help="File HTML simpanan browser (.html atau .mhtml, "
+                         "bypass Cloudflare, tanpa fetch jaringan). Bisa "
+                         "diulang; tiap file dipasangkan ke satu URL "
+                         "positional/--input (kasus 1 file + 1 URL) atau ke "
+                         "canonical/og:url di HTML-nya.")
     ap.add_argument("--app", default=None,
                     help="Petunjuk app (mis. CORTIS) untuk mapping via constanta.json")
     ap.add_argument("--constanta", default="constanta.json")
@@ -269,7 +346,15 @@ def main() -> int:
         with open(args.input, encoding="utf-8") as f:
             urls += [l.strip() for l in f if l.strip()]
 
-    if not urls:
+    html_paths = list(args.html_file or [])
+    html_contents = {}
+    for hf in html_paths:
+        if not os.path.exists(hf):
+            print(f"--html-file tidak ada: {hf}", file=sys.stderr)
+            return 2
+        html_contents[hf] = read_input_file(hf)
+
+    if not urls and not html_paths:
         print("no urls", file=sys.stderr)
         return 2
 
@@ -277,17 +362,46 @@ def main() -> int:
         print("--apply perlu --app", file=sys.stderr)
         return 2
 
+    # Pasangan URL <-> file HTML lokal. Kasus umum: 1 file + 1 URL.
+    # Selain itu tiap file memakai canonical/og:url dari HTML-nya,
+    # fallback ke urutan urls. URL berpasangan TIDAK di-fetch.
+    paired = {}
+    fetch_urls = list(urls)
+    if len(html_paths) == 1 and len(fetch_urls) == 1:
+        paired[fetch_urls.pop(0)] = html_paths[0]
+    else:
+        for i, hf in enumerate(html_paths):
+            cu = extract_canonical_url(html_contents[hf])
+            if cu and cu not in paired:
+                paired[cu] = hf
+            elif i < len(urls) and urls[i] not in paired:
+                paired[urls[i]] = hf
+            else:
+                print(f"--html-file tanpa pasangan URL (tidak ada "
+                      f"canonical/og:url di {hf})", file=sys.stderr)
+                return 2
+        for u in paired:
+            if u in fetch_urls:
+                fetch_urls.remove(u)
+
     items: dict[str, dict] = {}
     blocked: list[str] = []
-    for i, u in enumerate(urls):
-        html = fetch_html(u)
+
+    def ingest(u: str, html: str, source: str) -> None:
         if "Just a moment..." in html and len(html) < 20000:
             blocked.append(u)
             items[u] = {"title": slug_humanize(u), "photos": []}
         else:
             items[u] = {"title": extract_title(html, u), "photos": extract_cdn(html)}
-        if i < len(urls) - 1:
+        print(f"{u} <- {source} photos={len(items[u]['photos'])}",
+              file=sys.stderr)
+
+    for i, u in enumerate(fetch_urls):
+        ingest(u, fetch_html(u), "fetch")
+        if i < len(fetch_urls) - 1 or paired:
             time.sleep(args.delay)
+    for u, hf in paired.items():
+        ingest(u, html_contents[hf], f"local {hf}")
 
     photos_only = {u: v["photos"] for u, v in items.items()}
     payload = {"items": items, "photos": photos_only, "blocked": blocked}
@@ -301,12 +415,20 @@ def main() -> int:
     target = None
     if args.apply:
         target = resolve_content_file(args.app, args.constanta)
+        # Jangan mutasi gallery dengan hasil blocked/kosong (Cloudflare
+        # "Just a moment..."): entry baru 0-foto maupun overwrite
+        # photo_collection lama dilarang oleh SKILL.md aturan 4.
+        apply_items = {u: v for u, v in items.items() if u not in blocked}
+        skipped = [u for u in items if u in blocked]
         applied = apply_to_gallery(
             target,
-            items,
+            apply_items,
             keep_api_url=not args.drop_api_url,
             update_title=args.update_title,
         )
+        if skipped:
+            applied["skipped_blocked"] = skipped
+            print(f"SKIPPED blocked (tidak dimutasi): {len(skipped)}", file=sys.stderr)
 
     for u, v in items.items():
         print(f"{u} -> title={v['title']!r} photos={len(v['photos'])}", file=sys.stderr)

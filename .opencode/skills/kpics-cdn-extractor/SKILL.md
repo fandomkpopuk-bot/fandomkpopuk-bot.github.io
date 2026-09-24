@@ -47,6 +47,7 @@ Jangan menebak title di luar urutan itu. Saat update entry lama, pertahankan tit
 5. Jangan hapus `api_url` di `*-content.json` kecuali user eksplisit meminta format `{title, photo_collection}` tanpa `api_url` (pakai `--drop-api-url` hanya atas otorisasi itu).
 6. Langsung full pipeline tanpa bertanya konfirmasi bila URL + petunjuk app sudah diberikan: scrape → update `photo_collection` → download aset `--to-webp` → rewrite ke GitHub Pages. Default `rewrite-base`: `https://fandomkpopuk-bot.github.io`. Lewati download hanya bila user eksplisit meminta opt-out (`cdn-only` / `tanpa download` / `tanpa webp`). Jangan `git commit` — hanya ubah working tree, commit biar user yang lakukan.
 7. Tulis JSON dengan `ensure_ascii=False, indent=2`. Validasi dengan `python3 -m json.tool`.
+8. Bila `curl` diblokir Cloudflare (fetch halaman maupun download CDN): pakai `--html-file` (HTML simpanan browser, tanpa fetch jaringan) dan `--cookies` (cookies.txt ekspor browser untuk download). Sumber tetap HTML/cookie asli, bukan tebakan.
 
 ## Workflow
 
@@ -82,7 +83,11 @@ Output: `{"items": {url: {"title": ..., "photos": [...]}}, "photos": {...}, "blo
    Opsi:
    - `--update-title`: timpa title lama dengan title dari halaman.
    - `--drop-api-url`: entry baru tanpa `api_url` (destructive, hanya bila user meminta format tanpa `api_url`).
-3. Jika `blocked` tidak kosong, beri jeda lebih lama (mis. `--delay 5`) dan retry sekali. Kalau masih blocked, laporkan sebagai partial failure — jangan klaim lengkap.
+3. Jika `blocked` tidak kosong, beri jeda lebih lama (mis. `--delay 5`) dan retry sekali. Kalau masih blocked, minta user simpan HTML dari browser (buka URL → View Source/`Ctrl+U` → Save As) lalu lanjut tanpa fetch:
+   ```sh
+   python3 .opencode/skills/kpics-cdn-extractor/scripts/extract_kpics.py --app CORTIS --apply --html-file /path/page.html "https://kpopping.com/kpics/<slug>"
+   ```
+   Tanpa URL pun bisa bila HTML memuat canonical/og:url. File simpanan berisi halaman challenge ikut terdeteksi `blocked` dan dilewati saat `--apply` (tidak mutasi gallery). Kalau masih blocked, laporkan sebagai partial failure — jangan klaim lengkap.
 4. Verifikasi (ganti `cortis-api` dengan target aktual):
    ```sh
    python3 -m json.tool cortis-api/cortis-content.json > /dev/null && echo "JSON OK"
@@ -104,6 +109,11 @@ python3 -m json.tool cortis-api/cortis-content.json > /dev/null && echo "JSON OK
 Aturan: idempotent (file JPEG valid dilewati); rewrite HANYA untuk URL yang file lokalnya terbukti ada — sisanya dipertahankan agar tak jadi link mati; `photo_collection` hasil rewrite mis. `https://fandomkpopuk-bot.github.io/cortis-asset/lollapalooza-photo-sketch/xxx.jpg`. Default asset dir `<app>-asset` (mis. `cortis-api` → `cortis-asset/`), bisa dioverride via `--asset-dir`. Jangan `git commit`.
 
 Mode WebP (`--to-webp`, butuh `pip install pillow`, fallback `cwebp`/`ffmpeg`): file disimpan sebagai `.webp` (`xxx.jpg` → `xxx.webp`, kualitas default `--quality 80`), `.jpg` sementara dihapus kecuali `--keep-jpg`; idempotent (`.webp` valid dilewati, `.jpg` lama dikonversi tanpa download ulang); rewrite menunjuk ke `.xxx.webp`. Uji nyata: 4.7MB JPG → ~0.7MB WebP q80.
+
+Bila `cdn.kpopping.com` 403 Cloudflare: minta user ekspor cookies browser (ekstensi "Get cookies.txt", setelah halaman lolos challenge) lalu:
+```sh
+python3 .opencode/skills/kpics-cdn-extractor/scripts/download_assets.py --app CORTIS --to-webp --rewrite-base https://fandomkpopuk-bot.github.io --cookies /tmp/cookies.txt --delay 0.5
+```
 
 ## Catatan
 
