@@ -394,6 +394,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Nissa",
+      "country": "Indonesia",
+      "score": 8125
+    },
+    {
       "name": "Rizki",
       "country": "Indonesia",
       "score": 3450
@@ -427,11 +432,6 @@
       "name": "Diba",
       "country": "Indonesia",
       "score": 2050
-    },
-    {
-      "name": "Andhina",
-      "country": "Indonesian",
-      "score": 1950
     }
   ],
   "event_list": [

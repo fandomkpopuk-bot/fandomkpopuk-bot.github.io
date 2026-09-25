@@ -321,9 +321,19 @@
       "score": 9200
     },
     {
+      "name": "Hana",
+      "country": "Việt Nam",
+      "score": 2575
+    },
+    {
       "name": "Soyeon",
       "country": "South Korea",
       "score": 2475
+    },
+    {
+      "name": "Tranhan",
+      "country": "Vietnamese",
+      "score": 2225
     },
     {
       "name": "Dorji Yudon",
@@ -341,19 +351,9 @@
       "score": 1575
     },
     {
-      "name": "Yifan",
-      "country": "Nepal",
-      "score": 1300
-    },
-    {
-      "name": "BANA",
-      "country": "south Africa",
-      "score": 1300
-    },
-    {
-      "name": "Ruth",
-      "country": "Brasil",
-      "score": 1200
+      "name": "Aeaea",
+      "country": "Poland",
+      "score": 1575
     }
   ],
   "event_list": [

@@ -8,15 +8,20 @@ Usage:
   python3 extract_kpics.py --app CORTIS --apply --html-file page.html https://kpopping.com/kpics/<slug>
 
 Notes:
-- Uses curl with a browser UA via subprocess. Do NOT use webfetch/default
-  HTTP client: kpopping returns 403 for non-browser UA.
-- Bila curl diblokir Cloudflare, pakai --html-file: file HTML yang
-  disimpan dari browser asli (View Source -> Save As). Tidak ada fetch
-  jaringan untuk URL yang dipasangkan ke file lokal.
+- Uses curl via subprocess. Do NOT use webfetch/default HTTP clients for
+  kpopping pages: Cloudflare returns a 403 "Just a moment..." challenge.
+- API-first: untuk /kpics/<slug>, baca endpoint JSON yang dipanggil halaman
+  sendiri, /api/photos?slug=<slug>. Endpoint ini mengembalikan title dan
+  albumImages[].src tanpa challenge. HTML page hanya fallback.
+- Bila API dan HTML tidak tersedia, --html-file menerima file HTML/MHTML
+  yang disimpan dari browser asli (View Source -> Save As). HTML fallback
+  hanya memakai initialData.albumImages, bukan semua URL related.
+- Asset validation currently accepts JPEG (`.jpg`/`.jpeg`) only. PNG/WebP
+  records are rejected fail-closed until the downloader supports them.
 - Detects Cloudflare "Just a moment..." challenge and reports blocked
   instead of returning empty silently.
 - Idempotent: same URL list always yields same sorted-dedup output.
-- Title: diambil dari <h1> > og:title > <title> > slug humanize.
+- Title: API `title` > <h1> > og:title > <title> > slug humanize.
   Jangan menebak title selain fallback tersebut.
 - Target file: dibaca dari constanta.json (app_name -> api_dir ->
   <api_dir>/*-content.json). Lihat SKILL.md untuk aturan mapping.
@@ -30,16 +35,89 @@ import re
 import subprocess
 import sys
 import time
+from urllib.parse import parse_qs, quote, unquote, urlencode, urlparse, urlunparse
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+STATUS_MARKER = b"\n__KPICS_HTTP_STATUS__:"
+# Host gambar yang dipakai API resmi saat ini. Jangan persist/download
+# URL dari origin arbitrer yang hanya muncul di payload.
+TRUSTED_ASSET_HOSTS = {
+    "cdn.kpopping.com",
+    "pub-dc9a9c6ac2a64ba48bce426ced0ac56a.r2.dev",
+}
+SUPPORTED_ASSET_EXTENSIONS = (".jpg", ".jpeg")
+KPOPPING_PAGE_HOSTS = {"kpopping.com", "www.kpopping.com"}
+
+
+def is_cloudflare_challenge(html: str) -> bool:
+    return "Just a moment..." in html and len(html) < 20000
+
+
+def normalize_kpics_url(page_url: str) -> str | None:
+    """Validate and canonicalize one public Kpopping kpics page URL."""
+    if not isinstance(page_url, str):
+        return None
+    try:
+        parsed = urlparse(page_url)
+        host = (parsed.hostname or "").lower()
+        port = parsed.port
+    except ValueError:
+        return None
+    if parsed.scheme != "https" or host not in KPOPPING_PAGE_HOSTS:
+        return None
+    if port not in (None, 443) or parsed.username or parsed.password:
+        return None
+    if parsed.query or parsed.fragment:
+        return None
+    path = parsed.path.rstrip("/")
+    parts = path.split("/")
+    if len(parts) != 3 or parts[0] != "" or parts[1].lower() != "kpics":
+        return None
+    slug = unquote(parts[2])
+    if not slug or "/" in slug or slug in {".", ".."}:
+        return None
+    return f"https://kpopping.com/kpics/{quote(slug, safe='-._~')}"
+
+
+def build_photo_api_url(page_url: str) -> str | None:
+    """Bangun endpoint JSON resmi yang dipanggil halaman /kpics/[slug]."""
+    normalized = normalize_kpics_url(page_url)
+    if not normalized:
+        return None
+    slug = unquote(urlparse(normalized).path.rsplit("/", 1)[-1])
+    return urlunparse((
+        "https",
+        "kpopping.com",
+        "/api/photos",
+        "",
+        urlencode({"slug": slug}),
+        "",
+    ))
+
+
+def fetch_html_response(url: str, timeout: int = 25) -> tuple[str, int, str]:
+    """Fetch HTML while retaining HTTP status/curl error for safe fallback."""
+    result = subprocess.run(
+        [
+            "curl", "-sS", "-A", UA, "-m", str(timeout),
+            "-w", "\n__KPICS_HTTP_STATUS__:%{http_code}", url,
+        ],
+        capture_output=True,
+    )
+    body, marker, status_raw = result.stdout.rpartition(STATUS_MARKER)
+    try:
+        status = int(status_raw.strip()) if marker else 0
+    except ValueError:
+        status = 0
+    error = result.stderr.decode("utf-8", errors="ignore").strip()
+    if result.returncode != 0:
+        error = error or f"curl exit {result.returncode}"
+    return body.decode("utf-8", errors="ignore"), status, error
 
 
 def fetch_html(url: str, timeout: int = 25) -> str:
-    r = subprocess.run(
-        ["curl", "-sL", "-A", UA, "-m", str(timeout), url],
-        capture_output=True,
-    )
-    return r.stdout.decode("utf-8", errors="ignore")
+    """Backward-compatible HTML-only wrapper."""
+    return fetch_html_response(url, timeout)[0]
 
 
 def read_input_file(path: str) -> str:
@@ -89,8 +167,8 @@ def slug_humanize(url: str) -> str:
     return text.title() if text else slug
 
 
-def clean_title(raw: str) -> str:
-    t = htmlmod.unescape(raw or "").strip()
+def clean_title(raw: object) -> str:
+    t = htmlmod.unescape(raw if isinstance(raw, str) else "").strip()
     t = re.sub(r"\s+", " ", t)
     # Buang suffix umum: " HQ Photos", " Photos" pada <title>/og:title.
     t = re.sub(r"\s+HQ Photos?$", "", t, flags=re.I)
@@ -103,8 +181,226 @@ def clean_title(raw: str) -> str:
     return t
 
 
+def normalized_sort_order(value: object) -> int | None:
+    if isinstance(value, bool):
+        return None
+    if isinstance(value, int):
+        return value if value >= 0 else None
+    if isinstance(value, str) and re.fullmatch(r"[0-9]+", value.strip()):
+        try:
+            return int(value.strip())
+        except ValueError:
+            return None
+    return None
+
+
+def is_kpic_asset_url(value: object) -> bool:
+    if not isinstance(value, str):
+        return False
+    try:
+        parsed = urlparse(htmlmod.unescape(value).strip())
+        host = (parsed.hostname or "").lower()
+        port = parsed.port
+    except ValueError:
+        return False
+    if parsed.scheme != "https" or host not in TRUSTED_ASSET_HOSTS:
+        return False
+    if parsed.fragment:
+        return False
+    if port not in (None, 443) or parsed.username or parsed.password:
+        return False
+    path = unquote(parsed.path).lower()
+    if not path.startswith("/kpics/") or not path.endswith(SUPPORTED_ASSET_EXTENSIONS):
+        return False
+    return ".." not in path.split("/") and not any(
+        part in path for part in ("/static/", "/avatar", "/graph")
+    )
+
+
+def parse_photo_api(
+    page_url: str,
+    payload: object,
+    fallback_title: str | None = None,
+) -> dict | None:
+    """Ubah respons /api/photos menjadi item extractor tanpa menebak URL."""
+    if not isinstance(payload, dict):
+        return None
+    requested = build_photo_api_url(page_url)
+    if not requested:
+        return None
+    requested_slug = parse_qs(urlparse(requested).query).get("slug", [""])[0]
+    if str(payload.get("slug") or "") != requested_slug:
+        return None
+
+    title = clean_title(payload.get("title"))
+    if not title and fallback_title is not None:
+        title = clean_title(fallback_title) or slug_humanize(page_url)
+    if not title:
+        return None
+
+    album_images_present = "albumImages" in payload
+    album_images = payload.get("albumImages")
+    if album_images_present and not isinstance(album_images, list):
+        return None
+    if not album_images_present:
+        album_images = []
+    for image in album_images:
+        if not isinstance(image, dict) or not is_kpic_asset_url(image.get("src")):
+            print(
+                f"WARN API malformed albumImages for {requested_slug}",
+                file=sys.stderr,
+            )
+            return None
+        if "sortOrder" in image and normalized_sort_order(image.get("sortOrder")) is None:
+            print(
+                f"WARN API malformed sortOrder for {requested_slug}",
+                file=sys.stderr,
+            )
+            return None
+    ordered = sorted(
+        enumerate(album_images),
+        key=lambda pair: (
+            normalized_sort_order(pair[1].get("sortOrder"))
+            if isinstance(pair[1], dict)
+            and normalized_sort_order(pair[1].get("sortOrder")) is not None
+            else float("inf"),
+            pair[0],
+        ),
+    )
+    photos: list[str] = []
+    seen: set[str] = set()
+    for _, image in ordered:
+        src = htmlmod.unescape(image["src"]).strip()
+        if src not in seen:
+            seen.add(src)
+            photos.append(src)
+
+    # src adalah fallback hanya untuk record lama tanpa albumImages, atau
+    # ketika albumImages benar-benar kosong. Jangan menutupi list yang
+    # nonempty tetapi gagal divalidasi.
+    raw_src = payload.get("src")
+    if "src" in payload and raw_src is not None and not isinstance(raw_src, str):
+        print(f"WARN API malformed src for {requested_slug}", file=sys.stderr)
+        return None
+    if not photos and (not album_images_present or not album_images):
+        if isinstance(raw_src, str) and raw_src and not is_kpic_asset_url(raw_src):
+            print(f"WARN API malformed src for {requested_slug}", file=sys.stderr)
+            return None
+        if is_kpic_asset_url(raw_src):
+            photos.append(htmlmod.unescape(raw_src).strip())
+
+    if "albumCount" in payload:
+        expected = payload.get("albumCount")
+        valid_count = (
+            isinstance(expected, int)
+            and not isinstance(expected, bool)
+            and expected >= 0
+        )
+        if not valid_count or expected != len(photos):
+            print(
+                f"WARN API incomplete: albumCount={expected!r} images={len(photos)} "
+                f"for {requested_slug}",
+                file=sys.stderr,
+            )
+            return None
+    elif album_images:
+        print(
+            f"WARN API incomplete: albumCount missing images={len(photos)} "
+            f"for {requested_slug}",
+            file=sys.stderr,
+        )
+        return None
+    return {"title": title, "photos": photos}
+
+
+def extract_embedded_photo_item(html: str, page_url: str) -> dict | None:
+    """Ambil initialData.albumImages dari RSC HTML, bukan semua URL halaman."""
+    search_from = 0
+    while True:
+        marker = html.find("initialData", search_from)
+        if marker < 0:
+            return None
+        start = html.find("{", marker)
+        if start < 0:
+            return None
+        depth = 0
+        in_string = False
+        escaped = False
+        end = None
+        for index in range(start, len(html)):
+            char = html[index]
+            if escaped:
+                escaped = False
+                continue
+            if char == "\\":
+                escaped = True
+                continue
+            if in_string:
+                if char == '"':
+                    in_string = False
+                continue
+            if char == '"':
+                in_string = True
+            elif char == "{":
+                depth += 1
+            elif char == "}":
+                depth -= 1
+                if depth == 0:
+                    end = index + 1
+                    break
+        if end is None:
+            return None
+        raw = html[start:end]
+        candidates = [raw, f'"{raw}"']
+        for candidate in candidates:
+            text = candidate
+            for _ in range(3):
+                try:
+                    payload = json.loads(text)
+                except (TypeError, ValueError):
+                    break
+                if isinstance(payload, dict):
+                    item = parse_photo_api(
+                        page_url,
+                        payload,
+                        fallback_title=extract_title(html, page_url),
+                    )
+                    if item is not None:
+                        return item
+                    break
+                if not isinstance(payload, str):
+                    break
+                text = payload
+        search_from = end
+
+
+def fetch_photo_api(page_url: str, timeout: int = 25) -> dict | None:
+    """Ambil data galeri dari API publik; endpoint ini tidak lewat challenge."""
+    endpoint = build_photo_api_url(page_url)
+    if not endpoint:
+        return None
+    result = subprocess.run(
+        [
+            "curl", "-sS", "--compressed", "-A", UA,
+            "-m", str(timeout), "-w", "\n__KPICS_HTTP_STATUS__:%{http_code}",
+            endpoint,
+        ],
+        capture_output=True,
+    )
+    if result.returncode != 0:
+        return None
+    body, marker, status_raw = result.stdout.rpartition(STATUS_MARKER)
+    if not marker or status_raw.strip() != b"200":
+        return None
+    try:
+        payload = json.loads(body.decode("utf-8"))
+    except (UnicodeDecodeError, ValueError):
+        return None
+    return parse_photo_api(page_url, payload)
+
+
 def extract_title(html: str, url: str) -> str:
-    if "Just a moment..." in html and len(html) < 20000:
+    if is_cloudflare_challenge(html):
         return slug_humanize(url)
     m = re.search(r"<h1[^>]*>(.*?)</h1>", html, re.S | re.I)
     if m:
@@ -133,11 +429,8 @@ def extract_title(html: str, url: str) -> str:
 
 
 def extract_canonical_url(html):
-    """Ambil URL kanonis halaman (canonical > og:url), khusus /kpics/.
-
-    Dipakai --html-file agar file simpanan browser otomatis terpetakan
-    ke URL kpopping tanpa fetch jaringan. Kembalikan None bila tak ada.
-    """
+    """Ambil URL kanonis tervalidasi (canonical > og:url), khusus /kpics/."""
+    candidates = []
     m = re.search(
         r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']',
         html, re.I,
@@ -145,8 +438,8 @@ def extract_canonical_url(html):
         r'<link[^>]+href=["\']([^"\']+)["\'][^>]+rel=["\']canonical["\']',
         html, re.I,
     )
-    if m and "/kpics/" in m.group(1):
-        return htmlmod.unescape(m.group(1)).strip()
+    if m:
+        candidates.append(m.group(1))
     m = re.search(
         r'<meta[^>]+property=["\']og:url["\'][^>]+content=["\']([^"\']+)["\']',
         html, re.I,
@@ -154,20 +447,24 @@ def extract_canonical_url(html):
         r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:url["\']',
         html, re.I,
     )
-    if m and "/kpics/" in m.group(1):
-        return htmlmod.unescape(m.group(1)).strip()
+    if m:
+        candidates.append(m.group(1))
+    for candidate in candidates:
+        normalized = normalize_kpics_url(htmlmod.unescape(candidate).strip())
+        if normalized:
+            return normalized
     return None
 
 
 def extract_cdn(html: str) -> list[str]:
-    if "Just a moment..." in html and len(html) < 20000:
+    if is_cloudflare_challenge(html):
         return []
     out: set[str] = set()
-    # Direct CDN refs: https://cdn.kpopping.com/kpics/...jpg (skip static/avatar)
+    # Direct CDN refs: only trusted HTTPS kpics assets survive validation.
     for m in re.findall(r"https?://cdn\.kpopping\.com/kpics/[A-Za-z0-9\-/._]+?\.jpg", html):
-        if "static/" in m or "avatar" in m:
-            continue
-        out.add(m.split("\\")[0])
+        candidate = m.split("\\")[0]
+        if is_kpic_asset_url(candidate):
+            out.add(candidate)
     # Next.js encoded payloads: kpics%2F2026%2F09%2Fxxx.jpg
     for fid in re.findall(r"kpics%2F(\d{4})%2F(\d{2})%2F([A-Za-z0-9\-\.]+?\.jpg)", html):
         year, month, name = fid
@@ -265,8 +562,9 @@ def apply_to_gallery(
        tidak salah tempel — dilaporkan sebagai unmatched.
     Jika cocok: update photo_collection; title hanya diubah bila
     --update-title (agar judul kurasi manual tidak tertimpa).
-    Jika tidak cocok: append entry baru {title, [api_url,] photo_collection}.
-    Mengembalikan ringkasan {updated, appended, total, ambiguous, unmatched}.
+    Jika tidak cocok dan tidak ambiguous: append entry baru {title, [api_url,] photo_collection}.
+    Match ambiguous dilewati agar tidak salah tempel. Mengembalikan ringkasan
+    {updated, appended, total, ambiguous, unmatched}.
     """
     with open(content_path, encoding="utf-8") as f:
         data = json.load(f)
@@ -305,6 +603,9 @@ def apply_to_gallery(
                 basis = f"similar({scored[0][0]}t)"
             elif scored:
                 ambiguous.append(url)
+        if url in ambiguous:
+            print(f"{url} -> SKIPPED ambiguous title match", file=sys.stderr)
+            continue
         if e is not None:
             e["photo_collection"] = photos
             if update_title or not e.get("title"):
@@ -351,10 +652,17 @@ def main() -> int:
                     help="Timpa title lama dengan title dari halaman")
     args = ap.parse_args()
 
-    urls = list(args.urls)
+    raw_urls = list(args.urls)
     if args.input:
         with open(args.input, encoding="utf-8") as f:
-            urls += [l.strip() for l in f if l.strip()]
+            raw_urls += [l.strip() for l in f if l.strip()]
+    normalized_urls = [normalize_kpics_url(u) or u for u in raw_urls]
+    urls = []
+    seen_urls = set()
+    for url in normalized_urls:
+        if url not in seen_urls:
+            seen_urls.add(url)
+            urls.append(url)
 
     html_paths = list(args.html_file or [])
     html_contents = {}
@@ -372,49 +680,102 @@ def main() -> int:
         print("--apply perlu --app", file=sys.stderr)
         return 2
 
-    # Pasangan URL <-> file HTML lokal. Kasus umum: 1 file + 1 URL.
-    # Selain itu tiap file memakai canonical/og:url dari HTML-nya,
-    # fallback ke urutan urls. URL berpasangan TIDAK di-fetch.
+    # Pasangan URL <-> file HTML lokal. File lokal harus punya canonical/
+    # og:url Kpopping yang tervalidasi dan cocok dengan URL input; ini
+    # mencegah HTML slug A diterapkan ke entry slug B.
     paired = {}
     fetch_urls = list(urls)
-    if len(html_paths) == 1 and len(fetch_urls) == 1:
-        paired[fetch_urls.pop(0)] = html_paths[0]
-    else:
-        for i, hf in enumerate(html_paths):
-            cu = extract_canonical_url(html_contents[hf])
-            if cu and cu not in paired:
-                paired[cu] = hf
-            elif i < len(urls) and urls[i] not in paired:
-                paired[urls[i]] = hf
-            else:
-                print(f"--html-file tanpa pasangan URL (tidak ada "
-                      f"canonical/og:url di {hf})", file=sys.stderr)
-                return 2
-        for u in paired:
-            if u in fetch_urls:
-                fetch_urls.remove(u)
+    valid_urls = {
+        normalized for normalized in (normalize_kpics_url(u) for u in urls)
+        if normalized is not None
+    }
+    for hf in html_paths:
+        document_url = extract_canonical_url(html_contents[hf])
+        if document_url is None:
+            print(
+                f"--html-file tanpa canonical/og:url Kpopping tervalidasi: {hf}",
+                file=sys.stderr,
+            )
+            return 2
+        if urls and document_url not in valid_urls:
+            print(
+                f"--html-file tidak cocok dengan URL input: {hf} "
+                f"({document_url})",
+                file=sys.stderr,
+            )
+            return 2
+        if document_url in paired:
+            print(f"duplikasi canonical URL pada --html-file: {document_url}",
+                  file=sys.stderr)
+            return 2
+        paired[document_url] = hf
+    for u in paired:
+        if u in fetch_urls:
+            fetch_urls.remove(u)
 
     items: dict[str, dict] = {}
     blocked: list[str] = []
+    empty: list[str] = []
 
-    def ingest(u: str, html: str, source: str) -> None:
-        if "Just a moment..." in html and len(html) < 20000:
+    def ingest(u: str, html: str, source: str,
+               status: int = 200, error: str = "") -> None:
+        if status != 200 or error or is_cloudflare_challenge(html):
             blocked.append(u)
             items[u] = {"title": slug_humanize(u), "photos": []}
-        else:
-            items[u] = {"title": extract_title(html, u), "photos": extract_cdn(html)}
-        print(f"{u} <- {source} photos={len(items[u]['photos'])}",
-              file=sys.stderr)
+            reason = f"http={status}" if status != 200 else (error or "cloudflare")
+            print(f"{u} <- {source} BLOCKED ({reason}) photos=0",
+                  file=sys.stderr)
+            return
+
+        document_url = extract_canonical_url(html)
+        if document_url != normalize_kpics_url(u):
+            blocked.append(u)
+            items[u] = {"title": slug_humanize(u), "photos": []}
+            print(f"{u} <- {source} BLOCKED (canonical/og:url tidak cocok) photos=0",
+                  file=sys.stderr)
+            return
+
+        embedded = extract_embedded_photo_item(html, u)
+        if embedded is None:
+            blocked.append(u)
+            items[u] = {"title": slug_humanize(u), "photos": []}
+            print(f"{u} <- {source} BLOCKED (initialData.albumImages tidak valid) photos=0",
+                  file=sys.stderr)
+            return
+
+        items[u] = embedded
+        if not embedded["photos"]:
+            empty.append(u)
+        print(f"{u} <- {source} photos={len(embedded['photos'])}", file=sys.stderr)
 
     for i, u in enumerate(fetch_urls):
-        ingest(u, fetch_html(u), "fetch")
+        if build_photo_api_url(u) is None:
+            blocked.append(u)
+            items[u] = {"title": slug_humanize(u), "photos": []}
+            print(f"{u} <- invalid kpopping URL photos=0", file=sys.stderr)
+        else:
+            api_item = fetch_photo_api(u)
+            if api_item is not None:
+                items[u] = api_item
+                if not api_item["photos"]:
+                    empty.append(u)
+                print(f"{u} <- api /api/photos photos={len(api_item['photos'])}",
+                      file=sys.stderr)
+            else:
+                html, status, error = fetch_html_response(u)
+                ingest(u, html, "fetch html", status=status, error=error)
         if i < len(fetch_urls) - 1 or paired:
             time.sleep(args.delay)
     for u, hf in paired.items():
         ingest(u, html_contents[hf], f"local {hf}")
 
     photos_only = {u: v["photos"] for u, v in items.items()}
-    payload = {"items": items, "photos": photos_only, "blocked": blocked}
+    payload = {
+        "items": items,
+        "photos": photos_only,
+        "blocked": blocked,
+        "empty": empty,
+    }
     if args.output:
         with open(args.output, "w", encoding="utf-8") as f:
             json.dump(payload, f, ensure_ascii=False, indent=2)
@@ -425,28 +786,42 @@ def main() -> int:
     target = None
     if args.apply:
         target = resolve_content_file(args.app, args.constanta)
-        # Jangan mutasi gallery dengan hasil blocked/kosong (Cloudflare
-        # "Just a moment..."): entry baru 0-foto maupun overwrite
-        # photo_collection lama dilarang oleh SKILL.md aturan 4.
-        apply_items = {u: v for u, v in items.items() if u not in blocked}
-        skipped = [u for u in items if u in blocked]
-        applied = apply_to_gallery(
-            target,
-            apply_items,
-            keep_api_url=not args.drop_api_url,
-            update_title=args.update_title,
-        )
-        if skipped:
-            applied["skipped_blocked"] = skipped
-            print(f"SKIPPED blocked (tidak dimutasi): {len(skipped)}", file=sys.stderr)
+        # Jangan mutasi gallery dengan hasil blocked/kosong. apply_to_gallery
+        # hanya dipanggil bila ada item yang benar-benar berisi foto.
+        blocked_set = set(blocked)
+        empty_set = set(empty)
+        apply_items = {
+            u: v for u, v in items.items()
+            if u not in blocked_set and u not in empty_set
+        }
+        if apply_items:
+            applied = apply_to_gallery(
+                target,
+                apply_items,
+                keep_api_url=not args.drop_api_url,
+                update_title=args.update_title,
+            )
+        else:
+            applied = {"updated": 0, "appended": 0, "total": None}
+        skipped_blocked = [u for u in items if u in blocked_set]
+        skipped_empty = [u for u in items if u in empty_set]
+        if skipped_blocked:
+            applied["skipped_blocked"] = skipped_blocked
+            print(f"SKIPPED blocked (tidak dimutasi): {len(skipped_blocked)}", file=sys.stderr)
+        if skipped_empty:
+            applied["skipped_empty"] = skipped_empty
+            print(f"SKIPPED empty (tidak dimutasi): {len(skipped_empty)}", file=sys.stderr)
 
     for u, v in items.items():
         print(f"{u} -> title={v['title']!r} photos={len(v['photos'])}", file=sys.stderr)
     if blocked:
-        print(f"BLOCKED (cloudflare): {len(blocked)}", file=sys.stderr)
+        print(f"BLOCKED: {len(blocked)}", file=sys.stderr)
+    if empty:
+        print(f"EMPTY (tidak diterapkan): {len(empty)}", file=sys.stderr)
     if target:
         print(f"TARGET: {target} applied={applied}", file=sys.stderr)
-    return 0
+    has_ambiguous = bool(args.apply and applied and applied.get("ambiguous"))
+    return 1 if blocked or empty or has_ambiguous else 0
 
 
 if __name__ == "__main__":

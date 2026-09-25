@@ -1306,6 +1306,11 @@
     {
       "name": "Christy",
       "country": "Benin",
+      "score": 116975
+    },
+    {
+      "name": "Christy",
+      "country": "Benin",
       "score": 40525
     },
     {
@@ -1337,11 +1342,6 @@
       "name": "Chemmy",
       "country": "Philippines",
       "score": 2175
-    },
-    {
-      "name": "Aini",
-      "country": "Indonesia",
-      "score": 2125
     }
   ],
   "event_list": [
