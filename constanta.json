@@ -38,5 +38,10 @@
         "app_name": "ENHYPEN",
         "api_dir": "enhypen-api",
         "page_redirect": "enhypen-stan"
+    },
+    {
+        "app_name": "Other",
+        "api_dir": "global-api",
+        "page_redirect": "other-stan"
     }
 ]
