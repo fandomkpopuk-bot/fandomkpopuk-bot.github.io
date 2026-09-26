@@ -39,6 +39,11 @@
         "api_dir": "enhypen-api",
         "page_redirect": "enhypen-stan"
     },
+     {
+        "app_name": "ILLIT",
+        "api_dir": "illit-api",
+        "page_redirect": "illit-stan"
+    },
     {
         "app_name": "Other",
         "api_dir": "global-api",

@@ -425,17 +425,19 @@
     },
     {
       "title": "This & That (Festival Version)",
-      "release_date": "2026-08-07",
+      "release_date": "2026-07-10",
       "album": "THIS & THAT",
       "artist": "Stray Kids",
       "tags": [
         "straykids"
       ],
       "image": "https://i.ytimg.com/vi/owyBuKsrN30/maxresdefault.jpg",
-      "popularity": 90000,
-      "urlMp3": "https://wekaryatech.github.io/song/straykids-this-festival.mp3",
+      "popularity": 46000,
+      "urlMp3": "https://artetis.my.id/mp3/StrayKids,Tele,TheMonsters&Strangerz&German,IsaiahTejada,Tele,Rayman,BangChan(3RACHA)-This&That(FestivalVersion).mp3",
       "latin_lyric": [],
-      "youtube_id": "owyBuKsrN30"
+      "youtube_id": "owyBuKsrN30",
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "BLIND SPOT",

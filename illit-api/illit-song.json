@@ -762,6 +762,22 @@
         "I-I-I-I-I-I, I-I-I-I-I-I (I)",
         ""
       ]
+    },
+    {
+      "title": "밤소풍",
+      "release_date": "2025-06-16",
+      "album": "-",
+      "artist": "ILLIT",
+      "tags": [
+        "illit"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "imnphAoMVL0",
+      "urlMp3": "https://artetis.my.id/mp3/ILLIT-밤소풍.mp3",
+      "image": "https://i.ytimg.com/vi/imnphAoMVL0/maxresdefault.jpg"
     }
   ]
 }
