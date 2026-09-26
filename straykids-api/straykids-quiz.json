@@ -544,6 +544,11 @@
       "score": 2025
     },
     {
+      "name": "ching",
+      "country": "hong kong",
+      "score": 1900
+    },
+    {
       "name": "Judy",
       "country": "Egyptian",
       "score": 1800
@@ -556,11 +561,6 @@
     {
       "name": "Chanoonhabibi",
       "country": "Uganda",
-      "score": 1500
-    },
-    {
-      "name": "Sofia",
-      "country": "Germany",
       "score": 1500
     }
   ],

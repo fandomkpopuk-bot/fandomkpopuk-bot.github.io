@@ -419,6 +419,11 @@
       "score": 1725
     },
     {
+      "name": "Saodat",
+      "country": "Uzbekistan",
+      "score": 1325
+    },
+    {
       "name": "Sarah",
       "country": "Maldives",
       "score": 1200
@@ -426,11 +431,6 @@
     {
       "name": "Mila",
       "country": "Chile",
-      "score": 750
-    },
-    {
-      "name": "Danna",
-      "country": "Mexico",
       "score": 750
     }
   ],
