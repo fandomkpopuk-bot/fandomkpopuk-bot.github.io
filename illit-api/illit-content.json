@@ -136,13 +136,13 @@
   "announcement": {
     "id": "new-song-not-me-01",
     "badge": "🎵 New Song Added",
-    "title": "NOT ME by ILLIT Is Here!",
-    "description": "GLIT, a brand-new track NOT ME has just been added to the ILLIT song list! Open the Songs tab and stream it on repeat. Don't forget to share it with fellow GLIT!",
-    "image": "https://i.ytimg.com/vi/9nEp9eeGaJk/maxresdefault.jpg",
+    "title": "Topping by ILLIT Is Here!",
+    "description": "GLIT, a brand-new track Topping has just been added to the ILLIT song list! Open the Songs tab and stream it on repeat. Don't forget to share it with fellow GLIT!",
+    "image": "https://i.ytimg.com/vi/2BAXPAkLl88/maxresdefault.jpg",
     "rewards": [
       {
         "icon": "musical-notes-outline",
-        "text": "Stream NOT ME now in the Songs tab"
+        "text": "Stream Topping now in the Songs tab"
       },
       {
         "icon": "heart-outline",
