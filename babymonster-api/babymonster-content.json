@@ -181,7 +181,7 @@
       }
     ],
     "cta": {
-      "label": "Lets Play",
+      "label": "Lets Open Library Music",
       "action": "open_page",
       "url": "Library"
     }
