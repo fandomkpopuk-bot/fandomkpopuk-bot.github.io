@@ -153,25 +153,25 @@
     "androidUpdateType": "un-immediate"
   },
   "announcement": {
-    "id": "app-feedback-01",
-    "badge": "📢 We Need Your Feedback",
-    "title": "Help Improve LE SSERAFIM App!",
-    "description": "We want to make the LE SSERAFIM Stan app better for you! Share bugs, ideas, and feature requests in our quick 1-minute feedback form. Your voice shapes the next update!",
-    "image": "https://plus.unsplash.com/premium_photo-1682310144714-cb77b1e6d64a?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmVlZGJhY2t8ZW58MHx8MHx8fDA%3D",
+    "id": "new-song-tuide-sunkiss-01",
+    "badge": "🎵 New Song Added",
+    "title": "Meet my GRLS by TUIDE Is Here!",
+    "description": "A brand-new track SUN KISS by TUIDE has just been added to the song list! Open the Songs tab and stream it on repeat. Don't forget to share it with fellow fans!",
+    "image": "https://i.ytimg.com/vi/46h0LvDHgIs/maxresdefault.jpg",
     "rewards": [
       {
-        "icon": "chatbox-ellipses-outline",
-        "text": "Report bugs & request features you want"
+        "icon": "musical-notes-outline",
+        "text": "Stream SUN KISS now in the Songs tab"
       },
       {
         "icon": "heart-outline",
-        "text": "Help us build a better app for LE SSERAFIM fans!"
+        "text": "Add it to your favorites and share with fellow fans!"
       }
     ],
     "cta": {
-      "label": "Give Feedback Now",
+      "label": "Watch on YouTube",
       "action": "open_url",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdn6KxUc_OGbp6jEPCkiQPfzhrhNZ1sG21-Q3YzRX-8_32pMQ/viewform?usp=header"
+      "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
     }
   },
   "gallery": [

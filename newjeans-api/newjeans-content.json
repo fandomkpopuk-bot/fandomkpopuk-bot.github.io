@@ -150,25 +150,25 @@
     "isMinigameEnabled": true
   },
   "announcement": {
-    "id": "trivia-launch-02",
-    "badge": "✨ What's New",
-    "title": "Guess The Lyrics Trivia",
-    "description": "Test your trivia skills in quick 5-step lyric rounds. Guess the next lines to earn exclusive rewards!",
-    "image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
+    "id": "new-song-tuide-sunkiss-01",
+    "badge": "🎵 New Song Added",
+    "title": "Meet my GRLS by TUIDE Is Here!",
+    "description": "A brand-new track SUN KISS by TUIDE has just been added to the song list! Open the Songs tab and stream it on repeat. Don't forget to share it with fellow fans!",
+    "image": "https://i.ytimg.com/vi/46h0LvDHgIs/maxresdefault.jpg",
     "rewards": [
       {
-        "icon": "trophy-outline",
-        "text": "NewJeans Photocard Set Race: Best Score Wins"
+        "icon": "musical-notes-outline",
+        "text": "Stream SUN KISS now in the Songs tab"
       },
       {
-        "icon": "download-outline",
-        "text": "Test your fandom knowledge!"
+        "icon": "heart-outline",
+        "text": "Add it to your favorites and share with fellow fans!"
       }
     ],
     "cta": {
-      "label": "Play Trivia Now",
-      "action": "open_page",
-      "page": "Trivia"
+      "label": "Watch on YouTube",
+      "action": "open_url",
+      "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
     }
   }
 }

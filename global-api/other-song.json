@@ -1,6 +1,34 @@
 {
   "song_list": [
     {
+      "title": "Meet my GRLS",
+      "release_date": "2026-09-17",
+      "album": "-",
+      "artist": "TUIDE",
+      "tags": [
+        "tuide",
+        "trend"
+      ],
+      "image": "https://i.ytimg.com/vi/pHciG9_2xXM/maxresdefault.jpg",
+      "popularity": 90000,
+      "urlMp3": "https://wekaryatech.github.io/song/tuide-meetmygirls.mp3",
+      "youtube_id": "pHciG9_2xXM"
+    },
+    {
+      "title": "SUN KISS",
+      "release_date": "2026-09-17",
+      "album": "-",
+      "artist": "TUIDE",
+      "tags": [
+        "tuide",
+        "trend"
+      ],
+      "image": "https://i.ytimg.com/vi/46h0LvDHgIs/maxresdefault.jpg",
+      "popularity": 90000,
+      "urlMp3": "https://wekaryatech.github.io/song/tuide-sunkiss.mp3",
+      "youtube_id": "46h0LvDHgIs"
+    },
+    {
       "title": "new trick",
       "release_date": "2026-09-17",
       "album": "-",

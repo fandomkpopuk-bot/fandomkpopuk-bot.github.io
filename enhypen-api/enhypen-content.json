@@ -166,25 +166,25 @@
     }
   ],
   "announcement": {
-    "id": "gallery-launch-01",
-    "badge": "✨ What's New",
-    "title": "New Gallery Feature Is Here!",
-    "description": "Browse exclusive HQ photo collections of ENHYPEN — stage moments, Instagram updates, and more, all in one place. Update your app now to explore the new Gallery!",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOb_rBEazpV9JWVs_NiG1bbrHfgIlbWE92l1sgtx3KczalJBNAqpw_9IeR&s=10",
+    "id": "new-song-tuide-sunkiss-01",
+    "badge": "🎵 New Song Added",
+    "title": "Meet my GRLS by TUIDE Is Here!",
+    "description": "A brand-new track SUN KISS by TUIDE has just been added to the song list! Open the Songs tab and stream it on repeat. Don't forget to share it with fellow fans!",
+    "image": "https://i.ytimg.com/vi/46h0LvDHgIs/maxresdefault.jpg",
     "rewards": [
       {
-        "icon": "images-outline",
-        "text": "Explore HQ photo collections, updated regularly"
+        "icon": "musical-notes-outline",
+        "text": "Stream SUN KISS now in the Songs tab"
       },
       {
-        "icon": "rocket-outline",
-        "text": "Update now to unlock the Gallery in your ENHYPEN app!"
+        "icon": "heart-outline",
+        "text": "Add it to your favorites and share with fellow fans!"
       }
     ],
     "cta": {
-      "label": "Explore Gallery Now",
-      "action": "open_page",
-      "page": "Gallery"
+      "label": "Watch on YouTube",
+      "action": "open_url",
+      "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
     }
   },
   "config": {
