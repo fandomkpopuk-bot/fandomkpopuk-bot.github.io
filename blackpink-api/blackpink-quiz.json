@@ -781,6 +781,11 @@
       "score": 1125
     },
     {
+      "name": "Emily",
+      "country": "Philippines",
+      "score": 1125
+    },
+    {
       "name": "Sanisa",
       "country": "India",
       "score": 1075
@@ -804,11 +809,6 @@
       "name": "george",
       "country": "Philippines",
       "score": 850
-    },
-    {
-      "name": "Rose",
-      "country": "Australia",
-      "score": 650
     }
   ],
   "event_list": [

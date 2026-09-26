@@ -420,14 +420,24 @@
   ],
   "leaderboard": [
     {
+      "name": "Malak Magdy",
+      "country": "Egypt",
+      "score": 144475
+    },
+    {
+      "name": "Alexandra",
+      "country": "România",
+      "score": 60100
+    },
+    {
       "name": "Rosie🪻🎀",
       "country": "India 🇮🇳",
       "score": 38875
     },
     {
-      "name": "Ale",
-      "country": "România",
-      "score": 9500
+      "name": "Afsheen",
+      "country": "UAE",
+      "score": 10375
     },
     {
       "name": "Miangoty",
@@ -440,11 +450,6 @@
       "score": 6125
     },
     {
-      "name": "Malak Magdy",
-      "country": "Egypte",
-      "score": 6125
-    },
-    {
       "name": "Beaan",
       "country": "Egypt",
       "score": 6075
@@ -453,11 +458,6 @@
       "name": "Bee",
       "country": "Korean",
       "score": 3325
-    },
-    {
-      "name": "Cajee",
-      "country": "Malaysia",
-      "score": 2700
     }
   ],
   "event_list": [
