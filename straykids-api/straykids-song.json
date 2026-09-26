@@ -588,7 +588,8 @@
       "album": "-",
       "artist": "Fendi x Bang Chan",
       "tags": [
-        "straykids"
+        "straykids",
+        "bangchan"
       ],
       "image": "https://i.ytimg.com/vi/wPD4AxkqJkE/maxresdefault.jpg",
       "popularity": 1500000,
@@ -1976,6 +1977,39 @@
         "Dake hoshī nda sore de ī nda ashita wa mata kurukara",
         "mō saigo no onegaida yo ikanai de"
       ]
+    },
+    {
+      "title": "Connected (방찬) Connected (Bang Chan)",
+      "release_date": "2022-12-21",
+      "album": "SKZ Replay",
+      "artist": "Bang Chan",
+      "tags": [
+        "straykids",
+        "bangchan"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "fZRZGbc7KHs",
+      "urlMp3": "https://artetis.my.id/mp3/StrayKids-Connected(방찬)Connected(BangChan).mp3",
+      "image": "https://i.ytimg.com/vi/fZRZGbc7KHs/maxresdefault.jpg"
+    },
+    {
+      "title": "Stray Kids \"FAM (Korean Ver.)\" M/V",
+      "release_date": "2022-12-21",
+      "album": "SKZ Replay",
+      "artist": "Stray Kids",
+      "tags": [
+        "straykids"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "D8WwqWS2E6E",
+      "urlMp3": "https://artetis.my.id/mp3/JYPEntertainment-StrayKidsFAM(KoreanVer.)MV.mp3",
+      "image": "https://i.ytimg.com/vi/D8WwqWS2E6E/maxresdefault.jpg"
     }
   ]
 }
