@@ -166,9 +166,9 @@
       }
     ],
     "cta": {
-      "label": "Watch on YouTube",
-      "action": "open_url",
-      "url": "https://www.youtube.com/watch?v=46h0LvDHgIs"
+      "label": "Lets Play",
+      "action": "open_page",
+      "url": "Library"
     }
   }
 }
