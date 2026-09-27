@@ -1,6 +1,6 @@
 {
   "song_list": [
-     {
+    {
       "title": "Death of Me'",
       "release_date": "2026-09-7",
       "album": "-",
@@ -7296,6 +7296,90 @@
       "youtube_id": "bmOtxHX-zAw",
       "urlMp3": "https://lind96.github.io/personal/mp3/enhypen/flik.mp3",
       "image": "https://static.wikia.nocookie.net/enhypen/images/a/a9/BORDER_DAY_ONE_digital_album_cover.jpg/revision/latest/scale-to-width-down/1000?cb=20201201125349"
+    },
+    {
+      "title": "Chaconne",
+      "release_date": "2023-05-22",
+      "album": "-",
+      "artist": "ENHYPEN",
+      "tags": [
+        "enhypen"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "DEMRUqox9qM",
+      "urlMp3": "https://artetis.my.id/mp3/ENHYPEN-Chaconne.mp3",
+      "image": "https://i.ytimg.com/vi/DEMRUqox9qM/maxresdefault.jpg"
+    },
+    {
+      "title": "Twilight",
+      "release_date": "2026-09-07",
+      "album": "-",
+      "artist": "EVAN (에반)",
+      "tags": [
+        "evan",
+        "enhypen"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "KTMJ1wOUZ5Y",
+      "urlMp3": "https://artetis.my.id/mp3/EVAN-Twilight.mp3",
+      "image": "https://i.ytimg.com/vi/KTMJ1wOUZ5Y/maxresdefault.jpg"
+    },
+    {
+      "title": "Immature",
+      "release_date": "2026-09-07",
+      "album": "-",
+      "artist": "EVAN (에반)",
+      "tags": [
+        "evan",
+        "enhypen"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "pC2QHUMhPuw",
+      "urlMp3": "https://artetis.my.id/mp3/EVAN-Immature.mp3",
+      "image": "https://i.ytimg.com/vi/pC2QHUMhPuw/maxresdefault.jpg"
+    },
+    {
+      "title": "Going Home",
+      "release_date": "2026-09-07",
+      "album": "-",
+      "artist": "EVAN (에반)",
+      "tags": [
+        "evan",
+        "enhypen"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "g6PxLZ6HaOU",
+      "urlMp3": "https://artetis.my.id/mp3/EVAN-GoingHome.mp3",
+      "image": "https://i.ytimg.com/vi/g6PxLZ6HaOU/maxresdefault.jpg"
+    },
+    {
+      "title": "Not Enough",
+      "release_date": "2026-09-07",
+      "album": "-",
+      "artist": "EVAN (에반)",
+      "tags": [
+        "evan",
+        "enhypen"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "kBP6ADuzXwI",
+      "urlMp3": "https://artetis.my.id/mp3/EVAN-NotEnough.mp3",
+      "image": "https://i.ytimg.com/vi/kBP6ADuzXwI/maxresdefault.jpg"
     }
   ]
 }
