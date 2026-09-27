@@ -166,18 +166,19 @@
     }
   ],
   "announcement": {
-    "id": "new-song-tuide-sunkiss-01",
-    "badge": "🎵 New Song Added",
-    "title": "Meet my GRLS by TUIDE Is Here!",
-    "description": "A brand-new track SUN KISS by TUIDE has just been added to the song list! Open the Songs tab and stream it on repeat. Don't forget to share it with fellow fans!",
-     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4nNH-8YcSyYiPC-eCmaMIOzqBd9-IU0nvkxPNDGqVabJlpdGwG85uKXrF&s=10",    "rewards": [
+    "id": "evan-all-songs-available-01",
+    "badge": "🎵 All Songs Available",
+    "title": "All EVAN Songs Are Now In This App!",
+    "description": "Great news fans! All EVAN songs are now available in this app! Open the Library page and stream all your favorite EVAN tracks on repeat. Don't forget to share with fellow fans!",
+    "image": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/108/2026/05/12/Untitled-design-22-3603135590.png",
+    "rewards": [
       {
         "icon": "musical-notes-outline",
-        "text": "Stream SUN KISS now in the Songs tab"
+        "text": "Stream all EVAN songs now in the Library page"
       },
       {
         "icon": "heart-outline",
-        "text": "Add it to your favorites and share with fellow fans!"
+        "text": "Add them to your favorites and share with fellow fans!"
       }
     ],
     "cta": {
