@@ -158,7 +158,8 @@
     "badge": "🎵 New Song Added",
     "title": "Meet my GRLS by TUIDE Is Here!",
     "description": "A brand-new track SUN KISS by TUIDE has just been added to the song list! Open the Songs tab and stream it on repeat. Don't forget to share it with fellow fans!",
-     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4nNH-8YcSyYiPC-eCmaMIOzqBd9-IU0nvkxPNDGqVabJlpdGwG85uKXrF&s=10",    "rewards": [
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4nNH-8YcSyYiPC-eCmaMIOzqBd9-IU0nvkxPNDGqVabJlpdGwG85uKXrF&s=10",
+    "rewards": [
       {
         "icon": "musical-notes-outline",
         "text": "Stream SUN KISS now in the Songs tab"
@@ -175,6 +176,29 @@
     }
   },
   "gallery": [
+    {
+      "title": "CORTIS ROCK IN JAPAN FESTIVAL 2026 Photo Sketch",
+      "api_url": "https://kpopping.com/kpics/cortis-rock-in-japan-festival-2026-photo-sketch",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297701-wwq0qr-0.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-dmap5x-1.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-6jtc84-2.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-0vjwdm-3.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-okm1kf-4.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-axve42-5.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-tsun1z-6.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-i87s8g-7.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-02dsci-8.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-0h7y2n-9.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-mgnw63-10.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-kp8zd4-11.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-iww9zs-12.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-5mjqx2-13.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-dsyiz8-14.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-6hdo7s-15.webp",
+        "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-4uqdaq-16.webp"
+      ]
+    },
     {
       "title": "260923 CORTIS Instagram Update",
       "api_url": "https://kpopping.com/kpics/260923-cortis-instagram-update",
