@@ -137,7 +137,7 @@
     "isAdsEnabled": true,
     "maxPlayCount": 3,
     "maxDownloadCount": 2,
-    "maxViewImageCount": 5,
+    "maxViewImageCount": 7,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,
     "freeAdsSessionVideosRequired": 3,
