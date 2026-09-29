@@ -555,6 +555,16 @@
       "score": 2575
     },
     {
+      "name": "Jane",
+      "country": "Philippines",
+      "score": 1150
+    },
+    {
+      "name": "Anabia",
+      "country": "Pakistan",
+      "score": 1075
+    },
+    {
       "name": "Elin",
       "country": "Azerbaijan",
       "score": 1025
@@ -577,16 +587,6 @@
     {
       "name": "Mridushmita Baruah",
       "country": "India",
-      "score": 600
-    },
-    {
-      "name": "Angely",
-      "country": "Venezuela",
-      "score": 600
-    },
-    {
-      "name": "Leonie",
-      "country": "Deutschland",
       "score": 600
     }
   ],
