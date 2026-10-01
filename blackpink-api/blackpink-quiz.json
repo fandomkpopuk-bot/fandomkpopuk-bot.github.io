@@ -771,6 +771,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Jeoli",
+      "country": "India",
+      "score": 3075
+    },
+    {
       "name": "Sophie",
       "country": "Uk",
       "score": 2275
@@ -781,23 +786,18 @@
       "score": 2125
     },
     {
-      "name": "Jeoli",
-      "country": "India",
-      "score": 1450
-    },
-    {
       "name": "Blink",
       "country": "Pakistan",
       "score": 1325
     },
     {
-      "name": "Maliha",
-      "country": "Bangladesh",
+      "name": "Emily",
+      "country": "Philippines",
       "score": 1125
     },
     {
-      "name": "Emily",
-      "country": "Philippines",
+      "name": "Maliha",
+      "country": "Bangladesh",
       "score": 1125
     },
     {
