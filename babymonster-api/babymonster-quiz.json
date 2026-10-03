@@ -420,14 +420,14 @@
   ],
   "leaderboard": [
     {
+      "name": "Felice Latavia Sen",
+      "country": "Indonesia",
+      "score": 475450
+    },
+    {
       "name": "Malak Magdy",
       "country": "Egypt",
       "score": 213700
-    },
-    {
-      "name": "Felice Latavia Sen",
-      "country": "Indonesia",
-      "score": 66000
     },
     {
       "name": "Alexandra",
@@ -440,24 +440,14 @@
       "score": 38875
     },
     {
+      "name": "Rosie 🎀✨",
+      "country": "India 🇮🇳",
+      "score": 23175
+    },
+    {
       "name": "Afsheen",
       "country": "UAE",
       "score": 10400
-    },
-    {
-      "name": "Besan",
-      "country": "Egypt",
-      "score": 6850
-    },
-    {
-      "name": "Miangoty",
-      "country": "Madagascar",
-      "score": 6275
-    },
-    {
-      "name": "Anna",
-      "country": "Myanmar",
-      "score": 6125
     }
   ],
   "event_list": [

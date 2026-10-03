@@ -399,6 +399,11 @@
       "score": 8125
     },
     {
+      "name": "Carmen",
+      "country": "Indonesia",
+      "score": 7075
+    },
+    {
       "name": "Iki",
       "country": "Indonesia",
       "score": 5900
@@ -406,7 +411,7 @@
     {
       "name": "Syifa",
       "country": "Indonesia",
-      "score": 3675
+      "score": 5100
     },
     {
       "name": "Diah",
@@ -427,11 +432,6 @@
       "name": "Kmi",
       "country": "Indo",
       "score": 2725
-    },
-    {
-      "name": "Yuyun",
-      "country": "Indonesia",
-      "score": 2550
     }
   ],
   "event_list": [
