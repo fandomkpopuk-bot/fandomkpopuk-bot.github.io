@@ -316,6 +316,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Dương",
+      "country": "Viet Nam",
+      "score": 102125
+    },
+    {
       "name": "Kai",
       "country": "Saudi Arabia",
       "score": 9200
@@ -349,11 +354,6 @@
       "name": "Amaya",
       "country": "England",
       "score": 1750
-    },
-    {
-      "name": "Reva",
-      "country": "Indonesia",
-      "score": 1600
     }
   ],
   "event_list": [
