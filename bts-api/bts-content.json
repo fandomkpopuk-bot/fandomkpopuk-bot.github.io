@@ -146,24 +146,25 @@
     "verifiedText": "Verified Artist"
   },
   "announcement": {
-    "id": "new-song-tuide-sunkiss-01",
-    "badge": "🎵 New Song Added",
-    "title": "Meet my GRLS by TUIDE Is Here!",
-    "description": "A brand-new track SUN KISS by TUIDE has just been added to the song list! Open the Songs tab and stream it on repeat. Don't forget to share it with fellow fans!",
-     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4nNH-8YcSyYiPC-eCmaMIOzqBd9-IU0nvkxPNDGqVabJlpdGwG85uKXrF&s=10",    "rewards": [
+    "id": "trivia-launch-03",
+    "badge": "✨ What's New",
+    "title": "Guess The Lyrics Trivia",
+    "description": "Test your trivia skills in quick 5-step lyric rounds. Guess the next lines to earn exclusive rewards!",
+    "image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
+    "rewards": [
       {
-        "icon": "musical-notes-outline",
-        "text": "Stream SUN KISS now in the Songs tab"
+        "icon": "trophy-outline",
+        "text": "BTS Photocard Set Race: Best Score Wins"
       },
       {
-        "icon": "heart-outline",
-        "text": "Add it to your favorites and share with fellow fans!"
+        "icon": "download-outline",
+        "text": "Test your fandom knowledge!"
       }
     ],
     "cta": {
-      "label": "Lets Open Library Music",
+      "label": "Play Trivia Now",
       "action": "open_page",
-      "url": "Library"
+      "page": "Trivia"
     }
   },
   "config": {

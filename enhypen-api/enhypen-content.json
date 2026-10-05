@@ -166,25 +166,25 @@
     }
   ],
   "announcement": {
-    "id": "evan-all-songs-available-01",
-    "badge": "🎵 All Songs Available",
-    "title": "All EVAN Songs Are Now In This App!",
-    "description": "Great news fans! All EVAN songs are now available in this app! Open the Library page and stream all your favorite EVAN tracks on repeat. Don't forget to share with fellow fans!",
-    "image": "https://cdn1-production-images-kly.akamaized.net/rLmwJV-EvqVi85H8HCG352hXDoQ=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5550774/original/055887700_1775708938-evan-heeseung-1.jpeg",
+    "id": "trivia-launch-03",
+    "badge": "✨ What's New",
+    "title": "Guess The Lyrics Trivia",
+    "description": "Test your trivia skills in quick 5-step lyric rounds. Guess the next lines to earn exclusive rewards!",
+    "image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
     "rewards": [
       {
-        "icon": "musical-notes-outline",
-        "text": "Stream all EVAN songs now in the Library page"
+        "icon": "trophy-outline",
+        "text": "ENHYPEN Photocard Set Race: Best Score Wins"
       },
       {
-        "icon": "heart-outline",
-        "text": "Add them to your favorites and share with fellow fans!"
+        "icon": "download-outline",
+        "text": "Test your fandom knowledge!"
       }
     ],
     "cta": {
-      "label": "Lets Open Library Music",
+      "label": "Play Trivia Now",
       "action": "open_page",
-      "url": "Library"
+      "page": "Trivia"
     }
   },
   "config": {
