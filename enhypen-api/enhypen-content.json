@@ -190,8 +190,8 @@
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 3,
-    "maxViewImageCount": 3,
-    "maxDownloadCount": 2,
+    "maxViewImageCount": 4,
+    "maxDownloadCount": 3,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,
     "freeAdsSessionVideosRequired": 3,

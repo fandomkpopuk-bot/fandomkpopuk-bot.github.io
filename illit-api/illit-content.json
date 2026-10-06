@@ -158,7 +158,7 @@
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 3,
-    "maxDownloadCount": 2,
+    "maxDownloadCount": 3,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,
     "freeAdsSessionVideosRequired": 3,
@@ -170,7 +170,7 @@
     "isMembersEnabled": true,
     "adBannerInterval": 10,
     "isMinigameEnabled": true,
-    "maxViewImageCount": 3,
+    "maxViewImageCount": 4,
     "isGalleryEnabled": false,
     "isNewGalleryEnabled": true
   },
