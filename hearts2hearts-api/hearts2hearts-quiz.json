@@ -394,6 +394,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Syifa",
+      "country": "Indonesia",
+      "score": 16550
+    },
+    {
       "name": "Nissa",
       "country": "Indonesia",
       "score": 8125
@@ -407,11 +412,6 @@
       "name": "Iki",
       "country": "Indonesia",
       "score": 5900
-    },
-    {
-      "name": "Syifa",
-      "country": "Indonesia",
-      "score": 5100
     },
     {
       "name": "Diah",
