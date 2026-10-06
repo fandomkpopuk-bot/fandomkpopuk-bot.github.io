@@ -224,7 +224,7 @@
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 3,
-    "maxViewImageCount": 7,
+    "maxViewImageCount": 3,
     "maxDownloadCount": 2,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 3,

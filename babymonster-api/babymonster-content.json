@@ -202,7 +202,7 @@
     "isMembersEnabled": true,
     "adBannerInterval": 7,
     "isMinigameEnabled": true,
-    "maxViewImageCount": 7,
+    "maxViewImageCount": 3,
     "isNewGalleryEnabled": true,
     "androidUpdateType": "immediate"
   },

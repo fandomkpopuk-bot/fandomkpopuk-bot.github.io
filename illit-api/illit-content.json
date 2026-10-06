@@ -170,7 +170,7 @@
     "isMembersEnabled": true,
     "adBannerInterval": 10,
     "isMinigameEnabled": true,
-    "maxViewImageCount": 7,
+    "maxViewImageCount": 3,
     "isGalleryEnabled": false,
     "isNewGalleryEnabled": true
   },
