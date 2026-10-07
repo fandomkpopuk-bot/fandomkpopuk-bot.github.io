@@ -555,6 +555,11 @@
       "score": 2575
     },
     {
+      "name": "Yeikneli",
+      "country": "Mexico",
+      "score": 1400
+    },
+    {
       "name": "Jane",
       "country": "Philippines",
       "score": 1150
@@ -583,11 +588,6 @@
       "name": "Mila",
       "country": "Türkiye",
       "score": 775
-    },
-    {
-      "name": "Yeikneli",
-      "country": "Vite Álvarez",
-      "score": 650
     }
   ],
   "event_list": [

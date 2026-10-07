@@ -669,6 +669,11 @@
       "score": 1725
     },
     {
+      "name": "mai",
+      "country": "Philippines",
+      "score": 1600
+    },
+    {
       "name": "Lina",
       "country": "Germny",
       "score": 925
@@ -687,11 +692,6 @@
       "name": "lina",
       "country": "Deutschland",
       "score": 575
-    },
-    {
-      "name": "Nami",
-      "country": "Brazil",
-      "score": 550
     }
   ],
   "event_list": [
