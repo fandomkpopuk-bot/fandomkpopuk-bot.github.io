@@ -199,7 +199,7 @@
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "isNewGalleryEnabled": true,
-    "androidUpdateType": "immediate"
+    "androidUpdateType": "unimmediate"
   },
   "announcement": {
     "id": "app-feedback-02",

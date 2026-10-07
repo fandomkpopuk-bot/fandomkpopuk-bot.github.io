@@ -184,7 +184,7 @@
     "maxViewImageCount": 4,
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
-    "androidUpdateType": "immediate",
+    "androidUpdateType": "unimmediate",
     "isNewGalleryEnabled": true
   },
   "news_list": [

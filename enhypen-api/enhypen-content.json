@@ -205,7 +205,7 @@
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "isNewGalleryEnabled": true,
-    "androidUpdateType": "immediate"
+    "androidUpdateType": "unimmediate"
   },
   "gallery": [
     {
