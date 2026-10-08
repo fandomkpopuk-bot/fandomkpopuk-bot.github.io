@@ -82,7 +82,9 @@ Output: `{"items": {url: {"title": ..., "photos": [...]}}, "photos": {...}, "blo
    ```sh
    python3 .opencode/skills/kpics-cdn-extractor/scripts/extract_kpics.py --app CORTIS --apply --input /tmp/urls.txt --delay 2
    ```
-   Matching idempotent: (1) `api_url` persis, (2) title persis ternormalisasi, (3) token-subset (semua token title kurasi ada di title halaman, pemenang token terbanyak, diterima bila unik dan >=2 token; title satu kata tidak ikut agar tak salah tempel). Entry cocok diupdate `photo_collection`-nya (title dipertahankan), URL tanpa kandidat yang cocok di-append sebagai `{title, api_url, photo_collection}` dan dilaporkan sebagai unmatched. Match ambiguous dilewati, tidak di-append, dan membuat pipeline berhenti dengan exit 1.
+   Matching idempotent: (1) `api_url` persis, (2) title persis ternormalisasi, (3) token-subset (semua token title kurasi ada di title halaman, pemenang token terbanyak, diterima bila unik dan >=2 token; title satu kata tidak ikut agar tak salah tempel). Entry cocok diupdate `photo_collection`-nya (title dipertahankan) dan **posisinya di array tidak berubah**. URL tanpa kandidat yang cocok di-insert sebagai `{title, api_url, photo_collection}` **di awal array (index 0), bukan di akhir**, lalu dilaporkan sebagai unmatched. Match ambiguous dilewati, tidak di-insert, dan membuat pipeline berhenti dengan exit 1.
+
+   **Urutan gallery = terbaru-di-atas.** Entry baru selalu mendahului semua entry lama. Bila satu run menambahkan beberapa entry baru, semuanya di-insert sebagai satu blok di indeks 0 dengan **urutan input dipertahankan** (tidak dibalik).
    Opsi:
    - `--update-title`: timpa title lama dengan title dari halaman.
    - `--drop-api-url`: entry baru tanpa `api_url` (destructive, hanya bila user meminta format tanpa `api_url`).

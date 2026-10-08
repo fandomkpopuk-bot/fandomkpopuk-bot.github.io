@@ -562,7 +562,11 @@ def apply_to_gallery(
        tidak salah tempel — dilaporkan sebagai unmatched.
     Jika cocok: update photo_collection; title hanya diubah bila
     --update-title (agar judul kurasi manual tidak tertimpa).
-    Jika tidak cocok dan tidak ambiguous: append entry baru {title, [api_url,] photo_collection}.
+    Jika tidak cocok dan tidak ambiguous: entry baru {title, [api_url,]
+    photo_collection} di-INSERT di awal array (index 0), bukan di akhir, agar
+    update terbaru tampil paling atas. Bila satu run menambahkan beberapa
+    entry, semua di-insert sebagai satu blok di indeks 0 dengan urutan input
+    dipertahankan (tidak dibalik).
     Match ambiguous dilewati agar tidak salah tempel. Mengembalikan ringkasan
     {updated, appended, total, ambiguous, unmatched}.
     """
@@ -582,6 +586,7 @@ def apply_to_gallery(
         if e.get("title"):
             by_title.setdefault(norm_title(e["title"]), e)
     updated, appended = 0, 0
+    pending: list[dict] = []
     ambiguous, unmatched = [], []
     for url, item in items.items():
         photos = item["photos"]
@@ -620,9 +625,13 @@ def apply_to_gallery(
             if keep_api_url:
                 new_entry["api_url"] = url
             new_entry["photo_collection"] = photos
-            gallery.append(new_entry)
+            pending.append(new_entry)
             appended += 1
             print(f"{url} -> NEW '{title}' photos={len(photos)}", file=sys.stderr)
+    # Entry baru masuk di awal array (update terbaru paling atas). Satu blok
+    # di indeks 0 dengan urutan input dipertahankan.
+    if pending:
+        gallery[0:0] = pending
     with open(content_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     return {"updated": updated, "appended": appended, "total": len(gallery),
