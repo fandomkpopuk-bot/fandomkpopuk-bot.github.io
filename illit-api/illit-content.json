@@ -168,7 +168,7 @@
     "isOtherAppsEnabled": true,
     "isNewsEnabled": false,
     "isMembersEnabled": true,
-    "adBannerInterval": 10,
+    "adBannerInterval": 8,
     "isMinigameEnabled": true,
     "maxViewImageCount": 4,
     "isGalleryEnabled": false,
