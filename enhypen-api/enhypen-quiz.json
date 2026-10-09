@@ -550,6 +550,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Enh7pen",
+      "country": "Pakistan",
+      "score": 9400
+    },
+    {
       "name": "barba",
       "country": "indonesia",
       "score": 2575
@@ -582,11 +587,6 @@
     {
       "name": "Yumi",
       "country": "Brasil",
-      "score": 775
-    },
-    {
-      "name": "Mila",
-      "country": "Türkiye",
       "score": 775
     }
   ],

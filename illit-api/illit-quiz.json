@@ -404,6 +404,11 @@
       "score": 2575
     },
     {
+      "name": "芦屋",
+      "country": "Belgium",
+      "score": 2350
+    },
+    {
       "name": "Soyeon",
       "country": "South Korea",
       "score": 2050
@@ -427,11 +432,6 @@
       "name": "Sarah",
       "country": "Maldives",
       "score": 1200
-    },
-    {
-      "name": "芦屋",
-      "country": "Belgium",
-      "score": 975
     }
   ],
   "event_list": [
