@@ -166,8 +166,8 @@
   "config": {
     "adBannerInterval": 8,
     "extraDownloadSlotPerAd": 1,
-    "freeAdsSessionDurationHours": 3,
-    "freeAdsSessionVideosRequired": 3,
+    "freeAdsSessionDurationHours": 6,
+    "freeAdsSessionVideosRequired": 6,
     "isAdsEnabled": true,
     "isDownloadEnabled": true,
     "isLyricsEnabled": true,
@@ -175,12 +175,12 @@
     "isNewsEnabled": false,
     "isOtherAppsEnabled": true,
     "isSongRequestEnabled": true,
-    "maxDownloadCount": 3,
-    "maxPlayCount": 3,
+    "maxDownloadCount": 5,
+    "maxPlayCount": 4,
     "maxViewImageCount": 4,
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
-    "androidUpdateType": "unimmediate",
+    "androidUpdateType": "immediate",
     "isNewGalleryEnabled": true
   },
   "news_list": [

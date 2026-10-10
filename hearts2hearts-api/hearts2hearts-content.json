@@ -219,12 +219,12 @@
   ],
   "config": {
     "isAdsEnabled": true,
-    "maxPlayCount": 3,
+    "maxPlayCount": 4,
     "maxViewImageCount": 4,
-    "maxDownloadCount": 3,
+    "maxDownloadCount": 5,
     "extraDownloadSlotPerAd": 1,
-    "freeAdsSessionDurationHours": 3,
-    "freeAdsSessionVideosRequired": 3,
+    "freeAdsSessionDurationHours": 6,
+    "freeAdsSessionVideosRequired": 6,
     "isDownloadEnabled": true,
     "isLyricsEnabled": true,
     "isSongRequestEnabled": true,
@@ -234,7 +234,7 @@
     "adBannerInterval": 8,
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
-    "androidUpdateType": "unimmediate",
+    "androidUpdateType": "immediate",
     "isNewGalleryEnabled": true
   },
   "gallery": [
