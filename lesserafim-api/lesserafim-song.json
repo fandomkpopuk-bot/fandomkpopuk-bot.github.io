@@ -842,6 +842,22 @@
         "I-I-I-I-I-I, I-I-I-I-I-I (I)",
         ""
       ]
+    },
+    {
+      "title": "DIFFERENT",
+      "release_date": "2025-06-08",
+      "album": "-",
+      "artist": "Le Sserafim",
+      "tags": [
+        "lesserafim"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "HFZUAXhdnHk",
+      "urlMp3": "https://artetis.my.id/mp3/HYBELABELS-LESSERAFIM(르세라핌)'DIFFERENT'OFFICIALMV.mp3",
+      "image": "https://i.ytimg.com/vi/HFZUAXhdnHk/maxresdefault.jpg"
     }
   ]
 }
