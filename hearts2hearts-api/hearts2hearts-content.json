@@ -235,7 +235,8 @@
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",
-    "isNewGalleryEnabled": true
+    "isNewGalleryEnabled": true,
+    "adsType": "mix"
   },
   "gallery": [
     {
