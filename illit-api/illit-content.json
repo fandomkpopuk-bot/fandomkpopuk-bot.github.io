@@ -168,7 +168,8 @@
     "isMinigameEnabled": true,
     "maxViewImageCount": 4,
     "isGalleryEnabled": false,
-    "isNewGalleryEnabled": true
+    "isNewGalleryEnabled": true,
+    "adsType": "mix"
   },
   "gallery": [
     {

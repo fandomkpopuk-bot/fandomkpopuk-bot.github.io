@@ -199,7 +199,8 @@
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "isNewGalleryEnabled": true,
-    "androidUpdateType": "immediate"
+    "androidUpdateType": "immediate",
+    "adsType": "mix"
   },
   "announcement": {
     "id": "idol-app-vote-01",
