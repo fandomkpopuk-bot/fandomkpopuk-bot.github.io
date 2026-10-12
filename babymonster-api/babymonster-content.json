@@ -200,7 +200,8 @@
     "isMinigameEnabled": true,
     "maxViewImageCount": 4,
     "isNewGalleryEnabled": true,
-    "androidUpdateType": "immediate"
+    "androidUpdateType": "immediate",
+    "adsType": "mix"
   },
   "gallery": [
     {
