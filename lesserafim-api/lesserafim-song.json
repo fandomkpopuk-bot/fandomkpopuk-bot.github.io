@@ -43,15 +43,15 @@
     },
     {
       "title": "Pureflow",
-      "release_date": "2026-01-20",
+      "release_date": "2026-05-22",
       "album": "PUREFLOW",
       "artist": "Le Sserafim",
       "tags": [
         "lesserafim"
       ],
-      "urlMp3": "https://wekaryatech.github.io/song/lesserafim-pureflow.mp3",
+      "urlMp3": "https://artetis.my.id/mp3/LESSERAFIM-Pureflow.mp3",
       "image": "https://i.ytimg.com/vi/L8z453XB6Iw/maxresdefault.jpg",
-      "popularity": 90000,
+      "popularity": 46000,
       "youtube_id": "L8z453XB6Iw",
       "latin_lyric": [
         "슬픔을 왜 나눠?",
@@ -95,7 +95,9 @@
         "",
         "For we are not FEARLESS, and therefore powerful",
         "PUREFLOW runs through us"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "BOOMPALA",
