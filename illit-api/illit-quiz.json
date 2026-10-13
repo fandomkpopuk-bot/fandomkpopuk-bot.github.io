@@ -409,6 +409,11 @@
       "score": 2575
     },
     {
+      "name": "Erilyn",
+      "country": "Belgium",
+      "score": 2275
+    },
+    {
       "name": "Soyeon",
       "country": "South Korea",
       "score": 2050
@@ -427,11 +432,6 @@
       "name": "Saodat",
       "country": "Uzbekistan",
       "score": 1325
-    },
-    {
-      "name": "Sarah",
-      "country": "Maldives",
-      "score": 1200
     }
   ],
   "event_list": [

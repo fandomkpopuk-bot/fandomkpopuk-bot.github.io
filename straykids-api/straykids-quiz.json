@@ -536,7 +536,12 @@
     {
       "name": "Sofia",
       "country": "Germany",
-      "score": 2575
+      "score": 3000
+    },
+    {
+      "name": "Killermoonie",
+      "country": "Egypt",
+      "score": 2750
     },
     {
       "name": "Klara",
@@ -557,11 +562,6 @@
       "name": "Jessi",
       "country": "Germany",
       "score": 1875
-    },
-    {
-      "name": "Judy",
-      "country": "Egyptian",
-      "score": 1800
     }
   ],
   "event_list": [
