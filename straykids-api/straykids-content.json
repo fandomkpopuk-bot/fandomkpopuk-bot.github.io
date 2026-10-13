@@ -200,7 +200,7 @@
     "isGalleryEnabled": false,
     "isNewGalleryEnabled": true,
     "androidUpdateType": "immediate",
-    "adsType": "mix"
+    "adsType": "reward"
   },
   "announcement": {
     "id": "idol-app-vote-01",
