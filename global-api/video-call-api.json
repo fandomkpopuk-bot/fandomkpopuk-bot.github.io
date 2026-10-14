@@ -31,64 +31,28 @@
             "video_url": "https://artetis.my.id/mp4/cortis-video/keonho.mp4"
         },
         {
-            "idol_name": "Martin1",
-            "position": "Leader • Vocal • Producer • Cortis",
-            "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297701-wwq0qr-0.webp",
-            "video_url": "https://artetis.my.id/mp4/cortis-video/martin.mp4"
+            "idol_name": "Yunah",
+            "position": "Leader • Vocal • ILLIT",
+            "image_url": "https://fandomkpopuk-bot.github.io/illit-asset/260824-yunah-at-hong-kong-fansign/1787273641661-w3v73z-0.webp",
+            "video_url": "https://artetis.my.id/mp4/yunah.mp4"
         },
         {
-            "idol_name": "James1",
-            "position": "Main Dancer • Rap • Vocal • Cortis",
-            "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/260922-james-at-inkigayo-live-in-tokyo-2026/1789135339780-5uav7e-0.webp",
-            "video_url": "https://artetis.my.id/mp4/cortis-video/james.mp4"
+            "idol_name": "Minju",
+            "position": "Vocal • Visual • ILLIT",
+            "image_url": "https://fandomkpopuk-bot.github.io/illit-asset/260820-illit-for-billboard-japan-billboard-japan-twitter-update/1787750412552-jzm3tz-2.webp",
+            "video_url": "https://artetis.my.id/mp4/minju.mp4"
         },
         {
-            "idol_name": "Juhoon1",
-            "position": "Rap • Vocal • Cortis",
-            "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/260922-juhoon-at-inkigayo-live-in-tokyo-2026/1788059890856-ufq2hw-0.webp",
-            "video_url": "https://artetis.my.id/mp4/cortis-video/juhoon.mp4"
+            "idol_name": "Wonhee",
+            "position": "Vocal • Variety • ILLIT",
+            "image_url": "https://fandomkpopuk-bot.github.io/illit-asset/261006-illit-sns-update-wonhee/1791252797355-trv6wq-0.webp",
+            "video_url": "https://artetis.my.id/mp4/wonhee.mp4"
         },
         {
-            "idol_name": "Seonghyeon1",
-            "position": "Vocal • Dancer • Cortis",
-            "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-okm1kf-4.webp",
-            "video_url": "https://artetis.my.id/mp4/cortis-video/seongheon.mp4"
-        },
-        {
-            "idol_name": "Keonho1",
-            "position": "Dancer • Vocal • Maknae • Cortis",
-            "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/261007-cortis-instagram-update-keonho/1791344293162-ylh1ad-0.webp",
-            "video_url": "https://artetis.my.id/mp4/cortis-video/keonho.mp4"
-        },
-        {
-            "idol_name": "Martin2",
-            "position": "Leader • Vocal • Producer • Cortis",
-            "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297701-wwq0qr-0.webp",
-            "video_url": "https://artetis.my.id/mp4/cortis-video/martin.mp4"
-        },
-        {
-            "idol_name": "James3",
-            "position": "Main Dancer • Rap • Vocal • Cortis",
-            "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/260922-james-at-inkigayo-live-in-tokyo-2026/1789135339780-5uav7e-0.webp",
-            "video_url": "https://artetis.my.id/mp4/cortis-video/james.mp4"
-        },
-        {
-            "idol_name": "Juhoon2",
-            "position": "Rap • Vocal • Cortis",
-            "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/260922-juhoon-at-inkigayo-live-in-tokyo-2026/1788059890856-ufq2hw-0.webp",
-            "video_url": "https://artetis.my.id/mp4/cortis-video/juhoon.mp4"
-        },
-        {
-            "idol_name": "Seonghyeon3",
-            "position": "Vocal • Dancer • Cortis",
-            "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-okm1kf-4.webp",
-            "video_url": "https://artetis.my.id/mp4/cortis-video/seongheon.mp4"
-        },
-        {
-            "idol_name": "Keonho2",
-            "position": "Dancer • Vocal • Maknae • Cortis",
-            "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/261007-cortis-instagram-update-keonho/1791344293162-ylh1ad-0.webp",
-            "video_url": "https://artetis.my.id/mp4/cortis-video/keonho.mp4"
+            "idol_name": "Jungkook",
+            "position": "Main Vocal • Maknae • BTS",
+            "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/jungkook-x-calvin-klein-ckjk-est-2026-collection/1779203123765-4da89n-2.webp",
+            "video_url": "https://artetis.my.id/mp4/jungkook.mp4"
         }
     ]
 }
