@@ -164,25 +164,26 @@
     }
   },
   "config": {
-    "adBannerInterval": 8,
+    "isAdsEnabled": true,
+    "maxPlayCount": 4,
+    "maxViewImageCount": 4,
+    "maxDownloadCount": 5,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 6,
     "freeAdsSessionVideosRequired": 6,
-    "isAdsEnabled": true,
     "isDownloadEnabled": true,
     "isLyricsEnabled": true,
-    "isMembersEnabled": true,
-    "isNewsEnabled": false,
-    "isOtherAppsEnabled": true,
     "isSongRequestEnabled": true,
-    "maxDownloadCount": 5,
-    "maxPlayCount": 4,
-    "maxViewImageCount": 4,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": false,
+    "isMembersEnabled": true,
+    "adBannerInterval": 8,
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",
     "isNewGalleryEnabled": true,
-    "adsType": "reward"
+    "adsType": "reward",
+    "isVideoCallEnabled": true
   },
   "news_list": [
     {

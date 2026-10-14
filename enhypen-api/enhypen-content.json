@@ -183,7 +183,7 @@
       "url": "https://docs.google.com/forms/d/e/1FAIpQLSeN7DwOrfmbzJ_NJ7r-Qpu3komeohRhJMtqGQhulPGB8dRSKg/viewform?usp=header"
     }
   },
-  "config": {
+    "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 4,
     "maxViewImageCount": 4,
@@ -200,9 +200,10 @@
     "adBannerInterval": 8,
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
-    "isNewGalleryEnabled": true,
     "androidUpdateType": "immediate",
-    "adsType": "reward"
+    "isNewGalleryEnabled": true,
+    "adsType": "reward",
+    "isVideoCallEnabled":true
   },
   "gallery": [
     {

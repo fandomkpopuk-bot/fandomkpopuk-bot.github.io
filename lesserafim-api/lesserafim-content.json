@@ -136,8 +136,8 @@
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 4,
-    "maxDownloadCount": 5,
     "maxViewImageCount": 4,
+    "maxDownloadCount": 5,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 6,
     "freeAdsSessionVideosRequired": 6,
@@ -149,9 +149,11 @@
     "isMembersEnabled": true,
     "adBannerInterval": 8,
     "isMinigameEnabled": true,
+    "isGalleryEnabled": false,
+    "androidUpdateType": "immediate",
     "isNewGalleryEnabled": true,
-    "androidUpdateType": "un-immediate",
-    "adsType": "reward"
+    "adsType": "reward",
+    "isVideoCallEnabled": true
   },
   "announcement": {
     "id": "idol-app-vote-01",

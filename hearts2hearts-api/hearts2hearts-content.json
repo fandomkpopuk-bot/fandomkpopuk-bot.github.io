@@ -217,7 +217,7 @@
       ]
     }
   ],
-  "config": {
+    "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 4,
     "maxViewImageCount": 4,
@@ -236,7 +236,8 @@
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",
     "isNewGalleryEnabled": true,
-    "adsType": "reward"
+    "adsType": "reward",
+    "isVideoCallEnabled":true
   },
   "gallery": [
     {

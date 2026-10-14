@@ -152,9 +152,10 @@
     "adBannerInterval": 8,
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
-    "isNewGalleryEnabled": true,
     "androidUpdateType": "immediate",
-    "adsType": "reward"
+    "isNewGalleryEnabled": true,
+    "adsType": "reward",
+    "isVideoCallEnabled": true
   },
   "gallery": [
     {
