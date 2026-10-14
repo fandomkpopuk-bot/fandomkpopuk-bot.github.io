@@ -53,6 +53,24 @@
             "position": "Main Vocal • Maknae • BTS",
             "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/jungkook-x-calvin-klein-ckjk-est-2026-collection/1779203123765-4da89n-2.webp",
             "video_url": "https://artetis.my.id/mp4/jungkook.mp4"
+        },
+        {
+            "idol_name": "Felix",
+            "position": "Dancer • Rap • Vocal • Stray Kids",
+            "image_url": "https://fandomkpopuk-bot.github.io/straykids-asset/261007-felix-instagram-update/1791316842034-olcw8h-1.webp",
+            "video_url": "https://artetis.my.id/mp4/felix.mp4"
+        },
+        {
+            "idol_name": "Bang Chan",
+            "position": "Leader • Producer • Vocal • Stray Kids",
+            "image_url": "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-l067oh-3.webp",
+            "video_url": "https://artetis.my.id/mp4/chans.mp4"
+        },
+        {
+            "idol_name": "Hyunjin",
+            "position": "Dancer • Rap • Visual • Stray Kids",
+            "image_url": "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789061130405-1i4mcv-0.webp",
+            "video_url": "https://artetis.my.id/mp4/hyunjin.mp4"
         }
     ]
 }
