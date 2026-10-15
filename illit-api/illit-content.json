@@ -157,7 +157,7 @@
     "maxViewImageCount": 4,
     "maxDownloadCount": 5,
     "extraDownloadSlotPerAd": 1,
-    "freeAdsSessionDurationHours": 6,
+    "freeAdsSessionDurationHours": 8,
     "freeAdsSessionVideosRequired": 6,
     "isDownloadEnabled": true,
     "isLyricsEnabled": true,
