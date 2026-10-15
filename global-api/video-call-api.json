@@ -61,6 +61,18 @@
             "video_url": "https://artetis.my.id/mp4/v.mp4"
         },
         {
+            "idol_name": "RM",
+            "position": "Leader • Main Rapper • BTS",
+            "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798447143-055gyo-1.webp",
+            "video_url": "https://artetis.my.id/mp4/namjoon.mp4"
+        },
+        {
+            "idol_name": "Suga",
+            "position": "Lead Rapper • BTS",
+            "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798492472-isiajf-2.webp",
+            "video_url": "https://artetis.my.id/mp4/suga.mp4"
+        },
+        {
             "idol_name": "Jimin",
             "position": "Lead Vocal • Main Dancer • BTS",
             "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/260722-bts-instagram-update-world-tour-arirang-in-paris/1789999994265-1iqi6p-2.webp",
@@ -77,6 +89,12 @@
             "position": "Leader • Producer • Vocal • Stray Kids",
             "image_url": "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-l067oh-3.webp",
             "video_url": "https://artetis.my.id/mp4/chans.mp4"
+        },
+        {
+            "idol_name": "Lee Know",
+            "position": "Main Dancer • Vocal• Stray Kids",
+            "image_url": "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-yuebtv-7.webp",
+            "video_url": "https://artetis.my.id/mp4/leeknow.mp4"
         },
         {
             "idol_name": "Hyunjin",
