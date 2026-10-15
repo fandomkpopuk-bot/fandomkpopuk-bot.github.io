@@ -196,7 +196,7 @@
     "isSongRequestEnabled": true,
     "isOtherAppsEnabled": true,
     "isNewsEnabled": false,
-    "isMembersEnabled": true,
+    "isMembersEnabled": false,
     "adBannerInterval": 8,
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
