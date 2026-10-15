@@ -55,6 +55,18 @@
             "video_url": "https://artetis.my.id/mp4/jungkook.mp4"
         },
         {
+            "idol_name": "V",
+            "position": "Vocal • BTS",
+            "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/260722-bts-instagram-update-world-tour-arirang-in-paris/1789999994265-vc6ksz-0.webp",
+            "video_url": "https://artetis.my.id/mp4/v.mp4"
+        },
+        {
+            "idol_name": "Jimin",
+            "position": "Lead Vocal • Main Dancer • BTS",
+            "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/260722-bts-instagram-update-world-tour-arirang-in-paris/1789999994265-1iqi6p-2.webp",
+            "video_url": "https://artetis.my.id/mp4/jimin.mp4"
+        },
+        {
             "idol_name": "Felix",
             "position": "Dancer • Rap • Vocal • Stray Kids",
             "image_url": "https://fandomkpopuk-bot.github.io/straykids-asset/261007-felix-instagram-update/1791316842034-olcw8h-1.webp",
