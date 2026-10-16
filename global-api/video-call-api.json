@@ -119,6 +119,36 @@
             "position": "Leader • Vocal • Katseye",
             "image_url": "https://fandomkpopuk-bot.github.io/katseye-asset/260723-katseye-instagram-update/1787522359957-mcph3j-5.webp",
             "video_url": "https://artetis.my.id/mp4/sophia.mp4"
+        },
+        {
+            "idol_name": "Manon",
+            "position": "Vocal • Visual • Katseye",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3dGBeQGmzpPDOrbmNuhHYafc0AN2knhM--B-3Z1cQUA&s=10",
+            "video_url": "https://artetis.my.id/mp4/manon.mp4"
+        },
+        {
+            "idol_name": "Daniela",
+            "position": "Main Vocal • Rap • Katseye",
+            "image_url": "https://fandomkpopuk-bot.github.io/katseye-asset/260919-katseye-sns-update/1790244847096-epnxrw-5.webp",
+            "video_url": "https://artetis.my.id/mp4/daniela.mp4"
+        },
+        {
+            "idol_name": "Lara",
+            "position": "Main Dancer • Vocal • Katseye",
+            "image_url": "https://fandomkpopuk-bot.github.io/katseye-asset/260723-katseye-instagram-update/1787522359957-mcph3j-5.webp",
+            "video_url": "https://artetis.my.id/mp4/lara.mp4"
+        },
+        {
+            "idol_name": "Megan",
+            "position": "Main Dancer • Rap • Katseye",
+            "image_url": "https://fandomkpopuk-bot.github.io/katseye-asset/260919-katseye-sns-update/1790244847096-52n1c7-1.webp",
+            "video_url": "https://artetis.my.id/mp4/mega.mp4"
+        },
+        {
+            "idol_name": "Yoonchae",
+            "position": "Main Dancer • Katseye",
+            "image_url": "https://fandomkpopuk-bot.github.io/katseye-asset/260919-katseye-sns-update/1790244847096-26kc25-3.webp",
+            "video_url": "https://artetis.my.id/mp4/yoonchae.mp4"
         }
     ]
 }
