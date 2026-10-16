@@ -61,6 +61,18 @@
             "video_url": "https://artetis.my.id/mp4/v.mp4"
         },
         {
+            "idol_name": "Jin",
+            "position": "Vocal • Visual • BTS",
+            "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798447143-1bm0ik-5.webp",
+            "video_url": "https://artetis.my.id/mp4/jin.mp4"
+        },
+        {
+            "idol_name": "J-Hope",
+            "position": "Vocal • Visual • BTS",
+            "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798492472-fe3chk-5.webp",
+            "video_url": "https://artetis.my.id/mp4/jhope.mp4"
+        },
+        {
             "idol_name": "RM",
             "position": "Leader • Main Rapper • BTS",
             "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798447143-055gyo-1.webp",
@@ -101,6 +113,12 @@
             "position": "Dancer • Rap • Visual • Stray Kids",
             "image_url": "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789061130405-1i4mcv-0.webp",
             "video_url": "https://artetis.my.id/mp4/hyunjin.mp4"
+        },
+        {
+            "idol_name": "Sophia",
+            "position": "Leader • Vocal • Katseye",
+            "image_url": "https://fandomkpopuk-bot.github.io/katseye-asset/260723-katseye-instagram-update/1787522359957-mcph3j-5.webp",
+            "video_url": "https://artetis.my.id/mp4/shopia.mp4"
         }
     ]
 }
