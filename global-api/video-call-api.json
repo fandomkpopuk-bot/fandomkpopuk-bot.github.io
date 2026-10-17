@@ -149,6 +149,36 @@
             "position": "Main Dancer • Katseye",
             "image_url": "https://fandomkpopuk-bot.github.io/katseye-asset/260919-katseye-sns-update/1790244847096-26kc25-3.webp",
             "video_url": "https://artetis.my.id/mp4/yoonchae.mp4"
+        },
+        {
+            "idol_name": "Jiwoo",
+            "position": "Leader • Vocal • Hearts2Hearts",
+            "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-dzuhjt-8.webp",
+            "video_url": "https://artetis.my.id/mp4/jiwo.mp4"
+        },
+        {
+            "idol_name": "Carmen",
+            "position": "Vocal • Hearts2Hearts",
+            "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-p2mwuk-9.webp",
+            "video_url": "https://artetis.my.id/mp4/carmen.mp4"
+        },
+        {
+            "idol_name": "Juun",
+            "position": "Vocal • Hearts2Hearts",
+            "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-9fy45a-12.webp",
+            "video_url": "https://artetis.my.id/mp4/juun.mp4"
+        },
+        {
+            "idol_name": "Anna",
+            "position": "Vocal • MC • Hearts2Hearts",
+            "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-n90nfc-13.webp",
+            "video_url": "https://artetis.my.id/mp4/anna.mp4"
+        },
+        {
+            "idol_name": "Ian",
+            "position": "Vocal • Mood Maker • Hearts2Hearts",
+            "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-xycdr3-14.webp",
+            "video_url": "https://artetis.my.id/mp4/ian.mp4"
         }
     ]
 }
