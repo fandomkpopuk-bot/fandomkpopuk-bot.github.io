@@ -2010,6 +2010,23 @@
       "youtube_id": "D8WwqWS2E6E",
       "urlMp3": "https://artetis.my.id/mp3/JYPEntertainment-StrayKidsFAM(KoreanVer.)MV.mp3",
       "image": "https://i.ytimg.com/vi/D8WwqWS2E6E/maxresdefault.jpg"
+    },
+    {
+      "title": "ReawakeR",
+      "release_date": "2025-02-20",
+      "album": "-",
+      "artist": "Felix Feat Lisa",
+      "tags": [
+        "felix",
+        "straykids"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "oe4XJ851oOk",
+      "urlMp3": "https://artetis.my.id/mp3/LiSAOfficialYouTube-LiSA『ReawakeR(feat.FelixofStrayKids)』MUSiCCLiP.mp3",
+      "image": "https://i.ytimg.com/vi/oe4XJ851oOk/maxresdefault.jpg"
     }
   ]
 }
