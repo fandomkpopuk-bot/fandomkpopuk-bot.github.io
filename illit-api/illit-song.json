@@ -778,6 +778,33 @@
       "youtube_id": "imnphAoMVL0",
       "urlMp3": "https://artetis.my.id/mp3/ILLIT-밤소풍.mp3",
       "image": "https://i.ytimg.com/vi/imnphAoMVL0/maxresdefault.jpg"
+    },
+    {
+      "title": "POP",
+      "release_date": "2026-10-15",
+      "album": "-",
+      "artist": "ILLIT",
+      "tags": [
+        "illit"
+      ],
+      "latin_lyric": [
+        "Pop, pop",
+        "Pop, pop",
+        "예상못한 flavor on",
+        "Pop, pop",
+        "이미 저기 나타난",
+        "Pop, pop",
+        "Pop, pop",
+        "Pop, pop",
+        "Pop, pop",
+        "Pop, pop"
+      ],
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "twNO10I6yy8",
+      "urlMp3": "https://artetis.my.id/mp3/HYPELABELS-ILLIT(아일릿)'POP'OfficialMV.mp3",
+      "image": "https://i.ytimg.com/vi/twNO10I6yy8/maxresdefault.jpg"
     }
   ]
 }
