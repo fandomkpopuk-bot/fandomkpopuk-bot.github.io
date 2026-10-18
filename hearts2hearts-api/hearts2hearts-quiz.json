@@ -399,6 +399,11 @@
       "score": 50575
     },
     {
+      "name": "Layla",
+      "country": "France",
+      "score": 12925
+    },
+    {
       "name": "Mutiara Azzahra",
       "country": "Indonesia",
       "score": 11075
@@ -407,6 +412,11 @@
       "name": "Nissa",
       "country": "Indonesia",
       "score": 8125
+    },
+    {
+      "name": "NV",
+      "country": "Indonesia",
+      "score": 7950
     },
     {
       "name": "Carmen",
@@ -422,16 +432,6 @@
       "name": "Iki",
       "country": "Indonesia",
       "score": 5900
-    },
-    {
-      "name": "Shaii",
-      "country": "Malaysia",
-      "score": 4600
-    },
-    {
-      "name": "Idk",
-      "country": "Indonesia",
-      "score": 4350
     }
   ],
   "event_list": [
