@@ -181,7 +181,7 @@
       ]
     }
   ],
-   "config": {
+  "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 4,
     "maxViewImageCount": 4,
@@ -201,24 +201,24 @@
     "androidUpdateType": "immediate",
     "isNewGalleryEnabled": true,
     "adsType": "reward",
-    "isVideoCallEnabled":true
+    "isVideoCallEnabled": true
   },
   "announcement": {
-    "id": "idol-app-vote-01",
-    "badge": "🗳️ Fan Vote Live",
-    "title": "Vote: Which Idol Gets Their Own App Next?",
-    "description": "A brand-new fan app is coming, and the fandom gets to decide who it's for. Cast your vote for the idol you want to see with an app of their own — and if it isn't Stray Kids, rally STAY to change the outcome.",
-    "image": "https://npr.brightspotcdn.com/dims4/default/f6b0576/2147483647/strip/true/crop/2121x1414+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F98%2Fc79ec1324ffa8641ff40275b974b%2Fgettyimages-584477082.jpg",
+    "id": "tuide-connect-launch-01",
+    "badge": "🎉 New App Live",
+    "title": "TUIDE CONNECT is Here!",
+    "description": "The official TUIDE fan app has arrived. Download TUIDE CONNECT for real-time updates, music, lyrics, and fan-focused content. Explore more on tuide-stan.",
+    "image": "https://play-lh.googleusercontent.com/uVTsONjSTBh23peca878ZGfeKC2WHkwOJNrg8wgOS2NO70U_I2D9zg4tLaFvcRBHFbYj5xE1-AtaNfumwgvlTA=w240-h480-rw",
     "rewards": [
       {
-        "icon": "trophy-outline",
-        "text": "The winning idol gets a full app, built for their fans"
+        "icon": "download-outline",
+        "text": "Get the official TUIDE app, built for fans"
       }
     ],
     "cta": {
-      "label": "Vote Now",
+      "label": "Download Now",
       "action": "open_url",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeN7DwOrfmbzJ_NJ7r-Qpu3komeohRhJMtqGQhulPGB8dRSKg/viewform?usp=header"
+      "url": "https://play.google.com/store/apps/details?id=com.seventeen.uk"
     }
   },
   "gallery": [
