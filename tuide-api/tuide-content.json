@@ -1,0 +1,244 @@
+{
+  "band_detail": {
+    "logoLine1": "TUIDE",
+    "logoLine2": "STAN",
+    "agencyLabel": "ABD / HYBE LABELS",
+    "verifiedText": "Verified Artist",
+    "name": "TUIDE (튜이드)",
+    "tagline": "TUNE & PLAY • Meet my GRLS",
+    "bio": "7-member girl group under ABD (HYBE LABELS), formerly known as PLEDIS GIRLS. Members Seohee, Seoyeon, Elena, Jia, Saki, Seah and Yi Hani debuted on Aug 24, 2026 with the EP TUNE & PLAY, featuring Meet my GRLS and SUN KISS.",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Aug 24, 2026"
+      },
+      {
+        "label": "Fandom:",
+        "value": "TUIDE STAN",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "ABD / HYBE LABELS"
+      },
+      {
+        "label": "",
+        "value": "TUNE & PLAY Era",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (7)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Seohee",
+        "initials": "SH",
+        "role": "All-Rounder",
+        "unit": "ALL-ROUNDER LINE",
+        "featured": true,
+        "tags": "seohee",
+        "birthDate": "Oct 11, 2006",
+        "birthPlace": "Ssangmun-dong, Dobong-gu, Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Taking pictures",
+          "Fashion",
+          "Home care"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Seoyeon",
+        "initials": "SY",
+        "role": "Vocal",
+        "unit": "VOCAL LINE",
+        "tags": "seoyeon",
+        "birthDate": "Mar 4, 2008",
+        "birthPlace": "Sutaek-dong, Guri, Gyeonggi-do, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Journaling",
+          "Skin and hair care",
+          "Cats"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Elena",
+        "initials": "EL",
+        "role": "Vocalist",
+        "unit": "VOCAL LINE",
+        "tags": "elena",
+        "birthDate": "Apr 11, 2008",
+        "birthPlace": "Baltimore, Maryland, USA",
+        "nationality": "American",
+        "hobbies": [
+          "Shopping",
+          "Singing",
+          "Violin and flute"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Jia",
+        "initials": "JI",
+        "role": "All-Rounder",
+        "unit": "ALL-ROUNDER LINE",
+        "tags": "jia",
+        "birthDate": "Aug 22, 2008",
+        "birthPlace": "Milwaukee, Wisconsin, USA",
+        "nationality": "Korean-American",
+        "hobbies": [
+          "Traveling",
+          "Vintage stuff",
+          "Wellness"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Saki",
+        "initials": "SK",
+        "role": "Dance • Vocal",
+        "unit": "DANCE LINE",
+        "tags": "saki",
+        "birthDate": "Oct 9, 2010",
+        "birthPlace": "Tokyo, Japan",
+        "nationality": "Japanese",
+        "hobbies": [
+          "Fashion",
+          "Digital cameras",
+          "Animals"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Seah",
+        "initials": "SA",
+        "role": "Visual",
+        "unit": "VISUAL LINE",
+        "tags": "seah",
+        "birthDate": "Jan 4, 2011",
+        "birthPlace": "Yangcheon-gu, Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Sleeping",
+          "Makeup",
+          "Shopping"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Yi Hani",
+        "initials": "YH",
+        "role": "Maknae",
+        "unit": "MAKNAE LINE",
+        "tags": "yihani",
+        "birthDate": "Jan 7, 2011",
+        "birthPlace": "Chichester, West Sussex, England",
+        "nationality": "Korean-British",
+        "hobbies": [
+          "Listening to music",
+          "Guitar",
+          "Watching movies"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "tuide-debut-2026",
+      "category": "DEBUT",
+      "cardBadge": "NEW RELEASE",
+      "date": "Aug 24, 2026",
+      "monthLabel": "AUG 2026",
+      "source": "HYBE LABELS / TUIDE Official",
+      "title": "TUIDE Arrive With Meet my GRLS and SUN KISS!",
+      "excerpt": "Bestie-tude meets sun-kissed vocals. Two singles, dance challenges and MV details inside.",
+      "quote": "Meet my girls!",
+      "image": "https://i.ytimg.com/vi/46h0LvDHgIs/maxresdefault.jpg",
+      "body": [
+        "TUIDE have officially arrived with two singles, Meet my GRLS and SUN KISS, released across official channels in August 2026.",
+        "Meet my GRLS introduces the girls' own world and bestie-tude sound, while SUN KISS follows with a pastel sun-kissed vocal concept.",
+        "Both releases arrive with official music videos and dance challenges on HYBE LABELS channels.",
+        "Streaming and download links are open now on all major platforms."
+      ]
+    }
+  ],
+  "announcement": {
+    "id": "idol-app-vote-01",
+    "badge": "🗳️ Fan Vote Live",
+    "title": "Vote: Which Idol Gets Their Own App Next?",
+    "description": "A brand-new fan app is coming, and the fandom gets to decide who it's for. Cast your vote for the idol you want to see with an app of their own — and if it isn't TUIDE, rally fans to change the outcome.",
+    "image": "https://npr.brightspotcdn.com/dims4/default/f6b0576/2147483647/strip/true/crop/2121x1414+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F98%2Fc79ec1324ffa8641ff40275b974b%2Fgettyimages-584477082.jpg",
+    "rewards": [
+      {
+        "icon": "trophy-outline",
+        "text": "The winning idol gets a full app, built for their fans"
+      }
+    ],
+    "cta": {
+      "label": "Vote Now",
+      "action": "open_url",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSeN7DwOrfmbzJ_NJ7r-Qpu3komeohRhJMtqGQhulPGB8dRSKg/viewform?usp=header"
+    }
+  },
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 4,
+    "maxViewImageCount": 4,
+    "maxDownloadCount": 5,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 8,
+    "freeAdsSessionVideosRequired": 6,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": false,
+    "isMembersEnabled": true,
+    "adBannerInterval": 8,
+    "isMinigameEnabled": true,
+    "isGalleryEnabled": false,
+    "androidUpdateType": "immediate",
+    "isNewGalleryEnabled": true,
+    "adsType": "reward",
+    "isVideoCallEnabled": true
+  },
+  "gallery": [
+    {
+      "title": "260930 M2MPD Twitter Update with TUIDE - M2 Film Behind ('SUN KISS' STUDIO CHOOM Original - Group + Unit)",
+      "api_url": "https://kpopping.com/kpics/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335229-l1pdpf-0.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-v4m0np-1.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-ehv8v7-2.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-ya1a2y-3.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-j6xs6p-4.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-5zskht-5.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-u7oedo-6.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-k53nla-7.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-qu9c6t-8.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-tkkras-9.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-9ijaj4-10.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-8d9law-11.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-cz48tt-12.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/260930-m2mpd-twitter-update-with-tuide-m2-film-behind-sun-kiss-studio-choom-original-group-unit/1790867335230-hbyjvr-13.webp"
+      ]
+    },
+    {
+      "title": "261010 Tuide SNS Updates",
+      "api_url": "https://kpopping.com/kpics/261010-tuide-sns-updates",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/tuide-asset/261010-tuide-sns-updates/1791650871297-6dm3eg-0.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/261010-tuide-sns-updates/1791653906610-4nh821-0.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/261010-tuide-sns-updates/1791653906611-el3zup-1.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/261010-tuide-sns-updates/1791653906611-e6n6ul-2.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/261010-tuide-sns-updates/1791653906611-lugzv6-3.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/261010-tuide-sns-updates/1791653906611-maefue-4.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/261010-tuide-sns-updates/1791653906611-hivn2h-5.webp",
+        "https://fandomkpopuk-bot.github.io/tuide-asset/261010-tuide-sns-updates/1791653906611-ia9avc-6.webp"
+      ]
+    }
+  ]
+}

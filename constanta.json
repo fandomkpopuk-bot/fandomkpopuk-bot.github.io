@@ -50,6 +50,11 @@
         "page_redirect": "lesserafim-stan"
     },
     {
+        "app_name": "TUIDE",
+        "api_dir": "tuide-api",
+        "page_redirect": "tuide-stan"
+    },
+    {
         "app_name": "Other",
         "api_dir": "global-api",
         "page_redirect": "other-stan"

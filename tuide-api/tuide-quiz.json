@@ -1,0 +1,155 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "meet-my-grls-01",
+      "youtube_id": "pHciG9_2xXM",
+      "title": "Meet my GRLS,",
+      "clue": "We got one, me and my girls, might be kind of new (Yeah)",
+      "answer": "Switch up the tempo, we do what we gotta do",
+      "options": [
+        "Switch up the tempo, we do what we gotta do",
+        "We got the girls' own world, maybe we can do",
+        "Allyeojulge, this how we bestie-tude",
+        "Me, me, my girls got bestie-tude, meet my girls"
+      ]
+    },
+    {
+      "id": "meet-my-grls-02",
+      "youtube_id": "pHciG9_2xXM",
+      "title": "Meet my GRLS,",
+      "clue": "Meet my girls, the girl's girls, my girls, girls (Say, what?)",
+      "answer": "Girls, girls, girls, girls, girls, girls",
+      "options": [
+        "Girls, girls, girls, girls, girls, girls, meet my girls",
+        "Girls, girls, girls, girls, girls, girls",
+        "Me, me, my girls, yeah, my girls and me",
+        "Just use your sun-kissed voice"
+      ]
+    },
+    {
+      "id": "meet-my-grls-03",
+      "youtube_id": "pHciG9_2xXM",
+      "title": "Meet my GRLS,",
+      "clue": "Me, me, my girls, yeah, my girls and me",
+      "answer": "Me, me, my girls, yeah (We know the vibe without a sound)",
+      "options": [
+        "Me, me, my girls, yeah (We know the vibe without a sound)",
+        "Dreams in our pockets (Yeah), bring up the heat",
+        "Me, me, my girls got bestie-tude, meet my girls",
+        "In your sun-kissed voice"
+      ]
+    },
+    {
+      "id": "meet-my-grls-04",
+      "youtube_id": "pHciG9_2xXM",
+      "title": "Meet my GRLS,",
+      "clue": "Binteum eopsi chaewojineun our scheme (Our scheme)",
+      "answer": "Pyengyeon ttawin dwiro pretty lean (Pretty lean)",
+      "options": [
+        "Nothing by the rules, we making new ones (New ones)",
+        "Pyengyeon ttawin dwiro pretty lean (Pretty lean)",
+        "Tag, tag (Tag, tag), tap, tap (Tap, tap), everything falls in place",
+        "Neukkyeobwa nega gajin verse"
+      ]
+    },
+    {
+      "id": "meet-my-grls-05",
+      "youtube_id": "pHciG9_2xXM",
+      "title": "Meet my GRLS,",
+      "clue": "Squad on the run, yeah, into your view",
+      "answer": "Nothing to prove, yeah (siseoneun locked in as we move, yeah)",
+      "options": [
+        "Nothing to prove, yeah (siseoneun locked in as we move, yeah)",
+        "Dreams in our pockets, bring up the heat (Yeah)",
+        "Ain't got no fear that's bestie-tude, meet my girls",
+        "We got the girls' own world, maybe we can do"
+      ]
+    },
+    {
+      "id": "sun-kiss-01",
+      "youtube_id": "46h0LvDHgIs",
+      "title": "SUN KISS",
+      "clue": "You glow like a sunrise changing hues",
+      "answer": "Seoseohi muldeun pastel view",
+      "options": [
+        "Seoseohi muldeun pastel view",
+        "Taeyang arae jayuroun move, oh",
+        "I can show you what to do with sun-kissed voice",
+        "Switch up the tempo, we do what we gotta do"
+      ]
+    },
+    {
+      "id": "sun-kiss-02",
+      "youtube_id": "46h0LvDHgIs",
+      "title": "SUN KISS",
+      "clue": "I know you want it too, alright",
+      "answer": "Orenjibit seonmyeonghan vibe",
+      "options": [
+        "So just spell your name in bold and bright",
+        "Orenjibit seonmyeonghan vibe",
+        "Simjangi malhaejujana? We know how to fly",
+        "Meet my girls, the girl's girls, my girls, girls (Say, what?)"
+      ]
+    },
+    {
+      "id": "sun-kiss-03",
+      "youtube_id": "46h0LvDHgIs",
+      "title": "SUN KISS",
+      "clue": "Keepin' it sweet, neukkin cheoeumdaero",
+      "answer": "Makin' it yours, maeum ganeun daero",
+      "options": [
+        "Makin' it yours, maeum ganeun daero",
+        "No big show, I feel your intent",
+        "The light inside is burnin' bright",
+        "Pyengyeon ttawin dwiro pretty lean (Pretty lean)"
+      ]
+    },
+    {
+      "id": "sun-kiss-04",
+      "youtube_id": "46h0LvDHgIs",
+      "title": "SUN KISS",
+      "clue": "In your sun-kissed voice",
+      "answer": "Keep it low, low, low",
+      "options": [
+        "Keep it low, low, low",
+        "Just use your sun-kissed voice",
+        "Sun-kissed voice",
+        "Girls, girls, girls, girls, girls, girls"
+      ]
+    },
+    {
+      "id": "sun-kiss-05",
+      "youtube_id": "46h0LvDHgIs",
+      "title": "SUN KISS",
+      "clue": "Nareunhan haetsal han ip beeo mulgo",
+      "answer": "Daeumeun eopseo, baby, keep it poised",
+      "options": [
+        "Daeumeun eopseo, baby, keep it poised",
+        "Mangseorijima",
+        "Just use your sun-kissed voice",
+        "Allyeojulge, this how we bestie-tude"
+      ]
+    }
+  ],
+  "leaderboard": [],
+  "event_list": [
+    {
+      "id": "ev-tuide-photocard-2026",
+      "title": "TUIDE Photocard Set Race: Best Score Wins",
+      "description": "Collect your best score from September to December 2026! The highest best score during the event period will be the winner and take home the TUIDE Photocard Set.",
+      "image": "https://play-lh.googleusercontent.com/zt1ATdMoFMwc4rEarX-7XLIBc1pIdWokrX9talv5ArUNsYaqaoAe7uShyk9rRZJwYooxdvHljkHV-3rcmdqB6A=w480-h960-rw",
+      "prize": "Photocard Set TUIDE",
+      "prize_image": "https://play-lh.googleusercontent.com/zt1ATdMoFMwc4rEarX-7XLIBc1pIdWokrX9talv5ArUNsYaqaoAe7uShyk9rRZJwYooxdvHljkHV-3rcmdqB6A=w480-h960-rw",
+      "start_date": "2026-09-01",
+      "end_date": "2026-12-31",
+      "rules": [
+        "The highest best score during the event period will be the winner",
+        "Unlimited runs during the event period September 1 - December 31, 2026",
+        "Min score 500 to qualify",
+        "One winner per device"
+      ],
+      "min_score": 500
+    }
+  ]
+}
