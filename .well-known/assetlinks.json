@@ -130,5 +130,18 @@
         "D8:5A:C5:35:2C:40:D5:06:91:7D:7B:7E:63:6E:26:95:62:AB:50:01:AD:24:72:52:65:EF:CF:54:7D:DB:9D:68"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.seventeen.uk",
+      "sha256_cert_fingerprints": [
+        "D9:16:55:FE:C3:A6:45:40:CA:FD:39:4B:8C:B2:73:E3:D4:EA:DA:61:6F:1C:36:70:6F:5B:D9:38:CB:F9:9A:C8"
+      ]
+    }
   }
 ]
