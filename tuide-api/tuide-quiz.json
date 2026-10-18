@@ -130,6 +130,526 @@
         "Just use your sun-kissed voice",
         "Allyeojulge, this how we bestie-tude"
       ]
+    },
+    {
+      "id": "abd-01",
+      "youtube_id": "nWXdtLEdvkI",
+      "title": "ABD",
+      "clue": "A-B and skip the C",
+      "answer": "Go straight right next to D",
+      "options": [
+        "Go straight right next to D",
+        "Already been done",
+        "Grab a tee, match a fit, look pretty",
+        "We do it our way, B to D"
+      ]
+    },
+    {
+      "id": "abd-02",
+      "youtube_id": "nWXdtLEdvkI",
+      "title": "ABD",
+      "clue": "시작해볼까? Now we gotta fill the street, yeah",
+      "answer": "우릴 닮은 color, 그건 young and wild and free, yeah",
+      "options": [
+        "스쳐간 history, 상관 없어, A-B-D",
+        "우릴 닮은 color, 그건 young and wild and free, yeah",
+        "우린 그저 앞만 보고 walk away",
+        "A-B-D spell it out like graffiti"
+      ]
+    },
+    {
+      "id": "abd-03",
+      "youtube_id": "nWXdtLEdvkI",
+      "title": "ABD",
+      "clue": "Grab a tee, match a fit, look pretty",
+      "answer": "A-B-D spell it out like graffiti",
+      "options": [
+        "Crop tops and 501s",
+        "We do it our way, B to D",
+        "A-B-D spell it out like graffiti",
+        "That ABD know we gon' work"
+      ]
+    },
+    {
+      "id": "abd-04",
+      "youtube_id": "nWXdtLEdvkI",
+      "title": "ABD",
+      "clue": "어젠 already, 넘겨버려 page three (Yeah)",
+      "answer": "이 다음, 또 다음에 다른걸 난 보고싶어",
+      "options": [
+        "그냥 내키는대로, A-B-D, not A-B-C",
+        "순서가 뭐 중요해, so what comes next?",
+        "Woah, woah",
+        "이 다음, 또 다음에 다른걸 난 보고싶어"
+      ]
+    },
+    {
+      "id": "abd-05",
+      "youtube_id": "nWXdtLEdvkI",
+      "title": "ABD",
+      "clue": "Woah, woah",
+      "answer": "That ABD know we gon' work",
+      "options": [
+        "Let's go",
+        "That ABD know we gon' work",
+        "Yeah, we did that",
+        "Yeah, we ate that"
+      ]
+    },
+    {
+      "id": "echo-01",
+      "youtube_id": "vdIYAimoLVs",
+      "title": "Echo",
+      "clue": "All the voice in the back",
+      "answer": "All the noise in the back",
+      "options": [
+        "All the noise in the back",
+        "I'm lookin' for you alright (Alright)",
+        "Stereo, neon left, nan right (nan right)",
+        "Eenie, miny, moe, I see ya"
+      ]
+    },
+    {
+      "id": "echo-02",
+      "youtube_id": "vdIYAimoLVs",
+      "title": "Echo",
+      "clue": "My girls talkin' like, \"neo waeirae?\"",
+      "answer": "Nado moreuge",
+      "options": [
+        "Nae siseoneun nege meomchwo",
+        "Nado moreuge",
+        "Neon nae favorite (Let's go)",
+        "Echo"
+      ]
+    },
+    {
+      "id": "echo-03",
+      "youtube_id": "vdIYAimoLVs",
+      "title": "Echo",
+      "clue": "I geimeun now or never",
+      "answer": "Al su eomneun me and you",
+      "options": [
+        "But I know that potions due tonight",
+        "Gwaenhi jitgutge moreun cheok, oh",
+        "Al su eomneun me and you",
+        "To you"
+      ]
+    },
+    {
+      "id": "echo-04",
+      "youtube_id": "vdIYAimoLVs",
+      "title": "Echo",
+      "clue": "Lowkey, my heart can't take this (Hey)",
+      "answer": "Jeomjeom ppajyeodeureo save me",
+      "options": [
+        "Spin the bottle, nareul golla",
+        "I geimeun now or never",
+        "Geopdo eopseo this 90's love song cheoreom",
+        "Jeomjeom ppajyeodeureo save me"
+      ]
+    },
+    {
+      "id": "echo-05",
+      "youtube_id": "vdIYAimoLVs",
+      "title": "Echo",
+      "clue": "Voice in the back (Hear me, baby)",
+      "answer": "Noise in the back (Do you hear me? Oh)",
+      "options": [
+        "Noise in the back (Do you hear me? Oh)",
+        "Noise in the back (Do you hear me?)",
+        "Eenie, miny, moe, I see ya",
+        "All the noise in the back"
+      ]
+    },
+    {
+      "id": "flip-flop-girl-01",
+      "youtube_id": "fniLCqL9WOM",
+      "title": "Flip-Flop Girl",
+      "clue": "Tteona weekend (What?), let's kick back (Woah)",
+      "answer": "Gago sipeun goseun eodideunji free pass",
+      "options": [
+        "Gago sipeun goseun eodideunji free pass",
+        "Pyeonhan item gama all day",
+        "I got everything I need, all I want",
+        "Ah-ah-ah"
+      ]
+    },
+    {
+      "id": "flip-flop-girl-02",
+      "youtube_id": "fniLCqL9WOM",
+      "title": "Flip-Flop Girl",
+      "clue": "Blue sky",
+      "answer": "It ain't far away from me",
+      "options": [
+        "In the clouds",
+        "It ain't far away from me",
+        "I do what I want anyway, ah",
+        "Just follow"
+      ]
+    },
+    {
+      "id": "flip-flop-girl-03",
+      "youtube_id": "fniLCqL9WOM",
+      "title": "Flip-Flop Girl",
+      "clue": "Flip-flop girl, in a sunny",
+      "answer": "Young and free, I make it all yummy",
+      "options": [
+        "Sappunhi, sappunhi buneun barameul ttara",
+        "Vibe so good, so good, lovey-dovey",
+        "Young and free, I make it all yummy",
+        "All for me (Oh, oh), all for me (Oh)"
+      ]
+    },
+    {
+      "id": "flip-flop-girl-04",
+      "youtube_id": "fniLCqL9WOM",
+      "title": "Flip-Flop Girl",
+      "clue": "My (Rhythm), oh (Freedom)",
+      "answer": "My nae neukkimdaero",
+      "options": [
+        "My (Feeling), oh (Better)",
+        "My I go with the flow",
+        "Haneureda soneul ppeodeo, hey, what's up?",
+        "My nae neukkimdaero"
+      ]
+    },
+    {
+      "id": "flip-flop-girl-05",
+      "youtube_id": "fniLCqL9WOM",
+      "title": "Flip-Flop Girl",
+      "clue": "Sone V geurimjakkaji that's my pose",
+      "answer": "Gureum wie tempo, I know how to do it",
+      "options": [
+        "Ayy (I love it, love it), yo (Sheesh)",
+        "Gureum wie tempo, I know how to do it",
+        "Gibun joeun rideum wiro walk around (Haha)",
+        "Ollatabwa wind rider, we go high"
+      ]
+    },
+    {
+      "id": "meet-my-grls-06",
+      "youtube_id": "pHciG9_2xXM",
+      "title": "Meet my GRLS,",
+      "clue": "We got the girls' own world, maybe we can do",
+      "answer": "Allyeojulge, this how we bestie-tude",
+      "options": [
+        "Switch up the tempo, we do what we gotta do",
+        "We got the girls' own world, maybe we can do",
+        "Allyeojulge, this how we bestie-tude",
+        "Me, me, my girls got bestie-tude, meet my girls"
+      ]
+    },
+    {
+      "id": "meet-my-grls-07",
+      "youtube_id": "pHciG9_2xXM",
+      "title": "Meet my GRLS,",
+      "clue": "Nothing by the rules, we making new ones (New ones)",
+      "answer": "Tag, tag (Tag, tag), tap, tap (Tap, tap), everything falls in place",
+      "options": [
+        "Pyengyeon ttawin dwiro pretty lean (Pretty lean)",
+        "Tag, tag (Tag, tag), tap, tap (Tap, tap), everything falls in place",
+        "We got the girls' own world, maybe we can do",
+        "Dreams in our pockets (Yeah), bring up the heat"
+      ]
+    },
+    {
+      "id": "meet-my-grls-08",
+      "youtube_id": "pHciG9_2xXM",
+      "title": "Meet my GRLS,",
+      "clue": "Oh, we got the flow (Flow), son swipge neomgyeo (neomgyeo)",
+      "answer": "I gotta do it differently",
+      "options": [
+        "I gotta do it differently",
+        "So, let's go (Go), let's roll (Roll), following the rhythm",
+        "Following the rhythm tonight (Yeah, you heard me)",
+        "Might be kind of new"
+      ]
+    },
+    {
+      "id": "meet-my-grls-09",
+      "youtube_id": "pHciG9_2xXM",
+      "title": "Meet my GRLS,",
+      "clue": "Dreams in our pockets, bring up the heat (Yeah)",
+      "answer": "Ain't got no fear that's bestie-tude, meet my girls",
+      "options": [
+        "Nothing to prove, yeah (siseoneun locked in as we move, yeah)",
+        "Dreams in our pockets, bring up the heat (Yeah)",
+        "We—, we gotta do (We gotta do)",
+        "Ain't got no fear that's bestie-tude, meet my girls"
+      ]
+    },
+    {
+      "id": "meet-my-grls-10",
+      "youtube_id": "pHciG9_2xXM",
+      "title": "Meet my GRLS,",
+      "clue": "(Woo-ooh-ah, ah) Me, me, my girls, yeah",
+      "answer": "My girls and me",
+      "options": [
+        "My girls and me",
+        "(Girls, girls, girls, girls, girls, girls)",
+        "Dreams in our pockets, meet my girls",
+        "Me, me, my girls, yeah, my girls and me"
+      ]
+    },
+    {
+      "id": "sun-kiss-06",
+      "youtube_id": "46h0LvDHgIs",
+      "title": "SUN KISS",
+      "clue": "So just spell your name in bold and bright",
+      "answer": "Simjangi malhaejujana? We know how to fly",
+      "options": [
+        "Orenjibit seonmyeonghan vibe",
+        "Simjangi malhaejujana? We know how to fly",
+        "Taeyang arae jayuroun move, oh",
+        "No big show, I feel your intent"
+      ]
+    },
+    {
+      "id": "sun-kiss-07",
+      "youtube_id": "46h0LvDHgIs",
+      "title": "SUN KISS",
+      "clue": "You talk with rhythm, not with words",
+      "answer": "Neukkyeobwa nega gajin verse",
+      "options": [
+        "Neukkyeobwa nega gajin verse",
+        "Pyeolchyeobwa neomanui move",
+        "Just let your heartbeat set the groove",
+        "The light inside is burnin' bright"
+      ]
+    },
+    {
+      "id": "sun-kiss-08",
+      "youtube_id": "46h0LvDHgIs",
+      "title": "SUN KISS",
+      "clue": "We gon' move like this, and like that (Hold on)",
+      "answer": "Like this, and like that",
+      "options": [
+        "We gon' move it like this (Yeah, yeah), like that (Oh, no)",
+        "Everybody from the front to the back, back",
+        "Like this, and like that",
+        "Kkumeul kkundaedo, sway your way, baby"
+      ]
+    },
+    {
+      "id": "sun-kiss-09",
+      "youtube_id": "46h0LvDHgIs",
+      "title": "SUN KISS",
+      "clue": "Bami ondaedo, dancing in the light, we stay",
+      "answer": "Kkumeul kkundaedo, sway your way, baby",
+      "options": [
+        "Kkumeul kkundaedo, sway your way, baby",
+        "Mangseorijima",
+        "Just use your sun-kissed voice",
+        "Sun-kissed voice"
+      ]
+    },
+    {
+      "id": "sun-kiss-10",
+      "youtube_id": "46h0LvDHgIs",
+      "title": "SUN KISS",
+      "clue": "Mangseorijima",
+      "answer": "Just use your sun-kissed voice",
+      "options": [
+        "Keep it low, low, low",
+        "Daeumeun eopseo, baby, keep it poised",
+        "Just use your sun-kissed voice",
+        "Nareunhan haetsal han ip beeo mulgo"
+      ]
+    },
+    {
+      "id": "abd-06",
+      "youtube_id": "nWXdtLEdvkI",
+      "title": "ABD",
+      "clue": "Go straight right next to D",
+      "answer": "Already been done",
+      "options": [
+        "A-B and skip the C",
+        "Already been done",
+        "A-B-D",
+        "Grab a tee, match a fit, look pretty"
+      ]
+    },
+    {
+      "id": "abd-07",
+      "youtube_id": "nWXdtLEdvkI",
+      "title": "ABD",
+      "clue": "우릴 닮은 color, 그건 young and wild and free, yeah",
+      "answer": "스쳐간 history, 상관 없어, A-B-D",
+      "options": [
+        "스쳐간 history, 상관 없어, A-B-D",
+        "우린 그저 앞만 보고 walk away",
+        "시작해볼까? Now we gotta fill the street, yeah",
+        "A-B-D spell it out like graffiti"
+      ]
+    },
+    {
+      "id": "abd-08",
+      "youtube_id": "nWXdtLEdvkI",
+      "title": "ABD",
+      "clue": "Crop tops and 501s",
+      "answer": "툭 걸쳐 입고서",
+      "options": [
+        "툭 걸쳐 입고서",
+        "We do it our way, B to D",
+        "A-B-D, 새겨 넣어 like graffiti",
+        "That ABD know we gon' work"
+      ]
+    },
+    {
+      "id": "abd-09",
+      "youtube_id": "nWXdtLEdvkI",
+      "title": "ABD",
+      "clue": "We do it our way, B to D",
+      "answer": "A-B-D, 새겨 넣어 like graffiti",
+      "options": [
+        "Crop tops and 501s",
+        "Grab a tee, match a fit, look pretty",
+        "A-B-D, 새겨 넣어 like graffiti",
+        "We do it our way, B to D"
+      ]
+    },
+    {
+      "id": "abd-10",
+      "youtube_id": "nWXdtLEdvkI",
+      "title": "ABD",
+      "clue": "Yeah, we did that",
+      "answer": "Already been done",
+      "options": [
+        "Yeah, we ate that",
+        "A-B-D",
+        "Already been done",
+        "Let's go"
+      ]
+    },
+    {
+      "id": "echo-06",
+      "youtube_id": "vdIYAimoLVs",
+      "title": "Echo",
+      "clue": "All the noise in the back",
+      "answer": "I'm lookin' for you alright (Alright)",
+      "options": [
+        "All the voice in the back",
+        "I'm lookin' for you alright (Alright)",
+        "Stereo, neon left, nan right (nan right)",
+        "Eenie, miny, moe, I see ya"
+      ]
+    },
+    {
+      "id": "echo-07",
+      "youtube_id": "vdIYAimoLVs",
+      "title": "Echo",
+      "clue": "Nae siseoneun nege meomchwo",
+      "answer": "Geopdo eopseo this 90's love song cheoreom",
+      "options": [
+        "Nado moreuge",
+        "Geopdo eopseo this 90's love song cheoreom",
+        "Neon nae favorite (Let's go)",
+        "My girls talkin' like, \"neo waeirae?\""
+      ]
+    },
+    {
+      "id": "echo-08",
+      "youtube_id": "vdIYAimoLVs",
+      "title": "Echo",
+      "clue": "Echo",
+      "answer": "To you",
+      "options": [
+        "To you",
+        "But I know that potions due tonight",
+        "Al su eomneun me and you",
+        "Lowkey, my heart can't take this (Hey)"
+      ]
+    },
+    {
+      "id": "echo-09",
+      "youtube_id": "vdIYAimoLVs",
+      "title": "Echo",
+      "clue": "Jeomjeom ppajyeodeureo save me",
+      "answer": "Spin the bottle, nareul golla",
+      "options": [
+        "Spin the bottle, nareul golla",
+        "I geimeun now or never",
+        "Echo",
+        "Eenie, miny, moe, I see ya"
+      ]
+    },
+    {
+      "id": "echo-10",
+      "youtube_id": "vdIYAimoLVs",
+      "title": "Echo",
+      "clue": "Noise in the back (Do you hear me?)",
+      "answer": "Eenie, miny, moe, I see ya",
+      "options": [
+        "Voice in the back (Hear me, baby)",
+        "Noise in the back (Do you hear me? Oh)",
+        "Eenie, miny, moe, I see ya",
+        "All the noise in the back"
+      ]
+    },
+    {
+      "id": "flip-flop-girl-06",
+      "youtube_id": "fniLCqL9WOM",
+      "title": "Flip-Flop Girl",
+      "clue": "Bureo, hyanggeuthan aepeulpai perfume",
+      "answer": "Majuchineun seollem chaolla nae mam sok like balloon",
+      "options": [
+        "Majuchineun seollem chaolla nae mam sok like balloon",
+        "Pyeonhan item gama all day",
+        "Ah-ah-ah",
+        "Gago sipeun goseun eodideunji free pass"
+      ]
+    },
+    {
+      "id": "flip-flop-girl-07",
+      "youtube_id": "fniLCqL9WOM",
+      "title": "Flip-Flop Girl",
+      "clue": "Vibe so good, so good, lovey-dovey",
+      "answer": "All for me (Oh, oh), all for me (Oh)",
+      "options": [
+        "Sappunhi, sappunhi buneun barameul ttara",
+        "All for me (Oh, oh), all for me (Oh)",
+        "Young and free, I make it all yummy",
+        "Just follow"
+      ]
+    },
+    {
+      "id": "flip-flop-girl-08",
+      "youtube_id": "fniLCqL9WOM",
+      "title": "Flip-Flop Girl",
+      "clue": "Gibun joeun rideum wiro walk around",
+      "answer": "Just follow",
+      "options": [
+        "Just follow",
+        "My (Rhythm), oh (Freedom)",
+        "My nae neukkimdaero",
+        "Blue sky"
+      ]
+    },
+    {
+      "id": "flip-flop-girl-09",
+      "youtube_id": "fniLCqL9WOM",
+      "title": "Flip-Flop Girl",
+      "clue": "Naui motion, good surfer (Oh)",
+      "answer": "Heureumeda matgyeo jayeonseureon posture (Oh)",
+      "options": [
+        "Haneureda soneul ppeodeo, hey, what's up?",
+        "Sallangineun pulcheoreom move my body",
+        "Heureumeda matgyeo jayeonseureon posture (Oh)",
+        "I love jelly beans also vitamins"
+      ]
+    },
+    {
+      "id": "flip-flop-girl-10",
+      "youtube_id": "fniLCqL9WOM",
+      "title": "Flip-Flop Girl",
+      "clue": "My nae neukkimdaero",
+      "answer": "My (Feeling), oh (Better)",
+      "options": [
+        "My (Rhythm), oh (Freedom)",
+        "My nae neukkimdaero",
+        "My I go with the flow",
+        "My (Feeling), oh (Better)"
+      ]
     }
   ],
   "leaderboard": [],
