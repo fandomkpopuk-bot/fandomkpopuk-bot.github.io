@@ -773,7 +773,12 @@
     {
       "name": "Jeoli",
       "country": "India",
-      "score": 14925
+      "score": 68575
+    },
+    {
+      "name": "Blinko",
+      "country": "Pakistan",
+      "score": 2575
     },
     {
       "name": "Jimin",
@@ -796,19 +801,14 @@
       "score": 2125
     },
     {
+      "name": "Saani",
+      "country": "Kuwait",
+      "score": 1800
+    },
+    {
       "name": "SANCHIBHD",
       "country": "Kenya",
       "score": 1725
-    },
-    {
-      "name": "Blinko",
-      "country": "Pakistan",
-      "score": 1625
-    },
-    {
-      "name": "Sanisa",
-      "country": "India",
-      "score": 1600
     }
   ],
   "event_list": [
