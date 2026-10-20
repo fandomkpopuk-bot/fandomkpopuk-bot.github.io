@@ -147,14 +147,14 @@
   },
   "announcement": {
     "id": "a2o-lite-neon-01",
-    "badge": "🎵 Lagu Baru Tersedia",
-    "title": "A2O LITE - NEON Sudah Ada di Aplikasi Ini!",
-    "description": "Kabar gembira! Lagu A2O LITE - NEON sudah ada di aplikasi ini. Buka menu Other Song untuk mendengarkannya sekarang!",
+    "badge": "🎵 New Song Available",
+    "title": "A2O LITE - NEON Is Now in This App!",
+    "description": "Good news! The song A2O LITE - NEON is now available in this app. Open the Other Song menu to listen to it now!",
     "image": "https://i.ytimg.com/vi/D968qfUZMUE/maxresdefault.jpg",
     "rewards": [
       {
         "icon": "musical-notes-outline",
-        "text": "Putar A2O LITE - NEON di Other Song"
+        "text": "Play A2O LITE - NEON in Other Song"
       }
     ],
     "cta": {
