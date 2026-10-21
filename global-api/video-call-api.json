@@ -221,6 +221,18 @@
             "position": "Rap • Vocal • ENHYPEN",
             "image_url": "https://fandomkpopuk-bot.github.io/enhypen-asset/260822-enhypen-bloody-paradise-mv-photo-sketch/1787393218666-inviet-8.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/jay.mp4"
+        },
+        {
+            "idol_name": "San",
+            "position": "Main Dancer • Lead Vocalist • ATEEZ",
+            "image_url": "https://fandomkpopuk-bot.github.io/ateez-asset/ateez-golden-hour-part-6-concept/1791990839472-q9grgn-5.webp",
+            "video_url": "https://artetis.my.id/mp4/cortis-video/san.mp4"
+        },
+        {
+            "idol_name": "Seonghwa",
+            "position": "Vocalist • Performer • Visual • ATEEZ",
+            "image_url": "https://fandomkpopuk-bot.github.io/ateez-asset/ateez-golden-hour-part-6-concept/1791904684340-hquvkl-0.webp",
+            "video_url": "https://artetis.my.id/mp4/cortis-video/seonghwa.mp4"
         }
     ]
 }
