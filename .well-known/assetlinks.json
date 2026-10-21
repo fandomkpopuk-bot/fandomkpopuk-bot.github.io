@@ -143,5 +143,18 @@
         "D9:16:55:FE:C3:A6:45:40:CA:FD:39:4B:8C:B2:73:E3:D4:EA:DA:61:6F:1C:36:70:6F:5B:D9:38:CB:F9:9A:C8"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.eilish.uk",
+      "sha256_cert_fingerprints": [
+        "DD:1E:63:93:3A:3D:D0:2F:23:4B:D4:B3:78:F5:C5:E9:3C:F7:CE:F1:4B:06:2D:A4:78:2F:8B:88:EE:DC:FC:EB"
+      ]
+    }
   }
 ]
