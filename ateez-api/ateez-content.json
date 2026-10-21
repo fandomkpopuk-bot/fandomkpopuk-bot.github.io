@@ -1,0 +1,225 @@
+{
+  "band_detail": {
+    "logoLine1": "ATEEZ",
+    "logoLine2": "ATINY",
+    "agencyLabel": "KQ ENTERTAINMENT",
+    "verifiedText": "Verified Artist",
+    "name": "ATEEZ (에이티즈)",
+    "tagline": "8 MAKES 1 TEAM • GOLDEN HOUR : Part.5",
+    "bio": "8-member boy group under KQ Entertainment, formerly known as KQ Fellaz. Members Hongjoong, Seonghwa, Yunho, Yeosang, San, Mingi, Wooyoung and Jongho debuted on Oct 24, 2018 with the EP Treasure EP.1: All to Zero. Fandom ATINY (ATEEZ + DESTINY). Featured here with BAD from GOLDEN HOUR : Part.5 (Aug 19, 2026).",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Oct 24, 2018"
+      },
+      {
+        "label": "Fandom:",
+        "value": "ATINY",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "KQ ENTERTAINMENT"
+      },
+      {
+        "label": "",
+        "value": "GOLDEN HOUR : Part.5 Era",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (8)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Hongjoong",
+        "initials": "HJ",
+        "role": "Captain • Main Rapper • Vocalist",
+        "unit": "RAP LINE",
+        "featured": true,
+        "tags": "hongjoong",
+        "birthDate": "Nov 7, 1998",
+        "birthPlace": "Anyang, Gyeonggi-do, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Listening to music",
+          "Composing",
+          "Reforming clothes"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Seonghwa",
+        "initials": "SH",
+        "role": "Vocalist • Performer • Visual",
+        "unit": "VOCAL LINE",
+        "tags": "seonghwa",
+        "birthDate": "Apr 3, 1998",
+        "birthPlace": "Jinju, Gyeongnam, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Watching dramas",
+          "Building action figures",
+          "Playing games"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Yunho",
+        "initials": "YH",
+        "role": "Main Dancer • Vocalist",
+        "unit": "DANCE LINE",
+        "tags": "yunho",
+        "birthDate": "Mar 23, 1999",
+        "birthPlace": "Gwangju, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Gaming",
+          "Sports",
+          "Playing with members"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Yeosang",
+        "initials": "YS",
+        "role": "Vocalist • Performer • Visual",
+        "unit": "VOCAL LINE",
+        "tags": "yeosang",
+        "birthDate": "Jun 15, 1999",
+        "birthPlace": "Pohang, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Playing online games",
+          "Eating chicken",
+          "Skateboarding"
+        ],
+        "image": ""
+      },
+      {
+        "name": "San",
+        "initials": "SN",
+        "role": "Main Dancer • Lead Vocalist",
+        "unit": "DANCE LINE",
+        "tags": "san",
+        "birthDate": "Jul 10, 1999",
+        "birthPlace": "Namhae, South Gyeongsang, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Sleeping",
+          "Sports",
+          "Plushies"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Mingi",
+        "initials": "MG",
+        "role": "Main Dancer • Main Rapper",
+        "unit": "RAP LINE",
+        "tags": "mingi",
+        "birthDate": "Aug 9, 1999",
+        "birthPlace": "Incheon, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Sleeping",
+          "Watching anime",
+          "Writing notes"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Wooyoung",
+        "initials": "WY",
+        "role": "Main Dancer • Vocalist",
+        "unit": "DANCE LINE",
+        "tags": "wooyoung",
+        "birthDate": "Nov 26, 1999",
+        "birthPlace": "Ilsan, Gyeonggi-do, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Collecting clothes",
+          "Gaming",
+          "Dancing"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Jongho",
+        "initials": "JH",
+        "role": "Main Vocalist • Maknae",
+        "unit": "VOCAL LINE",
+        "tags": "jongho",
+        "birthDate": "Oct 12, 2000",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Playing pool",
+          "Racing games",
+          "Soccer"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "ateez-bad-golden-hour-5",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Aug 19, 2026",
+      "monthLabel": "AUG 2026",
+      "source": "KQ ENTERTAINMENT / ATEEZ Official",
+      "title": "ATEEZ Drop 'BAD' From GOLDEN HOUR : Part.5!",
+      "excerpt": "Latin-heat title track with Mona Lisa flashes and Cohiba flow. MV and lyrics inside.",
+      "quote": "8 makes 1 team — She's so bad!",
+      "image": "https://i.ytimg.com/vi/3F9jlnANW08/maxresdefault.jpg",
+      "body": [
+        "ATEEZ have officially released 'BAD', the title track from GOLDEN HOUR : Part.5, across official channels on Aug 19, 2026.",
+        "The track blends Latin-pop rhythm with ATEEZ's signature performance energy, backed by a music video and lyric videos on ATEEZ Official channels.",
+        "BAD arrives as part of the GOLDEN HOUR series, following the group's 2018 debut with Treasure EP.1: All to Zero under KQ Entertainment.",
+        "Streaming and download links are open now on all major platforms."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 4,
+    "maxViewImageCount": 4,
+    "maxDownloadCount": 5,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 8,
+    "freeAdsSessionVideosRequired": 6,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": false,
+    "isMembersEnabled": true,
+    "adBannerInterval": 8,
+    "isMinigameEnabled": true,
+    "isGalleryEnabled": false,
+    "androidUpdateType": "immediate",
+    "isNewGalleryEnabled": true,
+    "adsType": "reward",
+    "isVideoCallEnabled": true
+  },
+  "announcement": {
+    "id": "ateez-bad-01",
+    "badge": "🎵 New Song Available",
+    "title": "ATEEZ - BAD Is Now in This App!",
+    "description": "Good news! The song ATEEZ - BAD is now available in this app. Open the Music Library menu to listen to it now!",
+    "image": "https://i.ytimg.com/vi/3F9jlnANW08/maxresdefault.jpg",
+    "rewards": [
+      {
+        "icon": "musical-notes-outline",
+        "text": "Play ATEEZ - BAD in Music Library"
+      }
+    ],
+    "cta": {
+      "label": "Open Music Library",
+      "action": "open_page",
+      "page": "Library"
+    }
+  },
+  "gallery": []
+}

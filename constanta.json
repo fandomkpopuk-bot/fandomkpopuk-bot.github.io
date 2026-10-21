@@ -55,6 +55,11 @@
         "page_redirect": "tuide-stan"
     },
     {
+        "app_name": "ATEEZ",
+        "api_dir": "ateez-api",
+        "page_redirect": "ateez-stan"
+    },
+    {
         "app_name": "Other",
         "api_dir": "global-api",
         "page_redirect": "other-stan"

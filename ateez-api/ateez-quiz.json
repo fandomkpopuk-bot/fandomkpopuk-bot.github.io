@@ -1,0 +1,1195 @@
+{
+  "quiz_version": 1,
+  "quiz_list": [
+    {
+      "id": "bad-01",
+      "youtube_id": "3F9jlnANW08",
+      "title": "BAD",
+      "clue": "Your name stuck on my tongue",
+      "answer": "No words but say too much",
+      "options": [
+        "No words but say too much",
+        "Every time I wanna go and get gone",
+        "You stop me with one touch",
+        "Eojireowo neoui geu miso"
+      ]
+    },
+    {
+      "id": "bad-02",
+      "youtube_id": "3F9jlnANW08",
+      "title": "BAD",
+      "clue": "Every time I wanna go and get gone",
+      "answer": "You stop me with one touch",
+      "options": [
+        "You stop me with one touch",
+        "Your name stuck on my tongue",
+        "No words but say too much",
+        "Eojireowo neoui geu miso"
+      ]
+    },
+    {
+      "id": "bad-03",
+      "youtube_id": "3F9jlnANW08",
+      "title": "BAD",
+      "clue": "Eojireowo neoui geu miso",
+      "answer": "Nuni meoreo, stuck in your halo",
+      "options": [
+        "Nuni meoreo, stuck in your halo",
+        "Your name stuck on my tongue",
+        "No words but say too much",
+        "Every time I wanna go and get gone"
+      ]
+    },
+    {
+      "id": "bad-04",
+      "youtube_id": "3F9jlnANW08",
+      "title": "BAD",
+      "clue": "Ppajyeobeoryeo nan ije poro",
+      "answer": "I feel like if we go Latina like, like",
+      "options": [
+        "I feel like if we go Latina like, like",
+        "Your name stuck on my tongue",
+        "No words but say too much",
+        "Every time I wanna go and get gone"
+      ]
+    },
+    {
+      "id": "bad-05",
+      "youtube_id": "3F9jlnANW08",
+      "title": "BAD",
+      "clue": "Curves along her body",
+      "answer": "Got the people calling it Photoshop",
+      "options": [
+        "Got the people calling it Photoshop",
+        "Your name stuck on my tongue",
+        "No words but say too much",
+        "Every time I wanna go and get gone"
+      ]
+    },
+    {
+      "id": "bad-06",
+      "youtube_id": "3F9jlnANW08",
+      "title": "BAD",
+      "clue": "She'll be going places",
+      "answer": "Wake up in Vegas, nah, she don't stop",
+      "options": [
+        "Wake up in Vegas, nah, she don't stop",
+        "Your name stuck on my tongue",
+        "No words but say too much",
+        "Every time I wanna go and get gone"
+      ]
+    },
+    {
+      "id": "bad-07",
+      "youtube_id": "3F9jlnANW08",
+      "title": "BAD",
+      "clue": "Hollyeonne mak adeukae",
+      "answer": "Nado molla eotteokae",
+      "options": [
+        "Nado molla eotteokae",
+        "Your name stuck on my tongue",
+        "No words but say too much",
+        "Every time I wanna go and get gone"
+      ]
+    },
+    {
+      "id": "bad-08",
+      "youtube_id": "3F9jlnANW08",
+      "title": "BAD",
+      "clue": "Nege ppajyeo heoujeokdae",
+      "answer": "Heoujeokdae heoujeokdae",
+      "options": [
+        "Heoujeokdae heoujeokdae",
+        "Your name stuck on my tongue",
+        "No words but say too much",
+        "Every time I wanna go and get gone"
+      ]
+    },
+    {
+      "id": "bad-09",
+      "youtube_id": "3F9jlnANW08",
+      "title": "BAD",
+      "clue": "She's so bad, bad, bad, bad, bad, bad, bad (Ooh, wee)",
+      "answer": "She's so bad (Chk-chk-chk-cha), ayy (Run it all night solo)",
+      "options": [
+        "She's so bad (Chk-chk-chk-cha), ayy (Run it all night solo)",
+        "Your name stuck on my tongue",
+        "No words but say too much",
+        "Every time I wanna go and get gone"
+      ]
+    },
+    {
+      "id": "bad-10",
+      "youtube_id": "3F9jlnANW08",
+      "title": "BAD",
+      "clue": "Bad, bad, bad, bad, bad, bad, bad (Ooh, wee)",
+      "answer": "She's so bad (Chk-cha, chk-cha), yeah (Run it all night solo)",
+      "options": [
+        "She's so bad (Chk-cha, chk-cha), yeah (Run it all night solo)",
+        "Your name stuck on my tongue",
+        "No words but say too much",
+        "Every time I wanna go and get gone"
+      ]
+    },
+    {
+      "id": "ghost-01",
+      "youtube_id": "qDpEcO1hlZE",
+      "title": "Ghost",
+      "clue": "Sumeul chama gamyeon dwie sumeo",
+      "answer": "Buseojil deut aseulhan iseongeul aesseo nulleo Uh",
+      "options": [
+        "Buseojil deut aseulhan iseongeul aesseo nulleo Uh",
+        "Deouk himkkeot chama ne jinsimeul nan ara",
+        "Gho-Gho-Ghost",
+        "Don't say it out ne gwie soksagiji"
+      ]
+    },
+    {
+      "id": "ghost-02",
+      "youtube_id": "qDpEcO1hlZE",
+      "title": "Ghost",
+      "clue": "Deouk himkkeot chama ne jinsimeul nan ara",
+      "answer": "Kkaemun ipsul geu sairo saeeo nawa Drama",
+      "options": [
+        "Kkaemun ipsul geu sairo saeeo nawa Drama",
+        "Sumeul chama gamyeon dwie sumeo",
+        "Gho-Gho-Ghost",
+        "Don't say it out ne gwie soksagiji"
+      ]
+    },
+    {
+      "id": "ghost-03",
+      "youtube_id": "qDpEcO1hlZE",
+      "title": "Ghost",
+      "clue": "Neukkiji Every night ulliji Deep inside",
+      "answer": "Sumi gappajin chae jameseo kkaeji neon",
+      "options": [
+        "Sumi gappajin chae jameseo kkaeji neon",
+        "Sumeul chama gamyeon dwie sumeo",
+        "Gho-Gho-Ghost",
+        "Doedolligien imi neujeobeoryeotji"
+      ]
+    },
+    {
+      "id": "ghost-04",
+      "youtube_id": "qDpEcO1hlZE",
+      "title": "Ghost",
+      "clue": "Neoui muuisigi bureuji Calling me",
+      "answer": "Amuri meomchuryeo haedo heulleogaji machi Timer",
+      "options": [
+        "Amuri meomchuryeo haedo heulleogaji machi Timer",
+        "Sumeul chama gamyeon dwie sumeo",
+        "Gho-Gho-Ghost",
+        "Doedolligien imi neujeobeoryeotji"
+      ]
+    },
+    {
+      "id": "ghost-05",
+      "youtube_id": "qDpEcO1hlZE",
+      "title": "Ghost",
+      "clue": "There's no way out gyeonggohaneun mesiji",
+      "answer": "Don't say it out ne gwie soksagiji",
+      "options": [
+        "Don't say it out ne gwie soksagiji",
+        "Sumeul chama gamyeon dwie sumeo",
+        "Gho-Gho-Ghost",
+        "Know you want it more, more than me"
+      ]
+    },
+    {
+      "id": "ghost-06",
+      "youtube_id": "qDpEcO1hlZE",
+      "title": "Ghost",
+      "clue": "Doedolligien imi neujeobeoryeotji",
+      "answer": "Know you want it more, more than me",
+      "options": [
+        "Know you want it more, more than me",
+        "Sumeul chama gamyeon dwie sumeo",
+        "Gho-Gho-Ghost",
+        "Don't say it out ne gwie soksagiji"
+      ]
+    },
+    {
+      "id": "ghost-07",
+      "youtube_id": "qDpEcO1hlZE",
+      "title": "Ghost",
+      "clue": "Now you see that I'm a Ghost",
+      "answer": "When the lights get low",
+      "options": [
+        "When the lights get low",
+        "Sumeul chama gamyeon dwie sumeo",
+        "Gho-Gho-Ghost",
+        "Don't say it out ne gwie soksagiji"
+      ]
+    },
+    {
+      "id": "ghost-08",
+      "youtube_id": "qDpEcO1hlZE",
+      "title": "Ghost",
+      "clue": "Ne jinsimui kkeuneul pureo",
+      "answer": "Now you see it in your soul",
+      "options": [
+        "Now you see it in your soul",
+        "Sumeul chama gamyeon dwie sumeo",
+        "Gho-Gho-Ghost",
+        "Don't say it out ne gwie soksagiji"
+      ]
+    },
+    {
+      "id": "ghost-09",
+      "youtube_id": "qDpEcO1hlZE",
+      "title": "Ghost",
+      "clue": "When I get so close",
+      "answer": "Gamchongman saegigo ga",
+      "options": [
+        "Gamchongman saegigo ga",
+        "Sumeul chama gamyeon dwie sumeo",
+        "Gho-Gho-Ghost",
+        "Don't say it out ne gwie soksagiji"
+      ]
+    },
+    {
+      "id": "ghost-10",
+      "youtube_id": "qDpEcO1hlZE",
+      "title": "Ghost",
+      "clue": "Now you see that",
+      "answer": "I'm a Gho-Gho-Ghost",
+      "options": [
+        "I'm a Gho-Gho-Ghost",
+        "Sumeul chama gamyeon dwie sumeo",
+        "Gho-Gho-Ghost",
+        "Don't say it out ne gwie soksagiji"
+      ]
+    },
+    {
+      "id": "adrenaline-01",
+      "youtube_id": "3441HgQwUs4",
+      "title": "Adrenaline",
+      "clue": "Pull up the bass",
+      "answer": "Up all the way",
+      "options": [
+        "Up all the way",
+        "You know my taste",
+        "Buzzin' up my neck, pumpin' adrenaline (Let's go)",
+        "I can feel it go, flushin' through my veins"
+      ]
+    },
+    {
+      "id": "adrenaline-02",
+      "youtube_id": "3441HgQwUs4",
+      "title": "Adrenaline",
+      "clue": "You know my taste",
+      "answer": "Move outta way",
+      "options": [
+        "Move outta way",
+        "Pull up the bass",
+        "Buzzin' up my neck, pumpin' adrenaline (Let's go)",
+        "I can feel it go, flushin' through my veins"
+      ]
+    },
+    {
+      "id": "adrenaline-03",
+      "youtube_id": "3441HgQwUs4",
+      "title": "Adrenaline",
+      "clue": "I'm ready, dopamineun choegochi",
+      "answer": "Han beon dolmyeon gyang straight, no therapy",
+      "options": [
+        "Han beon dolmyeon gyang straight, no therapy",
+        "Pull up the bass",
+        "Buzzin' up my neck, pumpin' adrenaline (Let's go)",
+        "I can feel it go, flushin' through my veins"
+      ]
+    },
+    {
+      "id": "adrenaline-04",
+      "youtube_id": "3441HgQwUs4",
+      "title": "Adrenaline",
+      "clue": "Zero-baek bakchago nawa garage",
+      "answer": "Uri jonjae jachero injeung guarantee, yeah, yeah",
+      "options": [
+        "Uri jonjae jachero injeung guarantee, yeah, yeah",
+        "Pull up the bass",
+        "Buzzin' up my neck, pumpin' adrenaline (Let's go)",
+        "I can feel it go, flushin' through my veins"
+      ]
+    },
+    {
+      "id": "adrenaline-05",
+      "youtube_id": "3441HgQwUs4",
+      "title": "Adrenaline",
+      "clue": "An tteoreojyeo, gauge (Oh, gauge)",
+      "answer": "Full chungjeon max (Full max)",
+      "options": [
+        "Full chungjeon max (Full max)",
+        "Pull up the bass",
+        "Buzzin' up my neck, pumpin' adrenaline (Let's go)",
+        "I can feel it go, flushin' through my veins"
+      ]
+    },
+    {
+      "id": "adrenaline-06",
+      "youtube_id": "3441HgQwUs4",
+      "title": "Adrenaline",
+      "clue": "Hardcorehae yeogi bangsik",
+      "answer": "No limit, no gimmick, go get it all day",
+      "options": [
+        "No limit, no gimmick, go get it all day",
+        "Pull up the bass",
+        "Buzzin' up my neck, pumpin' adrenaline (Let's go)",
+        "I can feel it go, flushin' through my veins"
+      ]
+    },
+    {
+      "id": "adrenaline-07",
+      "youtube_id": "3441HgQwUs4",
+      "title": "Adrenaline",
+      "clue": "Out of control",
+      "answer": "Deo michyeogane speakers goin' crazy",
+      "options": [
+        "Deo michyeogane speakers goin' crazy",
+        "Pull up the bass",
+        "Buzzin' up my neck, pumpin' adrenaline (Let's go)",
+        "I can feel it go, flushin' through my veins"
+      ]
+    },
+    {
+      "id": "adrenaline-08",
+      "youtube_id": "3441HgQwUs4",
+      "title": "Adrenaline",
+      "clue": "Out of control",
+      "answer": "Rocket's 'bout to blow, you better tighten up",
+      "options": [
+        "Rocket's 'bout to blow, you better tighten up",
+        "Pull up the bass",
+        "Buzzin' up my neck, pumpin' adrenaline (Let's go)",
+        "I can feel it go, flushin' through my veins"
+      ]
+    },
+    {
+      "id": "adrenaline-09",
+      "youtube_id": "3441HgQwUs4",
+      "title": "Adrenaline",
+      "clue": "Onmomeul jeoksin",
+      "answer": "Ttami heureuge",
+      "options": [
+        "Ttami heureuge",
+        "Pull up the bass",
+        "Buzzin' up my neck, pumpin' adrenaline (Let's go)",
+        "I can feel it go, flushin' through my veins"
+      ]
+    },
+    {
+      "id": "adrenaline-10",
+      "youtube_id": "3441HgQwUs4",
+      "title": "Adrenaline",
+      "clue": "Turn up the heat",
+      "answer": "Breakin' the peaks and we're on repeat",
+      "options": [
+        "Breakin' the peaks and we're on repeat",
+        "Pull up the bass",
+        "Buzzin' up my neck, pumpin' adrenaline (Let's go)",
+        "I can feel it go, flushin' through my veins"
+      ]
+    },
+    {
+      "id": "nasa-01",
+      "youtube_id": "YiDWK3z9Gz0",
+      "title": "NASA",
+      "clue": "Naeryeonwa jangbineun tuk, watjana, eyes on me, look",
+      "answer": "Goreuji oneurui loop, boyeojwo, call me Houdini, hollyeobeoriji nan mind",
+      "options": [
+        "Goreuji oneurui loop, boyeojwo, call me Houdini, hollyeobeoriji nan mind",
+        "I ain't never stop, sweep it all up, mak sseureo dama cost, go",
+        "Eyes on the ball, no pasta, rooting for my fall, yeah, I catch that (Who's that?)",
+        "It's 'til I rest in peace"
+      ]
+    },
+    {
+      "id": "nasa-02",
+      "youtube_id": "YiDWK3z9Gz0",
+      "title": "NASA",
+      "clue": "I ain't never stop, sweep it all up, mak sseureo dama cost, go",
+      "answer": "Michige, woah, aljana, gyesok jjigeonae mak barcode",
+      "options": [
+        "Michige, woah, aljana, gyesok jjigeonae mak barcode",
+        "Naeryeonwa jangbineun tuk, watjana, eyes on me, look",
+        "Eyes on the ball, no pasta, rooting for my fall, yeah, I catch that (Who's that?)",
+        "It's 'til I rest in peace"
+      ]
+    },
+    {
+      "id": "nasa-03",
+      "youtube_id": "YiDWK3z9Gz0",
+      "title": "NASA",
+      "clue": "Chaenggyeonwa bring my things, an bada, hotline bling",
+      "answer": "Jungnyeo, all 'em hits, mukkeo, all 'em bands, I'ma—",
+      "options": [
+        "Jungnyeo, all 'em hits, mukkeo, all 'em bands, I'ma—",
+        "Naeryeonwa jangbineun tuk, watjana, eyes on me, look",
+        "Eyes on the ball, no pasta, rooting for my fall, yeah, I catch that (Who's that?)",
+        "It's 'til I rest in peace"
+      ]
+    },
+    {
+      "id": "nasa-04",
+      "youtube_id": "YiDWK3z9Gz0",
+      "title": "NASA",
+      "clue": "808's so deep, they gon' fracture ribs",
+      "answer": "Geu wie eonjeo meat, yorihae, special meal",
+      "options": [
+        "Geu wie eonjeo meat, yorihae, special meal",
+        "Naeryeonwa jangbineun tuk, watjana, eyes on me, look",
+        "Eyes on the ball, no pasta, rooting for my fall, yeah, I catch that (Who's that?)",
+        "It's 'til I rest in peace"
+      ]
+    },
+    {
+      "id": "nasa-05",
+      "youtube_id": "YiDWK3z9Gz0",
+      "title": "NASA",
+      "clue": "Baeteo nan gold and silver",
+      "answer": "Mandeureo, masterpiece",
+      "options": [
+        "Mandeureo, masterpiece",
+        "Naeryeonwa jangbineun tuk, watjana, eyes on me, look",
+        "Eyes on the ball, no pasta, rooting for my fall, yeah, I catch that (Who's that?)",
+        "Turn up"
+      ]
+    },
+    {
+      "id": "nasa-06",
+      "youtube_id": "YiDWK3z9Gz0",
+      "title": "NASA",
+      "clue": "Gachineun an byeonhaji",
+      "answer": "It's 'til I rest in peace",
+      "options": [
+        "It's 'til I rest in peace",
+        "Naeryeonwa jangbineun tuk, watjana, eyes on me, look",
+        "Eyes on the ball, no pasta, rooting for my fall, yeah, I catch that (Who's that?)",
+        "Turn up"
+      ]
+    },
+    {
+      "id": "nasa-07",
+      "youtube_id": "YiDWK3z9Gz0",
+      "title": "NASA",
+      "clue": "Turn up",
+      "answer": "I fly, so higher than the sky",
+      "options": [
+        "I fly, so higher than the sky",
+        "Naeryeonwa jangbineun tuk, watjana, eyes on me, look",
+        "Eyes on the ball, no pasta, rooting for my fall, yeah, I catch that (Who's that?)",
+        "Gachineun an byeonhaji"
+      ]
+    },
+    {
+      "id": "nasa-08",
+      "youtube_id": "YiDWK3z9Gz0",
+      "title": "NASA",
+      "clue": "We go",
+      "answer": "Jeo ujukkaji olla, going up",
+      "options": [
+        "Jeo ujukkaji olla, going up",
+        "Naeryeonwa jangbineun tuk, watjana, eyes on me, look",
+        "Eyes on the ball, no pasta, rooting for my fall, yeah, I catch that (Who's that?)",
+        "Gachineun an byeonhaji"
+      ]
+    },
+    {
+      "id": "nasa-09",
+      "youtube_id": "YiDWK3z9Gz0",
+      "title": "NASA",
+      "clue": "Shoot for the stars like NASA, always going up like my stack",
+      "answer": "Ready on your mark, go faster, shoot for the stars like NASA",
+      "options": [
+        "Ready on your mark, go faster, shoot for the stars like NASA",
+        "Naeryeonwa jangbineun tuk, watjana, eyes on me, look",
+        "We go",
+        "Mandeureo, masterpiece"
+      ]
+    },
+    {
+      "id": "nasa-10",
+      "youtube_id": "YiDWK3z9Gz0",
+      "title": "NASA",
+      "clue": "Eyes on the ball, no pasta, rooting for my fall, yeah, I catch that (Who's that?)",
+      "answer": "Dough going up like a half stack",
+      "options": [
+        "Dough going up like a half stack",
+        "Naeryeonwa jangbineun tuk, watjana, eyes on me, look",
+        "Shoot for the stars like NASA, always going up like my stack",
+        "Gachineun an byeonhaji"
+      ]
+    },
+    {
+      "id": "on-the-road-01",
+      "youtube_id": "uYmTzfKmISQ",
+      "title": "On The Road",
+      "clue": "Kkeojyeogane modeun ge aryeonhan binmajeo yeoteojigo",
+      "answer": "Chagawojin i girui georeowatdeon dwireul dorabone",
+      "options": [
+        "Chagawojin i girui georeowatdeon dwireul dorabone",
+        "Ah natseoreotdeon siseone jichyeo",
+        "Meomchul jul mollatdeon sigan ganeun jul mollatdeon",
+        "Oneul urin chumeul chwo Run away tomorrow"
+      ]
+    },
+    {
+      "id": "on-the-road-02",
+      "youtube_id": "uYmTzfKmISQ",
+      "title": "On The Road",
+      "clue": "Ah natseoreotdeon siseone jichyeo",
+      "answer": "Ah, this might be the last for us but",
+      "options": [
+        "Ah, this might be the last for us but",
+        "Kkeojyeogane modeun ge aryeonhan binmajeo yeoteojigo",
+        "Meomchul jul mollatdeon sigan ganeun jul mollatdeon",
+        "Oneul urin chumeul chwo Run away tomorrow"
+      ]
+    },
+    {
+      "id": "on-the-road-03",
+      "youtube_id": "uYmTzfKmISQ",
+      "title": "On The Road",
+      "clue": "Can't stay behind dasi sijagin geotcheoreom",
+      "answer": "We live our lives, 'cause I'mma go down this road tonight",
+      "options": [
+        "We live our lives, 'cause I'mma go down this road tonight",
+        "Kkeojyeogane modeun ge aryeonhan binmajeo yeoteojigo",
+        "Sumaneun siseon sok urireul saegyeonae",
+        "Keep going on no time to waste"
+      ]
+    },
+    {
+      "id": "on-the-road-04",
+      "youtube_id": "uYmTzfKmISQ",
+      "title": "On The Road",
+      "clue": "Go left, go right",
+      "answer": "I'mma go down this road tonight",
+      "options": [
+        "I'mma go down this road tonight",
+        "Kkeojyeogane modeun ge aryeonhan binmajeo yeoteojigo",
+        "Sumaneun siseon sok urireul saegyeonae",
+        "Oneul urin chumeul chwo Run away tomorrow"
+      ]
+    },
+    {
+      "id": "on-the-road-05",
+      "youtube_id": "uYmTzfKmISQ",
+      "title": "On The Road",
+      "clue": "That's right, it's time",
+      "answer": "'Cause, nothing won't make me change my mind",
+      "options": [
+        "'Cause, nothing won't make me change my mind",
+        "Kkeojyeogane modeun ge aryeonhan binmajeo yeoteojigo",
+        "Sumaneun siseon sok urireul saegyeonae",
+        "Jeo bicheul ttaraseo I'm heading for tonight"
+      ]
+    },
+    {
+      "id": "on-the-road-06",
+      "youtube_id": "uYmTzfKmISQ",
+      "title": "On The Road",
+      "clue": "Oh-oh-oh, oh-oh-oh, oh-oh-oh",
+      "answer": "Yeah, we're goin' down this road tonight",
+      "options": [
+        "Yeah, we're goin' down this road tonight",
+        "Kkeojyeogane modeun ge aryeonhan binmajeo yeoteojigo",
+        "Sumaneun siseon sok urireul saegyeonae",
+        "Oneul urin chumeul chwo Run away tomorrow"
+      ]
+    },
+    {
+      "id": "on-the-road-07",
+      "youtube_id": "uYmTzfKmISQ",
+      "title": "On The Road",
+      "clue": "Urineun gieokaji geu bameul nune maechin geu haneul",
+      "answer": "Da damgo chamawasseo jigeum i sunganeul wihaeseo",
+      "options": [
+        "Da damgo chamawasseo jigeum i sunganeul wihaeseo",
+        "Kkeojyeogane modeun ge aryeonhan binmajeo yeoteojigo",
+        "Meomchul jul mollatdeon sigan ganeun jul mollatdeon",
+        "Oneul urin chumeul chwo Run away tomorrow"
+      ]
+    },
+    {
+      "id": "on-the-road-08",
+      "youtube_id": "uYmTzfKmISQ",
+      "title": "On The Road",
+      "clue": "Nunmulboda ttameuro jeoksin i apeun yeojeongeul hamkkehan",
+      "answer": "Urineun jigeum binnaneun jungiya",
+      "options": [
+        "Urineun jigeum binnaneun jungiya",
+        "Kkeojyeogane modeun ge aryeonhan binmajeo yeoteojigo",
+        "Meomchul jul mollatdeon sigan ganeun jul mollatdeon",
+        "Oneul urin chumeul chwo Run away tomorrow"
+      ]
+    },
+    {
+      "id": "on-the-road-09",
+      "youtube_id": "uYmTzfKmISQ",
+      "title": "On The Road",
+      "clue": "Muhanhi sewojin 8eun an byeonhae",
+      "answer": "Jeoldae sseureojiji anneundago jeonhae",
+      "options": [
+        "Jeoldae sseureojiji anneundago jeonhae",
+        "Kkeojyeogane modeun ge aryeonhan binmajeo yeoteojigo",
+        "Meomchul jul mollatdeon sigan ganeun jul mollatdeon",
+        "Oneul urin chumeul chwo Run away tomorrow"
+      ]
+    },
+    {
+      "id": "on-the-road-10",
+      "youtube_id": "uYmTzfKmISQ",
+      "title": "On The Road",
+      "clue": "Mideumi namgin jaguk gil wireul georeumyeo",
+      "answer": "Sumaneun siseon sok urireul saegyeonae",
+      "options": [
+        "Sumaneun siseon sok urireul saegyeonae",
+        "Kkeojyeogane modeun ge aryeonhan binmajeo yeoteojigo",
+        "Meomchul jul mollatdeon sigan ganeun jul mollatdeon",
+        "Oneul urin chumeul chwo Run away tomorrow"
+      ]
+    },
+    {
+      "id": "mamacita-01",
+      "youtube_id": "RxbifXSRwrw",
+      "title": "MAMACITA",
+      "clue": "Hey, Mamacita, got me excited",
+      "answer": "My señorita burns like tequila",
+      "options": [
+        "My señorita burns like tequila",
+        "(One, two, three, four)",
+        "Fiesta bonita",
+        "Ven aquí, bella, ven aquí, bella"
+      ]
+    },
+    {
+      "id": "mamacita-02",
+      "youtube_id": "RxbifXSRwrw",
+      "title": "MAMACITA",
+      "clue": "(One, two, three, four)",
+      "answer": "Hey, Mamacita, got me excited (Got me excited)",
+      "options": [
+        "Hey, Mamacita, got me excited (Got me excited)",
+        "Hey, Mamacita, got me excited",
+        "Oh, bappi burinake",
+        "Ven aquí, bella, ven aquí, bella"
+      ]
+    },
+    {
+      "id": "mamacita-03",
+      "youtube_id": "RxbifXSRwrw",
+      "title": "MAMACITA",
+      "clue": "Can't wait to see ya, dale, ven pa' cá",
+      "answer": "My señorita burns like tequila (Oh)",
+      "options": [
+        "My señorita burns like tequila (Oh)",
+        "Hey, Mamacita, got me excited",
+        "Oh, bappi burinake",
+        "Ven aquí, bella, ven aquí, bella"
+      ]
+    },
+    {
+      "id": "mamacita-04",
+      "youtube_id": "RxbifXSRwrw",
+      "title": "MAMACITA",
+      "clue": "Ven aquí, bella, ven aquí, bella",
+      "answer": "Yeah, nuneul mot tte neoui deungjang han beone",
+      "options": [
+        "Yeah, nuneul mot tte neoui deungjang han beone",
+        "Hey, Mamacita, got me excited",
+        "Chugo sipeo bameul saenikkan",
+        "My señorita burns like tequila"
+      ]
+    },
+    {
+      "id": "mamacita-05",
+      "youtube_id": "RxbifXSRwrw",
+      "title": "MAMACITA",
+      "clue": "Yeah, tac-tac, georeume kkwak chan han jane",
+      "answer": "Janeul deun sungan B-E-A-utiful tragedy",
+      "options": [
+        "Janeul deun sungan B-E-A-utiful tragedy",
+        "Hey, Mamacita, got me excited",
+        "Oh, bappi burinake",
+        "Ven aquí, bella, ven aquí, bella"
+      ]
+    },
+    {
+      "id": "mamacita-06",
+      "youtube_id": "RxbifXSRwrw",
+      "title": "MAMACITA",
+      "clue": "Siseoni seuchyeo sumeul jugigo I peek, peek, peek",
+      "answer": "Classic, this midnight fantasy",
+      "options": [
+        "Classic, this midnight fantasy",
+        "Hey, Mamacita, got me excited",
+        "Oh, bappi burinake",
+        "Ven aquí, bella, ven aquí, bella"
+      ]
+    },
+    {
+      "id": "mamacita-07",
+      "youtube_id": "RxbifXSRwrw",
+      "title": "MAMACITA",
+      "clue": "Iseongeun imi heuryeojyeo losing my sanity",
+      "answer": "Static gamgangman ssaiji",
+      "options": [
+        "Static gamgangman ssaiji",
+        "Hey, Mamacita, got me excited",
+        "Oh, bappi burinake",
+        "Ven aquí, bella, ven aquí, bella"
+      ]
+    },
+    {
+      "id": "mamacita-08",
+      "youtube_id": "RxbifXSRwrw",
+      "title": "MAMACITA",
+      "clue": "We're dancing cha-cha-cha-cha, dulmanui eoneoji",
+      "answer": "Fix on",
+      "options": [
+        "Fix on",
+        "Hey, Mamacita, got me excited",
+        "Oh, bappi burinake",
+        "Ven aquí, bella, ven aquí, bella"
+      ]
+    },
+    {
+      "id": "mamacita-09",
+      "youtube_id": "RxbifXSRwrw",
+      "title": "MAMACITA",
+      "clue": "Maria, Maria, naekkeoya? aniya?",
+      "answer": "Ijeneun malhae bwa neol wihan mariran mariya",
+      "options": [
+        "Ijeneun malhae bwa neol wihan mariran mariya",
+        "Hey, Mamacita, got me excited",
+        "Oh, bappi burinake",
+        "Ven aquí, bella, ven aquí, bella"
+      ]
+    },
+    {
+      "id": "mamacita-10",
+      "youtube_id": "RxbifXSRwrw",
+      "title": "MAMACITA",
+      "clue": "Hwasahage dagaga",
+      "answer": "Binnaneun bameuro mandeulgo sipeo aiya",
+      "options": [
+        "Binnaneun bameuro mandeulgo sipeo aiya",
+        "Hey, Mamacita, got me excited",
+        "Oh, bappi burinake",
+        "Ven aquí, bella, ven aquí, bella"
+      ]
+    },
+    {
+      "id": "toxin-01",
+      "youtube_id": "gPsKrKwo1m8",
+      "title": "TOXIN",
+      "clue": "Wee",
+      "answer": "Oh",
+      "options": [
+        "Oh",
+        "Tell me that you taste the rush (Taste the rush)",
+        "I know you feel it just like me (Just like me)",
+        "Gabyeopge tuk pureonae, button (Ooh)"
+      ]
+    },
+    {
+      "id": "toxin-02",
+      "youtube_id": "gPsKrKwo1m8",
+      "title": "TOXIN",
+      "clue": "Tell me that you taste the rush (Taste the rush)",
+      "answer": "I know you feel it just like me (Just like me)",
+      "options": [
+        "I know you feel it just like me (Just like me)",
+        "Wee",
+        "Gabyeopge tuk pureonae, button",
+        "Teok kkeutkkaji chaoreuge"
+      ]
+    },
+    {
+      "id": "toxin-03",
+      "youtube_id": "gPsKrKwo1m8",
+      "title": "TOXIN",
+      "clue": "That look you give is way too much",
+      "answer": "Gabyeopge tuk pureonae, button",
+      "options": [
+        "Gabyeopge tuk pureonae, button",
+        "Wee",
+        "Tell me that you taste the rush (Taste the rush)",
+        "Gabyeopge tuk pureonae, button (Ooh)"
+      ]
+    },
+    {
+      "id": "toxin-04",
+      "youtube_id": "gPsKrKwo1m8",
+      "title": "TOXIN",
+      "clue": "Teok kkeutkkaji chaoreuge",
+      "answer": "Saeeo naon umjjilgeorim geudaero nwadwo",
+      "options": [
+        "Saeeo naon umjjilgeorim geudaero nwadwo",
+        "Wee",
+        "Tell me that you taste the rush (Taste the rush)",
+        "That look you give is way too much"
+      ]
+    },
+    {
+      "id": "toxin-05",
+      "youtube_id": "gPsKrKwo1m8",
+      "title": "TOXIN",
+      "clue": "Trust me",
+      "answer": "Oh, I'm just tracing your body",
+      "options": [
+        "Oh, I'm just tracing your body",
+        "Wee",
+        "Geommeokji ma, I'm right here, yeah",
+        "I know you feel it just like me (I know you feel it just; Ooh-ooh)"
+      ]
+    },
+    {
+      "id": "toxin-06",
+      "youtube_id": "gPsKrKwo1m8",
+      "title": "TOXIN",
+      "clue": "Pillyo eopseo dareun option",
+      "answer": "Keep me wrapped inside your hold",
+      "options": [
+        "Keep me wrapped inside your hold",
+        "Wee",
+        "I know you feel it just like me (Just like me)",
+        "Gabyeopge tuk pureonae, button (Ooh)"
+      ]
+    },
+    {
+      "id": "toxin-07",
+      "youtube_id": "gPsKrKwo1m8",
+      "title": "TOXIN",
+      "clue": "Eongkyeo beorin chae bakkwo position",
+      "answer": "But you call me your toxin",
+      "options": [
+        "But you call me your toxin",
+        "Wee",
+        "I know you feel it just like me (Just like me)",
+        "Gabyeopge tuk pureonae, button (Ooh)"
+      ]
+    },
+    {
+      "id": "toxin-08",
+      "youtube_id": "gPsKrKwo1m8",
+      "title": "TOXIN",
+      "clue": "Talkin' wiheomhan ikkeullime (Oh)",
+      "answer": "Nae momeun deo deeper, I'm fallin'",
+      "options": [
+        "Nae momeun deo deeper, I'm fallin'",
+        "Wee",
+        "I know you feel it just like me (Just like me)",
+        "Gabyeopge tuk pureonae, button (Ooh)"
+      ]
+    },
+    {
+      "id": "toxin-09",
+      "youtube_id": "gPsKrKwo1m8",
+      "title": "TOXIN",
+      "clue": "Natseon neoui tteollime",
+      "answer": "You came undone for me, oh",
+      "options": [
+        "You came undone for me, oh",
+        "Wee",
+        "I know you feel it just like me (Just like me)",
+        "Gabyeopge tuk pureonae, button (Ooh)"
+      ]
+    },
+    {
+      "id": "toxin-10",
+      "youtube_id": "gPsKrKwo1m8",
+      "title": "TOXIN",
+      "clue": "You know how to play it sicker (All day, all day)",
+      "answer": "But let me do my thing on you",
+      "options": [
+        "But let me do my thing on you",
+        "Wee",
+        "I know you feel it just like me (Just like me)",
+        "Teok kkeutkkaji chaoreuge"
+      ]
+    },
+    {
+      "id": "fallin-01",
+      "youtube_id": "1uqlBqhIPh8",
+      "title": "Fallin'",
+      "clue": "Yeah",
+      "answer": "I feel you in my mind, I'm riding on the edge",
+      "options": [
+        "I feel you in my mind, I'm riding on the edge",
+        "Muneojin iseongui kkeuteul jaba tonight (Tonight)",
+        "In you (Hey, hey, hey)",
+        "I'm fallin' deep (Fallin' deep, yeah)"
+      ]
+    },
+    {
+      "id": "fallin-02",
+      "youtube_id": "1uqlBqhIPh8",
+      "title": "Fallin'",
+      "clue": "Muneojin iseongui kkeuteul jaba tonight (Tonight)",
+      "answer": "You know I'm locked in tight (In tight), you take my breath away (Away)",
+      "options": [
+        "You know I'm locked in tight (In tight), you take my breath away (Away)",
+        "Yeah",
+        "In you (Hey, hey, hey)",
+        "I'm fallin' deep (Fallin' deep, yeah)"
+      ]
+    },
+    {
+      "id": "fallin-03",
+      "youtube_id": "1uqlBqhIPh8",
+      "title": "Fallin'",
+      "clue": "Kkeuniji anneun bonneunge nuneul gama nan (Yeah, yeah)",
+      "answer": "Sanggwaneopseo dachindaedo neoegero I dive (I dive)",
+      "options": [
+        "Sanggwaneopseo dachindaedo neoegero I dive (I dive)",
+        "Yeah",
+        "In you (Hey, hey, hey)",
+        "I'm fallin' deep (Fallin' deep, yeah)"
+      ]
+    },
+    {
+      "id": "fallin-04",
+      "youtube_id": "1uqlBqhIPh8",
+      "title": "Fallin'",
+      "clue": "Machi hwansangcheoreom kkeureodanggyeo siren (Ooh, woah)",
+      "answer": "Nega nal wanjeonhage hae, so divine",
+      "options": [
+        "Nega nal wanjeonhage hae, so divine",
+        "Yeah",
+        "In you (Hey, hey, hey)",
+        "I'm fallin' deep (Fallin' deep, yeah)"
+      ]
+    },
+    {
+      "id": "fallin-05",
+      "youtube_id": "1uqlBqhIPh8",
+      "title": "Fallin'",
+      "clue": "Gipi deo araero michyeo neoegero",
+      "answer": "You put that pressure on me",
+      "options": [
+        "You put that pressure on me",
+        "Yeah",
+        "In you (Hey, hey, hey)",
+        "I'm fallin' deep (Fallin' deep, yeah)"
+      ]
+    },
+    {
+      "id": "fallin-06",
+      "youtube_id": "1uqlBqhIPh8",
+      "title": "Fallin'",
+      "clue": "Nae meoritsok neomchyeona serotonin",
+      "answer": "Neo inneun han naege i bameun deep",
+      "options": [
+        "Neo inneun han naege i bameun deep",
+        "Yeah",
+        "In you (Hey, hey, hey)",
+        "I'm fallin' deep (Fallin' deep, yeah)"
+      ]
+    },
+    {
+      "id": "fallin-07",
+      "youtube_id": "1uqlBqhIPh8",
+      "title": "Fallin'",
+      "clue": "No exit, we're too obsessed in here",
+      "answer": "Hwangholhae churangmajeo, jeongjeok dwi jeoljeongui hyangyeon",
+      "options": [
+        "Hwangholhae churangmajeo, jeongjeok dwi jeoljeongui hyangyeon",
+        "Yeah",
+        "In you (Hey, hey, hey)",
+        "I'm fallin' deep (Fallin' deep, yeah)"
+      ]
+    },
+    {
+      "id": "fallin-08",
+      "youtube_id": "1uqlBqhIPh8",
+      "title": "Fallin'",
+      "clue": "Deo gipeun jihareul tamheom",
+      "answer": "Kkeuchi eopsi narageul bilmi",
+      "options": [
+        "Kkeuchi eopsi narageul bilmi",
+        "Yeah",
+        "In you (Hey, hey, hey)",
+        "I'm fallin' deep (Fallin' deep, yeah)"
+      ]
+    },
+    {
+      "id": "fallin-09",
+      "youtube_id": "1uqlBqhIPh8",
+      "title": "Fallin'",
+      "clue": "Sama neukkyeoboneun taragui bit, yeah, yeah",
+      "answer": "I'm fallin' deep (Fallin' deep, yeah)",
+      "options": [
+        "I'm fallin' deep (Fallin' deep, yeah)",
+        "Yeah",
+        "In you (Hey, hey, hey)",
+        "In you (Hey, hey, hey; Fallin' deep; Hey)"
+      ]
+    },
+    {
+      "id": "fallin-10",
+      "youtube_id": "1uqlBqhIPh8",
+      "title": "Fallin'",
+      "clue": "In you (Hey, hey, hey; Fallin' deep; Hey)",
+      "answer": "I'm fallin' deep (Fallin' deep, yeah)",
+      "options": [
+        "I'm fallin' deep (Fallin' deep, yeah)",
+        "Yeah",
+        "Sama neukkyeoboneun taragui bit, yeah, yeah",
+        "You broke me down"
+      ]
+    },
+    {
+      "id": "body-01",
+      "youtube_id": "2QXLW2AG1h4",
+      "title": "Body",
+      "clue": "Can't forget your touch, I keep dreamin' non-stop",
+      "answer": "Neoreul wonhae haru jongil all day",
+      "options": [
+        "Neoreul wonhae haru jongil all day",
+        "I just can't forget your body",
+        "Oh, I just can't forget your body (Yeah, yeah)",
+        "Oh, you, you, you"
+      ]
+    },
+    {
+      "id": "body-02",
+      "youtube_id": "2QXLW2AG1h4",
+      "title": "Body",
+      "clue": "I just can't forget your body",
+      "answer": "Oh, I just can't forget your body (Yeah)",
+      "options": [
+        "Oh, I just can't forget your body (Yeah)",
+        "Can't forget your touch, I keep dreamin' non-stop",
+        "Oh, I just can't forget your body (Yeah, yeah)",
+        "Oh, you, you, you"
+      ]
+    },
+    {
+      "id": "body-03",
+      "youtube_id": "2QXLW2AG1h4",
+      "title": "Body",
+      "clue": "Nae momi gwaenhi tteugeowojyeo, ne saenggangmaneuro",
+      "answer": "Gieokana bwa geunarui uri ondo",
+      "options": [
+        "Gieokana bwa geunarui uri ondo",
+        "Can't forget your touch, I keep dreamin' non-stop",
+        "Neoreul wonhae haru jongil all day",
+        "Jakkuman neoreul chatge hae"
+      ]
+    },
+    {
+      "id": "body-04",
+      "youtube_id": "2QXLW2AG1h4",
+      "title": "Body",
+      "clue": "I just can't forget your body (Forget your body, yeah)",
+      "answer": "No, I just can't forget your body (Yeah)",
+      "options": [
+        "No, I just can't forget your body (Yeah)",
+        "Can't forget your touch, I keep dreamin' non-stop",
+        "Neoreul wonhae haru jongil all day",
+        "Jakkuman neoreul chatge hae"
+      ]
+    },
+    {
+      "id": "body-05",
+      "youtube_id": "2QXLW2AG1h4",
+      "title": "Body",
+      "clue": "Jipjungi an dwae ireun sone an japyeo",
+      "answer": "Can't function right now, friends just keep on callin'",
+      "options": [
+        "Can't function right now, friends just keep on callin'",
+        "Can't forget your touch, I keep dreamin' non-stop",
+        "I just can't forget your body",
+        "Oh, you, you, you"
+      ]
+    },
+    {
+      "id": "body-06",
+      "youtube_id": "2QXLW2AG1h4",
+      "title": "Body",
+      "clue": "Chimdaee nuwo, nobody next to me",
+      "answer": "Your side is empty namaitdeon geu ongido",
+      "options": [
+        "Your side is empty namaitdeon geu ongido",
+        "Can't forget your touch, I keep dreamin' non-stop",
+        "I just can't forget your body",
+        "Oh, you, you, you"
+      ]
+    },
+    {
+      "id": "body-07",
+      "youtube_id": "2QXLW2AG1h4",
+      "title": "Body",
+      "clue": "Gieokae geunal we were so tight, yeah",
+      "answer": "Mokdwireul gamssadeon chokgami",
+      "options": [
+        "Mokdwireul gamssadeon chokgami",
+        "Can't forget your touch, I keep dreamin' non-stop",
+        "I just can't forget your body",
+        "Can't forget your touch, I keep dreamin' non-stop (Oh, oh)"
+      ]
+    },
+    {
+      "id": "body-08",
+      "youtube_id": "2QXLW2AG1h4",
+      "title": "Body",
+      "clue": "Jakkuman neoreul chatge hae",
+      "answer": "Oh, you, you, you",
+      "options": [
+        "Oh, you, you, you",
+        "Can't forget your touch, I keep dreamin' non-stop",
+        "I just can't forget your body",
+        "Can't forget your touch, I keep dreamin' non-stop (Oh, oh)"
+      ]
+    },
+    {
+      "id": "body-09",
+      "youtube_id": "2QXLW2AG1h4",
+      "title": "Body",
+      "clue": "Can't forget your touch, I keep dreamin' non-stop",
+      "answer": "Neoreul wonhae haru jongil all day",
+      "options": [
+        "Neoreul wonhae haru jongil all day",
+        "I just can't forget your body",
+        "Oh, I just can't forget your body (Yeah, yeah)",
+        "Oh, you, you, you"
+      ]
+    },
+    {
+      "id": "body-10",
+      "youtube_id": "2QXLW2AG1h4",
+      "title": "Body",
+      "clue": "I just can't forget your body",
+      "answer": "Oh, I just can't forget your body (Yeah, yeah)",
+      "options": [
+        "Oh, I just can't forget your body (Yeah, yeah)",
+        "Can't forget your touch, I keep dreamin' non-stop",
+        "Neoreul wonhae haru jongil all day",
+        "Oh, you, you, you"
+      ]
+    }
+  ],
+  "leaderboard": [],
+  "event_list": [
+    {
+      "id": "ev-ateez-photocard-2026",
+      "title": "ATEEZ Photocard Set Race: Best Score Wins",
+      "description": "Collect your best score from September to December 2026! The highest best score during the event period will be the winner and take home the ATEEZ Photocard Set.",
+      "image": "https://i.ytimg.com/vi/3F9jlnANW08/maxresdefault.jpg",
+      "prize": "Photocard Set ATEEZ",
+      "prize_image": "https://i.ytimg.com/vi/3F9jlnANW08/maxresdefault.jpg",
+      "start_date": "2026-09-01",
+      "end_date": "2026-12-31",
+      "rules": [
+        "The highest best score during the event period will be the winner",
+        "Unlimited runs during the event period September 1 - December 31, 2026",
+        "Min score 500 to qualify",
+        "One winner per device"
+      ],
+      "min_score": 500
+    }
+  ]
+}
