@@ -233,6 +233,24 @@
             "position": "Vocalist • Performer • Visual • ATEEZ",
             "image_url": "https://fandomkpopuk-bot.github.io/ateez-asset/ateez-golden-hour-part-6-concept/1791904684340-hquvkl-0.webp",
             "video_url": "https://artetis.my.id/mp4/seonghwa.mp4"
+        },
+        {
+            "idol_name": "Jang Wonyoung",
+            "position": "Vocalist • Dancer • Visual • IVE",
+            "image_url": "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496473451-bekcxr-0.webp",
+            "video_url": "https://artetis.my.id/mp4/jangwonyoung.mp4"
+        },
+        {
+            "idol_name": "Rei",
+            "position": "Main Rapper • Sub-Vocalist • IVE",
+            "image_url": "https://kprofiles.com/wp-content/uploads/2021/11/Rei-IVE.jpg",
+            "video_url": "https://artetis.my.id/mp4/rei.mp4"
+        },
+        {
+            "idol_name": "Liz",
+            "position": "Main Vocalist • IVE",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Liz_of_Ive%2C_July_19%2C_2026_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "video_url": "https://artetis.my.id/mp4/liz.mp4"
         }
     ]
 }
