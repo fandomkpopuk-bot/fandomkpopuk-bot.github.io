@@ -2,11 +2,11 @@
   "band_detail": {
     "logoLine1": "I-",
     "logoLine2": "VE",
-    "agencyLabel": "STARSHIP ENT.",
+    "agencyLabel": "STARSHIP ENTERTAINMENT",
     "verifiedText": "Verified Artist",
     "name": "IVE (아이브)",
-    "tagline": "LOVE DIVE • Global Girl Icons",
-    "bio": "Debuted under Starship Entertainment on Dec 1, 2021. 6-member girl group behind ELEVEN, LOVE DIVE and After LIKE, uniting the DIVE fandom from Seoul to the world and beyond.",
+    "tagline": "DIVE INTO IVE • REVIVE+ : BANG BANG",
+    "bio": "6-member girl group under STARSHIP Entertainment: An Yujin, Gaeul, Rei, Jang Wonyoung, Liz and Leeseo. Debuted on Dec 1, 2021 with the single album ELEVEN. Fandom DIVE (DIVE into IVE). Featured here with BANG BANG from REVIVE+ (Apr 20, 2026).",
     "infoChips": [
       {
         "label": "Debut:",
@@ -19,11 +19,11 @@
       },
       {
         "label": "Agency:",
-        "value": "STARSHIP ENT."
+        "value": "STARSHIP ENTERTAINMENT"
       },
       {
         "label": "",
-        "value": "SHOW WHAT I HAVE Tour",
+        "value": "REVIVE+ Era",
         "highlight": "amber"
       }
     ],
@@ -33,16 +33,16 @@
       {
         "name": "An Yujin",
         "initials": "AY",
-        "role": "Leader • Vocal",
-        "unit": "LEADER LINE",
+        "role": "Leader • Main Vocalist • Main Dancer",
+        "unit": "VOCAL LINE",
         "featured": true,
         "tags": "yujin",
         "birthDate": "Sep 1, 2003",
-        "birthPlace": "Cheongju, South Korea",
+        "birthPlace": "Dunsan-dong, Seo-gu, Daejeon, South Korea",
         "nationality": "South Korean",
         "hobbies": [
-          "MCing",
-          "Dancing",
+          "MCing (Inkigayo)",
+          "Sports & dance",
           "Photography"
         ],
         "image": ""
@@ -50,39 +50,39 @@
       {
         "name": "Gaeul",
         "initials": "GL",
-        "role": "Rap • Dance",
-        "unit": "RAP LINE",
+        "role": "Main Dancer • Lead Rapper • Sub-Vocalist",
+        "unit": "DANCE LINE",
         "tags": "gaeul",
         "birthDate": "Sep 24, 2002",
-        "birthPlace": "Incheon, South Korea",
+        "birthPlace": "Bupyeong-gu, Incheon, South Korea",
         "nationality": "South Korean",
         "hobbies": [
-          "Rapping",
-          "Dance",
-          "Movies"
+          "Dancing",
+          "Mystery novels",
+          "Horror movies"
         ],
         "image": ""
       },
       {
         "name": "Rei",
         "initials": "RI",
-        "role": "Rap • Vocal",
+        "role": "Main Rapper • Sub-Vocalist",
         "unit": "RAP LINE",
         "tags": "rei",
         "birthDate": "Feb 3, 2004",
-        "birthPlace": "Nagoya, Japan",
+        "birthPlace": "Nagoya, Aichi, Japan",
         "nationality": "Japanese",
         "hobbies": [
-          "Songwriting",
-          "Reading",
-          "Cooking"
+          "Drawing",
+          "Decorating things",
+          "Collecting pretty items"
         ],
         "image": ""
       },
       {
         "name": "Jang Wonyoung",
         "initials": "WY",
-        "role": "Vocal • Visual",
+        "role": "Vocalist • Dancer • Visual",
         "unit": "VOCAL LINE",
         "tags": "wonyoung",
         "birthDate": "Aug 31, 2004",
@@ -90,7 +90,7 @@
         "nationality": "South Korean",
         "hobbies": [
           "Fashion",
-          "MCing",
+          "MCing (Music Bank)",
           "Piano"
         ],
         "image": ""
@@ -98,15 +98,15 @@
       {
         "name": "Liz",
         "initials": "LZ",
-        "role": "Main Vocal",
+        "role": "Main Vocalist",
         "unit": "VOCAL LINE",
         "tags": "liz",
         "birthDate": "Nov 21, 2004",
-        "birthPlace": "Jeju, South Korea",
+        "birthPlace": "Jeju-do, South Korea",
         "nationality": "South Korean",
         "hobbies": [
           "Singing",
-          "Baking",
+          "Piano",
           "Cats"
         ],
         "image": ""
@@ -114,7 +114,7 @@
       {
         "name": "Leeseo",
         "initials": "LS",
-        "role": "Maknae • Vocal",
+        "role": "Lead Dancer • Sub-Vocalist • Maknae",
         "unit": "DANCE LINE",
         "tags": "leeseo",
         "birthDate": "Feb 21, 2007",
@@ -122,8 +122,8 @@
         "nationality": "South Korean",
         "hobbies": [
           "Dancing",
-          "Drawing",
-          "Swimming"
+          "Collecting perfumes",
+          "Taking selfies"
         ],
         "image": ""
       }
@@ -131,27 +131,28 @@
   },
   "news_list": [
     {
-      "id": "ive-heya-2026",
+      "id": "ive-bang-bang-revive-plus",
       "category": "COMEBACK",
       "cardBadge": "NEW RELEASE",
-      "date": "Sep 08, 2026",
-      "monthLabel": "SEP 2026",
-      "source": "Starship / IVE Official",
-      "title": "IVE Light Up Heya Era With World Tour Dates!",
-      "excerpt": "After LIKE, I AM and Heya — IVE keep the streak alive. Concept films and tour dates inside.",
-      "quote": "DIVE, love dive with us!",
-      "image": "https://i.ytimg.com/vi/Y8JFxS1HlDo/maxresdefault.jpg",
+      "date": "Apr 20, 2026",
+      "monthLabel": "APR 2026",
+      "source": "STARSHIP ENTERTAINMENT / IVE Official",
+      "title": "IVE Drop 'BANG BANG' From REVIVE+!",
+      "excerpt": "Aggressive new scene with explosive energy — going out with a bang. MV and lyrics inside.",
+      "quote": "DIVE into IVE — I'll be going out with a bang!",
+      "image": "https://i.ytimg.com/vi/9qkpcLK422o/maxresdefault.jpg",
       "body": [
-        "IVE have officially opened a new chapter of the Heya era with fresh world tour dates announced across official channels this week.",
-        "Starship Entertainment confirms all six members recorded new stages together, following the run of LIKE, I AM and Heya.",
-        "The announcement arrives ahead of the SHOW WHAT I HAVE tour extension, where DIVE will hear the new setlist live for the first time.",
-        "Pre-save links and exclusive merch drops are open now on all major streaming platforms."
+        "IVE have officially released 'BANG BANG', a track from REVIVE+, across official channels on Apr 20, 2026.",
+        "The track pairs an aggressive, confident concept with IVE's signature vocal and performance energy, backed by a music video and lyric videos on IVE Official channels.",
+        "BANG BANG arrives as part of the REVIVE+ era, following the group's Dec 1, 2021 debut with ELEVEN under STARSHIP Entertainment.",
+        "Streaming and download links are open now on all major platforms."
       ]
     }
   ],
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 4,
+    "maxViewImageCount": 4,
     "maxDownloadCount": 5,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 8,
@@ -163,28 +164,80 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 8,
-    "isMinigameEnabled": true
+    "isMinigameEnabled": true,
+    "isGalleryEnabled": false,
+    "androidUpdateType": "immediate",
+    "isNewGalleryEnabled": true,
+    "adsType": "reward",
+    "isVideoCallEnabled": true
   },
   "announcement": {
-    "id": "trivia-launch-03",
-    "badge": "✨ What's New",
-    "title": "Guess The Lyrics Trivia",
-    "description": "Test your trivia skills in quick 5-step lyric rounds. Guess the next lines to earn exclusive rewards!",
-    "image": "https://play-lh.googleusercontent.com/oaD17xMoSls5ylbhOz9lHX0Fbr6HWZ5uZ2y_GeeGMi_DinxxjcCiyeb7ZS5XAtZ8KuDrVtBZDagxMRDF6lDbog=w480-h960-rw",
+    "id": "ive-bang-bang-01",
+    "badge": "🎵 New Song Available",
+    "title": "IVE - BANG BANG Is Now in This App!",
+    "description": "Good news! The song IVE - BANG BANG is now available in this app. Open the Music Library menu to listen to it now!",
+    "image": "https://i.ytimg.com/vi/9qkpcLK422o/maxresdefault.jpg",
     "rewards": [
       {
-        "icon": "trophy-outline",
-        "text": "IVE Photocard Set Race: Best Score Wins"
-      },
-      {
-        "icon": "download-outline",
-        "text": "Test your fandom knowledge!"
+        "icon": "musical-notes-outline",
+        "text": "Play IVE - BANG BANG in Music Library"
       }
     ],
     "cta": {
-      "label": "Play Trivia Now",
+      "label": "Open Music Library",
       "action": "open_page",
-      "page": "Trivia"
+      "page": "Library"
     }
-  }
+  },
+  "gallery": [
+    {
+      "title": "261020 IVE Twitter Update",
+      "api_url": "https://kpopping.com/kpics/261020-ive-twitter-update",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496473451-bekcxr-0.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496473452-1u93ko-10.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496473452-5zgj21-6.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496473452-6rsgmn-5.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496473452-fud3xz-8.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496473452-gw6nh7-7.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496473452-j8zmp4-4.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496473452-req6sl-2.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496473452-rxxlvy-1.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496473452-wgjagi-3.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496485689-7156571751c0-0.webp"
+      ]
+    },
+    {
+      "title": "261018 IVE at 2026 NOL Festival D-2",
+      "api_url": "https://kpopping.com/kpics/261018-ive-at-2026-nol-festival-d-2",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/ive-asset/261018-ive-at-2026-nol-festival-d-2/1792388392131-9f0lyc-2.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261018-ive-at-2026-nol-festival-d-2/1792388392131-al78e7-5.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261018-ive-at-2026-nol-festival-d-2/1792388392131-fv6b35-3.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261018-ive-at-2026-nol-festival-d-2/1792388392131-lhjyk2-0.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261018-ive-at-2026-nol-festival-d-2/1792388392131-qdrbil-6.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261018-ive-at-2026-nol-festival-d-2/1792388392131-tl2zfq-4.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261018-ive-at-2026-nol-festival-d-2/1792388392131-v8chlq-1.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261018-ive-at-2026-nol-festival-d-2/1792410468957-9wo8t7-2.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261018-ive-at-2026-nol-festival-d-2/1792410468957-dprkt3-1.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261018-ive-at-2026-nol-festival-d-2/1792410468957-eca5l2-0.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/261018-ive-at-2026-nol-festival-d-2/1792410468957-z2irfq-3.webp"
+      ]
+    },
+    {
+      "title": "260831 IVE Twitter Update - HAPPY WONYOUNG DAY",
+      "api_url": "https://kpopping.com/kpics/260831-ive-twitter-update-happy-wonyoung-day",
+      "photo_collection": [
+        "https://fandomkpopuk-bot.github.io/ive-asset/260831-ive-twitter-update-happy-wonyoung-day/1788159619716-1vtv86-1.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/260831-ive-twitter-update-happy-wonyoung-day/1788159619716-22xvql-2.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/260831-ive-twitter-update-happy-wonyoung-day/1788159619716-ezqw8u-3.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/260831-ive-twitter-update-happy-wonyoung-day/1788159619716-z7p7dl-0.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/260831-ive-twitter-update-happy-wonyoung-day/1788169616324-3z9sbv-1.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/260831-ive-twitter-update-happy-wonyoung-day/1788169616324-g5jorz-0.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/260831-ive-twitter-update-happy-wonyoung-day/1788175916130-6s15u0-1.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/260831-ive-twitter-update-happy-wonyoung-day/1788175916130-8hkl24-2.webp",
+        "https://fandomkpopuk-bot.github.io/ive-asset/260831-ive-twitter-update-happy-wonyoung-day/1788175916130-yrcuvl-0.webp"
+      ]
+    }
+  ]
 }

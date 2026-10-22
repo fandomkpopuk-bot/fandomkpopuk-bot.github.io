@@ -60,6 +60,11 @@
         "page_redirect": "ateez-stan"
     },
     {
+        "app_name": "IVE",
+        "api_dir": "ive-api",
+        "page_redirect": "ive-stan"
+    },
+    {
         "app_name": "Other",
         "api_dir": "global-api",
         "page_redirect": "other-stan"

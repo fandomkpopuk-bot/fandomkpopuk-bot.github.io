@@ -390,6 +390,396 @@
         "Jogeumman deo norajulge (Four, three, two, one)",
         "Bang, shaking my head, this is my way"
       ]
+    },
+    {
+      "id": "love-dive-06",
+      "youtube_id": "Y8JFxS1HlDo",
+      "title": "LOVE DIVE",
+      "clue": "Ooh, ooh",
+      "answer": "Yeah",
+      "options": [
+        "Yeah",
+        "Nega cham gunggeumhae geugeon neodo machangaji (Ooh, ooh)",
+        "Igeomyeon chungbunhae jjotgo jjonneun ireon nori",
+        "Chameul su eomneun ikkeullimgwa hogisim"
+      ]
+    },
+    {
+      "id": "love-dive-07",
+      "youtube_id": "Y8JFxS1HlDo",
+      "title": "LOVE DIVE",
+      "clue": "Yeah",
+      "answer": "Nega cham gunggeumhae geugeon neodo machangaji (Ooh, ooh)",
+      "options": [
+        "Nega cham gunggeumhae geugeon neodo machangaji (Ooh, ooh)",
+        "Ooh, ooh",
+        "Igeomyeon chungbunhae jjotgo jjonneun ireon nori",
+        "Chameul su eomneun ikkeullimgwa hogisim"
+      ]
+    },
+    {
+      "id": "love-dive-08",
+      "youtube_id": "Y8JFxS1HlDo",
+      "title": "LOVE DIVE",
+      "clue": "Nega cham gunggeumhae geugeon neodo machangaji (Ooh, ooh)",
+      "answer": "Igeomyeon chungbunhae jjotgo jjonneun ireon nori",
+      "options": [
+        "Igeomyeon chungbunhae jjotgo jjonneun ireon nori",
+        "Ooh, ooh",
+        "Yeah",
+        "Chameul su eomneun ikkeullimgwa hogisim"
+      ]
+    },
+    {
+      "id": "love-dive-09",
+      "youtube_id": "Y8JFxS1HlDo",
+      "title": "LOVE DIVE",
+      "clue": "Igeomyeon chungbunhae jjotgo jjonneun ireon nori",
+      "answer": "Chameul su eomneun ikkeullimgwa hogisim",
+      "options": [
+        "Chameul su eomneun ikkeullimgwa hogisim",
+        "Ooh, ooh",
+        "Yeah",
+        "Nega cham gunggeumhae geugeon neodo machangaji (Ooh, ooh)"
+      ]
+    },
+    {
+      "id": "love-dive-10",
+      "youtube_id": "Y8JFxS1HlDo",
+      "title": "LOVE DIVE",
+      "clue": "Chameul su eomneun ikkeullimgwa hogisim",
+      "answer": "Myohan neowa na dugo bomyeon algetji",
+      "options": [
+        "Myohan neowa na dugo bomyeon algetji",
+        "Ooh, ooh",
+        "Yeah",
+        "Nega cham gunggeumhae geugeon neodo machangaji (Ooh, ooh)"
+      ]
+    },
+    {
+      "id": "after-like-06",
+      "youtube_id": "F0B7HDiY-10",
+      "title": "After LIKE",
+      "clue": "Jeo nalsshicheoreom bakkwilji",
+      "answer": "Nal najocha da al su eopseuni",
+      "options": [
+        "Nal najocha da al su eopseuni",
+        "Tto moreuji nae maeumi",
+        "Geuge mweoga jungyohani",
+        "Jigeum nege wanjeonhi"
+      ]
+    },
+    {
+      "id": "after-like-07",
+      "youtube_id": "F0B7HDiY-10",
+      "title": "After LIKE",
+      "clue": "Nal najocha da al su eopseuni",
+      "answer": "Geuge mweoga jungyohani",
+      "options": [
+        "Geuge mweoga jungyohani",
+        "Tto moreuji nae maeumi",
+        "Jeo nalsshicheoreom bakkwilji",
+        "Jigeum nege wanjeonhi"
+      ]
+    },
+    {
+      "id": "after-like-08",
+      "youtube_id": "F0B7HDiY-10",
+      "title": "After LIKE",
+      "clue": "Geuge mweoga jungyohani",
+      "answer": "Jigeum nege wanjeonhi",
+      "options": [
+        "Jigeum nege wanjeonhi",
+        "Tto moreuji nae maeumi",
+        "Jeo nalsshicheoreom bakkwilji",
+        "Nal najocha da al su eopseuni"
+      ]
+    },
+    {
+      "id": "after-like-09",
+      "youtube_id": "F0B7HDiY-10",
+      "title": "After LIKE",
+      "clue": "Jigeum nege wanjeonhi",
+      "answer": "Puk ppajyeottan ge jungyohan geoji",
+      "options": [
+        "Puk ppajyeottan ge jungyohan geoji",
+        "Tto moreuji nae maeumi",
+        "Jeo nalsshicheoreom bakkwilji",
+        "Nal najocha da al su eopseuni"
+      ]
+    },
+    {
+      "id": "after-like-10",
+      "youtube_id": "F0B7HDiY-10",
+      "title": "After LIKE",
+      "clue": "Puk ppajyeottan ge jungyohan geoji",
+      "answer": "Ama kkumman gatgetjiman bunmyeong kkumi aniya",
+      "options": [
+        "Ama kkumman gatgetjiman bunmyeong kkumi aniya",
+        "Tto moreuji nae maeumi",
+        "Jeo nalsshicheoreom bakkwilji",
+        "Nal najocha da al su eopseuni"
+      ]
+    },
+    {
+      "id": "i-am-06",
+      "youtube_id": "6ZUIwj3FgUY",
+      "title": "I AM",
+      "clue": "Neon neoui gillo nan naui gillo, mm-mm",
+      "answer": "Haruharumada saegi dallajin neukkim",
+      "options": [
+        "Haruharumada saegi dallajin neukkim",
+        "Dareun muneul yeoreo ttara gal pillyoneun eopseo",
+        "Balge bichi naneun gireul chaja",
+        "I'm on my way-ay-ay"
+      ]
+    },
+    {
+      "id": "i-am-07",
+      "youtube_id": "6ZUIwj3FgUY",
+      "title": "I AM",
+      "clue": "Haruharumada saegi dallajin neukkim",
+      "answer": "Balge bichi naneun gireul chaja",
+      "options": [
+        "Balge bichi naneun gireul chaja",
+        "Dareun muneul yeoreo ttara gal pillyoneun eopseo",
+        "Neon neoui gillo nan naui gillo, mm-mm",
+        "I'm on my way-ay-ay"
+      ]
+    },
+    {
+      "id": "i-am-08",
+      "youtube_id": "6ZUIwj3FgUY",
+      "title": "I AM",
+      "clue": "Balge bichi naneun gireul chaja",
+      "answer": "I'm on my way-ay-ay",
+      "options": [
+        "I'm on my way-ay-ay",
+        "Dareun muneul yeoreo ttara gal pillyoneun eopseo",
+        "Neon neoui gillo nan naui gillo, mm-mm",
+        "Haruharumada saegi dallajin neukkim"
+      ]
+    },
+    {
+      "id": "i-am-09",
+      "youtube_id": "6ZUIwj3FgUY",
+      "title": "I AM",
+      "clue": "Neon geunyang mideumyeon dwae",
+      "answer": "I'm on my way-ay-ay",
+      "options": [
+        "I'm on my way-ay-ay",
+        "Dareun muneul yeoreo ttara gal pillyoneun eopseo",
+        "Neon neoui gillo nan naui gillo, mm-mm",
+        "Haruharumada saegi dallajin neukkim"
+      ]
+    },
+    {
+      "id": "i-am-10",
+      "youtube_id": "6ZUIwj3FgUY",
+      "title": "I AM",
+      "clue": "Boineun geudaeroya",
+      "answer": "Neoneun nugungaui dreams come true",
+      "options": [
+        "Neoneun nugungaui dreams come true",
+        "Dareun muneul yeoreo ttara gal pillyoneun eopseo",
+        "Neon neoui gillo nan naui gillo, mm-mm",
+        "Haruharumada saegi dallajin neukkim"
+      ]
+    },
+    {
+      "id": "rebel-heart-06",
+      "youtube_id": "g36q0ZLvygQ",
+      "title": "REBEL HEART",
+      "clue": "Sijageun hangsang da irun geotcheoreom",
+      "answer": "Endingeun machi seungnihan geotcheoreom",
+      "options": [
+        "Endingeun machi seungnihan geotcheoreom",
+        "Rebels in our heart",
+        "Geomnaeji anko maeumeul ssodeullae",
+        "Nae moyangdaero"
+      ]
+    },
+    {
+      "id": "rebel-heart-07",
+      "youtube_id": "g36q0ZLvygQ",
+      "title": "REBEL HEART",
+      "clue": "Endingeun machi seungnihan geotcheoreom",
+      "answer": "Geomnaeji anko maeumeul ssodeullae",
+      "options": [
+        "Geomnaeji anko maeumeul ssodeullae",
+        "Rebels in our heart",
+        "Sijageun hangsang da irun geotcheoreom",
+        "Nae moyangdaero"
+      ]
+    },
+    {
+      "id": "rebel-heart-08",
+      "youtube_id": "g36q0ZLvygQ",
+      "title": "REBEL HEART",
+      "clue": "Geomnaeji anko maeumeul ssodeullae",
+      "answer": "Nae moyangdaero",
+      "options": [
+        "Nae moyangdaero",
+        "Rebels in our heart",
+        "Sijageun hangsang da irun geotcheoreom",
+        "Endingeun machi seungnihan geotcheoreom"
+      ]
+    },
+    {
+      "id": "rebel-heart-09",
+      "youtube_id": "g36q0ZLvygQ",
+      "title": "REBEL HEART",
+      "clue": "Nae moyangdaero",
+      "answer": "Ije deo isang singyeong sseuji ana (deo isang)",
+      "options": [
+        "Ije deo isang singyeong sseuji ana (deo isang)",
+        "Rebels in our heart",
+        "Sijageun hangsang da irun geotcheoreom",
+        "Endingeun machi seungnihan geotcheoreom"
+      ]
+    },
+    {
+      "id": "rebel-heart-10",
+      "youtube_id": "g36q0ZLvygQ",
+      "title": "REBEL HEART",
+      "clue": "Ije deo isang singyeong sseuji ana (deo isang)",
+      "answer": "Eodieseodo nae mameul jikigi",
+      "options": [
+        "Eodieseodo nae mameul jikigi",
+        "Rebels in our heart",
+        "Sijageun hangsang da irun geotcheoreom",
+        "Endingeun machi seungnihan geotcheoreom"
+      ]
+    },
+    {
+      "id": "attitude-06",
+      "youtube_id": "38xYeot-ciM",
+      "title": "ATTITUDE",
+      "clue": "Da-ra, da-da-da-ra",
+      "answer": "Da-da-da-ra, da-da-da-ra",
+      "options": [
+        "Da-da-da-ra, da-da-da-ra",
+        "Da-da-da-ra, da-da-da-ra, da-da",
+        "Gamjeongseoneun eodinga jom dareuge heulleo (Ah)",
+        "Namdeulgwaneun dareun gose pokeoseureul georeo"
+      ]
+    },
+    {
+      "id": "attitude-07",
+      "youtube_id": "38xYeot-ciM",
+      "title": "ATTITUDE",
+      "clue": "Da-da-da-ra, da-da-da-ra",
+      "answer": "Da-da-da-ra, da-da-da-ra, da-da",
+      "options": [
+        "Da-da-da-ra, da-da-da-ra, da-da",
+        "Da-ra, da-da-da-ra",
+        "Gamjeongseoneun eodinga jom dareuge heulleo (Ah)",
+        "Namdeulgwaneun dareun gose pokeoseureul georeo"
+      ]
+    },
+    {
+      "id": "attitude-08",
+      "youtube_id": "38xYeot-ciM",
+      "title": "ATTITUDE",
+      "clue": "Da-da-da-ra, da-da-da-ra, da-da",
+      "answer": "Gamjeongseoneun eodinga jom dareuge heulleo (Ah)",
+      "options": [
+        "Gamjeongseoneun eodinga jom dareuge heulleo (Ah)",
+        "Da-ra, da-da-da-ra",
+        "Da-da-da-ra, da-da-da-ra",
+        "Namdeulgwaneun dareun gose pokeoseureul georeo"
+      ]
+    },
+    {
+      "id": "attitude-09",
+      "youtube_id": "38xYeot-ciM",
+      "title": "ATTITUDE",
+      "clue": "Gamjeongseoneun eodinga jom dareuge heulleo (Ah)",
+      "answer": "Namdeulgwaneun dareun gose pokeoseureul georeo",
+      "options": [
+        "Namdeulgwaneun dareun gose pokeoseureul georeo",
+        "Da-ra, da-da-da-ra",
+        "Da-da-da-ra, da-da-da-ra",
+        "Da-da-da-ra, da-da-da-ra, da-da"
+      ]
+    },
+    {
+      "id": "attitude-10",
+      "youtube_id": "38xYeot-ciM",
+      "title": "ATTITUDE",
+      "clue": "Namdeulgwaneun dareun gose pokeoseureul georeo",
+      "answer": "Dress up to impress but I'm impressing everyone",
+      "options": [
+        "Dress up to impress but I'm impressing everyone",
+        "Da-ra, da-da-da-ra",
+        "Da-da-da-ra, da-da-da-ra",
+        "Da-da-da-ra, da-da-da-ra, da-da"
+      ]
+    },
+    {
+      "id": "bang-bang-06",
+      "youtube_id": "9qkpcLK422o",
+      "title": "BANG BANG",
+      "clue": "It's a new scene, it's aggressive",
+      "answer": "Imi aracharyeotgetji, geuchi eonni?",
+      "options": [
+        "Imi aracharyeotgetji, geuchi eonni?",
+        "Modeun somun sogui problem, yeah, I'm gyaeji",
+        "Byeoge buteun naui picture, arae wanted (Yeah; arae wanted)",
+        "Wake up, jujeo haji malgo"
+      ]
+    },
+    {
+      "id": "bang-bang-07",
+      "youtube_id": "9qkpcLK422o",
+      "title": "BANG BANG",
+      "clue": "Imi aracharyeotgetji, geuchi eonni?",
+      "answer": "Modeun somun sogui problem, yeah, I'm gyaeji",
+      "options": [
+        "Modeun somun sogui problem, yeah, I'm gyaeji",
+        "It's a new scene, it's aggressive",
+        "Byeoge buteun naui picture, arae wanted (Yeah; arae wanted)",
+        "Wake up, jujeo haji malgo"
+      ]
+    },
+    {
+      "id": "bang-bang-08",
+      "youtube_id": "9qkpcLK422o",
+      "title": "BANG BANG",
+      "clue": "Modeun somun sogui problem, yeah, I'm gyaeji",
+      "answer": "Byeoge buteun naui picture, arae wanted (Yeah; arae wanted)",
+      "options": [
+        "Byeoge buteun naui picture, arae wanted (Yeah; arae wanted)",
+        "It's a new scene, it's aggressive",
+        "Imi aracharyeotgetji, geuchi eonni?",
+        "Wake up, jujeo haji malgo"
+      ]
+    },
+    {
+      "id": "bang-bang-09",
+      "youtube_id": "9qkpcLK422o",
+      "title": "BANG BANG",
+      "clue": "Byeoge buteun naui picture, arae wanted (Yeah; arae wanted)",
+      "answer": "Wake up, jujeo haji malgo",
+      "options": [
+        "Wake up, jujeo haji malgo",
+        "It's a new scene, it's aggressive",
+        "Imi aracharyeotgetji, geuchi eonni?",
+        "Modeun somun sogui problem, yeah, I'm gyaeji"
+      ]
+    },
+    {
+      "id": "bang-bang-10",
+      "youtube_id": "9qkpcLK422o",
+      "title": "BANG BANG",
+      "clue": "Dareun siseondeureun mwo geuri",
+      "answer": "I don't give a swit, what you say?",
+      "options": [
+        "I don't give a swit, what you say?",
+        "It's a new scene, it's aggressive",
+        "Imi aracharyeotgetji, geuchi eonni?",
+        "Modeun somun sogui problem, yeah, I'm gyaeji"
+      ]
     }
   ],
   "leaderboard": [
