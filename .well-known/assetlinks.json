@@ -156,5 +156,18 @@
         "DD:1E:63:93:3A:3D:D0:2F:23:4B:D4:B3:78:F5:C5:E9:3C:F7:CE:F1:4B:06:2D:A4:78:2F:8B:88:EE:DC:FC:EB"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ive.uk",
+      "sha256_cert_fingerprints": [
+        "FB:AF:DB:95:5A:63:38:2A:D0:4D:50:B9:F3:3E:C5:1D:C9:F9:91:29:B6:4E:B9:D4:4F:ED:0B:A2:06:82:69:36"
+      ]
+    }
   }
 ]
