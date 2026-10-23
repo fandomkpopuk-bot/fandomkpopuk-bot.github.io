@@ -12637,6 +12637,57 @@
         "blackpink",
         "lisa"
       ]
+    },
+    {
+      "title": "Cobra",
+      "release_date": "2026-10-23",
+      "album": "-",
+      "artist": "LISA",
+      "tags": [
+        "lisa",
+        "blackpink"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "KhoQ6YY4OB8",
+      "urlMp3": "https://artetis.my.id/mp3/LISA-Cobra(LyricVideo).mp3",
+      "image": "https://i.ytimg.com/vi/KhoQ6YY4OB8/maxresdefault.jpg"
+    },
+    {
+      "title": "Sweat",
+      "release_date": "2026-10-23",
+      "album": "-",
+      "artist": "LISA",
+      "tags": [
+        "lisa",
+        "blackpink"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "rvMwVzaxjYU",
+      "urlMp3": "https://artetis.my.id/mp3/LISA-Sweat(LyricVideo).mp3",
+      "image": "https://i.ytimg.com/vi/rvMwVzaxjYU/maxresdefault.jpg"
+    },
+    {
+      "title": "Tarantino",
+      "release_date": "2026-10-23",
+      "album": "-",
+      "artist": "LISA",
+      "tags": [
+        "lisa",
+        "blackpink"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "-5ZXrO_lYSA",
+      "urlMp3": "https://artetis.my.id/mp3/LISA-Tarantino.mp3",
+      "image": "https://i.ytimg.com/vi/-5ZXrO_lYSA/maxresdefault.jpg"
     }
   ]
 }
