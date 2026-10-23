@@ -172,21 +172,21 @@
     "isVideoCallEnabled": true
   },
   "announcement": {
-    "id": "tuide-connect-launch-02",
-    "badge": "🎉 New App Live",
-    "title": "TUIDE CONNECT is Here!",
-    "description": "The official TUIDE fan app has arrived. Download TUIDE CONNECT for real-time updates, music, lyrics, and fan-focused content. Explore more on tuide-stan.",
-    "image": "https://od2-image-api.abs-cbn.com/prod/editorImage/178571813260401_TUIDE.jpg",
+    "id": "babymonster-comeback-01",
+    "badge": "🎉 Comeback",
+    "title": "BABYMONSTER Comeback Is Here!",
+    "description": "BABYMONSTER are back with their latest comeback. Download the BABYMONSTER app for comeback updates, music, and fan content. Explore more on babymonster-stan.",
+    "image": "https://i.ytimg.com/vi/oC6brLXQe4I/maxresdefault.jpg",
     "rewards": [
       {
         "icon": "download-outline",
-        "text": "Get the official TUIDE app, built for fans"
+        "text": "Get the official BABYMONSTER app, built for fans"
       }
     ],
     "cta": {
       "label": "Download Now",
       "action": "open_url",
-      "url": "https://play.google.com/store/apps/details?id=com.seventeen.uk"
+      "url": "https://play.google.com/store/apps/details?id=com.babymonster.lyrics"
     }
   },
   "gallery": [
