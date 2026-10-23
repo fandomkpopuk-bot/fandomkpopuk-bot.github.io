@@ -1,0 +1,161 @@
+{
+  "band_detail": {
+    "logoLine1": "aespa",
+    "logoLine2": "MY",
+    "agencyLabel": "SM ENTERTAINMENT",
+    "verifiedText": "Verified Artist",
+    "name": "aespa (에스파)",
+    "tagline": "KISS N TELL • RICH MAN Era",
+    "bio": "4-member girl group under SM Entertainment, consisting of Karina, Giselle, Winter and NingNing. They debuted on Nov 17, 2020 with the digital single Black Mamba. Fandom MY (MY = the most precious friend in KWANGYA). Featured here with KISS N TELL (Jul 24, 2026).",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Nov 17, 2020"
+      },
+      {
+        "label": "Fandom:",
+        "value": "MY",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "SM ENTERTAINMENT"
+      },
+      {
+        "label": "",
+        "value": "RICH MAN Era",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (4)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Karina",
+        "initials": "KR",
+        "role": "Leader • Main Dancer • Rapper",
+        "unit": "DANCE LINE",
+        "featured": true,
+        "tags": "karina",
+        "birthDate": "Apr 11, 2000",
+        "birthPlace": "Seongnam-si, Gyeonggi-do, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Taekwondo",
+          "Fashion styling",
+          "Listening to music"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Giselle",
+        "initials": "GS",
+        "role": "Main Rapper • Vocal",
+        "unit": "RAP LINE",
+        "tags": "giselle",
+        "birthDate": "Oct 30, 2000",
+        "birthPlace": "Seoul, South Korea",
+        "nationality": "Japanese-Korean",
+        "hobbies": [
+          "Playing guitar",
+          "Choir singing",
+          "Languages"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Winter",
+        "initials": "WN",
+        "role": "Main Vocal • Dancer • Visual",
+        "unit": "VOCAL LINE",
+        "tags": "winter",
+        "birthDate": "Jan 1, 2001",
+        "birthPlace": "Busan, South Korea",
+        "nationality": "South Korean",
+        "hobbies": [
+          "Drinking milk",
+          "Watching action films",
+          "Cooking for members"
+        ],
+        "image": ""
+      },
+      {
+        "name": "NingNing",
+        "initials": "NN",
+        "role": "Main Vocal • Maknae",
+        "unit": "VOCAL LINE",
+        "tags": "ningning",
+        "birthDate": "Oct 23, 2002",
+        "birthPlace": "Harbin, China",
+        "nationality": "Chinese",
+        "hobbies": [
+          "Cooking",
+          "Playing piano",
+          "Singing"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "aespa-kiss-n-tell-2026",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Jul 24, 2026",
+      "monthLabel": "JUL 2026",
+      "source": "SM ENTERTAINMENT / aespa Official",
+      "title": "aespa Drop 'KISS N TELL'!",
+      "excerpt": "New single with bold aespa energy. MV and lyrics inside.",
+      "quote": "Be my ae — aespa is back!",
+      "image": "https://i.ytimg.com/vi/inxzQt78lOk/maxresdefault.jpg",
+      "body": [
+        "aespa have officially released 'KISS N TELL', across official channels on Jul 24, 2026.",
+        "The track blends aespa's signature metaverse concept with powerful performance energy, backed by a music video and lyric videos on aespa Official channels.",
+        "KISS N TELL arrives following the group's 2020 debut with Black Mamba under SM Entertainment.",
+        "Streaming and download links are open now on all major platforms."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 4,
+    "maxViewImageCount": 4,
+    "maxDownloadCount": 5,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 8,
+    "freeAdsSessionVideosRequired": 6,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": false,
+    "isMembersEnabled": true,
+    "adBannerInterval": 8,
+    "isMinigameEnabled": true,
+    "isGalleryEnabled": false,
+    "androidUpdateType": "immediate",
+    "isNewGalleryEnabled": true,
+    "adsType": "reward",
+    "isVideoCallEnabled": true
+  },
+  "announcement": {
+    "id": "babymonster-comeback-01",
+    "badge": "🎉 Comeback",
+    "title": "BABYMONSTER Comeback Is Here!",
+    "description": "BABYMONSTER are back with their latest comeback. Download the BABYMONSTER app for comeback updates, music, and fan content. Explore more on babymonster-stan.",
+    "image": "https://i.ytimg.com/vi/oC6brLXQe4I/maxresdefault.jpg",
+    "rewards": [
+      {
+        "icon": "download-outline",
+        "text": "Get the official BABYMONSTER app, built for fans"
+      }
+    ],
+    "cta": {
+      "label": "Download Now",
+      "action": "open_url",
+      "url": "https://play.google.com/store/apps/details?id=com.babymonster.lyrics"
+    }
+  },
+  "gallery": []
+}

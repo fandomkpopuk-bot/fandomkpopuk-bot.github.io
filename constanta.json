@@ -65,6 +65,11 @@
         "page_redirect": "ive-stan"
     },
     {
+        "app_name": "AESPA",
+        "api_dir": "aespa-api",
+        "page_redirect": "aespa-stan"
+    },
+    {
         "app_name": "Other",
         "api_dir": "global-api",
         "page_redirect": "other-stan"
