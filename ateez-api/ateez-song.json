@@ -1682,6 +1682,22 @@
       "youtube_id": "Q53TqpuiCqU",
       "urlMp3": "https://artetis.my.id/mp3/ATEEZ(에이티즈)홍중,Bazzi-'ENOuGH'OfficialMV.mp3",
       "image": "https://i.ytimg.com/vi/Q53TqpuiCqU/maxresdefault.jpg"
+    },
+    {
+      "title": "Drip",
+      "release_date": "2026-10-23",
+      "album": "-",
+      "artist": "ATEEZ",
+      "tags": [
+        "ateez"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "iqQWCYMlMw0",
+      "urlMp3": "https://artetis.my.id/mp3/ATEEZ(에이티즈)-'Drip'OfficialMV.mp3",
+      "image": "https://i.ytimg.com/vi/iqQWCYMlMw0/maxresdefault.jpg"
     }
   ]
 }
