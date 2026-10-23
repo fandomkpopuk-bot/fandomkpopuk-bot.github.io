@@ -251,6 +251,12 @@
             "position": "Main Vocalist • IVE",
             "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Liz_of_Ive%2C_July_19%2C_2026_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
             "video_url": "https://artetis.my.id/mp4/liz.mp4"
+        },
+        {
+            "idol_name": "Doh Kyung Soo",
+            "position": "Main Vocalist • EXO",
+            "image_url": "https://i.pinimg.com/736x/2a/b2/2b/2ab22bee9cf50fc8bd5a30b33083c8a6.jpg",
+            "video_url": "https://artetis.my.id/mp4/dohkyungsoo.mp4"
         }
     ]
 }
