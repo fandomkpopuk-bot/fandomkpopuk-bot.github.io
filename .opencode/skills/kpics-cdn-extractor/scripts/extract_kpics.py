@@ -16,8 +16,8 @@ Notes:
 - Bila API dan HTML tidak tersedia, --html-file menerima file HTML/MHTML
   yang disimpan dari browser asli (View Source -> Save As). HTML fallback
   hanya memakai initialData.albumImages, bukan semua URL related.
-- Asset validation currently accepts JPEG (`.jpg`/`.jpeg`) only. PNG/WebP
-  records are rejected fail-closed until the downloader supports them.
+- Asset validation accepts JPEG (`.jpg`/`.jpeg`) and PNG (`.png`).
+  WebP source records are rejected fail-closed.
 - Detects Cloudflare "Just a moment..." challenge and reports blocked
   instead of returning empty silently.
 - Idempotent: same URL list always yields same sorted-dedup output.
@@ -45,7 +45,7 @@ TRUSTED_ASSET_HOSTS = {
     "cdn.kpopping.com",
     "pub-dc9a9c6ac2a64ba48bce426ced0ac56a.r2.dev",
 }
-SUPPORTED_ASSET_EXTENSIONS = (".jpg", ".jpeg")
+SUPPORTED_ASSET_EXTENSIONS = (".jpg", ".jpeg", ".png")
 KPOPPING_PAGE_HOSTS = {"kpopping.com", "www.kpopping.com"}
 
 
@@ -461,16 +461,16 @@ def extract_cdn(html: str) -> list[str]:
         return []
     out: set[str] = set()
     # Direct CDN refs: only trusted HTTPS kpics assets survive validation.
-    for m in re.findall(r"https?://cdn\.kpopping\.com/kpics/[A-Za-z0-9\-/._]+?\.jpg", html):
+    for m in re.findall(r"https?://cdn\.kpopping\.com/kpics/[A-Za-z0-9\-/._]+?\.(?:jpg|jpeg|png)", html):
         candidate = m.split("\\")[0]
         if is_kpic_asset_url(candidate):
             out.add(candidate)
     # Next.js encoded payloads: kpics%2F2026%2F09%2Fxxx.jpg
-    for fid in re.findall(r"kpics%2F(\d{4})%2F(\d{2})%2F([A-Za-z0-9\-\.]+?\.jpg)", html):
+    for fid in re.findall(r"kpics%2F(\d{4})%2F(\d{2})%2F([A-Za-z0-9\-\.]+?\.(?:jpg|jpeg|png))", html):
         year, month, name = fid
         out.add(f"https://cdn.kpopping.com/kpics/{year}/{month}/{name}")
     # Plain payloads: kpics/2026/09/xxx.jpg
-    for fid in re.findall(r"kpics/(\d{4})/(\d{2})/([A-Za-z0-9\-\.]+?\.jpg)", html):
+    for fid in re.findall(r"kpics/(\d{4})/(\d{2})/([A-Za-z0-9\-\.]+?\.(?:jpg|jpeg|png))", html):
         year, month, name = fid
         out.add(f"https://cdn.kpopping.com/kpics/{year}/{month}/{name}")
     return sorted(out)

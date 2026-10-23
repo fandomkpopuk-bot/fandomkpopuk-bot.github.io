@@ -4,7 +4,7 @@
 Membaca <api_dir>/*-content.json (mapping via constanta.json, lihat
 extract_kpics.resolve_content_file), mengunduh tiap URL photo_collection ke:
 
-  <asset-dir>/<slug-title>/<nama-file>.jpg
+  <asset-dir>/<slug-title>/<nama-file>.<ext-asli>
 
 lalu bila --rewrite-base diberikan, photo_collection ditulis ulang menjadi:
 
@@ -14,13 +14,16 @@ Contoh base GitHub Pages: https://fandomkpopuk-bot.github.io
 sehingga menjadi https://fandomkpopuk-bot.github.io/cortis-asset/<slug>/<file>
 
 Mode WebP (--to-webp): file disimpan sebagai .webp (nama sama, ekstensi
-diganti), rewrite menunjuk ke .webp. Butuh Pillow
+diganti: xxx.jpg -> xxx.webp, yyy.png -> yyy.webp), rewrite menunjuk
+ke .webp. Butuh Pillow
 (pip install pillow); fallback ke cwebp/ffmpeg bila ada.
 
 Aturan:
 - Idempotent: file lokal yang sudah ada (>0 byte, magic valid) dilewati.
-- Bila --to-webp dan .jpg sudah ada tapi .webp belum: konversi langsung
+- Sumber valid: magic JPEG atau PNG (WebP sumber ditolak).
+- Bila --to-webp dan file sumber sudah ada tapi .webp belum: konversi langsung
   tanpa download ulang.
+- Tabrakan nama (mis. foo.jpg vs foo.png -> foo.webp) diberi suffix -2, -3.
 - Rewrite HANYA untuk URL yang file lokalnya terbukti ada; sisanya
   dipertahankan agar tidak tercipta link mati.
 - Jangan pernah git commit dari script ini.
@@ -80,6 +83,19 @@ def is_jpeg(path: str) -> bool:
         return False
 
 
+def is_png(path: str) -> bool:
+    try:
+        with open(path, "rb") as f:
+            return f.read(8) == b"\x89PNG\r\n\x1a\n"
+    except OSError:
+        return False
+
+
+def is_supported_source(path: str) -> bool:
+    """File sumber valid: magic JPEG atau PNG (bukan WebP)."""
+    return is_jpeg(path) or is_png(path)
+
+
 def is_webp(path: str) -> bool:
     try:
         with open(path, "rb") as f:
@@ -95,7 +111,7 @@ def is_valid_image(path: str, to_webp: bool = False) -> bool:
         return False
     if to_webp:
         return is_webp(path)
-    return is_jpeg(path)
+    return is_supported_source(path)
 
 
 def webp_path_for(jpg_path: str) -> str:
@@ -103,8 +119,45 @@ def webp_path_for(jpg_path: str) -> str:
     return stem + ".webp"
 
 
+def build_plan(gallery, asset_abs, asset_dir, to_webp, rewrite_base):
+    """Bangun (idx, entry, url, src_local, final_local, pages_url).
+
+    final_local collision-safe: dua URL berbeda yang basename-nya memetakan
+    ke file lokal yang sama (mis. foo.jpg vs foo.png -> foo.webp) diberi
+    suffix -2, -3 agar tidak saling menimpa. Mapping deterministik sehingga
+    fase download dan rewrite selalu sepakat.
+    """
+    plan = []
+    used: dict[str, str] = {}
+    for idx, e in enumerate(gallery):
+        sub = slugify(e.get("title", ""))
+        for url in e.get("photo_collection", []):
+            if to_webp and url.rstrip("/").lower().endswith(".webp"):
+                continue
+            fname = url.rstrip("/").split("/")[-1].split("?")[0]
+            src_local = os.path.join(asset_abs, sub, fname)
+            if to_webp:
+                stem, _ = os.path.splitext(fname)
+                final_local = os.path.join(asset_abs, sub, stem + ".webp")
+            else:
+                final_local = src_local
+            base_stem, base_ext = os.path.splitext(os.path.basename(final_local))
+            n = 2
+            while final_local in used and used[final_local] != url:
+                final_local = os.path.join(
+                    asset_abs, sub, f"{base_stem}-{n}{base_ext}")
+                n += 1
+            used[final_local] = url
+            pages = None
+            if rewrite_base:
+                pages = (f"{rewrite_base.rstrip('/')}/{asset_dir}/{sub}/"
+                         f"{os.path.basename(final_local)}")
+            plan.append((idx, e, url, src_local, final_local, pages))
+    return plan
+
+
 def convert_to_webp(src: str, dst: str, quality: int = 80) -> bool:
-    """Konversi src (JPEG) -> dst (WebP). Coba Pillow, lalu cwebp, lalu ffmpeg."""
+    """Konversi src (JPEG/PNG) -> dst (WebP). Coba Pillow, lalu cwebp, lalu ffmpeg."""
     # 1. Pillow (utama, cross-platform)
     try:
         from PIL import Image
@@ -164,7 +217,7 @@ def download(url: str, path: str, referer: str = "https://kpopping.com/",
     r = subprocess.run(cmd, capture_output=True, text=True)
     meta = (r.stdout or "").strip()
     code = meta.split()[0] if meta else "000"
-    ok = code == "200" and os.path.exists(tmp) and is_jpeg(tmp)
+    ok = code == "200" and os.path.exists(tmp) and is_supported_source(tmp)
     if ok:
         os.replace(tmp, path)
     else:
@@ -191,7 +244,8 @@ def main() -> int:
     ap.add_argument("--quality", type=int, default=80,
                     help="Kualitas WebP 1-100 (default: 80)")
     ap.add_argument("--keep-jpg", action="store_true",
-                    help="Dengan --to-webp: pertahankan .jpg asli di samping .webp")
+                    help="Dengan --to-webp: pertahankan file sumber asli "
+                         "di samping .webp")
     ap.add_argument("--cookies", default=None,
                     help="File cookies Netscape (ekspor browser via Get cookies.txt) "
                          "agar download lolos Cloudflare")
@@ -224,94 +278,82 @@ def main() -> int:
     data = json.load(open(target, encoding="utf-8"))
     gallery = data.get("gallery", [])
 
-    plan = []  # (entry, url, jpg_path, final_path, pages_url)
-    for e in gallery:
-        sub = slugify(e.get("title", ""))
-        for url in e.get("photo_collection", []):
-            # Lewati URL yang sudah hasil rewrite webp agar tak diunduh ulang
-            if args.to_webp and url.rstrip("/").lower().endswith(".webp"):
-                continue
-            fname = url.rstrip("/").split("/")[-1].split("?")[0]
-            jpg_local = os.path.join(asset_abs, sub, fname)
-            final_local = webp_path_for(jpg_local) if args.to_webp else jpg_local
-            final_fname = os.path.basename(final_local)
-            pages = None
-            if args.rewrite_base:
-                pages = f"{args.rewrite_base.rstrip('/')}/{asset_dir}/{sub}/{final_fname}"
-            plan.append((e, url, jpg_local, final_local, pages))
+    plan = build_plan(gallery, asset_abs, asset_dir,
+                      args.to_webp, args.rewrite_base)
 
     if args.dry_run:
         mode = "webp" if args.to_webp else "jpg"
         print(f"TARGET: {target} ASSET: {asset_dir}/ mode={mode} "
               f"entries={len(gallery)} files={len(plan)}")
-        for title in sorted({e.get("title") for e, _, _, _, _ in plan}):
-            n = sum(1 for e, _, _, _, _ in plan if e.get("title") == title)
+        for title in sorted({e.get("title") for _, e, _, _, _, _ in plan}):
+            n = sum(1 for _, e, _, _, _, _ in plan if e.get("title") == title)
             print(f"  {slugify(title)}/ <- '{title}' ({n} files)")
         if args.rewrite_base and plan:
-            _, _, _, _, sample = plan[0]
+            *_, sample = plan[0]
             print(f"  sample rewrite: {sample}")
         return 0
 
     ok, fail, skip, converted = 0, [], 0, 0
-    for i, (e, url, jpg_local, final_local, pages) in enumerate(plan, 1):
+    for i, (idx, e, url, src_local, final_local, pages) in enumerate(plan, 1):
         if is_valid_image(final_local, to_webp=args.to_webp):
             skip += 1
             continue
         os.makedirs(os.path.dirname(final_local), exist_ok=True)
         if args.to_webp:
-            # Konversi dari .jpg yang sudah ada tanpa download ulang
-            if is_jpeg(jpg_local):
-                if convert_to_webp(jpg_local, final_local, args.quality):
+            # Konversi dari file sumber yang sudah ada tanpa download ulang
+            if is_supported_source(src_local):
+                if convert_to_webp(src_local, final_local, args.quality):
                     converted += 1
                     if not args.keep_jpg:
                         try:
-                            os.remove(jpg_local)
+                            os.remove(src_local)
                         except OSError:
                             pass
                     print(f"[{i}/{len(plan)}] CONVERT {final_local}", flush=True)
                     time.sleep(0.05)
                     continue
                 # konversi gagal -> download ulang di bawah
-            if download(url, jpg_local, cookies=args.cookies):
-                if convert_to_webp(jpg_local, final_local, args.quality):
+            if download(url, src_local, cookies=args.cookies):
+                if convert_to_webp(src_local, final_local, args.quality):
                     converted += 1
                     ok += 1
                     if not args.keep_jpg:
                         try:
-                            os.remove(jpg_local)
+                            os.remove(src_local)
                         except OSError:
                             pass
                     print(f"[{i}/{len(plan)}] OK {final_local}", flush=True)
                 else:
                     fail.append(url)
-                    print(f"[{i}/{len(plan)}] FAIL-convert {jpg_local}", flush=True)
+                    print(f"[{i}/{len(plan)}] FAIL-convert {src_local}", flush=True)
             else:
                 fail.append(url)
-                print(f"[{i}/{len(plan)}] FAIL {jpg_local}", flush=True)
+                print(f"[{i}/{len(plan)}] FAIL {src_local}", flush=True)
             time.sleep(args.delay)
         else:
-            if download(url, jpg_local, cookies=args.cookies):
+            if download(url, src_local, cookies=args.cookies):
                 ok += 1
             else:
                 fail.append(url)
-            print(f"[{i}/{len(plan)}] {'OK' if url not in fail else 'FAIL'} {jpg_local}", flush=True)
+            print(f"[{i}/{len(plan)}] {'OK' if url not in fail else 'FAIL'} {src_local}", flush=True)
             time.sleep(args.delay)
 
     rewritten = 0
     if args.rewrite_base:
-        for e in gallery:
-            sub = slugify(e.get("title", ""))
+        by_entry: dict[int, list] = {}
+        for idx, _e, url, _src, final_local, pages in plan:
+            by_entry.setdefault(idx, []).append((url, final_local, pages))
+        for idx, e in enumerate(gallery):
             new_coll = []
             for url in e.get("photo_collection", []):
                 if args.to_webp and url.rstrip("/").lower().endswith(".webp"):
                     new_coll.append(url)  # sudah rewrite, biarkan
                     continue
-                fname = url.rstrip("/").split("/")[-1].split("?")[0]
-                jpg_local = os.path.join(asset_abs, sub, fname)
-                final_local = webp_path_for(jpg_local) if args.to_webp else jpg_local
-                if is_valid_image(final_local, to_webp=args.to_webp):
-                    new_coll.append(
-                        f"{args.rewrite_base.rstrip('/')}/{asset_dir}/{sub}/{os.path.basename(final_local)}")
+                match = next((x for x in by_entry.get(idx, [])
+                              if x[0] == url), None)
+                if (match is not None
+                        and is_valid_image(match[1], to_webp=args.to_webp)):
+                    new_coll.append(match[2])
                     rewritten += 1
                 else:
                     new_coll.append(url)  # file belum ada: jangan bikin link mati

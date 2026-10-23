@@ -44,7 +44,7 @@ Jangan menebak title di luar urutan itu. Saat update entry lama, pertahankan tit
 1. Jangan pakai `webfetch` untuk halaman kpopping — endpoint HTML sering mendapat challenge Cloudflare 403. Skrip memakai `curl`; untuk `/kpics/<slug>` coba API JSON resmi terlebih dahulu, baru HTML sebagai fallback.
 2. Jangan menebak URL CDN — gunakan hanya `albumImages[].src` dari `/api/photos` atau structured `initialData.albumImages[].src` di HTML. Jangan memindai semua URL `/kpics/` di HTML karena dapat mencakup foto related/galeri lain. Endpoint API adalah sumber resmi yang dipanggil bundle halaman Kpopping.
 3. Dedup + sort. Abaikan `static/`, `avatar`, `graph`.
-4. Format aset yang didukung pipeline saat ini hanya JPEG (`.jpg`/`.jpeg`). Record PNG/WebP ditolak fail-closed sampai downloader mendukung konversi/path-nya; jangan mutate gallery dengan album campuran yang tidak tervalidasi.
+4. Format aset yang didukung pipeline: JPEG (`.jpg`/`.jpeg`) dan PNG (`.png`). Record WebP sumber ditolak fail-closed; jangan mutate gallery dengan album yang berisi ekstensi tak didukung dan tidak tervalidasi. Tabrakan basename (`foo.jpg` vs `foo.png` → `foo.webp`) diberi suffix `-2`, `-3`.
 5. Jika API dan HTML fallback sama-sama diblokir Cloudflare (`Just a moment...` dan kecil <20KB), tandai `blocked`, jangan keluarkan list kosong seolah lengkap. Jangan timpa `photo_collection` lama dengan hasil blocked/kosong.
 6. Jangan hapus `api_url` di `*-content.json` kecuali user eksplisit meminta format `{title, photo_collection}` tanpa `api_url` (pakai `--drop-api-url` hanya atas otorisasi itu).
 7. Langsung full pipeline tanpa bertanya konfirmasi bila URL + petunjuk app sudah diberikan: scrape → update `photo_collection` → download aset `--to-webp` → rewrite ke GitHub Pages. Default `rewrite-base`: `https://fandomkpopuk-bot.github.io`. Lewati download hanya bila user eksplisit meminta opt-out (`cdn-only` / `tanpa download` / `tanpa webp`). Jangan `git commit` — hanya ubah working tree, commit biar user yang lakukan.
@@ -111,9 +111,9 @@ python3 .opencode/skills/kpics-cdn-extractor/scripts/download_assets.py --app CO
 python3 -m json.tool cortis-api/cortis-content.json > /dev/null && echo "JSON OK"
 ```
 
-Aturan: extractor dan downloader saat ini hanya menerima source JPEG (`.jpg`/`.jpeg`); PNG/WebP fail-closed. File JPEG valid dilewati secara idempotent; rewrite HANYA untuk URL yang file lokalnya terbukti ada — sisanya dipertahankan agar tak jadi link mati; `photo_collection` hasil rewrite mis. `https://fandomkpopuk-bot.github.io/cortis-asset/lollapalooza-photo-sketch/xxx.jpg`. Default asset dir `<app>-asset` (mis. `cortis-api` → `cortis-asset/`), bisa dioverride via `--asset-dir`. Jangan `git commit`.
+Aturan: extractor dan downloader menerima source JPEG (`.jpg`/`.jpeg`) dan PNG (`.png`); source WebP fail-closed. File sumber valid dilewati secara idempotent; rewrite HANYA untuk URL yang file lokalnya terbukti ada — sisanya dipertahankan agar tak jadi link mati; `photo_collection` hasil rewrite mis. `https://fandomkpopuk-bot.github.io/cortis-asset/lollapalooza-photo-sketch/xxx.jpg`. Default asset dir `<app>-asset` (mis. `cortis-api` → `cortis-asset/`), bisa dioverride via `--asset-dir`. Jangan `git commit`.
 
-Mode WebP (`--to-webp`, butuh `pip install pillow`, fallback `cwebp`/`ffmpeg`): file disimpan sebagai `.webp` (`xxx.jpg` → `xxx.webp`, kualitas default `--quality 80`), `.jpg` sementara dihapus kecuali `--keep-jpg`; idempotent (`.webp` valid dilewati, `.jpg` lama dikonversi tanpa download ulang); rewrite menunjuk ke `.xxx.webp`. Uji nyata: 4.7MB JPG → ~0.7MB WebP q80.
+Mode WebP (`--to-webp`, butuh `pip install pillow`, fallback `cwebp`/`ffmpeg`): file disimpan sebagai `.webp` (`xxx.jpg` → `xxx.webp`, `yyy.png` → `yyy.webp`, kualitas default `--quality 80`), file sumber sementara dihapus kecuali `--keep-jpg`; idempotent (`.webp` valid dilewati, sumber lama dikonversi tanpa download ulang); rewrite menunjuk ke `.webp`. Uji nyata: 4.7MB JPG → ~0.7MB WebP q80.
 
 Bila `cdn.kpopping.com` 403 Cloudflare: minta user ekspor cookies browser (ekstensi "Get cookies.txt", setelah halaman lolos challenge) lalu:
 ```sh
