@@ -169,5 +169,18 @@
         "FB:AF:DB:95:5A:63:38:2A:D0:4D:50:B9:F3:3E:C5:1D:C9:F9:91:29:B6:4E:B9:D4:4F:ED:0B:A2:06:82:69:36"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aespa.fans",
+      "sha256_cert_fingerprints": [
+        "66:AD:D8:09:22:DC:CC:F4:F4:30:30:D5:1B:5D:22:38:D2:2C:8C:FE:D1:69:87:A9:06:34:6B:12:03:75:F6:89"
+      ]
+    }
   }
 ]
