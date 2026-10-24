@@ -784,6 +784,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Ana",
+      "country": "Brazil",
+      "score": 1325
+    },
+    {
       "name": "Olive",
       "score": 999,
       "country": "UK"
