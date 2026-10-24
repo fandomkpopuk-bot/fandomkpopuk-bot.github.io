@@ -257,6 +257,30 @@
             "position": "Main Vocalist • EXO",
             "image_url": "https://i.pinimg.com/736x/2a/b2/2b/2ab22bee9cf50fc8bd5a30b33083c8a6.jpg",
             "video_url": "https://artetis.my.id/mp4/dohkyungsoo.mp4"
+        },
+        {
+            "idol_name": "Karina",
+            "position": "Leader • Main Dancer • Rapper • AESPA",
+            "image_url": "https://fandomkpopuk-bot.github.io/aespa-asset/aespa-2027-season-s-greetings-one-more-page-i-swear-teasers/1791603107502-afiqa2-2.webp",
+            "video_url": "https://artetis.my.id/mp4/aespa.mp4"
+        },
+        {
+            "idol_name": "Giselle",
+            "position": "Main Rapper • Vocal • AESPA",
+            "image_url": "https://fandomkpopuk-bot.github.io/aespa-asset/aespa-2027-season-s-greetings-one-more-page-i-swear-teasers/1791603107502-y81822-7.webp",
+            "video_url": "https://artetis.my.id/mp4/gissele.mp4"
+        },
+        {
+            "idol_name": "Winter",
+            "position": "Main Vocal • Dancer • Visual • AESPA",
+            "image_url": "https://fandomkpopuk-bot.github.io/aespa-asset/aespa-2027-season-s-greetings-one-more-page-i-swear-teasers/1791603107502-nnwarv-3.webp",
+            "video_url": "https://artetis.my.id/mp4/winter.mp4"
+        },
+        {
+            "idol_name": "NingNing",
+            "position": "Main Vocal • Maknae • AESPA",
+            "image_url": "https://fandomkpopuk-bot.github.io/aespa-asset/aespa-2027-season-s-greetings-one-more-page-i-swear-teasers/1791603107502-oqlnq5-6.webp",
+            "video_url": "https://artetis.my.id/mp4/ningning.mp4"
         }
     ]
 }
