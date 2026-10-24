@@ -166,21 +166,21 @@
     }
   ],
   "announcement": {
-    "id": "babymonster-comeback-01",
-    "badge": "🎉 Comeback",
-    "title": "BABYMONSTER Comeback Is Here!",
-    "description": "BABYMONSTER are back with their latest comeback. Download the BABYMONSTER app for comeback updates, music, and fan content. Explore more on babymonster-stan.",
-    "image": "https://i.ytimg.com/vi/oC6brLXQe4I/maxresdefault.jpg",
+    "id": "evan-noise-2026",
+    "badge": "🎵 New Music",
+    "title": "EVAN Songs Are Now in This App!",
+    "description": "EVAN (에반) 'Noise' Live Film is now available in this app, along with Death of Me, Not Enough, Twilight, Immature, Going Home, Ride or Die, and Overflow. Play the songs, view the lyrics, and enjoy the gallery now!",
+    "image": "https://i.ytimg.com/vi/mvo1Cnq5vT4/maxresdefault.jpg",
     "rewards": [
       {
-        "icon": "download-outline",
-        "text": "Get the official BABYMONSTER app, built for fans"
+        "icon": "musical-notes-outline",
+        "text": "8 EVAN songs available to play with lyrics"
       }
     ],
     "cta": {
-      "label": "Download Now",
-      "action": "open_url",
-      "url": "https://play.google.com/store/apps/details?id=com.babymonster.lyrics"
+      "label": "Play Now",
+      "action": "open_page",
+      "page": "Library"
     }
   },
   "config": {
