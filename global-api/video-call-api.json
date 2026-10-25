@@ -281,6 +281,36 @@
             "position": "Main Vocal • Maknae • AESPA",
             "image_url": "https://fandomkpopuk-bot.github.io/aespa-asset/aespa-2027-season-s-greetings-one-more-page-i-swear-teasers/1791603107502-oqlnq5-6.webp",
             "video_url": "https://artetis.my.id/mp4/ningning.mp4"
+        },
+        {
+            "idol_name": "Minji",
+            "position": "Rapper • Vocal • NEW JEANS",
+            "image_url": "https://fandomkpopuk-bot.github.io/newjeans-asset/newjeans-4th-anniversary/1784649277704-urvl0z-7.webp",
+            "video_url": "https://artetis.my.id/mp4/minji.mp4"
+        },
+        {
+            "idol_name": "Hanni",
+            "position": "Vocalist • NEW JEANS",
+            "image_url": "https://fandomkpopuk-bot.github.io/newjeans-asset/newjeans-4th-anniversary/1784649277704-hftk6u-11.webp",
+            "video_url": "https://artetis.my.id/mp4/hanni.mp4"
+        },
+        {
+            "idol_name": "Haerin",
+            "position": "Vocal • Dance • NEW JEANS",
+            "image_url": "https://fandomkpopuk-bot.github.io/newjeans-asset/newjeans-4th-anniversary/1784649277704-6zltzx-18.webp",
+            "video_url": "https://artetis.my.id/mp4/haerin.mp4"
+        },
+        {
+            "idol_name": "Hyein",
+            "position": "Maknae • Vocal • NEW JEANS",
+            "image_url": "https://fandomkpopuk-bot.github.io/newjeans-asset/newjeans-4th-anniversary/1784649277704-9fdjf1-22.webp",
+            "video_url": "https://artetis.my.id/mp4/hyein.mp4"
+        },
+        {
+            "idol_name": "Danielle",
+            "position": "Vocal • NEW JEANS",
+            "image_url": "https://awsimages.detik.net.id/community/media/visual/2025/12/30/danielle-newjeans-1767078096034.webp?w=700&q=90",
+            "video_url": "https://artetis.my.id/mp4/danielle.mp4"
         }
     ]
 }
