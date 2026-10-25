@@ -182,5 +182,18 @@
         "66:AD:D8:09:22:DC:CC:F4:F4:30:30:D5:1B:5D:22:38:D2:2C:8C:FE:D1:69:87:A9:06:34:6B:12:03:75:F6:89"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.newjeans.uk",
+      "sha256_cert_fingerprints": [
+        "92:13:E3:33:2C:80:D4:80:CC:5D:63:81:D0:AE:B3:A8:13:37:80:8D:90:AD:4F:C2:D5:B2:DA:D1:18:8D:9F:96"
+      ]
+    }
   }
 ]
