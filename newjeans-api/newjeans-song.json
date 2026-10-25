@@ -6,7 +6,7 @@
       "album": "Get Up",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-newjeans.mp3",
       "image": "https://i.ytimg.com/vi/Krr2u8BUtLw/maxresdefault.jpg",
@@ -90,7 +90,9 @@
         "New tee",
         "NewJeans",
         "You & me"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Super Shy",
@@ -98,7 +100,7 @@
       "album": "Get Up",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-supershy.mp3",
       "image": "https://i.ytimg.com/vi/ArmDp-zijuc/maxresdefault.jpg",
@@ -163,7 +165,9 @@
         "Do ya?",
         "You don't even know my name",
         "Do ya-a?"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "ETA",
@@ -171,7 +175,7 @@
       "album": "Get Up",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-eta.mp3",
       "image": "https://i.ytimg.com/vi/jOTfBlKSQYY/maxresdefault.jpg",
@@ -233,7 +237,9 @@
         "Need a boy on my arm (Need a boy on my arm)",
         "Want a boy on my arm (Want a boy on my arm)",
         "Need you boy on my arm (Need you boy on my arm)"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Cool With You",
@@ -241,7 +247,7 @@
       "album": "Get Up",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-coolwithyou.mp3",
       "image": "https://i.ytimg.com/vi/R-Vflly99ZM/maxresdefault.jpg",
@@ -292,7 +298,9 @@
         "Cool with you (Gotta tell me now)",
         "Cool with you (It just; See me like no other)",
         "Cool with you (Haha)"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Get Up",
@@ -300,7 +308,7 @@
       "album": "Get Up",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-getup.mp3",
       "image": "https://i.ytimg.com/vi/SXM1q0CTfew/maxresdefault.jpg",
@@ -318,7 +326,9 @@
         "Meet me back in 5",
         "If I matter to you",
         "Like you say, I do"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Attention",
@@ -326,13 +336,15 @@
       "album": "New Jeans",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-attention.mp3",
       "image": "https://i.ytimg.com/vi/kdOS94IjzzE/maxresdefault.jpg",
       "popularity": 90000,
       "youtube_id": "kdOS94IjzzE",
-      "latin_lyric": null
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Hype Boy",
@@ -340,13 +352,15 @@
       "album": "New Jeans",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-hypeboy.mp3",
       "image": "https://i.ytimg.com/vi/ghrlZIMDzbM/maxresdefault.jpg",
       "popularity": 90000,
       "youtube_id": "ghrlZIMDzbM",
-      "latin_lyric": null
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Cookie",
@@ -354,13 +368,15 @@
       "album": "New Jeans",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-cookie.mp3",
       "image": "https://i.ytimg.com/vi/0M4QMVQJRsw/maxresdefault.jpg",
       "popularity": 90000,
       "youtube_id": "0M4QMVQJRsw",
-      "latin_lyric": null
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Hurt",
@@ -368,13 +384,15 @@
       "album": "New Jeans",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-hurt.mp3",
       "image": "https://i.ytimg.com/vi/8QWtOgBJZNc/maxresdefault.jpg",
       "popularity": 90000,
       "youtube_id": "8QWtOgBJZNc",
-      "latin_lyric": null
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Ditto",
@@ -382,13 +400,15 @@
       "album": "-",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-ditto.mp3",
       "image": "https://i.ytimg.com/vi/-g9I2neQR7w/maxresdefault.jpg",
       "popularity": 90000,
       "youtube_id": "-g9I2neQR7w",
-      "latin_lyric": null
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "OMG",
@@ -396,13 +416,15 @@
       "album": "-",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-omg.mp3",
       "image": "https://i.ytimg.com/vi/2Kff0U8w-aU/maxresdefault.jpg",
       "popularity": 90000,
       "youtube_id": "2Kff0U8w-aU",
-      "latin_lyric": null
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Zero",
@@ -410,13 +432,15 @@
       "album": "-",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-zero.mp3",
       "image": "https://i.ytimg.com/vi/pMVpKyipkWU/maxresdefault.jpg",
       "popularity": 90000,
       "youtube_id": "pMVpKyipkWU",
-      "latin_lyric": null
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Beautiful Restriction",
@@ -424,7 +448,7 @@
       "album": "-",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-beatiful.mp3",
       "image": "https://i.ytimg.com/vi/BEi3tU61ixc/maxresdefault.jpg",
@@ -474,7 +498,9 @@
         "",
         "Tto dareun naega on geoya",
         "Nae ape nega on geoya"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "GODS ft. NewJeans",
@@ -482,7 +508,7 @@
       "album": "-",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-gods.mp3",
       "image": "https://i.ytimg.com/vi/C3GouGa0noM/maxresdefault.jpg",
@@ -557,7 +583,9 @@
         "Go-Go-Go-Go-Go-Gods",
         "",
         "Once you play"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "How Sweet",
@@ -565,7 +593,7 @@
       "album": "-",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-hotsweet.mp3",
       "image": "https://i.ytimg.com/vi/vrM2mrI83uk/maxresdefault.jpg",
@@ -649,7 +677,9 @@
         "You're no better geogi sumji malgo eolleun nawa",
         "You little demon in my storyline",
         "Don't knock on my door, I'll see you out"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Bubble Gum",
@@ -657,7 +687,7 @@
       "album": "-",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-bublegum.mp3",
       "image": "https://i.ytimg.com/vi/GV_HP7yoIyc/maxresdefault.jpg",
@@ -742,7 +772,9 @@
         "Nopi inneun pungseongachi",
         "Have you right here in a basket",
         "Oh, my baby, sweet like bubble gum"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Right Now",
@@ -750,7 +782,7 @@
       "album": "-",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-rightnow.mp3",
       "image": "https://i.ytimg.com/vi/B1Vv1zQyR04/maxresdefault.jpg",
@@ -819,7 +851,9 @@
         "I don't care",
         "Right now, right now",
         "Baby, I don't"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "Supernatural",
@@ -827,7 +861,7 @@
       "album": "-",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-supernatural.mp3",
       "image": "https://i.ytimg.com/vi/8yXGI3kcLsw/maxresdefault.jpg",
@@ -885,7 +919,9 @@
         "Watashi to anata",
         "Golden moon, diamond stars",
         "In a moment, we unite"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     },
     {
       "title": "ASAP",
@@ -893,7 +929,7 @@
       "album": "Get Up",
       "artist": "New Jeans",
       "tags": [
-        "newjeans"
+        "new jeans"
       ],
       "urlMp3": "https://wekaryatech.github.io/song/newjeans-asap.mp3",
       "image": "https://i.ytimg.com/vi/dJdqn5v4Dkw/maxresdefault.jpg",
@@ -942,7 +978,9 @@
         "Tik tok tik tok tik tok",
         "Just for a minute",
         "Tik tok tik tok tik tok"
-      ]
+      ],
+      "korean_lyric": null,
+      "english_lyric": null
     }
   ]
 }

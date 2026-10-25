@@ -6,7 +6,7 @@
     "verifiedText": "Verified Artist",
     "name": "NewJeans (뉴진스)",
     "tagline": "Attention • Global Y2K Icons",
-    "bio": "Debuted on Jul 22, 2022 under ADOR. 5-member girl group with fresh Y2K sound and record-breaking EPs, uniting the BUNNIES fandom from Seoul to the world and beyond.",
+    "bio": "Girl group under ADOR & HYBE Labels (source: kprofiles.com/newjeans-members-profile). Members Minji, Hanni, Haerin and Hyein (Danielle's contract terminated Dec 29, 2025 per ADOR). Debut single \"Attention\" Jul 22, 2022, official debut Aug 1, 2022 with 1st EP New Jeans. Fandom: Bunnies (Tokki).",
     "infoChips": [
       {
         "label": "Debut:",
@@ -33,49 +33,52 @@
       {
         "name": "Minji",
         "initials": "MJ",
-        "role": "Leader • Vocal",
+        "role": "Rapper • Vocal",
         "unit": "LEADER LINE",
         "featured": true,
         "tags": "minji",
         "birthDate": "May 7, 2004",
-        "birthPlace": "Seoul, South Korea",
-        "nationality": "South Korean",
+        "birthPlace": "Chuncheon, Gangwon, South Korea",
+        "nationality": "Korean",
         "hobbies": [
-          "Dancing",
-          "Singing",
-          "Reading"
+          "Reading (mystery novels)",
+          "Walking",
+          "Watching movies",
+          "Decorating diary"
         ],
         "image": ""
       },
       {
         "name": "Hanni",
         "initials": "HN",
-        "role": "Vocal • Dance",
+        "role": "Vocalist",
         "unit": "VOCAL LINE",
         "tags": "hanni",
         "birthDate": "Oct 6, 2004",
-        "birthPlace": "Melbourne, Australia",
+        "birthPlace": "Melbourne, Victoria, Australia",
         "nationality": "Vietnamese-Australian",
         "hobbies": [
-          "Singing",
-          "Dancing",
-          "Cooking"
+          "Ukulele",
+          "Photography (clouds)",
+          "Night walks",
+          "Hoodies"
         ],
         "image": ""
       },
       {
         "name": "Danielle",
         "initials": "DT",
-        "role": "Vocal • Variety",
+        "role": "Vocal",
         "unit": "VOCAL LINE",
         "tags": "danielle",
         "birthDate": "Apr 11, 2005",
-        "birthPlace": "Newcastle, Australia",
+        "birthPlace": "Newcastle, New South Wales, Australia",
         "nationality": "Korean-Australian",
         "hobbies": [
           "Surfing",
-          "Singing",
-          "Painting"
+          "Drawing & painting",
+          "Swimming",
+          "Listening to music"
         ],
         "image": ""
       },
@@ -86,12 +89,12 @@
         "unit": "VOCAL LINE",
         "tags": "haerin",
         "birthDate": "May 15, 2006",
-        "birthPlace": "Seoul, South Korea",
-        "nationality": "South Korean",
+        "birthPlace": "Dongjak-gu, Seoul, South Korea",
+        "nationality": "Korean",
         "hobbies": [
-          "Dancing",
-          "Photography",
-          "Cats"
+          "Listening to music",
+          "Reading",
+          "Wearing caps"
         ],
         "image": ""
       },
@@ -103,11 +106,11 @@
         "tags": "hyein",
         "birthDate": "Apr 21, 2008",
         "birthPlace": "Incheon, South Korea",
-        "nationality": "South Korean",
+        "nationality": "Korean",
         "hobbies": [
-          "Singing",
-          "Drawing",
-          "Fashion"
+          "Photography (sky)",
+          "Watching movies",
+          "Walking"
         ],
         "image": ""
       }
@@ -136,6 +139,7 @@
   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 4,
+    "maxViewImageCount": 4,
     "maxDownloadCount": 5,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 8,
@@ -147,7 +151,12 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 8,
-    "isMinigameEnabled": true
+    "isMinigameEnabled": true,
+    "isGalleryEnabled": false,
+    "androidUpdateType": "immediate",
+    "isNewGalleryEnabled": true,
+    "adsType": "reward",
+    "isVideoCallEnabled": true
   },
   "announcement": {
     "id": "tuide-connect-launch-03",
@@ -166,5 +175,6 @@
       "action": "open_url",
       "url": "https://play.google.com/store/apps/details?id=com.seventeen.uk"
     }
-  }
+  },
+  "gallery": []
 }
