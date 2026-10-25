@@ -15,12 +15,14 @@ sehingga menjadi https://fandomkpopuk-bot.github.io/cortis-asset/<slug>/<file>
 
 Mode WebP (--to-webp): file disimpan sebagai .webp (nama sama, ekstensi
 diganti: xxx.jpg -> xxx.webp, yyy.png -> yyy.webp), rewrite menunjuk
-ke .webp. Butuh Pillow
+ke .webp. Sumber yang sudah .webp dipakai apa adanya tanpa konversi.
+Butuh Pillow
 (pip install pillow); fallback ke cwebp/ffmpeg bila ada.
 
 Aturan:
 - Idempotent: file lokal yang sudah ada (>0 byte, magic valid) dilewati.
-- Sumber valid: magic JPEG atau PNG (WebP sumber ditolak).
+- Sumber valid: magic JPEG, PNG, atau WebP (sumber WebP dipakai apa adanya,
+  tanpa konversi ulang, cukup rename/salin ke nama final .webp).
 - Bila --to-webp dan file sumber sudah ada tapi .webp belum: konversi langsung
   tanpa download ulang.
 - Tabrakan nama (mis. foo.jpg vs foo.png -> foo.webp) diberi suffix -2, -3.
@@ -92,8 +94,8 @@ def is_png(path: str) -> bool:
 
 
 def is_supported_source(path: str) -> bool:
-    """File sumber valid: magic JPEG atau PNG (bukan WebP)."""
-    return is_jpeg(path) or is_png(path)
+    """File sumber valid: magic JPEG, PNG, atau WebP."""
+    return is_jpeg(path) or is_png(path) or is_webp(path)
 
 
 def is_webp(path: str) -> bool:
@@ -132,14 +134,14 @@ def build_plan(gallery, asset_abs, asset_dir, to_webp, rewrite_base):
     for idx, e in enumerate(gallery):
         sub = slugify(e.get("title", ""))
         for url in e.get("photo_collection", []):
-            if to_webp and url.rstrip("/").lower().endswith(".webp"):
-                continue
             fname = url.rstrip("/").split("/")[-1].split("?")[0]
             src_local = os.path.join(asset_abs, sub, fname)
-            if to_webp:
+            if to_webp and not url.rstrip("/").lower().endswith(".webp"):
                 stem, _ = os.path.splitext(fname)
                 final_local = os.path.join(asset_abs, sub, stem + ".webp")
             else:
+                # Tanpa --to-webp, atau sumber sudah .webp: pakai apa adanya
+                # (tidak ada konversi; hanya rename ke nama final).
                 final_local = src_local
             base_stem, base_ext = os.path.splitext(os.path.basename(final_local))
             n = 2
@@ -300,8 +302,19 @@ def main() -> int:
             continue
         os.makedirs(os.path.dirname(final_local), exist_ok=True)
         if args.to_webp:
+            # Sumber sudah .webp: unduh apa adanya tanpa konversi.
+            if url.rstrip("/").lower().endswith(".webp"):
+                if download(url, final_local, cookies=args.cookies):
+                    ok += 1
+                    print(f"[{i}/{len(plan)}] OK {final_local} (webp passthrough)",
+                          flush=True)
+                else:
+                    fail.append(url)
+                    print(f"[{i}/{len(plan)}] FAIL {final_local}", flush=True)
+                time.sleep(args.delay)
+                continue
             # Konversi dari file sumber yang sudah ada tanpa download ulang
-            if is_supported_source(src_local):
+            if is_jpeg(src_local) or is_png(src_local):
                 if convert_to_webp(src_local, final_local, args.quality):
                     converted += 1
                     if not args.keep_jpg:
@@ -346,9 +359,6 @@ def main() -> int:
         for idx, e in enumerate(gallery):
             new_coll = []
             for url in e.get("photo_collection", []):
-                if args.to_webp and url.rstrip("/").lower().endswith(".webp"):
-                    new_coll.append(url)  # sudah rewrite, biarkan
-                    continue
                 match = next((x for x in by_entry.get(idx, [])
                               if x[0] == url), None)
                 if (match is not None
