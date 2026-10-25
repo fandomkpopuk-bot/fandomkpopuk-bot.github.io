@@ -674,6 +674,11 @@
       "score": 1600
     },
     {
+      "name": "Moon",
+      "country": "France",
+      "score": 1150
+    },
+    {
       "name": "Diyineth",
       "country": "Chile",
       "score": 975
@@ -687,11 +692,6 @@
       "name": "Victoria",
       "country": "Vicky",
       "score": 650
-    },
-    {
-      "name": "khesemi limbu",
-      "country": "nepal",
-      "score": 600
     }
   ],
   "event_list": [

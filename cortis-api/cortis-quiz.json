@@ -331,6 +331,11 @@
       "score": 5450
     },
     {
+      "name": "Misya",
+      "country": "Malaysia",
+      "score": 5400
+    },
+    {
       "name": "Hana",
       "country": "Việt Nam",
       "score": 2575
@@ -349,11 +354,6 @@
       "name": "Tranhan",
       "country": "Vietnamese",
       "score": 2225
-    },
-    {
-      "name": "Dorji Yudon",
-      "country": "Bhutan",
-      "score": 2125
     }
   ],
   "event_list": [
