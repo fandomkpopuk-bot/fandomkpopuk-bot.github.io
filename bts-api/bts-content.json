@@ -146,19 +146,25 @@
     "verifiedText": "Verified Artist"
   },
   "announcement": {
-    "id": "rate-us-playstore-01",
-    "badge": "⭐ Support Us",
-    "title": "Enjoying BTS? ⭐",
-    "description": "Support us with a 5-star rating on the Play Store! Your review helps us grow and bring more songs, lyrics & updates for BTS fans.",
-    "image": "https://play-lh.googleusercontent.com/020GnyVJKboBRDyZ9Oe4pfigwkm8Mq1_SO0br0Lk6-eQhiRHXeJ5dFH6-JI3DQSx3QkGpOYKTmZu=w1296-h2160-rw",
+    "id": "ive-looks-can-kill-01",
+    "badge": "🔥 IVE COMEBACK",
+    "title": "IVE Comeback – Looks Can Kill",
+    "description": "IVE is back with the new album 'Looks Can Kill'! Listen to the song, sing along with lyrics & explore photos. Tap below to open the IVE app for full songs, lyrics & updates.",
+    "image": "https://i.ytimg.com/vi/rsNhWkC4neE/maxresdefault.jpg",
     "rewards": [
-      { "icon": "star", "text": "Tap below to open the Play Store" },
-      { "icon": "trophy", "text": "Leave a 5-star rating & review" }
+      {
+        "icon": "star",
+        "text": "Listen to Looks Can Kill now"
+      },
+      {
+        "icon": "trophy",
+        "text": "Full songs, lyrics & HD photos in IVE app"
+      }
     ],
     "cta": {
-      "label": "Rate on Play Store",
+      "label": "Get IVE App",
       "action": "open_url",
-      "url": "https://play.google.com/store/apps/details?id=com.enhypen.lyrics"
+      "url": "https://play.google.com/store/apps/details?id=com.ive.uk"
     }
   },
   "config": {
