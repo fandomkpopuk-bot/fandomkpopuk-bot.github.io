@@ -1188,6 +1188,86 @@
       "youtube_id": "rsNhWkC4neE",
       "urlMp3": "https://artetis.my.id/mp3/STARSHIP-IVE아이브'LooksCanKill'MV.mp3",
       "image": "https://i.ytimg.com/vi/rsNhWkC4neE/maxresdefault.jpg"
+    },
+    {
+      "title": "Mirror Mirror",
+      "release_date": "2026-10-26",
+      "album": "Looks Can Kill",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "6YqWVhcXt5A",
+      "urlMp3": "https://artetis.my.id/mp3/IVE-02.MirrorMirror.mp3",
+      "image": "https://i.ytimg.com/vi/6YqWVhcXt5A/maxresdefault.jpg"
+    },
+    {
+      "title": "SNAKESKIN",
+      "release_date": "2026-10-26",
+      "album": "Looks Can Kill",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "ziT6YyeqnfY",
+      "urlMp3": "https://artetis.my.id/mp3/IVE-03.SNAKESKIN.mp3",
+      "image": "https://i.ytimg.com/vi/ziT6YyeqnfY/maxresdefault.jpg"
+    },
+    {
+      "title": "CRUMBS",
+      "release_date": "2026-10-26",
+      "album": "Looks Can Kill",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "v2i-wn_05Jc",
+      "urlMp3": "https://artetis.my.id/mp3/IVE-04.CRUMBS.mp3",
+      "image": "https://i.ytimg.com/vi/v2i-wn_05Jc/maxresdefault.jpg"
+    },
+    {
+      "title": "Girls Girls Girls",
+      "release_date": "2026-10-26",
+      "album": "Looks Can Kill",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "FSyDbHxv8ZY",
+      "urlMp3": "https://artetis.my.id/mp3/IVE-05.GirlsGirlsGirls.mp3",
+      "image": "https://i.ytimg.com/vi/FSyDbHxv8ZY/maxresdefault.jpg"
+    },
+    {
+      "title": "Glow Motion",
+      "release_date": "2026-10-26",
+      "album": "Looks Can Kill",
+      "artist": "IVE",
+      "tags": [
+        "ive"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "ZI_38z_FEDY",
+      "urlMp3": "https://artetis.my.id/mp3/IVE-06.GlowMotion.mp3",
+      "image": "https://i.ytimg.com/vi/ZI_38z_FEDY/maxresdefault.jpg"
     }
   ]
 }
