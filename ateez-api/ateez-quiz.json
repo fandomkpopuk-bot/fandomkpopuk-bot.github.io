@@ -1172,7 +1172,48 @@
       ]
     }
   ],
-  "leaderboard": [],
+  "leaderboard": [
+    {
+      "name": "Yuyu",
+      "country": "Madagascar",
+      "score": 2800
+    },
+    {
+      "name": "Farhan",
+      "score": 990,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Gwyn",
+      "score": 981,
+      "country": "Wales"
+    },
+    {
+      "name": "Hendra",
+      "score": 972,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Isla",
+      "score": 963,
+      "country": "Scotland"
+    },
+    {
+      "name": "Jordi",
+      "score": 954,
+      "country": "Spain"
+    },
+    {
+      "name": "Kirana",
+      "score": 945,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Luthfi",
+      "score": 936,
+      "country": "Malaysia"
+    }
+  ],
   "event_list": [
     {
       "id": "ev-ateez-photocard-2026",
