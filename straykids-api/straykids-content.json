@@ -200,7 +200,7 @@
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",
     "isNewGalleryEnabled": false,
-    "adsType": "reward",
+    "adsType": "mix",
     "isVideoCallEnabled": true
   },
   "announcement": {
