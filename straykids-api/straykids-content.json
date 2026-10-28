@@ -199,9 +199,9 @@
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",
-    "isNewGalleryEnabled": false,
+    "isNewGalleryEnabled": true,
     "adsType": "mix",
-    "isVideoCallEnabled": true
+    "isVideoCallEnabled": false
   },
   "announcement": {
     "id": "ive-looks-can-kill-01",
