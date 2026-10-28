@@ -182,7 +182,7 @@
     }
   ],
   "config": {
-    "isAdsEnabled": false,
+    "isAdsEnabled": true,
     "maxPlayCount": 4,
     "maxViewImageCount": 4,
     "maxDownloadCount": 5,
@@ -200,7 +200,7 @@
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",
     "isNewGalleryEnabled": true,
-    "adsType": "reward",
+    "adsType": "mix",
     "isVideoCallEnabled": true
   },
   "announcement": {
