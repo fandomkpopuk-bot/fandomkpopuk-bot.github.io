@@ -182,7 +182,7 @@
     }
   ],
   "config": {
-    "isAdsEnabled": true,
+    "isAdsEnabled": false,
     "maxPlayCount": 4,
     "maxViewImageCount": 4,
     "maxDownloadCount": 5,
@@ -200,8 +200,8 @@
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",
     "isNewGalleryEnabled": true,
-    "adsType": "mix",
-    "isVideoCallEnabled": false
+    "adsType": "reward",
+    "isVideoCallEnabled": true
   },
   "announcement": {
     "id": "ive-looks-can-kill-01",
