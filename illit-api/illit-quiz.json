@@ -399,9 +399,14 @@
       "score": 14725
     },
     {
+      "name": "Nat",
+      "country": "Estonia",
+      "score": 6400
+    },
+    {
       "name": "芦屋",
       "country": "Belgium",
-      "score": 5700
+      "score": 6000
     },
     {
       "name": "Aishahheartmoka",
@@ -427,11 +432,6 @@
       "name": "Madariyo",
       "country": "Abuabu",
       "score": 1725
-    },
-    {
-      "name": "Arya",
-      "country": "Bulgaria",
-      "score": 1425
     }
   ],
   "event_list": [
