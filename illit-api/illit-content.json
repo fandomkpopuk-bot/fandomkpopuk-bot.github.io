@@ -134,25 +134,25 @@
     }
   ],
   "announcement": {
-    "id": "ive-looks-can-kill-01",
-    "badge": "🔥 IVE COMEBACK",
-    "title": "IVE Comeback – Looks Can Kill",
-    "description": "IVE is back with the new album 'Looks Can Kill'! Listen to the song, sing along with lyrics & explore photos. Tap below to open the IVE app for full songs, lyrics & updates.",
-    "image": "https://i.ytimg.com/vi/rsNhWkC4neE/maxresdefault.jpg",
+    "id": "jisoo-addicted-01",
+    "badge": "🔥 JISOO NEW SINGLE",
+    "title": "JISOO New Single – ADDICTED",
+    "description": "JISOO is back with the newest single 'ADDICTED'! Listen to the song, sing along with lyrics & explore photos. Tap below to open the BLACKPINK app for full songs, lyrics & updates.",
+    "image": "https://i.ytimg.com/vi/Pksr9T8m_aA/maxresdefault.jpg",
     "rewards": [
       {
         "icon": "star",
-        "text": "Listen to Looks Can Kill now"
+        "text": "Listen to ADDICTED now"
       },
       {
         "icon": "trophy",
-        "text": "Full songs, lyrics & HD photos in IVE app"
+        "text": "Full songs, lyrics & HD photos in BLACKPINK app"
       }
     ],
     "cta": {
-      "label": "Get IVE App",
+      "label": "Get BLACKPINK App",
       "action": "open_url",
-      "url": "https://play.google.com/store/apps/details?id=com.ive.uk"
+      "url": "https://fandomkpopuk-bot.github.io/blackpink-stan/song/Pksr9T8m_aA"
     }
   },
   "config": {
