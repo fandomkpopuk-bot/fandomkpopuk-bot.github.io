@@ -1,5 +1,5 @@
 {
-  "quiz_version": 1,
+  "quiz_version": 2,
   "quiz_list": [
     {
       "id": "ddu-du-ddu-du-01",
@@ -766,6 +766,58 @@
         "Call us toxic from the start",
         "But I'm still obsessed with you",
         "Now I know what you do"
+      ]
+    },
+    {
+      "id": "new-trick-01",
+      "youtube_id": "Lufa9QAFFeY",
+      "title": "new trick",
+      "clue": "Lovesick, I'll pick my heart off the floor",
+      "answer": "New trick, watch this, I'm kickin' the door",
+      "options": [
+        "New trick, watch this, I'm kickin' the door",
+        "Get out, ka-pow, bitch, I know the cure",
+        "New trick, watch this, watch this, ow!",
+        "Maybe I'm emotional, I lay my dreams out on the table"
+      ]
+    },
+    {
+      "id": "new-trick-02",
+      "youtube_id": "Lufa9QAFFeY",
+      "title": "new trick",
+      "clue": "Get out, ka-pow, bitch, I know the cure",
+      "answer": "New trick, watch this, watch this, ow!",
+      "options": [
+        "New trick, watch this, watch this, ow!",
+        "Lovesick, I'll pick my heart off the floor",
+        "New trick, watch this, I'm kickin' the door",
+        "Love is unconditional, then disappears just like a rainbow"
+      ]
+    },
+    {
+      "id": "addicted-01",
+      "youtube_id": "Pksr9T8m_aA",
+      "title": "ADDICTED",
+      "clue": "Every kiss a hit, every touch a trip",
+      "answer": "Here we go again, here we go again (Yeah, yeah)",
+      "options": [
+        "Here we go again, here we go again (Yeah, yeah)",
+        "You're so hot, I'm melting in my shoes (Yeah, yeah, yeah)",
+        "You're my ecstasy, perfect fantasy (Yeah, yeah)",
+        "Ooh, baby, I'm caught in your wave"
+      ]
+    },
+    {
+      "id": "addicted-02",
+      "youtube_id": "Pksr9T8m_aA",
+      "title": "ADDICTED",
+      "clue": "You're so hot, I'm melting in my shoes (Yeah, yeah, yeah)",
+      "answer": "You're my ecstasy, perfect fantasy (Yeah, yeah)",
+      "options": [
+        "You're my ecstasy, perfect fantasy (Yeah, yeah)",
+        "Every kiss a hit, every touch a trip",
+        "Here we go again, here we go again (Yeah, yeah)",
+        "Something like a dream, only in a dream (Yeah, yeah)"
       ]
     }
   ],
