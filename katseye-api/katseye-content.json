@@ -150,25 +150,25 @@
     }
   ],
   "announcement": {
-    "id": "jisoo-addicted-01",
-    "badge": "🔥 JISOO NEW SINGLE",
-    "title": "JISOO New Single – ADDICTED",
-    "description": "JISOO is back with the newest single 'ADDICTED'! Listen to the song, sing along with lyrics & explore photos. Tap below to open the BLACKPINK app for full songs, lyrics & updates.",
-    "image": "https://i.ytimg.com/vi/Pksr9T8m_aA/maxresdefault.jpg",
+    "id": "seungmin-goodbye-my-summer-01",
+    "badge": "🔥 SEUNGMIN NEW Cover",
+    "title": "SEUNGMIN New Cover – Goodbye, My Summer",
+    "description": "SEUNGMIN is back with the newest cover 'Goodbye, My Summer'! Listen to the song, sing along with lyrics & explore photos. Tap below to open the song page for full lyrics & updates.",
+    "image": "https://i.ytimg.com/vi/dlhI9UxRjvA/maxresdefault.jpg",
     "rewards": [
       {
         "icon": "star",
-        "text": "Listen to ADDICTED now"
+        "text": "Listen to Goodbye, My Summer now"
       },
       {
         "icon": "trophy",
-        "text": "Full songs, lyrics & HD photos in BLACKPINK app"
+        "text": "Full lyrics & HD photos on the song page"
       }
     ],
     "cta": {
-      "label": "Get BLACKPINK App",
+      "label": "Listen Now",
       "action": "open_url",
-      "url": "https://fandomkpopuk-bot.github.io/blackpink-stan/song/Pksr9T8m_aA"
+      "url": "https://fandomkpopuk-bot.github.io/straykids-stan/song/dlhI9UxRjvA"
     }
   },
   "config": {
