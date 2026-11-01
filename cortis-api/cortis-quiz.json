@@ -321,6 +321,11 @@
       "score": 140700
     },
     {
+      "name": "Hidaya",
+      "country": "Morocco",
+      "score": 138975
+    },
+    {
       "name": "Ibtisam",
       "country": "Myanmar",
       "score": 136800
@@ -349,11 +354,6 @@
       "name": "Hana",
       "country": "Việt Nam",
       "score": 2575
-    },
-    {
-      "name": "Soyeon",
-      "country": "South Korea",
-      "score": 2475
     }
   ],
   "event_list": [

@@ -1,5 +1,5 @@
 {
-  "quiz_version": 1,
+  "quiz_version": 2,
   "quiz_list": [
     {
       "id": "sugar-honey-ice-tea-01",
@@ -416,6 +416,58 @@
         "And I'm finally able to breathe",
         "I'm waking up in my dream"
       ]
+    },
+    {
+      "id": "moon-01",
+      "youtube_id": "8cFKPrxrrJM",
+      "title": "MOON",
+      "clue": "I'm the moon, boreumdal tteuneun bam on the loose",
+      "answer": "Za-la-bim, za-la-bam, za-la-boom",
+      "options": [
+        "Baby, would you like that? (Baby, would you)",
+        "Bring me back",
+        "You have my back and I'm glad for that",
+        "Za-la-bim, za-la-bam, za-la-boom"
+      ]
+    },
+    {
+      "id": "moon-02",
+      "youtube_id": "8cFKPrxrrJM",
+      "title": "MOON",
+      "clue": "Kkaman bam bichina",
+      "answer": "Jinjjaga natana",
+      "options": [
+        "Jinjjaga natana",
+        "And in this moonlight, we're reaching new highs",
+        "Ttinghani jeokjani chunggyeogil geoya",
+        "Get out the way like, \"Vroom, vroom\""
+      ]
+    },
+    {
+      "id": "deserve-01",
+      "youtube_id": "oC6brLXQe4I",
+      "title": "DESERVE",
+      "clue": "oranmaniya jal jinaen geoni",
+      "answer": "yeojeonhi nuni busyeo neon",
+      "options": [
+        "Look at me, I'ma need your attention",
+        "Push, play, then I rewind",
+        "Chum, chum, chum",
+        "yeojeonhi nuni busyeo neon"
+      ]
+    },
+    {
+      "id": "deserve-02",
+      "youtube_id": "oC6brLXQe4I",
+      "title": "DESERVE",
+      "clue": "You deserve someone that loves you right",
+      "answer": "Baby you deserve better",
+      "options": [
+        "Baby you deserve better",
+        "I'ma shine as bright as diamonds, say my name",
+        "'Bout it, 'bout it balkkeutkkaji kkaji",
+        "That you had these bars"
+      ]
     }
   ],
   "leaderboard": [
@@ -451,7 +503,7 @@
     },
     {
       "name": "Rosie 🎀✨",
-      "country": "India",
+      "country": "India 🇮🇳",
       "score": 23175
     },
     {
