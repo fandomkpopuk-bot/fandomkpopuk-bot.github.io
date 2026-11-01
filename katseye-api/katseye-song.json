@@ -1145,6 +1145,22 @@
         "I-I-I-I-I-I, I-I-I-I-I-I (I)",
         ""
       ]
+    },
+    {
+      "title": "Hootie Frutti (feat. Mc Gw & Clementaum)",
+      "release_date": "2026-10-02",
+      "album": "WILD",
+      "artist": "KATSEYE",
+      "tags": [
+        "katseye"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "8szHfH87380",
+      "urlMp3": "https://objectstorage.ap-batam-1.oraclecloud.com/n/ax0mty7gks0q/b/daebak-music-public/o/mp3/8szHfH87380.mp3",
+      "image": "https://i.ytimg.com/vi/8szHfH87380/maxresdefault.jpg"
     }
   ]
 }

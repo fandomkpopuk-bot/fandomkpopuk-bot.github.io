@@ -2082,6 +2082,23 @@
       "youtube_id": "dlhI9UxRjvA",
       "urlMp3": "https://artetis.my.id/mp3/seungmin-cover.mp3",
       "image": "https://i.ytimg.com/vi/dlhI9UxRjvA/maxresdefault.jpg"
+    },
+    {
+      "title": "As we are",
+      "release_date": "2024-12-17",
+      "album": "-",
+      "artist": "Seungmin",
+      "tags": [
+        "seungmin",
+        "straykids"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "kAzmhLHePqU",
+      "urlMp3": "https://artetis.my.id/mp3/kAzmhLHePqU.mp3",
+      "image": "https://i.ytimg.com/vi/kAzmhLHePqU/maxresdefault.jpg"
     }
   ]
 }
