@@ -549,6 +549,11 @@
       "score": 3000
     },
     {
+      "name": "Bang Chan™",
+      "country": "United Kingdom",
+      "score": 2500
+    },
+    {
       "name": "Klara",
       "country": "Slovenia",
       "score": 2225
@@ -557,11 +562,6 @@
       "name": "Tayaki",
       "country": "Russia",
       "score": 2025
-    },
-    {
-      "name": "ching",
-      "country": "hong kong",
-      "score": 1900
     }
   ],
   "event_list": [
