@@ -524,6 +524,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Sofia",
+      "country": "Germany",
+      "score": 1053225
+    },
+    {
       "name": "143RACHA",
       "country": "Australia",
       "score": 15300
@@ -532,11 +537,6 @@
       "name": "Killermoonie",
       "country": "Egypt",
       "score": 14100
-    },
-    {
-      "name": "Sofia",
-      "country": "Germany",
-      "score": 10950
     },
     {
       "name": "Diana",
