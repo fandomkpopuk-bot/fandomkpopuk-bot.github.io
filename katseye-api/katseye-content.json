@@ -173,7 +173,7 @@
   },
   "config": {
     "isAdsEnabled": true,
-    "maxPlayCount": 4,
+    "maxPlayCount": 3,
     "maxViewImageCount": 4,
     "maxDownloadCount": 5,
     "extraDownloadSlotPerAd": 1,
