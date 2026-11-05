@@ -828,6 +828,11 @@
       "score": 68575
     },
     {
+      "name": "Minji",
+      "country": "Türkiye",
+      "score": 7025
+    },
+    {
       "name": "Blinko",
       "country": "Pakistan",
       "score": 3025
@@ -856,11 +861,6 @@
       "name": "Asuka",
       "country": "Egypt",
       "score": 2125
-    },
-    {
-      "name": "Saani",
-      "country": "Kuwait",
-      "score": 1800
     }
   ],
   "event_list": [
