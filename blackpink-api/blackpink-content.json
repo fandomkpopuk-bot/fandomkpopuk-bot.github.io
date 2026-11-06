@@ -118,15 +118,15 @@
     }
   ],
   "announcement": {
-    "id": "seungmin-goodbye-my-summer-01",
-    "badge": "🔥 SEUNGMIN NEW Cover",
-    "title": "SEUNGMIN New Cover – Goodbye, My Summer",
-    "description": "SEUNGMIN is back with the newest cover 'Goodbye, My Summer'! Listen to the song, sing along with lyrics & explore photos. Tap below to open the song page for full lyrics & updates.",
-    "image": "https://pbs.twimg.com/media/HV9rY8qbUAABvjF?format=webp&name=large",
+    "id": "ateez-drip-01",
+    "badge": "🔥 ATEEZ NEW RELEASE",
+    "title": "ATEEZ New Song - Drip",
+    "description": "ATEEZ is back with the newest song 'Drip'! Listen to the song, sing along with lyrics & explore photos. Tap below to open the song page for full lyrics & updates.",
+    "image": "https://i.ytimg.com/vi/iqQWCYMlMw0/maxresdefault.jpg",
     "rewards": [
       {
         "icon": "star",
-        "text": "Listen to Goodbye, My Summer now"
+        "text": "Listen to Drip now"
       },
       {
         "icon": "trophy",
@@ -136,7 +136,7 @@
     "cta": {
       "label": "Listen Now",
       "action": "open_url",
-      "url": "https://fandomkpopuk-bot.github.io/straykids-stan/song/dlhI9UxRjvA"
+      "url": "https://fandomkpopuk-bot.github.io/ateez-stan/song/iqQWCYMlMw0"
     }
   },
   "config": {
