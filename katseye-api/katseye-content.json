@@ -150,25 +150,25 @@
     }
   ],
   "announcement": {
-    "id": "ateez-drip-01",
-    "badge": "🔥 ATEEZ NEW RELEASE",
-    "title": "ATEEZ New Song - Drip",
-    "description": "ATEEZ is back with the newest song 'Drip'! Listen to the song, sing along with lyrics & explore photos. Tap below to open the song page for full lyrics & updates.",
-    "image": "https://i.ytimg.com/vi/iqQWCYMlMw0/maxresdefault.jpg",
+    "id": "katseye-megan-videocall-01",
+    "badge": "📹 VIDEO CALL WITH MEGAN",
+    "title": "Video Call with Megan is Here!",
+    "description": "EYEKONS, your chance to meet Megan face-to-face! Try the Video Call feature now and spend a special moment with KATSEYE's Main Dancer • Rap. Tap below to open Megan's profile & start your call!",
+    "image": "https://fandomkpopuk-bot.github.io/katseye-asset/260919-katseye-sns-update/1790244847096-52n1c7-1.webp",
     "rewards": [
       {
         "icon": "star",
-        "text": "Listen to Drip now"
+        "text": "1-on-1 video call moment with Megan"
       },
       {
         "icon": "trophy",
-        "text": "Full lyrics & HD photos on the song page"
+        "text": "Exclusive AI video call experience"
       }
     ],
     "cta": {
-      "label": "Listen Now",
+      "label": "Call Megan Now",
       "action": "open_url",
-      "url": "https://fandomkpopuk-bot.github.io/ateez-stan/song/iqQWCYMlMw0"
+      "url": "https://fandomkpopuk-bot.github.io/katseye-stan/call"
     }
   },
   "config": {
