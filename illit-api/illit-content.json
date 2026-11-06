@@ -134,15 +134,15 @@
     }
   ],
   "announcement": {
-    "id": "ateez-drip-01",
-    "badge": "🔥 ATEEZ NEW RELEASE",
-    "title": "ATEEZ New Song - Drip",
-    "description": "ATEEZ is back with the newest song 'Drip'! Listen to the song, sing along with lyrics & explore photos. Tap below to open the song page for full lyrics & updates.",
-    "image": "https://i.ytimg.com/vi/iqQWCYMlMw0/maxresdefault.jpg",
+    "id": "illit-baby-its-both-01",
+    "badge": "🎤 ILLIT x Ava Max",
+    "title": "ILLIT - Baby It’s Both (Tick-Tack English Ver.) Feat. Ava Max",
+    "description": "ILLIT is back with song 'Baby It’s Both (Tick-Tack English Ver.) Feat. Ava Max'! Listen to the song, sing along with lyrics & explore photos. Tap below to open the song page for full lyrics & updates.",
+    "image": "https://i.ytimg.com/vi/xiWrbnnRKWQ/maxresdefault.jpg",
     "rewards": [
       {
         "icon": "star",
-        "text": "Listen to Drip now"
+        "text": "Listen to Baby It’s Both now"
       },
       {
         "icon": "trophy",
@@ -152,7 +152,7 @@
     "cta": {
       "label": "Listen Now",
       "action": "open_url",
-      "url": "https://fandomkpopuk-bot.github.io/ateez-stan/song/iqQWCYMlMw0"
+      "url": "https://fandomkpopuk-bot.github.io/illit-stan/song/xiWrbnnRKWQ"
     }
   },
   "config": {
