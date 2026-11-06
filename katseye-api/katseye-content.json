@@ -150,19 +150,19 @@
     }
   ],
   "announcement": {
-    "id": "katseye-megan-videocall-01",
-    "badge": "📹 VIDEO CALL WITH MEGAN",
-    "title": "Video Call with Megan is Here!",
-    "description": "EYEKONS, your chance to meet Megan face-to-face! Try the Video Call feature now and spend a special moment with KATSEYE's Main Dancer • Rap. Tap below to open Megan's profile & start your call!",
+    "id": "katseye-megan-getwell-01",
+    "badge": "💌 GET WELL SOON MEGAN",
+    "title": "Get Well Soon, Megan! Detroit Show Postponed",
+    "description": "EYEKONS, KATSEYE's concert at Little Caesars Arena, Detroit was cancelled 30 minutes before showtime after Megan was reported to have suffered a concussion. Chicago & Minneapolis dates are also postponed. We wish Megan a speedy recovery! To ease your longing, you can use the Video Call feature below to meet Megan virtually!",
     "image": "https://fandomkpopuk-bot.github.io/katseye-asset/260919-katseye-sns-update/1790244847096-52n1c7-1.webp",
     "rewards": [
       {
         "icon": "star",
-        "text": "1-on-1 video call moment with Megan"
+        "text": "Send your prayers for Megan's recovery"
       },
       {
         "icon": "trophy",
-        "text": "Exclusive AI video call experience"
+        "text": "Ease the longing with a virtual video call with Megan"
       }
     ],
     "cta": {
