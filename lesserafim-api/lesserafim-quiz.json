@@ -742,6 +742,11 @@
       "score": 3850
     },
     {
+      "name": "Chaee",
+      "country": "Philippines",
+      "score": 3100
+    },
+    {
       "name": "Ishanika",
       "country": "India",
       "score": 2050
@@ -765,11 +770,6 @@
       "name": "Moon",
       "country": "France",
       "score": 1150
-    },
-    {
-      "name": "Layla",
-      "country": "America",
-      "score": 1000
     }
   ],
   "event_list": [
