@@ -195,5 +195,18 @@
         "92:13:E3:33:2C:80:D4:80:CC:5D:63:81:D0:AE:B3:A8:13:37:80:8D:90:AD:4F:C2:D5:B2:DA:D1:18:8D:9F:96"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.txt.uk",
+      "sha256_cert_fingerprints": [
+        "21:FA:02:17:34:DF:4D:AA:A0:C7:1C:35:4C:31:23:57:72:F8:98:43:EA:81:5F:02:3C:63:16:92:DA:A3:F6:0D"
+      ]
+    }
   }
 ]
