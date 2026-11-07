@@ -75,6 +75,11 @@
         "page_redirect": "newjeans-stan"
     },
     {
+        "app_name": "SANTOS BRAVOS",
+        "api_dir": "santos-bravos-api",
+        "page_redirect": "santos-bravos-stan"
+    },
+    {
         "app_name": "Other",
         "api_dir": "global-api",
         "page_redirect": "other-stan"

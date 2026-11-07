@@ -1,0 +1,716 @@
+{
+  "quiz_version": 2,
+  "quiz_list": [
+    {
+      "id": "zero-percent-01",
+      "youtube_id": "n2fWMfffE-E",
+      "title": "0%",
+      "clue": "Vístete que hoy vamo' a salir, sí, sí, sí",
+      "answer": "Te tengo un plan, imagina, you and me",
+      "options": [
+        "Te tengo un plan, imagina, you and me",
+        "Yo solito me río (Yeah, yeah, yeah, yeah, yeah)",
+        "Tengo el celular en 0%, pero no pasa na'",
+        "Donde yo quiero estar (Oh, yeah)"
+      ]
+    },
+    {
+      "id": "zero-percent-02",
+      "youtube_id": "n2fWMfffE-E",
+      "title": "0%",
+      "clue": "El sol va saliendo",
+      "answer": "Tengo el celular en 0%, pero no pasa na'",
+      "options": [
+        "Tengo el celular en 0%, pero no pasa na'",
+        "Donde yo quiero estar (Oh, yeah)",
+        "Donde yo quiero estar esta noche, esta noche",
+        "El que puede, puede, y el que no va a criticar"
+      ]
+    },
+    {
+      "id": "zero-percent-03",
+      "youtube_id": "n2fWMfffE-E",
+      "title": "0%",
+      "clue": "No hay que pensar en lo que ya, ya pasó",
+      "answer": "Confío en que lo que viene 'tá mejor",
+      "options": [
+        "Confío en que lo que viene 'tá mejor",
+        "Sí, sí",
+        "El sol va saliendo",
+        "Donde yo quiero estar (Oh, yeah)"
+      ]
+    },
+    {
+      "id": "zero-percent-04",
+      "youtube_id": "n2fWMfffE-E",
+      "title": "0%",
+      "clue": "Déjenme que ahí es donde quiero estar",
+      "answer": "El sol va saliendo",
+      "options": [
+        "El sol va saliendo",
+        "Donde quiero estar",
+        "Donde yo quiero estar (Oh, yeah; Oh, yeah)",
+        "Pero esta noche no se nos va a olvidar (Ooh)"
+      ]
+    },
+    {
+      "id": "zero-percent-05",
+      "youtube_id": "n2fWMfffE-E",
+      "title": "0%",
+      "clue": "Donde quiero estar",
+      "answer": "El sol va saliendo",
+      "options": [
+        "El sol va saliendo",
+        "Donde yo quiero estar (Oh, yeah; Oh, yeah)",
+        "Dame una sonrisita, bebé",
+        "No tengo videos"
+      ]
+    },
+    {
+      "id": "wow-01",
+      "youtube_id": "ImzEQn1ikHQ",
+      "title": "WOW",
+      "clue": "Ta ta, ta ta ta, ta tarara",
+      "answer": "Wow, pero juntos nos vemos brutal",
+      "options": [
+        "Wow, pero juntos nos vemos brutal",
+        "Pero por ti espero",
+        "No sabes cuántas veces te soñé (uuh)",
+        "A donde sea, pero contigo"
+      ]
+    },
+    {
+      "id": "wow-02",
+      "youtube_id": "ImzEQn1ikHQ",
+      "title": "WOW",
+      "clue": "Pero por ti espero",
+      "answer": "No sabes cuántas veces te soñé (uuh)",
+      "options": [
+        "No sabes cuántas veces te soñé (uuh)",
+        "De aquí pa' allá voy a...",
+        "Pero baby, aquí estamos",
+        "No me imagino con nadie más (pa' qué)"
+      ]
+    },
+    {
+      "id": "wow-03",
+      "youtube_id": "ImzEQn1ikHQ",
+      "title": "WOW",
+      "clue": "Pero baby, aquí estamos",
+      "answer": "Llámalo destino, a mí me da igual",
+      "options": [
+        "Llámalo destino, a mí me da igual",
+        "No me imagino con nadie más (pa' qué)",
+        "Pide lo que quieras, voy a dártelo",
+        "A mí me da igual"
+      ]
+    },
+    {
+      "id": "wow-04",
+      "youtube_id": "ImzEQn1ikHQ",
+      "title": "WOW",
+      "clue": "Imagina la playa, solo el mar, tú y yo",
+      "answer": "Pide lo que quieras, voy a dártelo",
+      "options": [
+        "Pide lo que quieras, voy a dártelo",
+        "Baby, llámalo destino",
+        "Pero juntos nos vemos brutal",
+        "Ta ta, ta ta ta, ta tarara"
+      ]
+    },
+    {
+      "id": "wow-05",
+      "youtube_id": "ImzEQn1ikHQ",
+      "title": "WOW",
+      "clue": "Pero juntos nos vemos brutal",
+      "answer": "Es crazy, ya eso ya lo sé",
+      "options": [
+        "Es crazy, ya eso ya lo sé",
+        "Ta ta, ta ta ta, ta tarara",
+        "Llámalo destino, a mí me da igual",
+        "Wow, pero juntos nos vemos brutal"
+      ]
+    },
+    {
+      "id": "mhm-01",
+      "youtube_id": "CWJjFcGR-Nc",
+      "title": "MHM",
+      "clue": "Esos ojitos caramelo",
+      "answer": "Con ese pelo combinan fenomenal",
+      "options": [
+        "Con ese pelo combinan fenomenal",
+        "Tan fría, tan tú",
+        "Aquí no consigo borrarte ni un poco",
+        "Pero no sabes mentir"
+      ]
+    },
+    {
+      "id": "mhm-02",
+      "youtube_id": "CWJjFcGR-Nc",
+      "title": "MHM",
+      "clue": "No sé olvidarte, baby, sorry",
+      "answer": "Olvidarte, baby, sorry (Olvidarte, baby, sorry)",
+      "options": [
+        "Olvidarte, baby, sorry (Olvidarte, baby, sorry)",
+        "Di que no me extrañas, mhm-mhm",
+        "Escucho tu canción",
+        "Pa' todo lo que me gusta"
+      ]
+    },
+    {
+      "id": "mhm-03",
+      "youtube_id": "CWJjFcGR-Nc",
+      "title": "MHM",
+      "clue": "Mejor que me engañas, mhm-mhm",
+      "answer": "Pero no sabes mentir",
+      "options": [
+        "Pero no sabes mentir",
+        "No hay nada peor",
+        "Tú no sabes cuánto",
+        "Olvidarte, baby, sorry (Olvidarte, baby, sorry)"
+      ]
+    },
+    {
+      "id": "mhm-04",
+      "youtube_id": "CWJjFcGR-Nc",
+      "title": "MHM",
+      "clue": "Pa' todo lo que me gusta",
+      "answer": "Sabes que me gusta",
+      "options": [
+        "Sabes que me gusta",
+        "Uuuu, mi favorita eres tú",
+        "Y tú, tú tampoco a mí (tú tampoco a mí), mhm",
+        "Al menos no a mí"
+      ]
+    },
+    {
+      "id": "mhm-05",
+      "youtube_id": "CWJjFcGR-Nc",
+      "title": "MHM",
+      "clue": "Olvidarte, baby, sorry (Olvidarte, baby, sorry)",
+      "answer": "Vivo pendiente a tus stories (pendiente a tus stories)",
+      "options": [
+        "Vivo pendiente a tus stories (pendiente a tus stories)",
+        "Di que no piensas en mí, mhm-mhm",
+        "Con ese pelo combinan fenomenal",
+        "Uuuu, mi favorita eres tú"
+      ]
+    },
+    {
+      "id": "kawasaki-01",
+      "youtube_id": "bLuMiW2O4so",
+      "title": "KAWASAKI",
+      "clue": "Como Kawasaki",
+      "answer": "Cómo tú me bailas, do you love me?",
+      "options": [
+        "Cómo tú me bailas, do you love me?",
+        "Eu quero mais",
+        "Contigo quiero, quiero",
+        "Tú me tiene' loco, loco por ti"
+      ]
+    },
+    {
+      "id": "kawasaki-02",
+      "youtube_id": "bLuMiW2O4so",
+      "title": "KAWASAKI",
+      "clue": "No me importan las demáis",
+      "answer": "Contigo quiero, quiero",
+      "options": [
+        "Contigo quiero, quiero",
+        "Me aceleras como Kawasaki",
+        "Cómo tú me bailas, do you love me?",
+        "Yo-yo-yo quiero besarte, dime cuándo, cuándo"
+      ]
+    },
+    {
+      "id": "kawasaki-03",
+      "youtube_id": "bLuMiW2O4so",
+      "title": "KAWASAKI",
+      "clue": "Yo-yo te sigo a donde me diga', oh",
+      "answer": "Cómo tú me bailas, do you love me?",
+      "options": [
+        "Cómo tú me bailas, do you love me?",
+        "Mien-mien-mientras sale el sol, tú y yo bailando",
+        "Eu quero mais",
+        "Contigo quiero, quiero"
+      ]
+    },
+    {
+      "id": "kawasaki-04",
+      "youtube_id": "bLuMiW2O4so",
+      "title": "KAWASAKI",
+      "clue": "Contigo quiero, quiero",
+      "answer": "Pégate mais, mais",
+      "options": [
+        "Pégate mais, mais",
+        "Tú a mí me aceleras, brr",
+        "Quédate esta noche, no te vay-ay-ay-ay'",
+        "Como Kawasaki"
+      ]
+    },
+    {
+      "id": "kawasaki-05",
+      "youtube_id": "bLuMiW2O4so",
+      "title": "KAWASAKI",
+      "clue": "Tú me tiene' loco, loco por ti",
+      "answer": "Quédate esta noche, no te vay-ay-ay-ay'",
+      "options": [
+        "Quédate esta noche, no te vay-ay-ay-ay'",
+        "Me aceleras como Kawasaki, yeh-eh-eh",
+        "Kawasaki, Kawasaki",
+        "Me aceleras como Kawasaki"
+      ]
+    },
+    {
+      "id": "velocidade-01",
+      "youtube_id": "A5c57jP-RZA",
+      "title": "VELOCIDADE",
+      "clue": "Quando ela treme",
+      "answer": "Terremoto, terremoto",
+      "options": [
+        "Terremoto, terremoto",
+        "Com gosto de coca",
+        "Mmmhh, Baby não paro",
+        "Lá pra cima"
+      ]
+    },
+    {
+      "id": "velocidade-02",
+      "youtube_id": "A5c57jP-RZA",
+      "title": "VELOCIDADE",
+      "clue": "O doce da vida é claro que eu pago",
+      "answer": "Joga o bombom, minha amiga",
+      "options": [
+        "Joga o bombom, minha amiga",
+        "Sai da frente, velocidade",
+        "Come a gente, tô na minha cidade",
+        "Que delícia"
+      ]
+    },
+    {
+      "id": "velocidade-03",
+      "youtube_id": "A5c57jP-RZA",
+      "title": "VELOCIDADE",
+      "clue": "Tu y yo",
+      "answer": "Põe no replay",
+      "options": [
+        "Põe no replay",
+        "Vem menina",
+        "Desce bonito eu gosto disso... isso!",
+        "Joga o bombom, minha amiga"
+      ]
+    },
+    {
+      "id": "velocidade-04",
+      "youtube_id": "A5c57jP-RZA",
+      "title": "VELOCIDADE",
+      "clue": "O doce da vida é claro que eu pago",
+      "answer": "Joga o bombom, minha amiga",
+      "options": [
+        "Joga o bombom, minha amiga",
+        "Sai da frente, velocidade",
+        "Come a gente, tô na minha cidade",
+        "Que delícia"
+      ]
+    },
+    {
+      "id": "velocidade-05",
+      "youtube_id": "A5c57jP-RZA",
+      "title": "VELOCIDADE",
+      "clue": "Tu y yo",
+      "answer": "Põe no replay",
+      "options": [
+        "Põe no replay",
+        "Vem menina",
+        "Terremoto, terremoto",
+        "Bololô é igual uma moto"
+      ]
+    },
+    {
+      "id": "fe-01",
+      "youtube_id": "je3tq9_9O80",
+      "title": "FE",
+      "clue": "Nunca entendí cómo un ángel",
+      "answer": "Bajó de las nubes",
+      "options": [
+        "Bajó de las nubes",
+        "Por más que me ayuden",
+        "Y aunque lo volvería a hacer",
+        "Yo, que nunca recé"
+      ]
+    },
+    {
+      "id": "fe-02",
+      "youtube_id": "je3tq9_9O80",
+      "title": "FE",
+      "clue": "Tiene que bajar",
+      "answer": "Debí bloquearte, pero",
+      "options": [
+        "Debí bloquearte, pero",
+        "El día que te besé",
+        "¿Cómo culparte a ti",
+        "Pero también dicen que es mejor amar y haber fallado"
+      ]
+    },
+    {
+      "id": "fe-03",
+      "youtube_id": "je3tq9_9O80",
+      "title": "FE",
+      "clue": "Sabiendo que me iba a doler",
+      "answer": "Yo, que nunca recé",
+      "options": [
+        "Yo, que nunca recé",
+        "Porque de ti me enamoré",
+        "A mí me pasó",
+        "El día que te besé"
+      ]
+    },
+    {
+      "id": "fe-04",
+      "youtube_id": "je3tq9_9O80",
+      "title": "FE",
+      "clue": "A mí me avisaron y no me sirvió",
+      "answer": "Pero también dicen que es mejor amar y haber fallado",
+      "options": [
+        "Pero también dicen que es mejor amar y haber fallado",
+        "No aguanté y te llamé",
+        "Sabiendo que me iba a doler",
+        "Porque de ti me enamoré"
+      ]
+    },
+    {
+      "id": "fe-05",
+      "youtube_id": "je3tq9_9O80",
+      "title": "FE",
+      "clue": "Sé que me equivoqué",
+      "answer": "El día que te besé",
+      "options": [
+        "El día que te besé",
+        "Siempre guardé la fe",
+        "Bajó de las nubes",
+        "Todo lo que sube"
+      ]
+    },
+    {
+      "id": "bloody-paradise-01",
+      "youtube_id": "JXe4S-WY4h4",
+      "title": "Bloody Paradise x VELOCIDADE",
+      "clue": "Ah",
+      "answer": "Quando ela treme, terremoto, terremoto",
+      "options": [
+        "Quando ela treme, terremoto, terremoto",
+        "Sacode a pipoca, não gosto de minhoca",
+        "Quando o bumbum",
+        "Dá um beijo na boca com gosto de coca"
+      ]
+    },
+    {
+      "id": "bloody-paradise-02",
+      "youtube_id": "JXe4S-WY4h4",
+      "title": "Bloody Paradise x VELOCIDADE",
+      "clue": "It's a moment",
+      "answer": "Can't control it",
+      "options": [
+        "Can't control it",
+        "Stay close, stay on me, on me",
+        "Come, touch me, party-arty",
+        "In our bloody paradise"
+      ]
+    },
+    {
+      "id": "bloody-paradise-03",
+      "youtube_id": "JXe4S-WY4h4",
+      "title": "Bloody Paradise x VELOCIDADE",
+      "clue": "Woo, fly-ya",
+      "answer": "Woah woo",
+      "options": [
+        "Woah woo",
+        "It's a moment",
+        "Woo, can't control it",
+        "Can't control it"
+      ]
+    },
+    {
+      "id": "bloody-paradise-04",
+      "youtube_id": "JXe4S-WY4h4",
+      "title": "Bloody Paradise x VELOCIDADE",
+      "clue": "Lá pra cima",
+      "answer": "Joga o bumbum, minha amiga",
+      "options": [
+        "Joga o bumbum, minha amiga",
+        "Quando o bumbum bate e rebola",
+        "Woo, ah, ah, ah, ah",
+        "Stay close, stay on me, on me"
+      ]
+    },
+    {
+      "id": "ella-es-el-hechizo-01",
+      "youtube_id": "fkCCI07RTF4",
+      "title": "Ella es el Hechizo (De \"Hechizo: Bienvenidos a Hexe\")",
+      "clue": "Oh",
+      "answer": "Eh",
+      "options": [
+        "Eh",
+        "Rompe las reglas con su táctica (Woo), fantástica",
+        "Tarde pa' volver atrás, ya no le te segura",
+        "Ay, ay-ah, ay, ay-ah"
+      ]
+    },
+    {
+      "id": "ella-es-el-hechizo-02",
+      "youtube_id": "fkCCI07RTF4",
+      "title": "Ella es el Hechizo (De \"Hechizo: Bienvenidos a Hexe\")",
+      "clue": "Tarde pa' volver atrás, ya no le te segura",
+      "answer": "El fuego que escondió ya no lo puede apagar",
+      "options": [
+        "El fuego que escondió ya no lo puede apagar",
+        "Ay, ay-ah, ay, ay-ah",
+        "Ayy, ayy, mírala bien",
+        "Esa menina ya vio su poder"
+      ]
+    },
+    {
+      "id": "ella-es-el-hechizo-03",
+      "youtube_id": "fkCCI07RTF4",
+      "title": "Ella es el Hechizo (De \"Hechizo: Bienvenidos a Hexe\")",
+      "clue": "Ya eres distinta, se sabe mover",
+      "answer": "Ayy, ayy, mírala bien",
+      "options": [
+        "Ayy, ayy, mírala bien",
+        "Mírala bien (Woo), mírala bien (Woo)",
+        "Ay, ay-ah, ay, ay-ah",
+        "Nadie sabe cómo lo hizo"
+      ]
+    },
+    {
+      "id": "ella-es-el-hechizo-04",
+      "youtube_id": "fkCCI07RTF4",
+      "title": "Ella es el Hechizo (De \"Hechizo: Bienvenidos a Hexe\")",
+      "clue": "Es, es, es tan fresh, lo hace todo al revés",
+      "answer": "Y así le encanta, y así le encanta",
+      "options": [
+        "Y así le encanta, y así le encanta",
+        "Ay, ay, ah, ay, ay, ah",
+        "Porque ella es el hechizo",
+        "(Vamo') Ay, ay, ay-ah"
+      ]
+    },
+    {
+      "id": "mhm-portuguese-01",
+      "youtube_id": "JrwrUeuofAs",
+      "title": "MHM (Portuguese)",
+      "clue": "Esses olhinhos caramelos",
+      "answer": "Com esse cabelo combinan fenomenal",
+      "options": [
+        "Com esse cabelo combinan fenomenal",
+        "Uuuhh minha favorita é tu",
+        "Você não me engana",
+        "Ouço nossa canção looping dentro do quarto"
+      ]
+    },
+    {
+      "id": "mhm-portuguese-02",
+      "youtube_id": "JrwrUeuofAs",
+      "title": "MHM (Portuguese)",
+      "clue": "Eu não te esqueço nem um pouco",
+      "answer": "Diz que não dá pra viver sem mim",
+      "options": [
+        "Diz que não dá pra viver sem mim",
+        "E a saudade diz que sim",
+        "Fico te dando like",
+        "Uuuhh minha favorita é tu"
+      ]
+    },
+    {
+      "id": "mhm-portuguese-03",
+      "youtube_id": "JrwrUeuofAs",
+      "title": "MHM (Portuguese)",
+      "clue": "Só fiquei pior",
+      "answer": "Faço tudo errado",
+      "options": [
+        "Faço tudo errado",
+        "Sabes que me gusta",
+        "Eu não te esqueço nem um pouco",
+        "E a saudade diz que sim"
+      ]
+    },
+    {
+      "id": "mhm-portuguese-04",
+      "youtube_id": "JrwrUeuofAs",
+      "title": "MHM (Portuguese)",
+      "clue": "Não sei viver sem você sorry",
+      "answer": "Não quero te ver só no story",
+      "options": [
+        "Não quero te ver só no story",
+        "Você pensa muito em mim",
+        "Com esse cabelo combinan fenomenal",
+        "Diz que não dá pra viver sem mim"
+      ]
+    },
+    {
+      "id": "ooh-laka-laka-la-01",
+      "youtube_id": "NFFPaijnK5s",
+      "title": "Ooh Laka Laka La",
+      "clue": "Ooh-laka-laka-la, ooh-laka-laka-la",
+      "answer": "I'm feeling kinda lonely",
+      "options": [
+        "I'm feeling kinda lonely",
+        "You give me heaven, give me hell",
+        "Only cuando respiro es que pienso en nosotro'",
+        "Just for you to come and save me"
+      ]
+    },
+    {
+      "id": "ooh-laka-laka-la-02",
+      "youtube_id": "NFFPaijnK5s",
+      "title": "Ooh Laka Laka La",
+      "clue": "You make me feel like",
+      "answer": "Ooh-laka-laka-la, ooh-laka-laka-la",
+      "options": [
+        "Ooh-laka-laka-la, ooh-laka-laka-la",
+        "'Toy a un beso de volverme loco",
+        "¿Y esa carita de angelito, diabla?",
+        "You give me heaven, give me hell"
+      ]
+    },
+    {
+      "id": "ooh-laka-laka-la-03",
+      "youtube_id": "NFFPaijnK5s",
+      "title": "Ooh Laka Laka La",
+      "clue": "You're hot and cold",
+      "answer": "Bebé, eres mi karma y mi calma",
+      "options": [
+        "Bebé, eres mi karma y mi calma",
+        "You give me love, give me hate",
+        "Ooh-laka-laka-la, ooh-laka-laka-la",
+        "You give me heaven, give me hell"
+      ]
+    },
+    {
+      "id": "ooh-laka-laka-la-04",
+      "youtube_id": "NFFPaijnK5s",
+      "title": "Ooh Laka Laka La",
+      "clue": "Ooh-laka-laka-la, ooh-laka-laka-la (Yeah, yeah, yeah)",
+      "answer": "Ooh-laka-laka-la, ooh-laka-laka-la",
+      "options": [
+        "Ooh-laka-laka-la, ooh-laka-laka-la",
+        "Yeah, yeah",
+        "Ooh-laka-laka-la, ooh-laka-laka-la (Give me some love, love)",
+        "And I'm still waiting, waiting, waiting"
+      ]
+    },
+    {
+      "id": "viral-01",
+      "youtube_id": "F74qaUSbY5Y",
+      "title": "VIRAL",
+      "clue": "Sorry, love you",
+      "answer": "Hate these words",
+      "options": [
+        "Hate these words",
+        "My muse",
+        "I wish you'd cry",
+        "I mellodi sok meseji"
+      ]
+    },
+    {
+      "id": "viral-02",
+      "youtube_id": "F74qaUSbY5Y",
+      "title": "VIRAL",
+      "clue": "Nae seutoriga georie ullige",
+      "answer": "Day and night",
+      "options": [
+        "Day and night",
+        "Nae moseubi daeul ttaekkaji",
+        "Oh, tú eres mi musa",
+        "No sé por qué nunca se nos dio"
+      ]
+    },
+    {
+      "id": "viral-03",
+      "youtube_id": "F74qaUSbY5Y",
+      "title": "VIRAL",
+      "clue": "Ay, ven, bésame",
+      "answer": "Quiero desde que te vi",
+      "options": [
+        "Quiero desde que te vi",
+        "Yo parezco un fan",
+        "Que cada vez me gustas más",
+        "Cómo no me enamoro"
+      ]
+    },
+    {
+      "id": "viral-04",
+      "youtube_id": "F74qaUSbY5Y",
+      "title": "VIRAL",
+      "clue": "No aguanto más",
+      "answer": "Qué ganas de robarle un beso",
+      "options": [
+        "Qué ganas de robarle un beso",
+        "Munsincheoreom namneunda haedo",
+        "Oh, na, na, na",
+        "We're going higher"
+      ]
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "Yuyu",
+      "country": "Madagascar",
+      "score": 2800
+    },
+    {
+      "name": "Farhan",
+      "score": 990,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Gwyn",
+      "score": 981,
+      "country": "Wales"
+    },
+    {
+      "name": "Hendra",
+      "score": 972,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Isla",
+      "score": 963,
+      "country": "Scotland"
+    },
+    {
+      "name": "Jordi",
+      "score": 954,
+      "country": "Spain"
+    },
+    {
+      "name": "Kirana",
+      "score": 945,
+      "country": "Indonesia"
+    },
+    {
+      "name": "Luthfi",
+      "score": 936,
+      "country": "Malaysia"
+    }
+  ],
+  "event_list": [
+    {
+      "id": "ev-santos-bravos-photocard-2026",
+      "title": "SANTOS BRAVOS Photocard Set Race: Best Score Wins",
+      "description": "Collect your best score from September to December 2026! The highest best score during the event period will be the winner and take home the SANTOS BRAVOS Photocard Set.",
+      "image": "https://i.ytimg.com/vi/3F9jlnANW08/maxresdefault.jpg",
+      "prize": "Photocard Set SANTOS BRAVOS",
+      "prize_image": "https://i.ytimg.com/vi/3F9jlnANW08/maxresdefault.jpg",
+      "start_date": "2026-09-01",
+      "end_date": "2026-12-31",
+      "rules": [
+        "The highest best score during the event period will be the winner",
+        "Unlimited runs during the event period September 1 - December 31, 2026",
+        "Min score 500 to qualify",
+        "One winner per device"
+      ],
+      "min_score": 500
+    }
+  ]
+}

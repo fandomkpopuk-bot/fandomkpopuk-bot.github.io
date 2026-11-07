@@ -1,0 +1,183 @@
+{
+  "band_detail": {
+    "logoLine1": "SANTOS BRAVOS",
+    "logoLine2": "DUAL",
+    "agencyLabel": "HYBE LATIN AMERICA",
+    "verifiedText": "Verified Artist",
+    "name": "SANTOS BRAVOS (산토스 브라보스)",
+    "tagline": "STBV • 5 MEMBERS • DEBUT SINGLE \"0%\"",
+    "bio": "5-member Latin American boy group under HYBE Latin America, also known as STBV. Members Drew, Alejandro, Gabi, Kauê and Kenneth were formed through the reality show Santos Bravos and debuted on Oct 21, 2025 with the first single \"0%\". Group name represents duality — saintly yet brave. Fandom DUAL. Official greeting: \"Hello, we are Santos Bravos!\"",
+    "infoChips": [
+      {
+        "label": "Debut:",
+        "value": "Oct 21, 2025"
+      },
+      {
+        "label": "Fandom:",
+        "value": "DUAL",
+        "highlight": "rose"
+      },
+      {
+        "label": "Agency:",
+        "value": "HYBE LATIN AMERICA"
+      },
+      {
+        "label": "",
+        "value": "\"0%\" Debut Era",
+        "highlight": "amber"
+      }
+    ],
+    "membersTitle": "Members (5)",
+    "membersHint": "Scroll for roles & profiles",
+    "members": [
+      {
+        "name": "Drew",
+        "initials": "DW",
+        "role": "Leader • Main Dancer",
+        "unit": "DANCE LINE",
+        "featured": true,
+        "tags": "drew",
+        "birthDate": "Jan 22, 2000",
+        "birthPlace": "West Covina, California, USA",
+        "nationality": "American",
+        "hobbies": [
+          "Dancing",
+          "Choreographing",
+          "Fashion styling"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Alejandro",
+        "initials": "AL",
+        "role": "Lead Vocalist • All-rounder",
+        "unit": "VOCAL LINE",
+        "tags": "alejandro",
+        "birthDate": "Apr 17, 2004",
+        "birthPlace": "Lima, Peru",
+        "nationality": "Peruvian",
+        "hobbies": [
+          "Songwriting",
+          "Tennis",
+          "Acting"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Gabi",
+        "initials": "GB",
+        "role": "Lead Dancer • Visual • Center",
+        "unit": "DANCE LINE",
+        "tags": "gabi",
+        "birthDate": "Jun 15, 2005",
+        "birthPlace": "Miami, Florida, USA",
+        "nationality": "Puerto Rican / American",
+        "hobbies": [
+          "Dancing",
+          "Video games",
+          "Working out"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Kauê",
+        "initials": "KU",
+        "role": "Main Vocalist",
+        "unit": "VOCAL LINE",
+        "tags": "kaue",
+        "birthDate": "Oct 4, 2006",
+        "birthPlace": "São João de Meriti, Rio de Janeiro, Brazil",
+        "nationality": "Brazilian",
+        "hobbies": [
+          "Singing in church choir",
+          "Cooking Brazilian food",
+          "Watching musicals"
+        ],
+        "image": ""
+      },
+      {
+        "name": "Kenneth",
+        "initials": "KN",
+        "role": "Maknae • Lead Vocalist",
+        "unit": "VOCAL LINE",
+        "tags": "kenneth",
+        "birthDate": "Oct 18, 2009",
+        "birthPlace": "Veracruz, Mexico",
+        "nationality": "Mexican",
+        "hobbies": [
+          "Acting",
+          "Video games",
+          "Singing"
+        ],
+        "image": ""
+      }
+    ]
+  },
+  "news_list": [
+    {
+      "id": "santos-bravos-bad-golden-hour-5",
+      "category": "COMEBACK",
+      "cardBadge": "NEW RELEASE",
+      "date": "Aug 19, 2026",
+      "monthLabel": "AUG 2026",
+      "source": "KQ ENTERTAINMENT / SANTOS BRAVOS Official",
+      "title": "SANTOS BRAVOS Drop 'BAD' From GOLDEN HOUR : Part.5!",
+      "excerpt": "Latin-heat title track with Mona Lisa flashes and Cohiba flow. MV and lyrics inside.",
+      "quote": "8 makes 1 team — She's so bad!",
+      "image": "https://i.ytimg.com/vi/3F9jlnANW08/maxresdefault.jpg",
+      "body": [
+        "SANTOS BRAVOS have officially released 'BAD', the title track from GOLDEN HOUR : Part.5, across official channels on Aug 19, 2026.",
+        "The track blends Latin-pop rhythm with SANTOS BRAVOS's signature performance energy, backed by a music video and lyric videos on SANTOS BRAVOS Official channels.",
+        "BAD arrives as part of the GOLDEN HOUR series, following the group's 2018 debut with Treasure EP.1: All to Zero under KQ Entertainment.",
+        "Streaming and download links are open now on all major platforms."
+      ]
+    }
+  ],
+  "config": {
+    "isAdsEnabled": true,
+    "maxPlayCount": 3,
+    "maxViewImageCount": 4,
+    "maxDownloadCount": 5,
+    "extraDownloadSlotPerAd": 1,
+    "freeAdsSessionDurationHours": 8,
+    "freeAdsSessionVideosRequired": 6,
+    "isDownloadEnabled": true,
+    "isLyricsEnabled": true,
+    "isSongRequestEnabled": true,
+    "isOtherAppsEnabled": true,
+    "isNewsEnabled": false,
+    "isMembersEnabled": true,
+    "adBannerInterval": 8,
+    "isMinigameEnabled": true,
+    "isGalleryEnabled": false,
+    "androidUpdateType": "immediate",
+    "isNewGalleryEnabled": true,
+    "adsType": "reward",
+    "isVideoCallEnabled": true
+  },
+  "announcement": {
+    "id": "santos-bravos-drip-01",
+    "badge": "🔥 SANTOS BRAVOS NEW RELEASE",
+    "title": "SANTOS BRAVOS New Song - Drip",
+    "description": "SANTOS BRAVOS is back with the newest song 'Drip'! Listen to the song, sing along with lyrics & explore photos. Tap below to open the song page for full lyrics & updates.",
+    "image": "https://i.ytimg.com/vi/iqQWCYMlMw0/maxresdefault.jpg",
+    "rewards": [
+      {
+        "icon": "star",
+        "text": "Listen to Drip now"
+      },
+      {
+        "icon": "trophy",
+        "text": "Full lyrics & HD photos on the song page"
+      }
+    ],
+    "cta": {
+      "label": "Listen Now",
+      "action": "open_url",
+      "url": "https://fandomkpopuk-bot.github.io/santos-bravos-stan/song/iqQWCYMlMw0"
+    }
+  },
+  "gallery": [
+   
+  ]
+}
