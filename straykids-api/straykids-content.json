@@ -204,25 +204,25 @@
     "isVideoCallEnabled": true
   },
   "announcement": {
-    "id": "straykids-because-01",
-    "badge": "🎤 Felix x Changbin",
-    "title": "Felix and Changbin - Because",
-    "description": "Felix and Changbin with the song 'Because'! Listen to the song, sing along with lyrics & explore photos. Tap below to open the song page for full lyrics & updates.",
-    "image": "https://i.ytimg.com/vi/lhWkACJDbtg/maxresdefault.jpg",
+    "id": "santos-bravos-connect-01",
+    "badge": "📱 NEW APP RELEASE",
+    "title": "SANTOS BRAVOS CONNECT is Here!",
+    "description": "The official SANTOS BRAVOS CONNECT app is now ready to install! Get lyrics, songs, photos & DUAL updates faster. Tap below to install now on Google Play.",
+    "image": "https://play-lh.googleusercontent.com/IXRpR9bMm8HxhBg70t_aNes7fOUgenO8meHW0o2mzPrw7NW_ro95LrNwiP0DEQ7dk6011kCxFtNfWXS13KYnyQ=w480-h960-rw",
     "rewards": [
       {
         "icon": "star",
-        "text": "Listen to Because now"
+        "text": "Lyrics, songs & HD photos"
       },
       {
         "icon": "trophy",
-        "text": "Full lyrics & HD photos on the song page"
+        "text": "DUAL updates & faster access"
       }
     ],
     "cta": {
-      "label": "Listen Now",
+      "label": "Install Now",
       "action": "open_url",
-      "url": "https://fandomkpopuk-bot.github.io/straykids-stan/song/lhWkACJDbtg"
+      "url": "https://play.google.com/store/apps/details?id=com.txt.uk"
     }
   },
   "gallery": [
