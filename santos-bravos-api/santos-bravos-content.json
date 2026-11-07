@@ -1,7 +1,7 @@
 {
   "band_detail": {
-    "logoLine1": "SANTOS BRAVOS",
-    "logoLine2": "DUAL",
+    "logoLine1": "SANTOS",
+    "logoLine2": "BRAVOS",
     "agencyLabel": "HYBE LATIN AMERICA",
     "verifiedText": "Verified Artist",
     "name": "SANTOS BRAVOS (산토스 브라보스)",
@@ -151,7 +151,7 @@
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",
-    "isNewGalleryEnabled": true,
+    "isNewGalleryEnabled": false,
     "adsType": "reward",
     "isVideoCallEnabled": true
   },
