@@ -3,6 +3,7 @@
         {
             "idol_name": "Martin",
             "name_group": "CORTIS",
+            "nationality": "Korean-Canadian",
             "position": "Leader • Vocal • Producer • Cortis",
             "news": "",
             "hobbies": ["Songwriting", "Choreography", "Gaming"],
@@ -12,6 +13,7 @@
         {
             "idol_name": "James",
             "name_group": "CORTIS",
+            "nationality": "Thai-Taiwanese",
             "position": "Main Dancer • Rap • Vocal • Cortis",
             "news": "",
             "hobbies": ["Languages", "Choreography", "Cooking"],
@@ -21,6 +23,7 @@
         {
             "idol_name": "Juhoon",
             "name_group": "CORTIS",
+            "nationality": "South Korean",
             "position": "Rap • Vocal • Cortis",
             "news": "",
             "hobbies": ["Basketball", "Movies", "Ramen"],
@@ -30,6 +33,7 @@
         {
             "idol_name": "Seonghyeon",
             "name_group": "CORTIS",
+            "nationality": "South Korean",
             "position": "Vocal • Dancer • Cortis",
             "news": "",
             "hobbies": ["Movies", "Basketball", "Skateboarding"],
@@ -39,6 +43,7 @@
         {
             "idol_name": "Keonho",
             "name_group": "CORTIS",
+            "nationality": "South Korean",
             "position": "Dancer • Vocal • Maknae • Cortis",
             "news": "",
             "hobbies": ["Swimming", "Movies", "Gaming"],
@@ -48,6 +53,7 @@
         {
             "idol_name": "Yunah",
             "name_group": "ILLIT",
+            "nationality": "South Korean",
             "position": "Leader • Vocal • ILLIT",
             "news": "",
             "hobbies": ["Singing", "Dancing", "Cooking"],
@@ -57,6 +63,7 @@
         {
             "idol_name": "Minju",
             "name_group": "ILLIT",
+            "nationality": "South Korean",
             "position": "Vocal • Visual • ILLIT",
             "news": "",
             "hobbies": ["Piano", "Photography", "Fashion"],
@@ -66,6 +73,7 @@
         {
             "idol_name": "Wonhee",
             "name_group": "ILLIT",
+            "nationality": "South Korean",
             "position": "Vocal • Variety • ILLIT",
             "news": "",
             "hobbies": ["Singing", "Selfies", "Movies"],
@@ -74,7 +82,8 @@
         },
         {
             "idol_name": "Jungkook",
-            "name_group": "BTS - ARMY",
+            "name_group": "BTS",
+            "nationality": "South Korean",
             "position": "Main Vocal • Maknae • BTS",
             "news": "",
             "hobbies": ["Gaming", "Drawing", "Filming"],
@@ -83,7 +92,8 @@
         },
         {
             "idol_name": "V",
-            "name_group": "BTS - ARMY",
+            "name_group": "BTS",
+            "nationality": "South Korean",
             "position": "Vocal • BTS",
             "news": "",
             "hobbies": ["Photography", "Painting", "Jazz"],
@@ -92,7 +102,8 @@
         },
         {
             "idol_name": "Jin",
-            "name_group": "BTS - ARMY",
+            "name_group": "BTS",
+            "nationality": "South Korean",
             "position": "Vocal • Visual • BTS",
             "news": "",
             "hobbies": ["Cooking", "Gaming", "Photography"],
@@ -101,7 +112,8 @@
         },
         {
             "idol_name": "J-Hope",
-            "name_group": "BTS - ARMY",
+            "name_group": "BTS",
+            "nationality": "South Korean",
             "position": "Vocal • Visual • BTS",
             "news": "",
             "hobbies": ["Dancing", "Shopping", "Photography"],
@@ -110,7 +122,8 @@
         },
         {
             "idol_name": "RM",
-            "name_group": "BTS - ARMY",
+            "name_group": "BTS",
+            "nationality": "South Korean",
             "position": "Leader • Main Rapper • BTS",
             "news": "",
             "hobbies": ["Writing", "Reading", "Art"],
@@ -119,7 +132,8 @@
         },
         {
             "idol_name": "Suga",
-            "name_group": "BTS - ARMY",
+            "name_group": "BTS",
+            "nationality": "South Korean",
             "position": "Lead Rapper • BTS",
             "news": "",
             "hobbies": ["Producing", "Piano", "Basketball"],
@@ -128,7 +142,8 @@
         },
         {
             "idol_name": "Jimin",
-            "name_group": "BTS - ARMY",
+            "name_group": "BTS",
+            "nationality": "South Korean",
             "position": "Lead Vocal • Main Dancer • BTS",
             "news": "",
             "hobbies": ["Dancing", "Travel", "Reading"],
@@ -138,6 +153,7 @@
         {
             "idol_name": "Felix",
             "name_group": "STRAYKIDS",
+            "nationality": "Australian",
             "position": "Dancer • Rap • Vocal • Stray Kids",
             "news": "",
             "hobbies": ["Dancing", "Baking", "Gaming"],
@@ -147,6 +163,7 @@
         {
             "idol_name": "Bang Chan",
             "name_group": "STRAYKIDS",
+            "nationality": "Australian",
             "position": "Leader • Producer • Vocal • Stray Kids",
             "news": "",
             "hobbies": ["Producing", "Gym", "Cooking"],
@@ -156,6 +173,7 @@
         {
             "idol_name": "Lee Know",
             "name_group": "STRAYKIDS",
+            "nationality": "South Korean",
             "position": "Main Dancer • Vocal• Stray Kids",
             "news": "",
             "hobbies": ["Dance", "Hiking", "Movies"],
@@ -165,6 +183,7 @@
         {
             "idol_name": "Hyunjin",
             "name_group": "STRAYKIDS",
+            "nationality": "South Korean",
             "position": "Dancer • Rap • Visual • Stray Kids",
             "news": "",
             "hobbies": ["Drawing", "Dance", "Fashion"],
@@ -174,6 +193,7 @@
         {
             "idol_name": "Sophia",
             "name_group": "KATSEYE",
+            "nationality": "Filipino",
             "position": "Leader • Vocal • Katseye",
             "news": "",
             "hobbies": ["Singing", "Songwriting", "Reading"],
@@ -183,6 +203,7 @@
         {
             "idol_name": "Manon",
             "name_group": "KATSEYE",
+            "nationality": "Swiss",
             "position": "Vocal • Visual • Katseye",
             "news": "",
             "hobbies": ["Photography", "Fashion", "Painting"],
@@ -192,6 +213,7 @@
         {
             "idol_name": "Daniela",
             "name_group": "KATSEYE",
+            "nationality": "American",
             "position": "Main Vocal • Rap • Katseye",
             "news": "",
             "hobbies": ["Dancing", "Choreography", "Singing"],
@@ -201,6 +223,7 @@
         {
             "idol_name": "Lara",
             "name_group": "KATSEYE",
+            "nationality": "American",
             "position": "Main Dancer • Vocal • Katseye",
             "news": "",
             "hobbies": ["Singing", "Cooking", "Fashion"],
@@ -210,6 +233,7 @@
         {
             "idol_name": "Megan",
             "name_group": "KATSEYE",
+            "nationality": "American",
             "position": "Main Dancer • Rap • Katseye",
             "news": "",
             "hobbies": ["Dancing", "Photography", "Gaming"],
@@ -219,6 +243,7 @@
         {
             "idol_name": "Yoonchae",
             "name_group": "KATSEYE",
+            "nationality": "South Korean",
             "position": "Main Dancer • Katseye",
             "news": "",
             "hobbies": ["Dancing", "Drawing", "Guitar"],
@@ -228,6 +253,7 @@
         {
             "idol_name": "Jiwoo",
             "name_group": "HEARTS2HEARTS",
+            "nationality": "South Korean",
             "position": "Leader • Vocal • Hearts2Hearts",
             "news": "",
             "hobbies": ["Ballet", "Japanese Tongue-twisters", "Singing"],
@@ -237,6 +263,7 @@
         {
             "idol_name": "Carmen",
             "name_group": "HEARTS2HEARTS",
+            "nationality": "Indonesian",
             "position": "Vocal • Hearts2Hearts",
             "news": "",
             "hobbies": ["Piano", "Singing", "Reading"],
@@ -246,6 +273,7 @@
         {
             "idol_name": "Juun",
             "name_group": "HEARTS2HEARTS",
+            "nationality": "South Korean",
             "position": "Vocal • Hearts2Hearts",
             "news": "",
             "hobbies": ["Imitating NPC", "Singing", "Dancing"],
@@ -255,6 +283,7 @@
         {
             "idol_name": "Anna",
             "name_group": "HEARTS2HEARTS",
+            "nationality": "South Korean",
             "position": "Vocal • MC • Hearts2Hearts",
             "news": "",
             "hobbies": ["MC", "Singing", "Dancing"],
@@ -264,6 +293,7 @@
         {
             "idol_name": "Ian",
             "name_group": "HEARTS2HEARTS",
+            "nationality": "South Korean",
             "position": "Vocal • Mood Maker • Hearts2Hearts",
             "news": "",
             "hobbies": ["Modeling", "Singing", "Musicals"],
@@ -273,6 +303,7 @@
         {
             "idol_name": "Yuha",
             "name_group": "HEARTS2HEARTS",
+            "nationality": "South Korean",
             "position": "Vocal • All-rounder • Hearts2Hearts",
             "news": "",
             "hobbies": ["Piano", "Disney", "Singing"],
@@ -281,7 +312,8 @@
         },
         {
             "idol_name": "Jisoo",
-            "name_group": "BLACKPINK - BLINK",
+            "name_group": "BLACKPINK",
+            "nationality": "South Korean",
             "position": "Lead Vocal • Visual • Blackpink",
             "news": "",
             "hobbies": ["Gaming", "Reading", "Photography"],
@@ -290,7 +322,8 @@
         },
         {
             "idol_name": "Jennie",
-            "name_group": "BLACKPINK - BLINK",
+            "name_group": "BLACKPINK",
+            "nationality": "South Korean",
             "position": "Main Rapper • Blackpink",
             "news": "",
             "hobbies": ["Photography", "Fashion", "Cooking"],
@@ -299,7 +332,8 @@
         },
         {
             "idol_name": "Rose",
-            "name_group": "BLACKPINK - BLINK",
+            "name_group": "BLACKPINK",
+            "nationality": "Korean-New Zealander",
             "position": "Main Vocal • Blackpink",
             "news": "",
             "hobbies": ["Guitar", "Drawing", "Skateboarding"],
@@ -308,7 +342,8 @@
         },
         {
             "idol_name": "Lisa",
-            "name_group": "BLACKPINK - BLINK",
+            "name_group": "BLACKPINK",
+            "nationality": "Thai",
             "position": "Main Dancer • Rap • Blackpink",
             "news": "",
             "hobbies": ["Dancing", "Photography", "Boxing"],
@@ -318,6 +353,7 @@
         {
             "idol_name": "Jungwon",
             "name_group": "ENHYPEN",
+            "nationality": "South Korean",
             "position": "Leader • Vocal • ENHYPEN",
             "news": "",
             "hobbies": ["Taekwondo", "Gaming", "Vlogging"],
@@ -327,6 +363,7 @@
         {
             "idol_name": "Jay",
             "name_group": "ENHYPEN",
+            "nationality": "Korean-American",
             "position": "Rap • Vocal • ENHYPEN",
             "news": "",
             "hobbies": ["Guitar", "Fashion", "Cooking"],
@@ -336,6 +373,7 @@
         {
             "idol_name": "San",
             "name_group": "ATEEZ",
+            "nationality": "South Korean",
             "position": "Main Dancer • Lead Vocalist • ATEEZ",
             "news": "",
             "hobbies": ["Sleeping", "Sports", "Plushies"],
@@ -345,6 +383,7 @@
         {
             "idol_name": "Seonghwa",
             "name_group": "ATEEZ",
+            "nationality": "South Korean",
             "position": "Vocalist • Performer • Visual • ATEEZ",
             "news": "",
             "hobbies": ["Watching dramas", "Building action figures", "Playing games"],
@@ -354,6 +393,7 @@
         {
             "idol_name": "Jang Wonyoung",
             "name_group": "IVE",
+            "nationality": "South Korean",
             "position": "Vocalist • Dancer • Visual • IVE",
             "news": "",
             "hobbies": ["Fashion", "MCing (Music Bank)", "Piano"],
@@ -363,6 +403,7 @@
         {
             "idol_name": "Rei",
             "name_group": "IVE",
+            "nationality": "Japanese",
             "position": "Main Rapper • Sub-Vocalist • IVE",
             "news": "",
             "hobbies": ["Drawing", "Decorating things", "Collecting pretty items"],
@@ -372,6 +413,7 @@
         {
             "idol_name": "Liz",
             "name_group": "IVE",
+            "nationality": "South Korean",
             "position": "Main Vocalist • IVE",
             "news": "",
             "hobbies": ["Singing", "Piano", "Cats"],
@@ -380,7 +422,8 @@
         },
         {
             "idol_name": "Doh Kyung Soo",
-            "name_group": "Other",
+            "name_group": "EXO",
+            "nationality": "South Korean",
             "position": "Main Vocalist • EXO",
             "news": "",
             "image_url": "https://i.pinimg.com/736x/2a/b2/2b/2ab22bee9cf50fc8bd5a30b33083c8a6.jpg",
@@ -389,6 +432,7 @@
         {
             "idol_name": "Karina",
             "name_group": "AESPA",
+            "nationality": "South Korean",
             "position": "Leader • Main Dancer • Rapper • AESPA",
             "news": "",
             "hobbies": ["Taekwondo", "Fashion styling", "Listening to music"],
@@ -398,6 +442,7 @@
         {
             "idol_name": "Giselle",
             "name_group": "AESPA",
+            "nationality": "Japanese-Korean",
             "position": "Main Rapper • Vocal • AESPA",
             "news": "",
             "hobbies": ["Playing guitar", "Choir singing", "Languages"],
@@ -407,6 +452,7 @@
         {
             "idol_name": "Winter",
             "name_group": "AESPA",
+            "nationality": "South Korean",
             "position": "Main Vocal • Dancer • Visual • AESPA",
             "news": "",
             "hobbies": ["Drinking milk", "Watching action films", "Cooking for members"],
@@ -416,6 +462,7 @@
         {
             "idol_name": "NingNing",
             "name_group": "AESPA",
+            "nationality": "Chinese",
             "position": "Main Vocal • Maknae • AESPA",
             "news": "",
             "hobbies": ["Cooking", "Playing piano", "Singing"],
@@ -425,6 +472,7 @@
         {
             "idol_name": "Minji",
             "name_group": "NEWJEANS",
+            "nationality": "Korean",
             "position": "Rapper • Vocal • NEW JEANS",
             "news": "",
             "hobbies": ["Reading (mystery novels)", "Walking", "Watching movies", "Decorating diary"],
@@ -434,6 +482,7 @@
         {
             "idol_name": "Hanni",
             "name_group": "NEWJEANS",
+            "nationality": "Vietnamese-Australian",
             "position": "Vocalist • NEW JEANS",
             "news": "",
             "hobbies": ["Ukulele", "Photography (clouds)", "Night walks", "Hoodies"],
@@ -443,6 +492,7 @@
         {
             "idol_name": "Haerin",
             "name_group": "NEWJEANS",
+            "nationality": "Korean",
             "position": "Vocal • Dance • NEW JEANS",
             "news": "",
             "hobbies": ["Listening to music", "Reading", "Wearing caps"],
@@ -452,6 +502,7 @@
         {
             "idol_name": "Hyein",
             "name_group": "NEWJEANS",
+            "nationality": "Korean",
             "position": "Maknae • Vocal • NEW JEANS",
             "news": "",
             "hobbies": ["Photography (sky)", "Watching movies", "Walking"],
@@ -461,6 +512,7 @@
         {
             "idol_name": "Danielle",
             "name_group": "NEWJEANS",
+            "nationality": "Korean-Australian",
             "position": "Vocal • NEW JEANS",
             "news": "",
             "hobbies": ["Surfing", "Drawing & painting", "Swimming", "Listening to music"],
