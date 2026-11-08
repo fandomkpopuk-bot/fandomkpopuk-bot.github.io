@@ -153,7 +153,9 @@
     "androidUpdateType": "immediate",
     "isNewGalleryEnabled": false,
     "adsType": "reward",
-    "isVideoCallEnabled": true
+    "isVideoCallEnabled": true,
+    "isChatEnabled": true,
+    "maxSendChatCount": 5
   },
   "announcement": {
     "id": "santos-bravos-connect-01",
