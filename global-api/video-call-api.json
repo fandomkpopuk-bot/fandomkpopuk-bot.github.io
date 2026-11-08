@@ -3,312 +3,415 @@
         {
             "idol_name": "Martin",
             "position": "Leader • Vocal • Producer • Cortis",
+            "news": "",
+            "hobbies": ["Songwriting", "Choreography", "Gaming"],
             "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297701-wwq0qr-0.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/martin.mp4"
         },
         {
             "idol_name": "James",
             "position": "Main Dancer • Rap • Vocal • Cortis",
+            "news": "",
+            "hobbies": ["Languages", "Choreography", "Cooking"],
             "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/260922-james-at-inkigayo-live-in-tokyo-2026/1789135339780-5uav7e-0.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/james.mp4"
         },
         {
             "idol_name": "Juhoon",
             "position": "Rap • Vocal • Cortis",
+            "news": "",
+            "hobbies": ["Basketball", "Movies", "Ramen"],
             "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/260922-juhoon-at-inkigayo-live-in-tokyo-2026/1788059890856-ufq2hw-0.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/juhoon.mp4"
         },
         {
             "idol_name": "Seonghyeon",
             "position": "Vocal • Dancer • Cortis",
+            "news": "",
+            "hobbies": ["Movies", "Basketball", "Skateboarding"],
             "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/cortis-rock-in-japan-festival-2026-photo-sketch/1790318297702-okm1kf-4.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/seongheon.mp4"
         },
         {
             "idol_name": "Keonho",
             "position": "Dancer • Vocal • Maknae • Cortis",
+            "news": "",
+            "hobbies": ["Swimming", "Movies", "Gaming"],
             "image_url": "https://fandomkpopuk-bot.github.io/cortis-asset/261007-cortis-instagram-update-keonho/1791344293162-ylh1ad-0.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/keonho.mp4"
         },
         {
             "idol_name": "Yunah",
             "position": "Leader • Vocal • ILLIT",
+            "news": "",
+            "hobbies": ["Singing", "Dancing", "Cooking"],
             "image_url": "https://fandomkpopuk-bot.github.io/illit-asset/260824-yunah-at-hong-kong-fansign/1787273641661-w3v73z-0.webp",
             "video_url": "https://artetis.my.id/mp4/yunah.mp4"
         },
         {
             "idol_name": "Minju",
             "position": "Vocal • Visual • ILLIT",
+            "news": "",
+            "hobbies": ["Piano", "Photography", "Fashion"],
             "image_url": "https://fandomkpopuk-bot.github.io/illit-asset/260820-illit-for-billboard-japan-billboard-japan-twitter-update/1787750412552-jzm3tz-2.webp",
             "video_url": "https://artetis.my.id/mp4/minju.mp4"
         },
         {
             "idol_name": "Wonhee",
             "position": "Vocal • Variety • ILLIT",
+            "news": "",
+            "hobbies": ["Singing", "Selfies", "Movies"],
             "image_url": "https://fandomkpopuk-bot.github.io/illit-asset/261006-illit-sns-update-wonhee/1791252797355-trv6wq-0.webp",
             "video_url": "https://artetis.my.id/mp4/wonhee.mp4"
         },
         {
             "idol_name": "Jungkook",
             "position": "Main Vocal • Maknae • BTS",
+            "news": "",
+            "hobbies": ["Gaming", "Drawing", "Filming"],
             "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/jungkook-x-calvin-klein-ckjk-est-2026-collection/1779203123765-4da89n-2.webp",
             "video_url": "https://artetis.my.id/mp4/jungkook.mp4"
         },
         {
             "idol_name": "V",
             "position": "Vocal • BTS",
+            "news": "",
+            "hobbies": ["Photography", "Painting", "Jazz"],
             "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/260722-bts-instagram-update-world-tour-arirang-in-paris/1789999994265-vc6ksz-0.webp",
             "video_url": "https://artetis.my.id/mp4/v.mp4"
         },
         {
             "idol_name": "Jin",
             "position": "Vocal • Visual • BTS",
+            "news": "",
+            "hobbies": ["Cooking", "Gaming", "Photography"],
             "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798447143-1bm0ik-5.webp",
             "video_url": "https://artetis.my.id/mp4/jin.mp4"
         },
         {
             "idol_name": "J-Hope",
             "position": "Vocal • Visual • BTS",
+            "news": "",
+            "hobbies": ["Dancing", "Shopping", "Photography"],
             "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798492472-fe3chk-5.webp",
             "video_url": "https://artetis.my.id/mp4/jhope.mp4"
         },
         {
             "idol_name": "RM",
             "position": "Leader • Main Rapper • BTS",
+            "news": "",
+            "hobbies": ["Writing", "Reading", "Art"],
             "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798447143-055gyo-1.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/namjoon.mp4"
         },
         {
             "idol_name": "Suga",
             "position": "Lead Rapper • BTS",
+            "news": "",
+            "hobbies": ["Producing", "Piano", "Basketball"],
             "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/bts-normal-mv-photo-sketch/1789798492472-isiajf-2.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/suga.mp4"
         },
         {
             "idol_name": "Jimin",
             "position": "Lead Vocal • Main Dancer • BTS",
+            "news": "",
+            "hobbies": ["Dancing", "Travel", "Reading"],
             "image_url": "https://fandomkpopuk-bot.github.io/bts-asset/260722-bts-instagram-update-world-tour-arirang-in-paris/1789999994265-1iqi6p-2.webp",
             "video_url": "https://artetis.my.id/mp4/jimin.mp4"
         },
         {
             "idol_name": "Felix",
             "position": "Dancer • Rap • Vocal • Stray Kids",
+            "news": "",
+            "hobbies": ["Dancing", "Baking", "Gaming"],
             "image_url": "https://fandomkpopuk-bot.github.io/straykids-asset/261007-felix-instagram-update/1791316842034-olcw8h-1.webp",
             "video_url": "https://artetis.my.id/mp4/felix.mp4"
         },
         {
             "idol_name": "Bang Chan",
             "position": "Leader • Producer • Vocal • Stray Kids",
+            "news": "",
+            "hobbies": ["Producing", "Gym", "Cooking"],
             "image_url": "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-l067oh-3.webp",
             "video_url": "https://artetis.my.id/mp4/chans.mp4"
         },
         {
             "idol_name": "Lee Know",
             "position": "Main Dancer • Vocal• Stray Kids",
+            "news": "",
+            "hobbies": ["Dance", "Hiking", "Movies"],
             "image_url": "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-yuebtv-7.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/leeknow.mp4"
         },
         {
             "idol_name": "Hyunjin",
             "position": "Dancer • Rap • Visual • Stray Kids",
+            "news": "",
+            "hobbies": ["Drawing", "Dance", "Fashion"],
             "image_url": "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789061130405-1i4mcv-0.webp",
             "video_url": "https://artetis.my.id/mp4/hyunjin.mp4"
         },
         {
             "idol_name": "Sophia",
             "position": "Leader • Vocal • Katseye",
+            "news": "",
+            "hobbies": ["Singing", "Songwriting", "Reading"],
             "image_url": "https://fandomkpopuk-bot.github.io/katseye-asset/260723-katseye-instagram-update/1787522359957-mcph3j-5.webp",
             "video_url": "https://artetis.my.id/mp4/sophia.mp4"
         },
         {
             "idol_name": "Manon",
             "position": "Vocal • Visual • Katseye",
+            "news": "",
+            "hobbies": ["Photography", "Fashion", "Painting"],
             "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3dGBeQGmzpPDOrbmNuhHYafc0AN2knhM--B-3Z1cQUA&s=10",
             "video_url": "https://artetis.my.id/mp4/manon.mp4"
         },
         {
             "idol_name": "Daniela",
             "position": "Main Vocal • Rap • Katseye",
+            "news": "",
+            "hobbies": ["Dancing", "Choreography", "Singing"],
             "image_url": "https://fandomkpopuk-bot.github.io/katseye-asset/260919-katseye-sns-update/1790244847096-epnxrw-5.webp",
             "video_url": "https://artetis.my.id/mp4/daniela.mp4"
         },
         {
             "idol_name": "Lara",
             "position": "Main Dancer • Vocal • Katseye",
+            "news": "",
+            "hobbies": ["Singing", "Cooking", "Fashion"],
             "image_url": "https://fandomkpopuk-bot.github.io/katseye-asset/260919-katseye-sns-update/1790244847096-fnw83r-7.webp",
             "video_url": "https://artetis.my.id/mp4/lara.mp4"
         },
         {
             "idol_name": "Megan",
             "position": "Main Dancer • Rap • Katseye",
+            "news": "",
+            "hobbies": ["Dancing", "Photography", "Gaming"],
             "image_url": "https://fandomkpopuk-bot.github.io/katseye-asset/260919-katseye-sns-update/1790244847096-52n1c7-1.webp",
             "video_url": "https://artetis.my.id/mp4/megan.mp4"
         },
         {
             "idol_name": "Yoonchae",
             "position": "Main Dancer • Katseye",
+            "news": "",
+            "hobbies": ["Dancing", "Drawing", "Guitar"],
             "image_url": "https://fandomkpopuk-bot.github.io/katseye-asset/260919-katseye-sns-update/1790244847096-26kc25-3.webp",
             "video_url": "https://artetis.my.id/mp4/yoonchae.mp4"
         },
         {
             "idol_name": "Jiwoo",
             "position": "Leader • Vocal • Hearts2Hearts",
+            "news": "",
+            "hobbies": ["Ballet", "Japanese Tongue-twisters", "Singing"],
             "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-dzuhjt-8.webp",
             "video_url": "https://artetis.my.id/mp4/jiwo.mp4"
         },
         {
             "idol_name": "Carmen",
             "position": "Vocal • Hearts2Hearts",
+            "news": "",
+            "hobbies": ["Piano", "Singing", "Reading"],
             "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-p2mwuk-9.webp",
             "video_url": "https://artetis.my.id/mp4/carmen.mp4"
         },
         {
             "idol_name": "Juun",
             "position": "Vocal • Hearts2Hearts",
+            "news": "",
+            "hobbies": ["Imitating NPC", "Singing", "Dancing"],
             "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-9fy45a-12.webp",
             "video_url": "https://artetis.my.id/mp4/juun.mp4"
         },
         {
             "idol_name": "Anna",
             "position": "Vocal • MC • Hearts2Hearts",
+            "news": "",
+            "hobbies": ["MC", "Singing", "Dancing"],
             "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-n90nfc-13.webp",
             "video_url": "https://artetis.my.id/mp4/anna.mp4"
         },
         {
             "idol_name": "Ian",
             "position": "Vocal • Mood Maker • Hearts2Hearts",
+            "news": "",
+            "hobbies": ["Modeling", "Singing", "Musicals"],
             "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-xycdr3-14.webp",
             "video_url": "https://artetis.my.id/mp4/ian.mp4"
         },
         {
             "idol_name": "Yuha",
             "position": "Vocal • All-rounder • Hearts2Hearts",
+            "news": "",
+            "hobbies": ["Piano", "Disney", "Singing"],
             "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-4t4xo4-10.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/yuha.mp4"
         },
         {
             "idol_name": "Jisoo",
             "position": "Lead Vocal • Visual • Blackpink",
+            "news": "",
+            "hobbies": ["Gaming", "Reading", "Photography"],
             "image_url": "https://fandomkpopuk-bot.github.io/blackpink-asset/260907-jisoo-instagram-update/1788739317330-v1pv8e-0.webp",
             "video_url": "https://artetis.my.id/mp4/jiso.mp4"
         },
         {
             "idol_name": "Jennie",
             "position": "Main Rapper • Blackpink",
+            "news": "",
+            "hobbies": ["Photography", "Fashion", "Cooking"],
             "image_url": "https://fandomkpopuk-bot.github.io/blackpink-asset/260828-jennie-instagram-update/1787357316163-1c6itt-0.webp",
             "video_url": "https://artetis.my.id/mp4/jennie.mp4"
         },
         {
             "idol_name": "Rose",
             "position": "Main Vocal • Blackpink",
+            "news": "",
+            "hobbies": ["Guitar", "Drawing", "Skateboarding"],
             "image_url": "https://fandomkpopuk-bot.github.io/blackpink-asset/ros-x-saint-laurent-for-elle-korea-for-2026-september-cover/1786508456236-7ee588e01c32-0.webp",
             "video_url": "https://artetis.my.id/mp4/rose.mp4"
         },
         {
             "idol_name": "Lisa",
             "position": "Main Dancer • Rap • Blackpink",
+            "news": "",
+            "hobbies": ["Dancing", "Photography", "Boxing"],
             "image_url": "https://fandomkpopuk-bot.github.io/blackpink-asset/260909-lisa-at-bvlgari-serpenti-infinito-event-in-new-york/1789060904805-4ctoji-0.webp",
             "video_url": "https://artetis.my.id/mp4/lisa.mp4"
         },
         {
             "idol_name": "Jungwon",
             "position": "Leader • Vocal • ENHYPEN",
+            "news": "",
+            "hobbies": ["Taekwondo", "Gaming", "Vlogging"],
             "image_url": "https://fandomkpopuk-bot.github.io/enhypen-asset/261006-enhypen-x-update-jungwon-jay-sunoo/1791285194912-2ubdza-1.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/jungwon.mp4"
         },
         {
             "idol_name": "Jay",
             "position": "Rap • Vocal • ENHYPEN",
+            "news": "",
+            "hobbies": ["Guitar", "Fashion", "Cooking"],
             "image_url": "https://fandomkpopuk-bot.github.io/enhypen-asset/260822-enhypen-bloody-paradise-mv-photo-sketch/1787393218666-inviet-8.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/jay.mp4"
         },
         {
             "idol_name": "San",
             "position": "Main Dancer • Lead Vocalist • ATEEZ",
+            "news": "",
+            "hobbies": ["Sleeping", "Sports", "Plushies"],
             "image_url": "https://fandomkpopuk-bot.github.io/ateez-asset/ateez-golden-hour-part-6-concept/1791990839472-q9grgn-5.webp",
             "video_url": "https://artetis.my.id/mp4/san.mp4"
         },
         {
             "idol_name": "Seonghwa",
             "position": "Vocalist • Performer • Visual • ATEEZ",
+            "news": "",
+            "hobbies": ["Watching dramas", "Building action figures", "Playing games"],
             "image_url": "https://fandomkpopuk-bot.github.io/ateez-asset/ateez-golden-hour-part-6-concept/1791904684340-hquvkl-0.webp",
             "video_url": "https://artetis.my.id/mp4/seonghwa.mp4"
         },
         {
             "idol_name": "Jang Wonyoung",
             "position": "Vocalist • Dancer • Visual • IVE",
+            "news": "",
+            "hobbies": ["Fashion", "MCing (Music Bank)", "Piano"],
             "image_url": "https://fandomkpopuk-bot.github.io/ive-asset/261020-ive-twitter-update/1792496473451-bekcxr-0.webp",
             "video_url": "https://artetis.my.id/mp4/jangwonyoung.mp4"
         },
         {
             "idol_name": "Rei",
             "position": "Main Rapper • Sub-Vocalist • IVE",
+            "news": "",
+            "hobbies": ["Drawing", "Decorating things", "Collecting pretty items"],
             "image_url": "https://kprofiles.com/wp-content/uploads/2021/11/Rei-IVE.jpg",
             "video_url": "https://artetis.my.id/mp4/rei.mp4"
         },
         {
             "idol_name": "Liz",
             "position": "Main Vocalist • IVE",
+            "news": "",
+            "hobbies": ["Singing", "Piano", "Cats"],
             "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Liz_of_Ive%2C_July_19%2C_2026_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
             "video_url": "https://artetis.my.id/mp4/liz.mp4"
         },
         {
             "idol_name": "Doh Kyung Soo",
             "position": "Main Vocalist • EXO",
+            "news": "",
             "image_url": "https://i.pinimg.com/736x/2a/b2/2b/2ab22bee9cf50fc8bd5a30b33083c8a6.jpg",
             "video_url": "https://artetis.my.id/mp4/dohkyungsoo.mp4"
         },
         {
             "idol_name": "Karina",
             "position": "Leader • Main Dancer • Rapper • AESPA",
+            "news": "",
+            "hobbies": ["Taekwondo", "Fashion styling", "Listening to music"],
             "image_url": "https://fandomkpopuk-bot.github.io/aespa-asset/aespa-2027-season-s-greetings-one-more-page-i-swear-teasers/1791603107502-afiqa2-2.webp",
             "video_url": "https://artetis.my.id/mp4/aespa.mp4"
         },
         {
             "idol_name": "Giselle",
             "position": "Main Rapper • Vocal • AESPA",
+            "news": "",
+            "hobbies": ["Playing guitar", "Choir singing", "Languages"],
             "image_url": "https://fandomkpopuk-bot.github.io/aespa-asset/aespa-2027-season-s-greetings-one-more-page-i-swear-teasers/1791603107502-y81822-7.webp",
             "video_url": "https://artetis.my.id/mp4/gissele.mp4"
         },
         {
             "idol_name": "Winter",
             "position": "Main Vocal • Dancer • Visual • AESPA",
+            "news": "",
+            "hobbies": ["Drinking milk", "Watching action films", "Cooking for members"],
             "image_url": "https://fandomkpopuk-bot.github.io/aespa-asset/aespa-2027-season-s-greetings-one-more-page-i-swear-teasers/1791603107502-nnwarv-3.webp",
             "video_url": "https://artetis.my.id/mp4/winter.mp4"
         },
         {
             "idol_name": "NingNing",
             "position": "Main Vocal • Maknae • AESPA",
+            "news": "",
+            "hobbies": ["Cooking", "Playing piano", "Singing"],
             "image_url": "https://fandomkpopuk-bot.github.io/aespa-asset/aespa-2027-season-s-greetings-one-more-page-i-swear-teasers/1791603107502-oqlnq5-6.webp",
             "video_url": "https://artetis.my.id/mp4/ningning.mp4"
         },
         {
             "idol_name": "Minji",
             "position": "Rapper • Vocal • NEW JEANS",
+            "news": "",
+            "hobbies": ["Reading (mystery novels)", "Walking", "Watching movies", "Decorating diary"],
             "image_url": "https://fandomkpopuk-bot.github.io/newjeans-asset/newjeans-4th-anniversary/1784649277704-urvl0z-7.webp",
             "video_url": "https://artetis.my.id/mp4/minji.mp4"
         },
         {
             "idol_name": "Hanni",
             "position": "Vocalist • NEW JEANS",
+            "news": "",
+            "hobbies": ["Ukulele", "Photography (clouds)", "Night walks", "Hoodies"],
             "image_url": "https://fandomkpopuk-bot.github.io/newjeans-asset/newjeans-4th-anniversary/1784649277704-hftk6u-11.webp",
             "video_url": "https://artetis.my.id/mp4/hanni.mp4"
         },
         {
             "idol_name": "Haerin",
             "position": "Vocal • Dance • NEW JEANS",
+            "news": "",
+            "hobbies": ["Listening to music", "Reading", "Wearing caps"],
             "image_url": "https://fandomkpopuk-bot.github.io/newjeans-asset/newjeans-4th-anniversary/1784649277704-6zltzx-18.webp",
             "video_url": "https://artetis.my.id/mp4/haerin.mp4"
         },
         {
             "idol_name": "Hyein",
             "position": "Maknae • Vocal • NEW JEANS",
+            "news": "",
+            "hobbies": ["Photography (sky)", "Watching movies", "Walking"],
             "image_url": "https://fandomkpopuk-bot.github.io/newjeans-asset/newjeans-4th-anniversary/1784649277704-9fdjf1-22.webp",
             "video_url": "https://artetis.my.id/mp4/hyein.mp4"
         },
         {
             "idol_name": "Danielle",
             "position": "Vocal • NEW JEANS",
+            "news": "",
+            "hobbies": ["Surfing", "Drawing & painting", "Swimming", "Listening to music"],
             "image_url": "https://awsimages.detik.net.id/community/media/visual/2025/12/30/danielle-newjeans-1767078096034.webp?w=700&q=90",
             "video_url": "https://artetis.my.id/mp4/danielle.mp4"
         }
