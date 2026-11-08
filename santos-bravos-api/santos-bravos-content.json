@@ -138,6 +138,8 @@
     "maxPlayCount": 3,
     "maxViewImageCount": 4,
     "maxDownloadCount": 5,
+    "maxSendChatCount": 10,
+    "maxProxyLimit": 9,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 8,
     "freeAdsSessionVideosRequired": 6,
@@ -154,8 +156,7 @@
     "isNewGalleryEnabled": false,
     "adsType": "reward",
     "isVideoCallEnabled": true,
-    "isChatEnabled": true,
-    "maxSendChatCount": 5
+    "isChatEnabled": true
   },
   "announcement": {
     "id": "santos-bravos-connect-01",
