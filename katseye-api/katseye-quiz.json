@@ -1319,6 +1319,11 @@
       "score": 41625
     },
     {
+      "name": "Sophia",
+      "country": "Australia",
+      "score": 40625
+    },
+    {
       "name": "Damarlingga",
       "country": "Indonesia",
       "score": 35625
@@ -1337,11 +1342,6 @@
       "name": "Isabel",
       "country": "New Zealand",
       "score": 28675
-    },
-    {
-      "name": "Akshita",
-      "country": "India",
-      "score": 28375
     }
   ],
   "event_list": [

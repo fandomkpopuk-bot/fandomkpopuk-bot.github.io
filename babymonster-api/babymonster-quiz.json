@@ -472,6 +472,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Roma",
+      "country": "Egypt",
+      "score": 615325
+    },
+    {
       "name": "Felice Latavia Sen",
       "country": "Indonesia",
       "score": 475450
@@ -505,11 +510,6 @@
       "name": "Rosie 🎀✨",
       "country": "India 🇮🇳",
       "score": 23175
-    },
-    {
-      "name": "Poojitha M",
-      "country": "India",
-      "score": 11525
     }
   ],
   "event_list": [
