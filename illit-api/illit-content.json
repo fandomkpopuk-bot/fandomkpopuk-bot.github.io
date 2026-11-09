@@ -156,7 +156,7 @@
     }
   },
   "config": {
-    "isAdsEnabled": true,
+    "isAdsEnabled": false,
     "maxPlayCount": 3,
     "maxViewImageCount": 4,
     "maxDownloadCount": 5,
@@ -173,9 +173,9 @@
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",
-    "isNewGalleryEnabled": false,
+    "isNewGalleryEnabled": true,
     "adsType": "reward",
-    "isVideoCallEnabled": false
+    "isVideoCallEnabled": true
   },
   "gallery": [
     {
