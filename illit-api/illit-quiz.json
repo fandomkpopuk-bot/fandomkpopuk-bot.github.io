@@ -719,6 +719,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Celestia",
+      "country": "Francé",
+      "score": 139850
+    },
+    {
       "name": "Farah Zya",
       "country": "Malaysia",
       "score": 14725
@@ -727,6 +732,11 @@
       "name": "Nat",
       "country": "Estonia",
       "score": 6400
+    },
+    {
+      "name": "Anikka",
+      "country": "Philippines",
+      "score": 6025
     },
     {
       "name": "芦屋",
@@ -747,16 +757,6 @@
       "name": "Soyeon",
       "country": "South Korea",
       "score": 2050
-    },
-    {
-      "name": "Pola",
-      "country": "England",
-      "score": 1900
-    },
-    {
-      "name": "Alice",
-      "country": "Brazil",
-      "score": 1825
     }
   ],
   "event_list": [

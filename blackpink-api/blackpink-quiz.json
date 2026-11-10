@@ -830,12 +830,17 @@
     {
       "name": "Minji",
       "country": "Türkiye",
-      "score": 7025
+      "score": 10450
     },
     {
       "name": "Minji",
       "country": "Türkiye",
-      "score": 6250
+      "score": 7025
+    },
+    {
+      "name": "Roma Elsayed",
+      "country": "Egypt",
+      "score": 5250
     },
     {
       "name": "Blinko",
@@ -856,11 +861,6 @@
       "name": "Sanisa",
       "country": "India",
       "score": 2225
-    },
-    {
-      "name": "Ryujin",
-      "country": "Pakistan",
-      "score": 2150
     }
   ],
   "event_list": [
