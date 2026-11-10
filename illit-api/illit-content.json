@@ -170,12 +170,12 @@
     "isNewsEnabled": false,
     "isMembersEnabled": true,
     "adBannerInterval": 8,
-    "isMinigameEnabled": true,
+    "isMinigameEnabled": false,
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",
-    "isNewGalleryEnabled": true,
+    "isNewGalleryEnabled": false,
     "adsType": "reward",
-    "isVideoCallEnabled": true
+    "isVideoCallEnabled": false
   },
   "gallery": [
     {
