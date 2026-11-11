@@ -191,7 +191,7 @@
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",
-    "isNewGalleryEnabled": false,
+    "isNewGalleryEnabled": true,
     "adsType": "reward",
     "isVideoCallEnabled": true,
     "isChatEnabled": true
