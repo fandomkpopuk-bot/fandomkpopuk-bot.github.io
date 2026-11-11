@@ -171,11 +171,13 @@
       "url": "https://play.google.com/store/apps/details?id=com.txt.uk"
     }
   },
-  "config": {
+   "config": {
     "isAdsEnabled": true,
     "maxPlayCount": 3,
     "maxViewImageCount": 4,
     "maxDownloadCount": 5,
+    "maxSendChatCount": 3,
+    "maxProxyLimit": 25,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 8,
     "freeAdsSessionVideosRequired": 6,
@@ -189,9 +191,10 @@
     "isMinigameEnabled": true,
     "isGalleryEnabled": false,
     "androidUpdateType": "immediate",
-    "isNewGalleryEnabled": true,
+    "isNewGalleryEnabled": false,
     "adsType": "reward",
-    "isVideoCallEnabled": true
+    "isVideoCallEnabled": true,
+    "isChatEnabled": true
   },
   "gallery": [
     {
