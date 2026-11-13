@@ -524,6 +524,11 @@
   ],
   "leaderboard": [
     {
+      "name": "Giovana Cacho",
+      "country": "Brazil",
+      "score": 1509400
+    },
+    {
       "name": "Sofia",
       "country": "Germany",
       "score": 1053225
@@ -542,11 +547,6 @@
       "name": "Killermoonie",
       "country": "Egypt",
       "score": 14100
-    },
-    {
-      "name": "Giovana Cacho",
-      "country": "Brazil",
-      "score": 7125
     },
     {
       "name": "Diana",
