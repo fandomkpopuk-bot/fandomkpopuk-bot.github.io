@@ -1773,6 +1773,70 @@
       "youtube_id": "iqQWCYMlMw0",
       "urlMp3": "https://artetis.my.id/mp3/ATEEZ(에이티즈)-'Drip'OfficialMV.mp3",
       "image": "https://i.ytimg.com/vi/iqQWCYMlMw0/maxresdefault.jpg"
+    },
+    {
+      "title": "ANEMIA",
+      "release_date": "2026-11-13",
+      "album": "GOLDEN HOUR : Part.6",
+      "artist": "ATEEZ",
+      "tags": [
+        "ateez"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "UypoqaWcUZ8",
+      "urlMp3": "https://objectstorage.ap-batam-1.oraclecloud.com/n/ax0mty7gks0q/b/daebak-music-public/o/mp3/UypoqaWcUZ8.mp3",
+      "image": "https://i.ytimg.com/vi/UypoqaWcUZ8/maxresdefault.jpg"
+    },
+    {
+      "title": "UP",
+      "release_date": "2026-11-13",
+      "album": "GOLDEN HOUR : Part.6",
+      "artist": "ATEEZ",
+      "tags": [
+        "ateez"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "KYGb4thFNqk",
+      "urlMp3": "https://objectstorage.ap-batam-1.oraclecloud.com/n/ax0mty7gks0q/b/daebak-music-public/o/mp3/KYGb4thFNqk.mp3",
+      "image": "https://i.ytimg.com/vi/KYGb4thFNqk/maxresdefault.jpg"
+    },
+    {
+      "title": "FAITH",
+      "release_date": "2026-11-13",
+      "album": "GOLDEN HOUR : Part.6",
+      "artist": "ATEEZ",
+      "tags": [
+        "ateez"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "31873j10H7I",
+      "urlMp3": "https://objectstorage.ap-batam-1.oraclecloud.com/n/ax0mty7gks0q/b/daebak-music-public/o/mp3/31873j10H7I.mp3",
+      "image": "https://i.ytimg.com/vi/31873j10H7I/maxresdefault.jpg"
+    },
+    {
+      "title": "Hollow Victory",
+      "release_date": "2026-11-13",
+      "album": "GOLDEN HOUR : Part.6",
+      "artist": "ATEEZ",
+      "tags": [
+        "ateez"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "GUEaWrqrniM",
+      "urlMp3": "https://objectstorage.ap-batam-1.oraclecloud.com/n/ax0mty7gks0q/b/daebak-music-public/o/mp3/GUEaWrqrniM.mp3",
+      "image": "https://i.ytimg.com/vi/GUEaWrqrniM/maxresdefault.jpg"
     }
   ]
 }
