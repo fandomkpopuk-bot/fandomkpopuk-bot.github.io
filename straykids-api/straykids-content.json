@@ -207,25 +207,29 @@
     "isChatEnabled": true
   },
   "announcement": {
-    "id": "santos-bravos-connect-01",
-    "badge": "📱 NEW APP RELEASE",
-    "title": "SANTOS BRAVOS CONNECT is Here!",
-    "description": "The official SANTOS BRAVOS CONNECT app is now ready to install! Get lyrics, songs, photos & DUAL updates faster. Tap below to install now on Google Play.",
-    "image": "https://play-lh.googleusercontent.com/IXRpR9bMm8HxhBg70t_aNes7fOUgenO8meHW0o2mzPrw7NW_ro95LrNwiP0DEQ7dk6011kCxFtNfWXS13KYnyQ=w480-h960-rw",
+    "id": "fake-chat-launch-01",
+    "badge": "💬 NEW FEATURE",
+    "title": "Fake Chat with Stray Kids is Here!",
+    "description": "You can now Fake Chat with your idol! Send messages and get fun replies from Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin and I.N just like real DMs. Please update your app to the latest version to use this feature.",
+    "image": "https://cdn.aptoide.com/imgs/e/b/3/eb33b6863afeedbb7ae80c8859cf69d6_fgraphic.png",
     "rewards": [
       {
         "icon": "star",
-        "text": "Lyrics, songs & HD photos"
+        "text": "Chat with all 8 Stray Kids members"
       },
       {
         "icon": "trophy",
-        "text": "DUAL updates & faster access"
+        "text": "Fun replies & photo moments"
+      },
+      {
+        "icon": "timer",
+        "text": "Update your app to unlock now"
       }
     ],
     "cta": {
-      "label": "Install Now",
+      "label": "Update App Now",
       "action": "open_url",
-      "url": "https://play.google.com/store/apps/details?id=com.txt.uk"
+      "url": "http://fandomkpopuk-bot.github.io/straykids-stan"
     }
   },
   "gallery": [
