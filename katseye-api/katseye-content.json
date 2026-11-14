@@ -194,7 +194,7 @@
     "isNewGalleryEnabled": true,
     "adsType": "reward",
     "isVideoCallEnabled": true,
-    "isChatEnabled": false
+    "isChatEnabled": true
   },
   "gallery": [
     {
