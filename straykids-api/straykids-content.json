@@ -229,7 +229,7 @@
     "cta": {
       "label": "Update App Now",
       "action": "open_url",
-      "url": "http://fandomkpopuk-bot.github.io/straykids-stan"
+      "url": "https://play.google.com/store/apps/details?id=com.stray.kids.connect"
     }
   },
   "gallery": [
