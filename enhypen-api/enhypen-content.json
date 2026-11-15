@@ -38,30 +38,51 @@
         "featured": true,
         "tags": "jungwon",
         "birthDate": "Feb 9, 2004",
-        "birthPlace": "Seoul, South Korea",
+        "birthPlace": "Yeongdeungpo-gu, Seoul, South Korea",
         "nationality": "South Korean",
         "hobbies": [
           "Taekwondo",
           "Gaming",
           "Vlogging"
         ],
-        "image": "https://fandomkpopuk-bot.github.io/enhypen-asset/261006-enhypen-x-update-jungwon-jay-sunoo/1791285194912-2ubdza-1.webp"
+        "image": "https://fandomkpopuk-bot.github.io/enhypen-asset/261006-enhypen-x-update-jungwon-jay-sunoo/1791285194912-2ubdza-1.webp",
+        "stageName": "Jungwon (정원)",
+        "birthName": "Yang Jung-won (양정원)",
+        "englishName": "Johnny Yang",
+        "position": "Leader",
+        "height": "175 cm (5'9\")",
+        "bloodType": "AB",
+        "mbti": "ISTJ",
+        "zodiacSign": "Aquarius",
+        "chineseZodiac": "Monkey",
+        "representativeEmoji": "🐱"
       },
       {
         "name": "Heeseung",
         "initials": "HS",
-        "role": "Main Vocal • Dance",
+        "role": "Main Vocalist • Center",
         "unit": "VOCAL LINE",
-        "tags": "heeseung",
+        "tags": "evan",
         "birthDate": "Oct 15, 2001",
-        "birthPlace": "Namyangju, South Korea",
+        "birthPlace": "Uiwang, Gyeonggi-do, South Korea",
         "nationality": "South Korean",
         "hobbies": [
           "Songwriting",
           "Gaming",
           "Basketball"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2020/08/HEESEUNG-600x800.jpeg",
+        "stageName": "Heeseung (희승)",
+        "birthName": "Lee Hee-seung (이희승)",
+        "englishName": "Evan Lee",
+        "position": "Main Vocalist • Center",
+        "height": "181.5 cm (5'11\")",
+        "bloodType": "A",
+        "mbti": "ESTP / ISTP",
+        "zodiacSign": "Libra",
+        "chineseZodiac": "Snake",
+        "representativeEmoji": "🐹",
+        "instagram": "@h_evva_n"
       },
       {
         "name": "Jay",
@@ -77,7 +98,16 @@
           "Fashion",
           "Cooking"
         ],
-        "image": "https://fandomkpopuk-bot.github.io/enhypen-asset/260822-enhypen-bloody-paradise-mv-photo-sketch/1787393218666-inviet-8.webp"
+        "image": "https://fandomkpopuk-bot.github.io/enhypen-asset/260822-enhypen-bloody-paradise-mv-photo-sketch/1787393218666-inviet-8.webp",
+        "stageName": "Jay (제이)",
+        "birthName": "Jay Park",
+        "koreanName": "Park Jong-seong (박종성)",
+        "height": "180 cm (5'11\")",
+        "bloodType": "B",
+        "mbti": "ENTJ",
+        "zodiacSign": "Taurus",
+        "chineseZodiac": "Horse",
+        "representativeEmoji": "🦅"
       },
       {
         "name": "Jake",
@@ -86,14 +116,23 @@
         "unit": "VOCAL LINE",
         "tags": "jake",
         "birthDate": "Nov 15, 2002",
-        "birthPlace": "Brisbane, Australia",
+        "birthPlace": "Seoul, South Korea (raised in Brisbane, Australia)",
         "nationality": "Korean-Australian",
         "hobbies": [
           "Soccer",
           "Violin",
           "Photography"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2020/08/JAKE-1-900x600.jpeg",
+        "stageName": "Jake (제이크)",
+        "birthName": "Jake Sim",
+        "koreanName": "Sim Jae-yun (심재윤)",
+        "height": "175 cm (5'9\")",
+        "bloodType": "O",
+        "mbti": "ISTJ",
+        "zodiacSign": "Scorpio",
+        "chineseZodiac": "Horse",
+        "representativeEmoji": "🐶"
       },
       {
         "name": "Sunghoon",
@@ -102,14 +141,23 @@
         "unit": "VOCAL LINE",
         "tags": "sunghoon",
         "birthDate": "Dec 8, 2002",
-        "birthPlace": "Suwon, South Korea",
+        "birthPlace": "Cheonan, Chungcheongnam-do, South Korea",
         "nationality": "South Korean",
         "hobbies": [
           "Figure Skating",
           "Pilates",
           "Reading"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2020/08/SUNGHOON-1-534x800.jpeg",
+        "stageName": "Sunghoon (성훈)",
+        "birthName": "Park Sung-hoon (박성훈)",
+        "position": "Visual",
+        "height": "180 cm (5'11\")",
+        "bloodType": "O",
+        "mbti": "ISTJ",
+        "zodiacSign": "Sagittarius",
+        "chineseZodiac": "Horse",
+        "representativeEmoji": "🐧"
       },
       {
         "name": "Sunoo",
@@ -125,7 +173,15 @@
           "Cooking",
           "Movies"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2020/08/SUNOO-1-534x800.jpeg",
+        "stageName": "Sunoo (선우)",
+        "birthName": "Kim Seon-woo (김선우)",
+        "height": "177 cm (5'10\")",
+        "bloodType": "O",
+        "mbti": "ENFP",
+        "zodiacSign": "Cancer",
+        "chineseZodiac": "Goat",
+        "representativeEmoji": "🦊"
       },
       {
         "name": "Ni-ki",
@@ -141,7 +197,17 @@
           "Soccer",
           "Video Editing"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2020/08/NI-KI-1-534x800.jpeg",
+        "stageName": "Ni-Ki (니키)",
+        "birthName": "Nishimura Riki (西村 力)",
+        "koreanName": "Oh Cheol-soo (오철수)",
+        "position": "Main Dancer • Maknae",
+        "height": "186 cm (6'1\")",
+        "bloodType": "B",
+        "mbti": "INTJ",
+        "zodiacSign": "Sagittarius",
+        "chineseZodiac": "Rooster",
+        "representativeEmoji": "🐆"
       }
     ]
   },

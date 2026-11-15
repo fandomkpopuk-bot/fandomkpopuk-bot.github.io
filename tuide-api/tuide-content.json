@@ -45,7 +45,15 @@
           "Fashion",
           "Home care"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2024/03/D96574A9-4AF0-491F-8294-75F9D5B5EC40-640x800.jpeg",
+        "stageName": "Seohee (서희)",
+        "birthName": "Park Seo-hee (박서희)",
+        "position": "All-Rounder",
+        "mbti": "ENFP / ENTP",
+        "zodiacSign": "Libra",
+        "chineseZodiac": "Dog",
+        "representativeColor": "White",
+        "representativeEmoji": "🎂"
       },
       {
         "name": "Seoyeon",
@@ -61,7 +69,15 @@
           "Skin and hair care",
           "Cats"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2024/03/84929B39-D939-4754-BD02-200EEBF0BF05-900x600.jpeg",
+        "stageName": "Seoyeon (서연)",
+        "birthName": "Park Seo-yeon (박서연)",
+        "height": "~168-169 cm (5'6\")",
+        "mbti": "ENTP",
+        "zodiacSign": "Pisces",
+        "chineseZodiac": "Rat",
+        "representativeColor": "Orange",
+        "representativeEmoji": "🍿"
       },
       {
         "name": "Elena",
@@ -77,7 +93,16 @@
           "Singing",
           "Violin and flute"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2024/03/49CE316C-E6B1-42E1-9BEC-3AA295A67DDA-900x600.jpeg",
+        "stageName": "Elena (엘레나)",
+        "birthName": "Elena Yena Kwon",
+        "koreanName": "Kwon Ye-na (권예나)",
+        "position": "Vocalist",
+        "mbti": "ISTJ",
+        "zodiacSign": "Aries",
+        "chineseZodiac": "Rat",
+        "representativeColor": "Pink",
+        "representativeEmoji": "🐬"
       },
       {
         "name": "Jia",
@@ -93,7 +118,16 @@
           "Vintage stuff",
           "Wellness"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2024/03/3B49958B-5D09-4AB2-86FC-8577394EBB3C-900x600.jpeg",
+        "stageName": "Jia (지아)",
+        "birthName": "Park Ji-a (박지아)",
+        "position": "All-Rounder",
+        "height": "~163 cm (5'3\")",
+        "mbti": "ENFJ",
+        "zodiacSign": "Leo",
+        "chineseZodiac": "Rat",
+        "representativeColor": "Mint",
+        "representativeEmoji": "🐶"
       },
       {
         "name": "Saki",
@@ -102,14 +136,22 @@
         "unit": "DANCE LINE",
         "tags": "saki",
         "birthDate": "Oct 9, 2010",
-        "birthPlace": "Tokyo, Japan",
+        "birthPlace": "Tokyo, Japan (raised in Hyogo)",
         "nationality": "Japanese",
         "hobbies": [
           "Fashion",
           "Digital cameras",
           "Animals"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2024/03/9B0D7C75-1440-4B5F-B4BB-39CBF2946D3C-900x600.jpeg",
+        "stageName": "Saki (사키)",
+        "birthName": "Maita Saki",
+        "height": "167 cm (5'6\")",
+        "mbti": "INTJ",
+        "zodiacSign": "Libra",
+        "chineseZodiac": "Tiger",
+        "representativeColor": "Silver",
+        "representativeEmoji": "🐹"
       },
       {
         "name": "Seah",
@@ -125,7 +167,16 @@
           "Makeup",
           "Shopping"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2024/03/5C529EAC-AFC8-413A-86B6-4C7608626C2D-900x600.jpeg",
+        "stageName": "Seah (세아)",
+        "birthName": "Park Se-ah (박세아)",
+        "position": "Visual",
+        "height": "173 cm (5'8\")",
+        "mbti": "INFP",
+        "zodiacSign": "Capricorn",
+        "chineseZodiac": "Tiger",
+        "representativeColor": "Red",
+        "representativeEmoji": "🐌"
       },
       {
         "name": "Yi Hani",
@@ -141,7 +192,17 @@
           "Guitar",
           "Watching movies"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2024/03/5B465C56-FA89-438F-AC94-953A4A6D88DB-900x600.jpeg",
+        "stageName": "Yi Hani (이하늬)",
+        "koreanName": "Lee Ha-nwi (이하늬)",
+        "englishName": "Autumn Shaw Lee",
+        "position": "Maknae",
+        "height": "~176 cm (5'9\")",
+        "mbti": "ENFP",
+        "zodiacSign": "Capricorn",
+        "chineseZodiac": "Tiger",
+        "representativeColor": "Black",
+        "representativeEmoji": "🐕"
       }
     ]
   },

@@ -33,27 +33,38 @@
       {
         "name": "Bang Chan",
         "initials": "BC",
-        "role": "Leader • Producer • Vocal",
+        "role": "Leader • Producer • Vocalist • Dancer • Rapper",
         "unit": "3RACHA",
         "featured": true,
         "tags": "bangchan",
         "birthDate": "Oct 3, 1997",
-        "birthPlace": "Sydney, Australia",
-        "nationality": "Australian",
+        "birthPlace": "Seoul, South Korea (raised in Sydney, Australia)",
+        "nationality": "Korean-Australian",
         "hobbies": [
           "Producing",
           "Gym",
           "Cooking"
         ],
-        "image": "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-l067oh-3.webp"
+        "image": "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-l067oh-3.webp",
+        "stageName": "Bang Chan (방찬)",
+        "birthName": "Christopher Chahn Bahng",
+        "koreanName": "Bahng Chan (방찬)",
+        "position": "Leader • Producer • Vocalist • Dancer • Rapper",
+        "height": "171 cm (5'7'')",
+        "bloodType": "O",
+        "mbti": "ENFJ-T",
+        "zodiacSign": "Libra",
+        "chineseZodiac": "Ox",
+        "representativeAnimal": "Wolf",
+        "instagram": "@gnabnahc"
       },
       {
         "name": "Lee Know",
         "initials": "LK",
-        "role": "Main Dancer • Vocal",
+        "role": "Dance Leader • Main Dancer • Vocalist • Rapper",
         "unit": "DANCERACHA",
         "tags": "leeknow",
-        "birthDate": "Okt 25, 1998",
+        "birthDate": "Oct 25, 1998",
         "birthPlace": "Gimpo, South Korea",
         "nationality": "South Korean",
         "hobbies": [
@@ -61,12 +72,22 @@
           "Hiking",
           "Movies"
         ],
-        "image": "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-yuebtv-7.webp"
+        "image": "https://fandomkpopuk-bot.github.io/straykids-asset/stray-kids-this-that-special-website-reward/1785958800405-yuebtv-7.webp",
+        "stageName": "Lee Know (리노)",
+        "birthName": "Lee Min-ho (이민호)",
+        "position": "Dancer • Vocalist • Rapper",
+        "height": "172 cm (5'7.5\")",
+        "bloodType": "O",
+        "mbti": "ISFP",
+        "zodiacSign": "Scorpio",
+        "chineseZodiac": "Tiger",
+        "representativeAnimal": "Rabbit",
+        "instagram": "@t.leeknowsaurus"
       },
       {
         "name": "Changbin",
         "initials": "CB",
-        "role": "Main Rapper • Producer",
+        "role": "Main Rapper • Vocalist • Producer",
         "unit": "3RACHA",
         "tags": "changbin",
         "birthDate": "Aug 11, 1999",
@@ -77,12 +98,22 @@
           "Producing",
           "Gym"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2017/11/CHANGBIN-4-640x800.jpeg",
+        "stageName": "Changbin (창빈)",
+        "birthName": "Seo Chang-bin (서창빈)",
+        "position": "Rapper • Vocalist • Producer",
+        "height": "167 cm (5'6\")",
+        "bloodType": "O",
+        "mbti": "ESTP",
+        "zodiacSign": "Leo",
+        "chineseZodiac": "Rabbit",
+        "representativeAnimal": "Pabbit (Pig + Rabbit)",
+        "instagram": "@jutdwae"
       },
       {
         "name": "Hyunjin",
         "initials": "HJ",
-        "role": "Dancer • Rap • Visual",
+        "role": "Main Dancer • Rapper • Vocalist • Visual",
         "unit": "DANCERACHA",
         "tags": "hyunjin",
         "birthDate": "Mar 20, 2000",
@@ -93,12 +124,23 @@
           "Dance",
           "Fashion"
         ],
-        "image": "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789061130405-1i4mcv-0.webp"
+        "image": "https://fandomkpopuk-bot.github.io/straykids-asset/hyunjin-x-guess-2026-fall-campaign/1789061130405-1i4mcv-0.webp",
+        "stageName": "Hyunjin (현진)",
+        "birthName": "Hwang Hyun-jin (황현진)",
+        "englishName": "Sam Hwang",
+        "position": "Dancer • Rapper • Vocalist • Visual",
+        "height": "179 cm (5'10.5\")",
+        "bloodType": "B",
+        "mbti": "INFP",
+        "zodiacSign": "Pisces",
+        "chineseZodiac": "Dragon",
+        "representativeAnimal": "Ferret",
+        "instagram": "@hynjinnnn"
       },
       {
         "name": "Han",
         "initials": "HN",
-        "role": "Rap • Vocal • Producer",
+        "role": "Rapper • Vocalist • Producer",
         "unit": "3RACHA",
         "tags": "han",
         "birthDate": "Sep 14, 2000",
@@ -109,28 +151,50 @@
           "Guitar",
           "Eating sweets"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2017/11/HAN-4-640x800.jpeg",
+        "stageName": "Han (한)",
+        "birthName": "Han Ji-sung (한지성)",
+        "englishName": "Peter Han",
+        "position": "Rapper • Vocalist • Producer",
+        "height": "169 cm (5'6.5\")",
+        "bloodType": "B",
+        "mbti": "ISFP",
+        "zodiacSign": "Virgo",
+        "chineseZodiac": "Dragon",
+        "representativeAnimal": "Quokka",
+        "instagram": "@_doolsetnet"
       },
       {
         "name": "Felix",
         "image": "https://fandomkpopuk-bot.github.io/straykids-asset/261007-felix-instagram-update/1791316842034-olcw8h-1.webp",
         "initials": "FX",
-        "role": "Dancer • Rap • Vocal",
+        "role": "Main Dancer • Rapper • Vocalist",
         "unit": "DANCERACHA",
         "tags": "felix",
         "birthDate": "Sep 15, 2000",
-        "birthPlace": "Sydney, Australia",
-        "nationality": "Australian",
+        "birthPlace": "Seven Hills, Sydney, Australia",
+        "nationality": "Korean-Australian",
         "hobbies": [
           "Dancing",
           "Baking",
           "Gaming"
-        ]
+        ],
+        "stageName": "Felix (필릭스)",
+        "birthName": "Felix Lee (이 필릭스)",
+        "koreanName": "Lee Yong-bok (이용복)",
+        "position": "Dancer • Rapper • Vocalist",
+        "height": "171 cm (5'7\")",
+        "bloodType": "AB",
+        "mbti": "ENFJ",
+        "zodiacSign": "Virgo",
+        "chineseZodiac": "Dragon",
+        "representativeAnimal": "Chick",
+        "instagram": "@yong.lixx"
       },
       {
         "name": "Seungmin",
         "initials": "SM",
-        "role": "Main Vocal",
+        "role": "Main Vocalist",
         "unit": "VOCALRACHA",
         "tags": "seungmin",
         "birthDate": "Sep 22, 2000",
@@ -141,12 +205,22 @@
           "Photography",
           "Baseball"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2017/11/SEUNGMIN-4-640x800.jpeg",
+        "stageName": "Seungmin (승민)",
+        "birthName": "Kim Seung-min (김승민)",
+        "position": "Vocalist",
+        "height": "178 cm (5'10\")",
+        "bloodType": "A",
+        "mbti": "ISFJ",
+        "zodiacSign": "Virgo",
+        "chineseZodiac": "Dragon",
+        "representativeAnimal": "Puppy",
+        "instagram": "@miniseungkim"
       },
       {
         "name": "I.N",
         "initials": "IN",
-        "role": "Vocal • Maknae",
+        "role": "Lead Vocalist • Maknae",
         "unit": "VOCALRACHA",
         "tags": "in",
         "birthDate": "Feb 8, 2001",
@@ -157,7 +231,17 @@
           "Trot",
           "Eating"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2017/11/I.N-4-900x647.jpeg",
+        "stageName": "I.N (아이엔)",
+        "birthName": "Yang Jeong-in (양정인)",
+        "position": "Vocalist • Maknae",
+        "height": "172 cm (5'7.5\")",
+        "bloodType": "A",
+        "mbti": "INFJ",
+        "zodiacSign": "Aquarius",
+        "chineseZodiac": "Snake",
+        "representativeAnimal": "Fennec Fox",
+        "instagram": "@i.2.n.8"
       }
     ]
   },

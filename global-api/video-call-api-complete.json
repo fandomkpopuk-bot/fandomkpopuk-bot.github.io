@@ -191,6 +191,46 @@
             "video_url": "https://artetis.my.id/mp4/hyunjin.mp4"
         },
         {
+            "idol_name": "Changbin",
+            "name_group": "STRAYKIDS",
+            "nationality": "South Korean",
+            "position": "Main Rapper • Vocalist • Producer • Stray Kids",
+            "news": "",
+            "hobbies": ["Rapping", "Producing", "Gym"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2017/11/CHANGBIN-4-640x800.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Han",
+            "name_group": "STRAYKIDS",
+            "nationality": "South Korean",
+            "position": "Rapper • Vocalist • Producer • Stray Kids",
+            "news": "",
+            "hobbies": ["Producing", "Guitar", "Eating sweets"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2017/11/HAN-4-640x800.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Seungmin",
+            "name_group": "STRAYKIDS",
+            "nationality": "South Korean",
+            "position": "Main Vocalist • Stray Kids",
+            "news": "",
+            "hobbies": ["Singing", "Photography", "Baseball"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2017/11/SEUNGMIN-4-640x800.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "I.N",
+            "name_group": "STRAYKIDS",
+            "nationality": "South Korean",
+            "position": "Lead Vocalist • Maknae • Stray Kids",
+            "news": "",
+            "hobbies": ["Singing", "Trot", "Eating"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2017/11/I.N-4-900x647.jpeg",
+            "video_url": ""
+        },
+        {
             "idol_name": "Sophia",
             "name_group": "KATSEYE",
             "nationality": "Filipino",
@@ -311,6 +351,26 @@
             "video_url": "https://artetis.my.id/mp4/cortis-video/yuha.mp4"
         },
         {
+            "idol_name": "Stella",
+            "name_group": "HEARTS2HEARTS",
+            "nationality": "Korean-Canadian",
+            "position": "Vocalist • Hearts2Hearts",
+            "news": "",
+            "hobbies": ["Guitar", "Drums", "Skiing"],
+            "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-arcqz9-11.webp",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Ye-on",
+            "name_group": "HEARTS2HEARTS",
+            "nationality": "South Korean",
+            "position": "Vocalist • Maknae • Hearts2Hearts",
+            "news": "",
+            "hobbies": ["Musicals", "Singing", "Dancing"],
+            "image_url": "https://fandomkpopuk-bot.github.io/hearts2hearts-asset/260918-mnet-plus-twitter-update-with-hearts2hearts/1789743998911-4342an-15.webp",
+            "video_url": ""
+        },
+        {
             "idol_name": "Jisoo",
             "name_group": "BLACKPINK",
             "nationality": "South Korean",
@@ -369,6 +429,46 @@
             "hobbies": ["Guitar", "Fashion", "Cooking"],
             "image_url": "https://fandomkpopuk-bot.github.io/enhypen-asset/260822-enhypen-bloody-paradise-mv-photo-sketch/1787393218666-inviet-8.webp",
             "video_url": "https://artetis.my.id/mp4/cortis-video/jay.mp4"
+        },
+        {
+            "idol_name": "Jake",
+            "name_group": "ENHYPEN",
+            "nationality": "Korean-Australian",
+            "position": "Vocal • Rap • ENHYPEN",
+            "news": "",
+            "hobbies": ["Soccer", "Violin", "Photography"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2020/08/JAKE-1-900x600.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Sunghoon",
+            "name_group": "ENHYPEN",
+            "nationality": "South Korean",
+            "position": "Vocal • Visual • ENHYPEN",
+            "news": "",
+            "hobbies": ["Figure Skating", "Pilates", "Reading"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2020/08/SUNGHOON-1-534x800.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Sunoo",
+            "name_group": "ENHYPEN",
+            "nationality": "South Korean",
+            "position": "Vocal • Variety • ENHYPEN",
+            "news": "",
+            "hobbies": ["Selfies", "Cooking", "Movies"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2020/08/SUNOO-1-534x800.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Ni-ki",
+            "name_group": "ENHYPEN",
+            "nationality": "Japanese",
+            "position": "Main Dancer • Maknae • ENHYPEN",
+            "news": "",
+            "hobbies": ["Dancing", "Soccer", "Video Editing"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2020/08/NI-KI-1-534x800.jpeg",
+            "video_url": ""
         },
         {
             "idol_name": "San",
@@ -567,6 +667,146 @@
             "news": "Maknae and Lead Vocalist from Veracruz, Mexico, born Oct 18, 2009. Started career at 9 on Pequenos Gigantes, child actor in Contigo Si and La Rosa de Guadalupe, ex-member of KRUSH! Pop Kids.",
             "hobbies": ["Acting", "Video games", "Singing"],
             "image_url": "https://kprofiles.com/wp-content/uploads/2026/01/kenneth-1-533x800.webp",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Ruka",
+            "name_group": "BABYMONSTER",
+            "nationality": "Japanese",
+            "position": "Main Dancer • Main Rapper • Babymonster",
+            "news": "",
+            "hobbies": ["Dance", "Fashion", "Cooking"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2022/12/Ruka-4.jpg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Pharita",
+            "name_group": "BABYMONSTER",
+            "nationality": "Thai",
+            "position": "Vocalist • Babymonster",
+            "news": "",
+            "hobbies": ["Singing", "Guitar", "Photography"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2022/12/Pharita-5.jpg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Asa",
+            "name_group": "BABYMONSTER",
+            "nationality": "Japanese",
+            "position": "Main Rapper • Vocalist • Dancer • Babymonster",
+            "news": "",
+            "hobbies": ["Songwriting", "Dance", "Gaming"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2022/12/Asa-4.jpg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Ahyeon",
+            "name_group": "BABYMONSTER",
+            "nationality": "South Korean",
+            "position": "Main Vocalist • Rapper • Dancer • Visual • Center • Babymonster",
+            "news": "",
+            "hobbies": ["Singing", "Rap", "Gym"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2022/12/Ahyeon-5.jpg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Rami",
+            "name_group": "BABYMONSTER",
+            "nationality": "South Korean",
+            "position": "Main Vocalist • Babymonster",
+            "news": "",
+            "hobbies": ["Singing", "Piano", "Reading"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2022/12/BABYMONSTER-1st-Full-Album-DRIP-Concept-Photo-documents-5-640x800.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Rora",
+            "name_group": "BABYMONSTER",
+            "nationality": "South Korean",
+            "position": "Lead Vocalist • Visual • Babymonster",
+            "news": "",
+            "hobbies": ["Singing", "Drawing", "Movies"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2022/12/Rora-5.jpg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Chiquita",
+            "name_group": "BABYMONSTER",
+            "nationality": "Thai",
+            "position": "Vocalist • Dancer • Rapper • Maknae • Babymonster",
+            "news": "",
+            "hobbies": ["Dancing", "Singing", "Shopping"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2022/12/Chiquita-4.jpg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Seohee",
+            "name_group": "TUIDE",
+            "nationality": "South Korean",
+            "position": "All-Rounder • TUIDE",
+            "news": "",
+            "hobbies": ["Taking pictures", "Fashion", "Home care"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2024/03/D96574A9-4AF0-491F-8294-75F9D5B5EC40-640x800.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Seoyeon",
+            "name_group": "TUIDE",
+            "nationality": "South Korean",
+            "position": "Vocal • TUIDE",
+            "news": "",
+            "hobbies": ["Journaling", "Skin and hair care", "Cats"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2024/03/84929B39-D939-4754-BD02-200EEBF0BF05-900x600.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Elena",
+            "name_group": "TUIDE",
+            "nationality": "American",
+            "position": "Vocalist • TUIDE",
+            "news": "",
+            "hobbies": ["Shopping", "Singing", "Violin and flute"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2024/03/49CE316C-E6B1-42E1-9BEC-3AA295A67DDA-900x600.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Jia",
+            "name_group": "TUIDE",
+            "nationality": "Korean-American",
+            "position": "All-Rounder • TUIDE",
+            "news": "",
+            "hobbies": ["Traveling", "Vintage stuff", "Wellness"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2024/03/3B49958B-5D09-4AB2-86FC-8577394EBB3C-900x600.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Saki",
+            "name_group": "TUIDE",
+            "nationality": "Japanese",
+            "position": "Dance • Vocal • TUIDE",
+            "news": "",
+            "hobbies": ["Fashion", "Digital cameras", "Animals"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2024/03/9B0D7C75-1440-4B5F-B4BB-39CBF2946D3C-900x600.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Seah",
+            "name_group": "TUIDE",
+            "nationality": "South Korean",
+            "position": "Visual • TUIDE",
+            "news": "",
+            "hobbies": ["Sleeping", "Makeup", "Shopping"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2024/03/5C529EAC-AFC8-413A-86B6-4C7608626C2D-900x600.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Yi Hani",
+            "name_group": "TUIDE",
+            "nationality": "Korean-British",
+            "position": "Maknae • TUIDE",
+            "news": "",
+            "hobbies": ["Listening to music", "Guitar", "Watching movies"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2024/03/5B465C56-FA89-438F-AC94-953A4A6D88DB-900x600.jpeg",
             "video_url": ""
         }
     ]
