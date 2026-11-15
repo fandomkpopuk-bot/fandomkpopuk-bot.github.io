@@ -243,7 +243,7 @@
     "maxPlayCount": 3,
     "maxViewImageCount": 4,
     "maxDownloadCount": 5,
-    "maxSendChatCount": 3,
+    "maxSendChatCount": 2,
     "maxProxyLimit": 25,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 8,
