@@ -518,6 +518,56 @@
             "hobbies": ["Surfing", "Drawing & painting", "Swimming", "Listening to music"],
             "image_url": "https://awsimages.detik.net.id/community/media/visual/2025/12/30/danielle-newjeans-1767078096034.webp?w=700&q=90",
             "video_url": "https://artetis.my.id/mp4/danielle.mp4"
+        },
+        {
+            "idol_name": "Drew",
+            "name_group": "SANTOS BRAVOS",
+            "nationality": "American",
+            "position": "Leader • Main Dancer • Santos Bravos",
+            "news": "Leader and Main Dancer born Jan 22, 2000 in West Covina, USA. Former backup dancer for BTS, Ciara and Karol G, choreographer for IU 'Holssi', ex-member of The Future X.",
+            "hobbies": ["Dancing", "Choreographing", "Fashion styling"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2026/01/drew-1-533x800.webp",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Alejandro",
+            "name_group": "SANTOS BRAVOS",
+            "nationality": "Peruvian",
+            "position": "Lead Vocalist • All-rounder • Santos Bravos",
+            "news": "Lead Vocalist and all-rounder from Lima, Peru, born Apr 17, 2004. Tennis champion at 13 turned musician, studied at Interlochen and USC Thornton, released solo songs and acted in De Vuelta al Barrio.",
+            "hobbies": ["Songwriting", "Tennis", "Acting"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2026/01/alejandro-1-533x800.webp",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Gabi",
+            "name_group": "SANTOS BRAVOS",
+            "nationality": "Puerto Rican / American",
+            "position": "Lead Dancer • Visual • Center • Santos Bravos",
+            "news": "Lead Dancer, Visual and Center born Jun 15, 2005 in Miami, raised in San Juan. Started dance at 10, appeared on Pequeños Gigantes USA, played Rene Farrait in Subete a Mi Moto, mood maker of the group.",
+            "hobbies": ["Dancing", "Video games", "Working out"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2026/01/gabi-533x800.webp",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Kauê",
+            "name_group": "SANTOS BRAVOS",
+            "nationality": "Brazilian",
+            "position": "Main Vocalist • Santos Bravos",
+            "news": "Main Vocalist from Sao Joao de Meriti, Brazil, born Oct 4, 2006. Started in church choir, won The Voice Kids Brazil at 14, debuted with gospel EP Promessa and released 2 acoustic albums.",
+            "hobbies": ["Singing in church choir", "Cooking Brazilian food", "Watching musicals"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2026/01/kaue-2-533x800.webp",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Kenneth",
+            "name_group": "SANTOS BRAVOS",
+            "nationality": "Mexican",
+            "position": "Maknae • Lead Vocalist • Santos Bravos",
+            "news": "Maknae and Lead Vocalist from Veracruz, Mexico, born Oct 18, 2009. Started career at 9 on Pequenos Gigantes, child actor in Contigo Si and La Rosa de Guadalupe, ex-member of KRUSH! Pop Kids.",
+            "hobbies": ["Acting", "Video games", "Singing"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2026/01/kenneth-1-533x800.webp",
+            "video_url": ""
         }
     ]
 }

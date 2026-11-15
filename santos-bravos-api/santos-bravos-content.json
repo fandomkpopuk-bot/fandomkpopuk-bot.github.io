@@ -32,84 +32,189 @@
     "members": [
       {
         "name": "Drew",
+        "stageName": "Drew",
+        "birthName": "Andrew Joseph Venegas",
         "initials": "DW",
         "role": "Leader • Main Dancer",
+        "position": "Leader, Main Dancer",
         "unit": "DANCE LINE",
         "featured": true,
         "tags": "drew",
         "birthDate": "Jan 22, 2000",
         "birthPlace": "West Covina, California, USA",
         "nationality": "American",
+        "zodiacSign": "Aquarius",
+        "chineseZodiac": "Rabbit",
+        "mbti": "ENFJ",
+        "representativeEmoji": "🐶",
+        "archetype": "the fire that starts it all",
         "hobbies": [
           "Dancing",
           "Choreographing",
           "Fashion styling"
         ],
-        "image": ""
+        "socials": {
+          "instagram": "https://www.instagram.com/and.venn/",
+          "x": "https://x.com/drewwwvennn",
+          "tiktok": "https://www.tiktok.com/@drewvenegas"
+        },
+        "facts": [
+          "Grew up in West Covina, California in a Mexican-American household",
+          "Began dancing at 15, trained and taught at The LAB in Los Angeles",
+          "Worked as backup dancer for Ciara, Karol G and BTS",
+          "Appeared in J-Hope & Becky G 'Chicken Noodle Soup', Nayeon 'ABCD', BTS 'ON', P1Harmony 'Do It Like This' MVs",
+          "Choreographer for IU 'Holssi' and Boys World 'Piña Colada'",
+          "Former member of Simon Fuller's pop group The Future X"
+        ],
+        "image": "https://kprofiles.com/wp-content/uploads/2026/01/drew-1-533x800.webp"
       },
       {
         "name": "Alejandro",
+        "stageName": "Alejandro",
+        "birthName": "Alejandro Aramburú Senno",
         "initials": "AL",
         "role": "Lead Vocalist • All-rounder",
+        "position": "Lead Vocalist, All-rounder",
         "unit": "VOCAL LINE",
         "tags": "alejandro",
         "birthDate": "Apr 17, 2004",
         "birthPlace": "Lima, Peru",
         "nationality": "Peruvian",
+        "zodiacSign": "Aries",
+        "chineseZodiac": "Monkey",
+        "mbti": "ENFJ",
+        "representativeEmoji": "🐹",
+        "archetype": "the key: direction, balance, and alignment",
         "hobbies": [
           "Songwriting",
           "Tennis",
           "Acting"
         ],
-        "image": ""
+        "socials": {
+          "instagram": "https://www.instagram.com/alearamburu_oficial/",
+          "tiktok": "https://www.tiktok.com/@alearamburu_oficial",
+          "youtube": "https://www.youtube.com/@AlejandroOfficial"
+        },
+        "facts": [
+          "From Lima, Peru; older sister is an opera singer",
+          "Tennis champion at 13, chose music over tennis",
+          "Studied at Interlochen Arts Academy and USC Thornton School of Music",
+          "Released solo songs '¿Quien Es Ella?', 'Pringao', 'Mareas'",
+          "Acted in 'De Vuelta al Barrio' and Peruvian 'La Rosa de Guadalupe'",
+          "Nickname 'Alejandro Spoilerú' for giving spoilers"
+        ],
+        "image": "https://kprofiles.com/wp-content/uploads/2026/01/alejandro-1-533x800.webp"
       },
       {
         "name": "Gabi",
+        "stageName": "Gabi",
+        "birthName": "Alejandro Gabriel Bermúdez López",
         "initials": "GB",
         "role": "Lead Dancer • Visual • Center",
+        "position": "Lead Dancer, Visual, Center",
         "unit": "DANCE LINE",
         "tags": "gabi",
         "birthDate": "Jun 15, 2005",
         "birthPlace": "Miami, Florida, USA",
+        "hometown": "San Juan, Puerto Rico",
         "nationality": "Puerto Rican / American",
+        "zodiacSign": "Gemini",
+        "chineseZodiac": "Rooster",
+        "mbti": "ENFP",
+        "representativeEmoji": "🐥",
+        "archetype": "the power axis: presence, magnetism, mystery",
         "hobbies": [
           "Dancing",
           "Video games",
           "Working out"
         ],
-        "image": ""
+        "socials": {
+          "instagram": "https://www.instagram.com/gabiprpr/",
+          "tiktok": "https://www.tiktok.com/@gabinadamas"
+        },
+        "facts": [
+          "Born in Miami into a Cuban family, grew up in San Juan, Puerto Rico",
+          "Began dancing at 10, appeared on Pequeños Gigantes USA at 11",
+          "Portrayed René Farrait in Amazon Prime show 'Súbete a Mi Moto' (Menudo biopic)",
+          "Shortest training period in the group",
+          "Mood maker of the group, nickname 'Shakiro' for Shakira impression",
+          "Dream collaboration is Bad Bunny"
+        ],
+        "image": "https://kprofiles.com/wp-content/uploads/2026/01/gabi-533x800.webp"
       },
       {
         "name": "Kauê",
+        "stageName": "Kauê",
+        "birthName": "Kauê Penna Forte",
         "initials": "KU",
         "role": "Main Vocalist",
+        "position": "Main Vocalist",
         "unit": "VOCAL LINE",
         "tags": "kaue",
         "birthDate": "Oct 4, 2006",
         "birthPlace": "São João de Meriti, Rio de Janeiro, Brazil",
         "nationality": "Brazilian",
+        "zodiacSign": "Libra",
+        "chineseZodiac": "Dog",
+        "mbti": "INFP",
+        "representativeEmoji": "🥝",
+        "archetype": "the echo of the soul: translating feeling into sound",
         "hobbies": [
           "Singing in church choir",
           "Cooking Brazilian food",
           "Watching musicals"
         ],
-        "image": ""
+        "socials": {
+          "instagram": "https://www.instagram.com/kauepenna/",
+          "tiktok": "https://www.tiktok.com/@kauepenna",
+          "youtube": "https://www.youtube.com/@KauePennaOficial"
+        },
+        "facts": [
+          "From São João de Meriti, Rio de Janeiro, Brazil",
+          "Began singing in church choir with family",
+          "Won The Voice Kids Brazil at 14, debuted as gospel singer with EP 'Promessa'",
+          "Released 2 full albums 'Acústico Vol. 1' & 'Acústico Vol. 2'",
+          "Long-time fan of BTS, musical inspiration Michael Jackson",
+          "Arranged harmonies for 2025 Christmas Special 'Una Navidad muy Brava'"
+        ],
+        "image": "https://kprofiles.com/wp-content/uploads/2026/01/kaue-2-533x800.webp"
       },
       {
         "name": "Kenneth",
+        "stageName": "Kenneth",
+        "birthName": "Kenneth Jesús Lagunes Villegas",
         "initials": "KN",
         "role": "Maknae • Lead Vocalist",
+        "position": "Youngest (Maknae), Lead Vocalist",
         "unit": "VOCAL LINE",
         "tags": "kenneth",
         "birthDate": "Oct 18, 2009",
         "birthPlace": "Veracruz, Mexico",
         "nationality": "Mexican",
+        "zodiacSign": "Libra",
+        "chineseZodiac": "Ox",
+        "mbti": "ENFJ",
+        "representativeEmoji": "🔥",
+        "archetype": "the free heart: curious, spontaneous, unafraid to feel",
         "hobbies": [
           "Acting",
           "Video games",
           "Singing"
         ],
-        "image": ""
+        "socials": {
+          "instagram": "https://www.instagram.com/soykennethlavill/",
+          "tiktok": "https://www.tiktok.com/@soykennethlavill",
+          "youtube": "https://www.youtube.com/@soykennethlavill"
+        },
+        "facts": [
+          "From Veracruz, Mexico, moved to Mexico City for acting school",
+          "Started entertainment career at 9 on Pequeños Gigantes",
+          "Child actor in 'Contigo Sí', 'El Precio de Amarte', 'La Rosa de Guadalupe'",
+          "Former member of youth group KRUSH! Pop Kids",
+          "Nicknames 'Fuegito' and 'Young Boy Kenneth'",
+          "Favorite singers Bruno Mars and Luis Miguel"
+        ],
+        "image": "https://kprofiles.com/wp-content/uploads/2026/01/kenneth-1-533x800.webp"
       }
     ]
   },
@@ -138,7 +243,7 @@
     "maxPlayCount": 3,
     "maxViewImageCount": 4,
     "maxDownloadCount": 5,
-    "maxSendChatCount": 3,
+    "maxSendChatCount": 2,
     "maxProxyLimit": 25,
     "extraDownloadSlotPerAd": 1,
     "freeAdsSessionDurationHours": 8,
