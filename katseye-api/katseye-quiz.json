@@ -1329,6 +1329,11 @@
       "score": 35625
     },
     {
+      "name": "Eva",
+      "country": "France",
+      "score": 32650
+    },
+    {
       "name": "Karina",
       "country": "Brazil",
       "score": 29650
@@ -1337,11 +1342,6 @@
       "name": "Diana",
       "country": "United Kingdom",
       "score": 29575
-    },
-    {
-      "name": "Isabel",
-      "country": "New Zealand",
-      "score": 28675
     }
   ],
   "event_list": [

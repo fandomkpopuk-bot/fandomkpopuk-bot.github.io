@@ -654,9 +654,24 @@
   ],
   "leaderboard": [
     {
+      "name": "Zoé Xiomara",
+      "country": "Mexico",
+      "score": 5050
+    },
+    {
+      "name": "Sofia",
+      "country": "Venezuela",
+      "score": 4975
+    },
+    {
       "name": "Emeee",
       "country": "Peru",
       "score": 2250
+    },
+    {
+      "name": "Josefa",
+      "country": "Chile",
+      "score": 2200
     },
     {
       "name": "Estefanía 🐺🎤",
@@ -664,14 +679,19 @@
       "score": 1225
     },
     {
+      "name": "Khalessi",
+      "country": "Peru",
+      "score": 1200
+    },
+    {
       "name": "nicole",
       "country": "Honduras",
       "score": 1075
     },
     {
-      "name": "Lienny",
-      "country": "Mexico",
-      "score": 1000
+      "name": "Naza🌸💙",
+      "country": "Venezuela",
+      "score": 1075
     }
   ],
   "event_list": [

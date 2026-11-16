@@ -33,19 +33,29 @@
       {
         "name": "Yunah",
         "initials": "YN",
-        "role": "Leader • Vocal",
+        "role": "Vocal",
         "unit": "LEADER LINE",
         "featured": true,
         "tags": "yunah",
         "birthDate": "Jan 15, 2004",
-        "birthPlace": "Chungju, South Korea",
+        "birthPlace": "Chungju, Chungcheongbuk-do, South Korea",
         "nationality": "South Korean",
         "hobbies": [
           "Singing",
           "Dancing",
           "Cooking"
         ],
-        "image": "https://fandomkpopuk-bot.github.io/illit-asset/260824-yunah-at-hong-kong-fansign/1787273641661-w3v73z-0.webp"
+        "image": "https://fandomkpopuk-bot.github.io/illit-asset/260824-yunah-at-hong-kong-fansign/1787273641661-w3v73z-0.webp",
+        "stageName": "Yunah (윤아)",
+        "birthName": "Roh Yun-ah (노윤아)",
+        "englishName": "Annie Roh",
+        "height": "168 cm (5'6\")",
+        "bloodType": "A",
+        "mbti": "ENFP",
+        "zodiacSign": "Capricorn",
+        "chineseZodiac": "Goat",
+        "representativeColor": "Red",
+        "representativeEmoji": "🐆"
       },
       {
         "name": "Minju",
@@ -54,14 +64,23 @@
         "unit": "VOCAL LINE",
         "tags": "minju",
         "birthDate": "May 11, 2004",
-        "birthPlace": "Seoul, South Korea",
+        "birthPlace": "Namyangju-si, Gyeonggi-do, South Korea",
         "nationality": "South Korean",
         "hobbies": [
           "Piano",
           "Photography",
           "Fashion"
         ],
-        "image": "https://fandomkpopuk-bot.github.io/illit-asset/260820-illit-for-billboard-japan-billboard-japan-twitter-update/1787750412552-jzm3tz-2.webp"
+        "image": "https://fandomkpopuk-bot.github.io/illit-asset/260820-illit-for-billboard-japan-billboard-japan-twitter-update/1787750412552-jzm3tz-2.webp",
+        "stageName": "Minju (민주)",
+        "birthName": "Park Min-ju (박민주)",
+        "height": "163 cm (5'4\")",
+        "bloodType": "O",
+        "mbti": "ISTP / ISTJ",
+        "zodiacSign": "Taurus",
+        "chineseZodiac": "Monkey",
+        "representativeColor": "Yellow",
+        "representativeEmoji": "🐰"
       },
       {
         "name": "Moka",
@@ -77,7 +96,17 @@
           "Ballet",
           "Reading"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2023/09/MOKA-2-567x800.jpeg",
+        "stageName": "Moka (모카)",
+        "birthName": "Sakai Moka",
+        "koreanName": "Kim Mo-ka (김모카)",
+        "height": "162 cm (5'4\")",
+        "bloodType": "B",
+        "mbti": "ISFP",
+        "zodiacSign": "Libra",
+        "chineseZodiac": "Monkey",
+        "representativeColor": "Purple",
+        "representativeEmoji": "☕"
       },
       {
         "name": "Wonhee",
@@ -86,14 +115,23 @@
         "unit": "VOCAL LINE",
         "tags": "wonhee",
         "birthDate": "Jun 26, 2007",
-        "birthPlace": "Seoul, South Korea",
+        "birthPlace": "Busan, South Korea (raised in Changwon)",
         "nationality": "South Korean",
         "hobbies": [
           "Singing",
           "Selfies",
           "Movies"
         ],
-        "image": "https://fandomkpopuk-bot.github.io/illit-asset/261006-illit-sns-update-wonhee/1791252797355-trv6wq-0.webp"
+        "image": "https://fandomkpopuk-bot.github.io/illit-asset/261006-illit-sns-update-wonhee/1791252797355-trv6wq-0.webp",
+        "stageName": "Wonhee (원희)",
+        "birthName": "Lee Won-hee (이원희)",
+        "height": "162 cm (5'4\")",
+        "bloodType": "A",
+        "mbti": "ISFP",
+        "zodiacSign": "Cancer",
+        "chineseZodiac": "Pig",
+        "representativeColor": "Pink",
+        "representativeEmoji": "🐿"
       },
       {
         "name": "Iroha",
@@ -109,7 +147,17 @@
           "Drawing",
           "Gaming"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2023/09/IROHA-5-900x601.jpeg",
+        "stageName": "Iroha (이로하)",
+        "birthName": "Hokazono Iroha",
+        "position": "Maknae",
+        "height": "158 cm (5'2\")",
+        "bloodType": "A",
+        "mbti": "INFJ",
+        "zodiacSign": "Aquarius",
+        "chineseZodiac": "Pig",
+        "representativeColor": "Blue",
+        "representativeEmoji": "🐢"
       }
     ]
   },

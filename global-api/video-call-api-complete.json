@@ -81,6 +81,26 @@
             "video_url": "https://artetis.my.id/mp4/wonhee.mp4"
         },
         {
+            "idol_name": "Moka",
+            "name_group": "ILLIT",
+            "nationality": "Japanese",
+            "position": "Dance • Vocal • ILLIT",
+            "news": "",
+            "hobbies": ["Dancing", "Ballet", "Reading"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2023/09/MOKA-2-567x800.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Iroha",
+            "name_group": "ILLIT",
+            "nationality": "Japanese",
+            "position": "Maknae • Dance • ILLIT",
+            "news": "",
+            "hobbies": ["Hip-hop", "Drawing", "Gaming"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2023/09/IROHA-5-900x601.jpeg",
+            "video_url": ""
+        },
+        {
             "idol_name": "Jungkook",
             "name_group": "BTS",
             "nationality": "South Korean",
