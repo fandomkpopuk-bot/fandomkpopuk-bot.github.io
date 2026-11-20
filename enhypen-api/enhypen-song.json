@@ -7461,7 +7461,7 @@
     {
       "title": "I Want You",
       "release_date": "2026-11-13",
-      "album": "-",
+      "album": "THE SIN : PARALLEL WORLD",
       "artist": "ENHYPEN",
       "tags": [
         "enhypen"
@@ -7527,6 +7527,38 @@
       "youtube_id": "dE_Ro8Sac2M",
       "urlMp3": "https://objectstorage.ap-batam-1.oraclecloud.com/n/ax0mty7gks0q/b/daebak-music-public/o/mp3/dE_Ro8Sac2M.mp3",
       "image": "https://i.ytimg.com/vi/dE_Ro8Sac2M/maxresdefault.jpg"
+    },
+    {
+      "title": "ILY Season",
+      "release_date": "2026-11-20",
+      "album": "THE SIN : PARALLEL WORLD",
+      "artist": "ENHYPEN",
+      "tags": [
+        "enhypen"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "rU0bJJpj54I",
+      "urlMp3": "https://objectstorage.ap-batam-1.oraclecloud.com/n/ax0mty7gks0q/b/daebak-music-public/o/mp3/rU0bJJpj54I.mp3",
+      "image": "https://i.ytimg.com/vi/rU0bJJpj54I/maxresdefault.jpg"
+    },
+    {
+      "title": "Don't Stop",
+      "release_date": "2026-11-20",
+      "album": "THE SIN : PARALLEL WORLD",
+      "artist": "ENHYPEN",
+      "tags": [
+        "enhypen"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "C-TH45195TA",
+      "urlMp3": "https://objectstorage.ap-batam-1.oraclecloud.com/n/ax0mty7gks0q/b/daebak-music-public/o/mp3/C-TH45195TA.mp3",
+      "image": "https://i.ytimg.com/vi/C-TH45195TA/maxresdefault.jpg"
     }
   ]
 }
