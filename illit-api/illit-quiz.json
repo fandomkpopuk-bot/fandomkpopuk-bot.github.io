@@ -724,6 +724,11 @@
       "score": 139850
     },
     {
+      "name": "Kelly",
+      "country": "Ecuador",
+      "score": 84925
+    },
+    {
       "name": "Farah Zya",
       "country": "Malaysia",
       "score": 14725
@@ -752,11 +757,6 @@
       "name": "Erilyn",
       "country": "Belgium",
       "score": 2275
-    },
-    {
-      "name": "Soyeon",
-      "country": "South Korea",
-      "score": 2050
     }
   ],
   "event_list": [

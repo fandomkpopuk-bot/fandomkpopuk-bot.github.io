@@ -1304,14 +1304,14 @@
   ],
   "leaderboard": [
     {
+      "name": "Army OT7",
+      "country": "Egypt",
+      "score": 196650
+    },
+    {
       "name": "Christy",
       "country": "Benin",
       "score": 116975
-    },
-    {
-      "name": "BTS",
-      "country": "Egypt",
-      "score": 41950
     },
     {
       "name": "ArmyJin",
@@ -1339,9 +1339,9 @@
       "score": 7875
     },
     {
-      "name": "Salwa",
-      "country": "Algeria",
-      "score": 6650
+      "name": "Jeylne",
+      "country": "Kenya",
+      "score": 7125
     }
   ],
   "event_list": [
