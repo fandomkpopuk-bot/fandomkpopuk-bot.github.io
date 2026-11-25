@@ -266,7 +266,7 @@
     }
   ],
   "config": {
-    "isAdsEnabled": true,
+    "isAdsEnabled": false,
     "maxPlayCount": 3,
     "maxViewImageCount": 4,
     "maxDownloadCount": 5,
@@ -287,8 +287,8 @@
     "androidUpdateType": "immediate",
     "isNewGalleryEnabled": true,
     "adsType": "reward",
-    "isVideoCallEnabled": true,
-    "isChatEnabled": true
+    "isVideoCallEnabled": false,
+    "isChatEnabled": false
   },
   "announcement": {
     "id": "fake-chat-launch-01",
