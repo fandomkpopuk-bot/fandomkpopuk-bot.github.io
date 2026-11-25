@@ -291,29 +291,29 @@
     "isChatEnabled": true
   },
   "announcement": {
-    "id": "fake-chat-launch-01",
-    "badge": "💬 NEW FEATURE",
-    "title": "Fake Chat with Stray Kids is Here!",
-    "description": "You can now Fake Chat with your idol! Send messages and get fun replies from Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin and I.N just like real DMs. Please update your app to the latest version to use this feature.",
-    "image": "https://cdn.aptoide.com/imgs/e/b/3/eb33b6863afeedbb7ae80c8859cf69d6_fgraphic.png",
+    "id": "christmas-evel-live-01",
+    "badge": "🎄 NEW SONG ADDED",
+    "title": "Christmas EveL is Now in the App!",
+    "description": "Good news STAY! Christmas EveL by Stray Kids is now available in this app. Play the song, sing along with the full lyrics, and add it to your holiday playlist!",
+    "image": "https://i.ytimg.com/vi/4VgzrNU06TM/maxresdefault.jpg",
     "rewards": [
       {
         "icon": "star",
-        "text": "Chat with all 8 Stray Kids members"
+        "text": "Play Christmas EveL in high quality"
       },
       {
         "icon": "trophy",
-        "text": "Fun replies & photo moments"
+        "text": "Full latin lyrics included"
       },
       {
         "icon": "timer",
-        "text": "Update your app to unlock now"
+        "text": "Find it now in Library"
       }
     ],
     "cta": {
-      "label": "Update App Now",
+      "label": "Play Christmas EveL Now",
       "action": "open_url",
-      "url": "https://play.google.com/store/apps/details?id=com.stray.kids.connect"
+      "url": "https://fandomkpopuk-bot.github.io/straykids-stan/song/4VgzrNU06TM"
     }
   },
   "gallery": [
