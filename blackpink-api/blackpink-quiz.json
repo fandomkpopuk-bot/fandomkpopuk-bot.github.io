@@ -848,6 +848,11 @@
       "score": 5250
     },
     {
+      "name": "Ava",
+      "country": "Australia",
+      "score": 4125
+    },
+    {
       "name": "Blinko",
       "country": "Pakistan",
       "score": 3025
@@ -856,11 +861,6 @@
       "name": "Jinéka",
       "country": "India",
       "score": 2850
-    },
-    {
-      "name": "Jimin",
-      "country": "Egypt",
-      "score": 2325
     }
   ],
   "event_list": [
