@@ -291,29 +291,29 @@
     "isChatEnabled": true
   },
   "announcement": {
-    "id": "christmas-evel-live-01",
-    "badge": "🎄 NEW SONG ADDED",
-    "title": "Christmas EveL is Now in the App!",
-    "description": "Good news STAY! Christmas EveL by Stray Kids is now available in this app. Play the song, sing along with the full lyrics, and add it to your holiday playlist!",
-    "image": "https://i.ytimg.com/vi/4VgzrNU06TM/maxresdefault.jpg",
+    "id": "suiatsu-album-added-01",
+    "badge": "🎵 NEW ALBUM ADDED",
+    "title": "SUIATSU is Now in the App!",
+    "description": "Good news STAY! Stray Kids' latest album SUIATSU is now available in this app. Stream the title track with full romanized lyrics, plus TEMPLE, Lonely Night, LAST TAKE and more — all in one place!",
+    "image": "https://i.ytimg.com/vi/VPQr2dedikk/maxresdefault.jpg",
     "rewards": [
       {
         "icon": "star",
-        "text": "Play Christmas EveL in high quality"
+        "text": "Play SUIATSU in high quality"
       },
       {
         "icon": "trophy",
-        "text": "Full latin lyrics included"
+        "text": "Romanized lyrics for the title track"
       },
       {
         "icon": "timer",
-        "text": "Find it now in Library"
+        "text": "7 album tracks in Library"
       }
     ],
     "cta": {
-      "label": "Play Christmas EveL Now",
+      "label": "Play SUIATSU Now",
       "action": "open_url",
-      "url": "https://fandomkpopuk-bot.github.io/straykids-stan/song/4VgzrNU06TM"
+      "url": "https://fandomkpopuk-bot.github.io/straykids-stan/song/VPQr2dedikk"
     }
   },
   "gallery": [
