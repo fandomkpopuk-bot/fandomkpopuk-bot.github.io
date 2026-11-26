@@ -311,9 +311,9 @@
       }
     ],
     "cta": {
-      "label": "Play SUIATSU Now",
-      "action": "open_url",
-      "url": "https://fandomkpopuk-bot.github.io/straykids-stan/song/VPQr2dedikk"
+      "label": "Open Library",
+      "action": "open_page",
+      "page": "Library"
     }
   },
   "gallery": [
