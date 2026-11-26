@@ -2179,7 +2179,7 @@
     {
       "title": "SUIATSU",
       "release_date": "2026-11-08",
-      "album": "-",
+      "album": "SUIATSU",
       "artist": "Stray Kids",
       "tags": [
         "straykids"
@@ -2412,6 +2412,102 @@
       "youtube_id": "4VgzrNU06TM",
       "urlMp3": "https://objectstorage.ap-batam-1.oraclecloud.com/n/ax0mty7gks0q/b/daebak-music-public/o/mp3/4VgzrNU06TM.mp3",
       "image": "https://i.ytimg.com/vi/4VgzrNU06TM/maxresdefault.jpg"
+    },
+    {
+      "title": "TEMPLE",
+      "release_date": "2026-11-24",
+      "album": "SUIATSU",
+      "artist": "Stray Kids",
+      "tags": [
+        "straykids"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "ReBalOlhfjE",
+      "urlMp3": "https://artetis.my.id/mp3/ReBalOlhfjE.mp3",
+      "image": "https://i.ytimg.com/vi/ReBalOlhfjE/maxresdefault.jpg"
+    },
+    {
+      "title": "Lonely Night",
+      "release_date": "2026-11-24",
+      "album": "SUIATSU",
+      "artist": "Stray Kids",
+      "tags": [
+        "straykids"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "eY3o3HmOzQQ",
+      "urlMp3": "https://artetis.my.id/mp3/eY3o3HmOzQQ.mp3",
+      "image": "https://i.ytimg.com/vi/eY3o3HmOzQQ/maxresdefault.jpg"
+    },
+    {
+      "title": "LAST TAKE",
+      "release_date": "2026-11-24",
+      "album": "SUIATSU",
+      "artist": "Stray Kids",
+      "tags": [
+        "straykids"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "VRBpyT26fW8",
+      "urlMp3": "https://artetis.my.id/mp3/VRBpyT26fW8.mp3",
+      "image": "https://i.ytimg.com/vi/VRBpyT26fW8/maxresdefault.jpg"
+    },
+    {
+      "title": "Christmas Love (Party Version)",
+      "release_date": "2026-11-24",
+      "album": "SUIATSU",
+      "artist": "Stray Kids",
+      "tags": [
+        "straykids"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "4R_DzeHn9ZM",
+      "urlMp3": "https://artetis.my.id/mp3/4R_DzeHn9ZM.mp3",
+      "image": "https://i.ytimg.com/vi/4R_DzeHn9ZM/maxresdefault.jpg"
+    },
+    {
+      "title": "SUIATSU (Deep Version)",
+      "release_date": "2026-11-24",
+      "album": "SUIATSU",
+      "artist": "Stray Kids",
+      "tags": [
+        "straykids"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "l8fW7OYOaUg",
+      "urlMp3": "https://objectstorage.ap-batam-1.oraclecloud.com/n/ax0mty7gks0q/b/daebak-music-public/o/mp3/l8fW7OYOaUg.mp3",
+      "image": "https://i.ytimg.com/vi/l8fW7OYOaUg/maxresdefault.jpg"
+    },
+    {
+      "title": "SUIATSU (Boost Version)",
+      "release_date": "2026-11-24",
+      "album": "SUIATSU",
+      "artist": "Stray Kids",
+      "tags": [
+        "straykids"
+      ],
+      "latin_lyric": null,
+      "korean_lyric": null,
+      "english_lyric": null,
+      "popularity": 46000,
+      "youtube_id": "b5wkyqFi-64",
+      "urlMp3": "https://objectstorage.ap-batam-1.oraclecloud.com/n/ax0mty7gks0q/b/daebak-music-public/o/mp3/b5wkyqFi-64.mp3",
+      "image": "https://i.ytimg.com/vi/b5wkyqFi-64/maxresdefault.jpg"
     }
   ]
 }
