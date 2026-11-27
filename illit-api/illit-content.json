@@ -229,7 +229,7 @@
     "androidUpdateType": "immediate",
     "isNewGalleryEnabled": false,
     "adsType": "reward",
-    "isVideoCallEnabled": true,
+    "isVideoCallEnabled": false,
     "isChatEnabled": true
   },
   "gallery": [
