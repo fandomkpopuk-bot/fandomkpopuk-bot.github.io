@@ -497,7 +497,7 @@
             "position": "Main Dancer • Lead Vocalist • ATEEZ",
             "news": "",
             "hobbies": ["Sleeping", "Sports", "Plushies"],
-            "image_url": "https://fandomkpopuk-bot.github.io/ateez-asset/ateez-golden-hour-part-6-concept/1791990839472-q9grgn-5.webp",
+            "image_url": "https://kprofiles.com/wp-content/uploads/2018/05/SAN-4-600x800.jpeg",
             "video_url": "https://artetis.my.id/mp4/san.mp4"
         },
         {
@@ -507,8 +507,68 @@
             "position": "Vocalist • Performer • Visual • ATEEZ",
             "news": "",
             "hobbies": ["Watching dramas", "Building action figures", "Playing games"],
-            "image_url": "https://fandomkpopuk-bot.github.io/ateez-asset/ateez-golden-hour-part-6-concept/1791904684340-hquvkl-0.webp",
+            "image_url": "https://kprofiles.com/wp-content/uploads/2018/05/SEONGHWA-4-900x675.jpeg",
             "video_url": "https://artetis.my.id/mp4/seonghwa.mp4"
+        },
+        {
+            "idol_name": "Hongjoong",
+            "name_group": "ATEEZ",
+            "nationality": "South Korean",
+            "position": "Captain • Main Rapper • Vocalist • Composer • Center • ATEEZ",
+            "news": "",
+            "hobbies": ["Listening to music", "Composing", "Reforming clothes"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2018/05/HONGJOONG-4-600x800.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Yunho",
+            "name_group": "ATEEZ",
+            "nationality": "South Korean",
+            "position": "Main Dancer • Vocalist • ATEEZ",
+            "news": "",
+            "hobbies": ["Gaming", "Sports", "Playing with members"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2018/05/YUNHO-4-900x675.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Yeosang",
+            "name_group": "ATEEZ",
+            "nationality": "South Korean",
+            "position": "Vocalist • Performer • Rapper • Visual • ATEEZ",
+            "news": "",
+            "hobbies": ["Playing online games", "Eating chicken", "Skateboarding"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2018/05/YEOSANG-4-600x800.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Mingi",
+            "name_group": "ATEEZ",
+            "nationality": "South Korean",
+            "position": "Main Dancer • Main Rapper • Vocalist • ATEEZ",
+            "news": "",
+            "hobbies": ["Sleeping", "Watching anime", "Writing notes"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2018/05/MINGI-4-600x800.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Wooyoung",
+            "name_group": "ATEEZ",
+            "nationality": "South Korean",
+            "position": "Main Dancer • Vocalist • ATEEZ",
+            "news": "",
+            "hobbies": ["Collecting clothes", "Gaming", "Dancing"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2018/05/WOOYOUNG-4-600x800.jpeg",
+            "video_url": ""
+        },
+        {
+            "idol_name": "Jongho",
+            "name_group": "ATEEZ",
+            "nationality": "South Korean",
+            "position": "Main Vocalist • Maknae • ATEEZ",
+            "news": "",
+            "hobbies": ["Playing pool", "Racing games", "Soccer"],
+            "image_url": "https://kprofiles.com/wp-content/uploads/2018/05/JONGHO-4-600x800.jpeg",
+            "video_url": ""
         },
         {
             "idol_name": "Jang Wonyoung",

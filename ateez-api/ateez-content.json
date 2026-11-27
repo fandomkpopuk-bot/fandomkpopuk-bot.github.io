@@ -33,7 +33,7 @@
       {
         "name": "Hongjoong",
         "initials": "HJ",
-        "role": "Captain • Main Rapper • Vocalist",
+        "role": "Captain • Main Rapper • Vocalist • Composer • Center",
         "unit": "RAP LINE",
         "featured": true,
         "tags": "hongjoong",
@@ -45,12 +45,22 @@
           "Composing",
           "Reforming clothes"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2018/05/HONGJOONG-4-600x800.jpeg",
+        "stageName": "Hongjoong (홍중)",
+        "birthName": "Kim Hong-joong (김홍중)",
+        "position": "Captain • Main Rapper • Vocalist • Composer • Center",
+        "height": "172 cm (5'8\")",
+        "bloodType": "B",
+        "mbti": "INFP-A",
+        "zodiacSign": "Scorpio",
+        "chineseZodiac": "Tiger",
+        "representativeEmoji": "🐿",
+        "instagram": "@no1likeme8_8"
       },
       {
         "name": "Seonghwa",
         "initials": "SH",
-        "role": "Vocalist • Performer • Visual",
+        "role": "Vocalist • Rapper • Performer • Visual",
         "unit": "VOCAL LINE",
         "tags": "seonghwa",
         "birthDate": "Apr 3, 1998",
@@ -61,7 +71,18 @@
           "Building action figures",
           "Playing games"
         ],
-        "image": "https://fandomkpopuk-bot.github.io/ateez-asset/ateez-golden-hour-part-6-concept/1791904684340-hquvkl-0.webp"
+        "image": "https://kprofiles.com/wp-content/uploads/2018/05/SEONGHWA-4-900x675.jpeg",
+        "stageName": "Seonghwa (성화)",
+        "birthName": "Park Seong-hwa (박성화)",
+        "position": "Vocalist • Rapper • Performer • Visual",
+        "height": "178 cm (5'10\")",
+        "weight": "61 kg (134 lbs)",
+        "bloodType": "O",
+        "mbti": "ENFJ-T",
+        "zodiacSign": "Aries",
+        "chineseZodiac": "Tiger",
+        "representativeEmoji": "🐰 / ⭐️",
+        "instagram": "@_starhwa_"
       },
       {
         "name": "Yunho",
@@ -77,12 +98,22 @@
           "Sports",
           "Playing with members"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2018/05/YUNHO-4-900x675.jpeg",
+        "stageName": "Yunho (윤호)",
+        "birthName": "Jeong Yun-ho (정윤호)",
+        "position": "Main Dancer • Vocalist",
+        "height": "186 cm (6'1\")",
+        "bloodType": "A",
+        "mbti": "ENFJ-A",
+        "zodiacSign": "Aries",
+        "chineseZodiac": "Rabbit",
+        "representativeEmoji": "🐶",
+        "instagram": "@yunou._.u"
       },
       {
         "name": "Yeosang",
         "initials": "YS",
-        "role": "Vocalist • Performer • Visual",
+        "role": "Vocalist • Performer • Rapper • Visual",
         "unit": "VOCAL LINE",
         "tags": "yeosang",
         "birthDate": "Jun 15, 1999",
@@ -93,7 +124,17 @@
           "Eating chicken",
           "Skateboarding"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2018/05/YEOSANG-4-600x800.jpeg",
+        "stageName": "Yeosang (여상)",
+        "birthName": "Kang Yeo-sang (강여상)",
+        "position": "Vocalist • Performer • Rapper • Visual",
+        "height": "175 cm (5'9\")",
+        "bloodType": "A",
+        "mbti": "ISFJ",
+        "zodiacSign": "Gemini",
+        "chineseZodiac": "Rabbit",
+        "representativeEmoji": "👑",
+        "instagram": "@im_ovation"
       },
       {
         "name": "San",
@@ -109,12 +150,22 @@
           "Sports",
           "Plushies"
         ],
-        "image": "https://fandomkpopuk-bot.github.io/ateez-asset/ateez-golden-hour-part-6-concept/1791990839472-q9grgn-5.webp"
+        "image": "https://kprofiles.com/wp-content/uploads/2018/05/SAN-4-600x800.jpeg",
+        "stageName": "San (산)",
+        "birthName": "Choi San (최산)",
+        "position": "Main Dancer • Lead Vocalist",
+        "height": "176 cm (5'9\")",
+        "bloodType": "B",
+        "mbti": "INFP",
+        "zodiacSign": "Cancer",
+        "chineseZodiac": "Rabbit",
+        "representativeEmoji": "⛰",
+        "instagram": "@choi3an"
       },
       {
         "name": "Mingi",
         "initials": "MG",
-        "role": "Main Dancer • Main Rapper",
+        "role": "Main Dancer • Main Rapper • Vocalist",
         "unit": "RAP LINE",
         "tags": "mingi",
         "birthDate": "Aug 9, 1999",
@@ -125,7 +176,17 @@
           "Watching anime",
           "Writing notes"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2018/05/MINGI-4-600x800.jpeg",
+        "stageName": "Mingi (민기)",
+        "birthName": "Song Min-gi (송민기)",
+        "position": "Main Dancer • Main Rapper • Vocalist",
+        "height": "184 cm (6'0\")",
+        "bloodType": "B",
+        "mbti": "ENTP-T",
+        "zodiacSign": "Leo",
+        "chineseZodiac": "Rabbit",
+        "representativeEmoji": "🐺 / 🐥",
+        "instagram": "@fixon_n_on"
       },
       {
         "name": "Wooyoung",
@@ -141,7 +202,18 @@
           "Gaming",
           "Dancing"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2018/05/WOOYOUNG-4-600x800.jpeg",
+        "stageName": "Wooyoung (우영)",
+        "birthName": "Jung Woo-young (정우영)",
+        "position": "Main Dancer • Vocalist",
+        "height": "173 cm (5'8\")",
+        "weight": "64 kg (141 lbs)",
+        "bloodType": "A",
+        "mbti": "ISTJ",
+        "zodiacSign": "Sagittarius",
+        "chineseZodiac": "Rabbit",
+        "representativeEmoji": "🦊",
+        "instagram": "@wooyounggg__"
       },
       {
         "name": "Jongho",
@@ -157,7 +229,17 @@
           "Racing games",
           "Soccer"
         ],
-        "image": ""
+        "image": "https://kprofiles.com/wp-content/uploads/2018/05/JONGHO-4-600x800.jpeg",
+        "stageName": "Jongho (종호)",
+        "birthName": "Choi Jong-ho (최종호)",
+        "position": "Main Vocalist • Maknae",
+        "height": "176 cm (5'9\")",
+        "bloodType": "O",
+        "mbti": "ISFP-T",
+        "zodiacSign": "Libra",
+        "chineseZodiac": "Dragon",
+        "representativeEmoji": "🐻 / 🍎",
+        "instagram": "@imfinalho_"
       }
     ]
   },
