@@ -140,25 +140,29 @@
     "isVideoCallEnabled": true
   },
   "announcement": {
-    "id": "santos-bravos-connect-01",
-    "badge": "📱 NEW APP RELEASE",
-    "title": "SANTOS BRAVOS CONNECT is Here!",
-    "description": "The official SANTOS BRAVOS CONNECT app is now ready to install! Get lyrics, songs, photos & DUAL updates faster. Tap below to install now on Google Play.",
-    "image": "https://play-lh.googleusercontent.com/IXRpR9bMm8HxhBg70t_aNes7fOUgenO8meHW0o2mzPrw7NW_ro95LrNwiP0DEQ7dk6011kCxFtNfWXS13KYnyQ=w480-h960-rw",
+    "id": "saint-satine-debut-01",
+    "badge": "🎵 NEW MUSIC ADDED",
+    "title": "SAINT SATINE is Now in Your App!",
+    "description": "Good news! The latest songs from SAINT SATINE (HYBE x Geffen) — \"WE RIDE\" and \"PARTY b4 the PARTY\" — are now available in your Library. Stream in high quality with full lyrics, all in one place!",
+    "image": "https://i.ytimg.com/vi/eNT-E9FbANA/maxresdefault.jpg",
     "rewards": [
       {
         "icon": "star",
-        "text": "Lyrics, songs & HD photos"
+        "text": "Play WE RIDE in high quality"
       },
       {
         "icon": "trophy",
-        "text": "DUAL updates & faster access"
+        "text": "Full lyrics for new songs"
+      },
+      {
+        "icon": "timer",
+        "text": "Latest tracks now in Library"
       }
     ],
     "cta": {
-      "label": "Install Now",
-      "action": "open_url",
-      "url": "https://play.google.com/store/apps/details?id=com.txt.uk"
+      "label": "Open Library",
+      "action": "open_page",
+      "page": "Library"
     }
   },
   "gallery": [

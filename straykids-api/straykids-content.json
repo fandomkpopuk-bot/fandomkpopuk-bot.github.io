@@ -291,23 +291,23 @@
     "isChatEnabled": true
   },
   "announcement": {
-    "id": "suiatsu-album-added-01",
-    "badge": "🎵 NEW ALBUM ADDED",
-    "title": "SUIATSU is Now in the App!",
-    "description": "Good news STAY! Stray Kids' latest album SUIATSU is now available in this app. Stream the title track with full romanized lyrics, plus TEMPLE, Lonely Night, LAST TAKE and more — all in one place!",
-    "image": "https://i.ytimg.com/vi/VPQr2dedikk/maxresdefault.jpg",
+    "id": "saint-satine-debut-01",
+    "badge": "🎵 NEW MUSIC ADDED",
+    "title": "SAINT SATINE is Now in Your App!",
+    "description": "Good news! The latest songs from SAINT SATINE (HYBE x Geffen) — \"WE RIDE\" and \"PARTY b4 the PARTY\" — are now available in your Library. Stream in high quality with full lyrics, all in one place!",
+    "image": "https://i.ytimg.com/vi/eNT-E9FbANA/maxresdefault.jpg",
     "rewards": [
       {
         "icon": "star",
-        "text": "Play SUIATSU in high quality"
+        "text": "Play WE RIDE in high quality"
       },
       {
         "icon": "trophy",
-        "text": "Romanized lyrics for the title track"
+        "text": "Full lyrics for new songs"
       },
       {
         "icon": "timer",
-        "text": "7 album tracks in Library"
+        "text": "Latest tracks now in Library"
       }
     ],
     "cta": {

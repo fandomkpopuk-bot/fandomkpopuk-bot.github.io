@@ -264,29 +264,29 @@
     "isChatEnabled": true
   },
   "announcement": {
-    "id": "fake-chat-launch-01",
-    "badge": "💬 NEW FEATURE",
-    "title": "Fake Chat with SANTOS BRAVOS is Here!",
-    "description": "You can now Fake Chat with your idol! Send messages and get fun replies from Drew, Alejandro, Gabi, Kauê and Kenneth just like real DMs. Please update your app to the latest version to use this feature.",
-    "image": "https://cdn.aptoide.com/imgs/e/b/3/eb33b6863afeedbb7ae80c8859cf69d6_fgraphic.png",
+    "id": "saint-satine-debut-01",
+    "badge": "🎵 NEW MUSIC ADDED",
+    "title": "SAINT SATINE is Now in Your App!",
+    "description": "Good news! The latest songs from SAINT SATINE (HYBE x Geffen) — \"WE RIDE\" and \"PARTY b4 the PARTY\" — are now available in your Library. Stream in high quality with full lyrics, all in one place!",
+    "image": "https://i.ytimg.com/vi/eNT-E9FbANA/maxresdefault.jpg",
     "rewards": [
       {
         "icon": "star",
-        "text": "Chat with all 5 SANTOS BRAVOS members"
+        "text": "Play WE RIDE in high quality"
       },
       {
         "icon": "trophy",
-        "text": "Fun replies & photo moments"
+        "text": "Full lyrics for new songs"
       },
       {
         "icon": "timer",
-        "text": "Update your app to unlock now"
+        "text": "Latest tracks now in Library"
       }
     ],
     "cta": {
-      "label": "Update App Now",
-      "action": "open_url",
-      "url": "https://play.google.com/store/apps/details?id=com.txt.uk"
+      "label": "Open Library",
+      "action": "open_page",
+      "page": "Library"
     }
   },
   "gallery": []
